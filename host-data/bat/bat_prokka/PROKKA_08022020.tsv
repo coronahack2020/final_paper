@@ -1,0 +1,2366 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ODOLMAEB_00001	CDS	13131	1a_1			Replicase polyprotein 1a
+ODOLMAEB_00002	misc_RNA	82				Corona_FSE
+ODOLMAEB_00003	CDS	7887	rep_1			Replicase polyprotein 1ab
+ODOLMAEB_00004	CDS	3729	S_1			Spike glycoprotein
+ODOLMAEB_00005	CDS	825	3a_1			Protein 3a
+ODOLMAEB_00006	CDS	231	E_1			Envelope small membrane protein
+ODOLMAEB_00007	CDS	666	M_1			Membrane protein
+ODOLMAEB_00008	CDS	192				hypothetical protein
+ODOLMAEB_00009	CDS	369	7a_1			Protein 7a
+ODOLMAEB_00010	CDS	135				hypothetical protein
+ODOLMAEB_00011	CDS	366				hypothetical protein
+ODOLMAEB_00012	CDS	1266	N_1			Nucleoprotein
+ODOLMAEB_00013	misc_RNA	43				s2m
+ODOLMAEB_00014	CDS	13143	1a_2			Replicase polyprotein 1a
+ODOLMAEB_00015	misc_RNA	82				Corona_FSE
+ODOLMAEB_00016	CDS	7887	rep_2			Replicase polyprotein 1ab
+ODOLMAEB_00017	CDS	3726	S_2			Spike glycoprotein
+ODOLMAEB_00018	CDS	825	3a_2			Protein 3a
+ODOLMAEB_00019	CDS	231	E_2			Envelope small membrane protein
+ODOLMAEB_00020	CDS	666	M_2			Membrane protein
+ODOLMAEB_00021	CDS	192				hypothetical protein
+ODOLMAEB_00022	CDS	369	7a_2			Protein 7a
+ODOLMAEB_00023	CDS	135				hypothetical protein
+ODOLMAEB_00024	CDS	366				hypothetical protein
+ODOLMAEB_00025	CDS	1266	N_2			Nucleoprotein
+ODOLMAEB_00026	misc_RNA	43				s2m
+ODOLMAEB_00027	CDS	13131	1a_3			Replicase polyprotein 1a
+ODOLMAEB_00028	misc_RNA	82				Corona_FSE
+ODOLMAEB_00029	CDS	7887	rep_3			Replicase polyprotein 1ab
+ODOLMAEB_00030	CDS	3729	S_3			Spike glycoprotein
+ODOLMAEB_00031	CDS	825	3a_3			Protein 3a
+ODOLMAEB_00032	CDS	231	E_3			Envelope small membrane protein
+ODOLMAEB_00033	CDS	666	M_3			Membrane protein
+ODOLMAEB_00034	CDS	192				hypothetical protein
+ODOLMAEB_00035	CDS	369	7a_3			Protein 7a
+ODOLMAEB_00036	CDS	135				hypothetical protein
+ODOLMAEB_00037	CDS	366				hypothetical protein
+ODOLMAEB_00038	CDS	1266	N_3			Nucleoprotein
+ODOLMAEB_00039	misc_RNA	43				s2m
+ODOLMAEB_00040	CDS	13131	1a_4			Replicase polyprotein 1a
+ODOLMAEB_00041	misc_RNA	82				Corona_FSE
+ODOLMAEB_00042	CDS	7887	rep_4			Replicase polyprotein 1ab
+ODOLMAEB_00043	CDS	3729	S_4			Spike glycoprotein
+ODOLMAEB_00044	CDS	825	3a_4			Protein 3a
+ODOLMAEB_00045	CDS	231	E_4			Envelope small membrane protein
+ODOLMAEB_00046	CDS	666	M_4			Membrane protein
+ODOLMAEB_00047	CDS	192				hypothetical protein
+ODOLMAEB_00048	CDS	369	7a_4			Protein 7a
+ODOLMAEB_00049	CDS	135				hypothetical protein
+ODOLMAEB_00050	CDS	366				hypothetical protein
+ODOLMAEB_00051	CDS	1266	N_4			Nucleoprotein
+ODOLMAEB_00052	misc_RNA	43				s2m
+ODOLMAEB_00053	CDS	13134	1a_5			Replicase polyprotein 1a
+ODOLMAEB_00054	misc_RNA	82				Corona_FSE
+ODOLMAEB_00055	CDS	7887	rep_5			Replicase polyprotein 1ab
+ODOLMAEB_00056	CDS	3726	S_5			Spike glycoprotein
+ODOLMAEB_00057	CDS	825	3a_5			Protein 3a
+ODOLMAEB_00058	CDS	231	E_5			Envelope small membrane protein
+ODOLMAEB_00059	CDS	666	M_5			Membrane protein
+ODOLMAEB_00060	CDS	192				hypothetical protein
+ODOLMAEB_00061	CDS	369	7a_5			Protein 7a
+ODOLMAEB_00062	CDS	135				hypothetical protein
+ODOLMAEB_00063	CDS	369				hypothetical protein
+ODOLMAEB_00064	CDS	1266	N_5			Nucleoprotein
+ODOLMAEB_00065	misc_RNA	43				s2m
+ODOLMAEB_00066	CDS	13167	1a_6			Replicase polyprotein 1a
+ODOLMAEB_00067	misc_RNA	82				Corona_FSE
+ODOLMAEB_00068	CDS	7887	rep_6			Replicase polyprotein 1ab
+ODOLMAEB_00069	CDS	3726	S_6			Spike glycoprotein
+ODOLMAEB_00070	CDS	825	3a_6			Protein 3a
+ODOLMAEB_00071	CDS	231	E_6			Envelope small membrane protein
+ODOLMAEB_00072	CDS	666	M_6			Membrane protein
+ODOLMAEB_00073	CDS	192				hypothetical protein
+ODOLMAEB_00074	CDS	369	7a_6			Protein 7a
+ODOLMAEB_00075	CDS	135				hypothetical protein
+ODOLMAEB_00076	CDS	366				hypothetical protein
+ODOLMAEB_00077	CDS	1263	N_6			Nucleoprotein
+ODOLMAEB_00078	misc_RNA	43				s2m
+ODOLMAEB_00079	CDS	13326	1a_7			Replicase polyprotein 1a
+ODOLMAEB_00080	misc_RNA	85				Corona_FSE
+ODOLMAEB_00081	CDS	7866	rep_7			Replicase polyprotein 1ab
+ODOLMAEB_00082	CDS	4029	S_7			Spike glycoprotein
+ODOLMAEB_00083	CDS	276				hypothetical protein
+ODOLMAEB_00084	CDS	360	ORF4a_1			Non-structural protein ORF4a
+ODOLMAEB_00085	CDS	702	ORF4b_1			Non-structural protein ORF4b
+ODOLMAEB_00086	CDS	684				hypothetical protein
+ODOLMAEB_00087	CDS	249	E_7			Envelope small membrane protein
+ODOLMAEB_00088	CDS	660	M_7			Membrane protein
+ODOLMAEB_00089	CDS	1275	N_7			Nucleoprotein
+ODOLMAEB_00090	CDS	13137	1a_8			Replicase polyprotein 1a
+ODOLMAEB_00091	misc_RNA	82				Corona_FSE
+ODOLMAEB_00092	CDS	7887	rep_8			Replicase polyprotein 1ab
+ODOLMAEB_00093	CDS	3726	S_8			Spike glycoprotein
+ODOLMAEB_00094	CDS	825	3a_7			Protein 3a
+ODOLMAEB_00095	CDS	231	E_8			Envelope small membrane protein
+ODOLMAEB_00096	CDS	666	M_8			Membrane protein
+ODOLMAEB_00097	CDS	192				hypothetical protein
+ODOLMAEB_00098	CDS	369	7a_7			Protein 7a
+ODOLMAEB_00099	CDS	135				hypothetical protein
+ODOLMAEB_00100	CDS	369				hypothetical protein
+ODOLMAEB_00101	CDS	1266	N_8			Nucleoprotein
+ODOLMAEB_00102	misc_RNA	43				s2m
+ODOLMAEB_00103	CDS	13167	1a_9			Replicase polyprotein 1a
+ODOLMAEB_00104	misc_RNA	82				Corona_FSE
+ODOLMAEB_00105	CDS	7887	rep_9			Replicase polyprotein 1ab
+ODOLMAEB_00106	CDS	3726	S_9			Spike glycoprotein
+ODOLMAEB_00107	CDS	825	3a_8			Protein 3a
+ODOLMAEB_00108	CDS	231	E_9			Envelope small membrane protein
+ODOLMAEB_00109	CDS	666	M_9			Membrane protein
+ODOLMAEB_00110	CDS	192				hypothetical protein
+ODOLMAEB_00111	CDS	369	7a_8			Protein 7a
+ODOLMAEB_00112	CDS	135				hypothetical protein
+ODOLMAEB_00113	CDS	366				hypothetical protein
+ODOLMAEB_00114	CDS	1263	N_9			Nucleoprotein
+ODOLMAEB_00115	misc_RNA	43				s2m
+ODOLMAEB_00116	CDS	13305	1a_10			Replicase polyprotein 1a
+ODOLMAEB_00117	misc_RNA	85				Corona_FSE
+ODOLMAEB_00118	CDS	7866	rep_10			Replicase polyprotein 1ab
+ODOLMAEB_00119	CDS	4035	S_10			Spike glycoprotein
+ODOLMAEB_00120	CDS	276				hypothetical protein
+ODOLMAEB_00121	CDS	360	ORF4a_2			Non-structural protein ORF4a
+ODOLMAEB_00122	CDS	702	ORF4b_2			Non-structural protein ORF4b
+ODOLMAEB_00123	CDS	684				hypothetical protein
+ODOLMAEB_00124	CDS	249	E_10			Envelope small membrane protein
+ODOLMAEB_00125	CDS	660	M_10			Membrane protein
+ODOLMAEB_00126	CDS	1272	N_10			Nucleoprotein
+ODOLMAEB_00127	CDS	13305	1a_11			Replicase polyprotein 1a
+ODOLMAEB_00128	misc_RNA	85				Corona_FSE
+ODOLMAEB_00129	CDS	7866	rep_11			Replicase polyprotein 1ab
+ODOLMAEB_00130	CDS	4035	S_11			Spike glycoprotein
+ODOLMAEB_00131	CDS	276				hypothetical protein
+ODOLMAEB_00132	CDS	360	ORF4a_3			Non-structural protein ORF4a
+ODOLMAEB_00133	CDS	702	ORF4b_3			Non-structural protein ORF4b
+ODOLMAEB_00134	CDS	684				hypothetical protein
+ODOLMAEB_00135	CDS	249	E_11			Envelope small membrane protein
+ODOLMAEB_00136	CDS	660	M_11			Membrane protein
+ODOLMAEB_00137	CDS	1272	N_11			Nucleoprotein
+ODOLMAEB_00138	CDS	13305	1a_12			Replicase polyprotein 1a
+ODOLMAEB_00139	misc_RNA	85				Corona_FSE
+ODOLMAEB_00140	CDS	7866	rep_12			Replicase polyprotein 1ab
+ODOLMAEB_00141	CDS	4035	S_12			Spike glycoprotein
+ODOLMAEB_00142	CDS	276				hypothetical protein
+ODOLMAEB_00143	CDS	360	ORF4a_4			Non-structural protein ORF4a
+ODOLMAEB_00144	CDS	702	ORF4b_4			Non-structural protein ORF4b
+ODOLMAEB_00145	CDS	684				hypothetical protein
+ODOLMAEB_00146	CDS	249	E_12			Envelope small membrane protein
+ODOLMAEB_00147	CDS	660	M_12			Membrane protein
+ODOLMAEB_00148	CDS	1272	N_12			Nucleoprotein
+ODOLMAEB_00149	CDS	13335	1a_13			Replicase polyprotein 1a
+ODOLMAEB_00150	misc_RNA	85				Corona_FSE
+ODOLMAEB_00151	CDS	7866	rep_13			Replicase polyprotein 1ab
+ODOLMAEB_00152	CDS	4035	S_13			Spike glycoprotein
+ODOLMAEB_00153	CDS	276				hypothetical protein
+ODOLMAEB_00154	CDS	360	ORF4a_5			Non-structural protein ORF4a
+ODOLMAEB_00155	CDS	702	ORF4b_5			Non-structural protein ORF4b
+ODOLMAEB_00156	CDS	684				hypothetical protein
+ODOLMAEB_00157	CDS	249	E_13			Envelope small membrane protein
+ODOLMAEB_00158	CDS	660	M_13			Membrane protein
+ODOLMAEB_00159	CDS	1272	N_13			Nucleoprotein
+ODOLMAEB_00160	CDS	13446	1a_14			Replicase polyprotein 1a
+ODOLMAEB_00161	misc_RNA	85				Corona_FSE
+ODOLMAEB_00162	CDS	7914	rep_14			Replicase polyprotein 1ab
+ODOLMAEB_00163	CDS	3984	S_14			Spike glycoprotein
+ODOLMAEB_00164	CDS	312				hypothetical protein
+ODOLMAEB_00165	CDS	360	ORF4a_6			Non-structural protein ORF4a
+ODOLMAEB_00166	CDS	660	ORF4b_6			Non-structural protein ORF4b
+ODOLMAEB_00167	CDS	672				hypothetical protein
+ODOLMAEB_00168	CDS	249	E_14			Envelope small membrane protein
+ODOLMAEB_00169	CDS	354	M_14			Membrane protein
+ODOLMAEB_00170	CDS	1284	N_14			Nucleoprotein
+ODOLMAEB_00171	misc_RNA	60				Corona_pk3
+ODOLMAEB_00172	CDS	13443	1a_15			Replicase polyprotein 1a
+ODOLMAEB_00173	misc_RNA	85				Corona_FSE
+ODOLMAEB_00174	CDS	7908	rep_15			Replicase polyprotein 1ab
+ODOLMAEB_00175	CDS	3918	S_15			Spike glycoprotein
+ODOLMAEB_00176	CDS	312				hypothetical protein
+ODOLMAEB_00177	CDS	360	ORF4a_7			Non-structural protein ORF4a
+ODOLMAEB_00178	CDS	660	ORF4b_7			Non-structural protein ORF4b
+ODOLMAEB_00179	CDS	672				hypothetical protein
+ODOLMAEB_00180	CDS	249	E_15			Envelope small membrane protein
+ODOLMAEB_00181	CDS	354	M_15			Membrane protein
+ODOLMAEB_00182	CDS	1284	N_15			Nucleoprotein
+ODOLMAEB_00183	misc_RNA	60				Corona_pk3
+ODOLMAEB_00184	CDS	13443	1a_16			Replicase polyprotein 1a
+ODOLMAEB_00185	misc_RNA	85				Corona_FSE
+ODOLMAEB_00186	CDS	7908	rep_16			Replicase polyprotein 1ab
+ODOLMAEB_00187	CDS	3918	S_16			Spike glycoprotein
+ODOLMAEB_00188	CDS	312				hypothetical protein
+ODOLMAEB_00189	CDS	360	ORF4a_8			Non-structural protein ORF4a
+ODOLMAEB_00190	CDS	660	ORF4b_8			Non-structural protein ORF4b
+ODOLMAEB_00191	CDS	672				hypothetical protein
+ODOLMAEB_00192	CDS	249	E_16			Envelope small membrane protein
+ODOLMAEB_00193	CDS	354	M_16			Membrane protein
+ODOLMAEB_00194	CDS	1284	N_16			Nucleoprotein
+ODOLMAEB_00195	misc_RNA	60				Corona_pk3
+ODOLMAEB_00196	CDS	13443	1a_17			Replicase polyprotein 1a
+ODOLMAEB_00197	misc_RNA	85				Corona_FSE
+ODOLMAEB_00198	CDS	7908	rep_17			Replicase polyprotein 1ab
+ODOLMAEB_00199	CDS	3918	S_17			Spike glycoprotein
+ODOLMAEB_00200	CDS	312				hypothetical protein
+ODOLMAEB_00201	CDS	360	ORF4a_9			Non-structural protein ORF4a
+ODOLMAEB_00202	CDS	660	ORF4b_9			Non-structural protein ORF4b
+ODOLMAEB_00203	CDS	672				hypothetical protein
+ODOLMAEB_00204	CDS	249	E_17			Envelope small membrane protein
+ODOLMAEB_00205	CDS	354	M_17			Membrane protein
+ODOLMAEB_00206	CDS	1284	N_17			Nucleoprotein
+ODOLMAEB_00207	misc_RNA	60				Corona_pk3
+ODOLMAEB_00208	CDS	12747	rep_18			Replicase polyprotein 1ab
+ODOLMAEB_00209	misc_RNA	85				Corona_FSE
+ODOLMAEB_00210	CDS	7767	rep_19			Replicase polyprotein 1ab
+ODOLMAEB_00211	CDS	3825	S_18			Spike glycoprotein
+ODOLMAEB_00212	CDS	663				hypothetical protein
+ODOLMAEB_00213	CDS	240				hypothetical protein
+ODOLMAEB_00214	CDS	669	M_18			Membrane protein
+ODOLMAEB_00215	CDS	1407	N_18			Nucleoprotein
+ODOLMAEB_00216	CDS	558				hypothetical protein
+ODOLMAEB_00217	CDS	450				hypothetical protein
+ODOLMAEB_00218	misc_RNA	59				Corona_pk3
+ODOLMAEB_00219	CDS	12672	rep_20			Replicase polyprotein 1ab
+ODOLMAEB_00220	misc_RNA	85				Corona_FSE
+ODOLMAEB_00221	CDS	7719	rep_21			Replicase polyprotein 1ab
+ODOLMAEB_00222	CDS	3828	S_19			Spike glycoprotein
+ODOLMAEB_00223	CDS	693				hypothetical protein
+ODOLMAEB_00224	CDS	240				hypothetical protein
+ODOLMAEB_00225	CDS	666	M_19			Membrane protein
+ODOLMAEB_00226	CDS	1413				hypothetical protein
+ODOLMAEB_00227	CDS	594				hypothetical protein
+ODOLMAEB_00228	CDS	444				hypothetical protein
+ODOLMAEB_00229	misc_RNA	59				Corona_pk3
+ODOLMAEB_00230	CDS	12696	rep_22			Replicase polyprotein 1ab
+ODOLMAEB_00231	misc_RNA	85				Corona_FSE
+ODOLMAEB_00232	CDS	7761	rep_23			Replicase polyprotein 1ab
+ODOLMAEB_00233	CDS	3810	S_20			Spike glycoprotein
+ODOLMAEB_00234	CDS	693				hypothetical protein
+ODOLMAEB_00235	CDS	231				hypothetical protein
+ODOLMAEB_00236	CDS	663	M_20			Membrane protein
+ODOLMAEB_00237	CDS	1407				hypothetical protein
+ODOLMAEB_00238	CDS	597				hypothetical protein
+ODOLMAEB_00239	CDS	447				hypothetical protein
+ODOLMAEB_00240	misc_RNA	59				Corona_pk3
+ODOLMAEB_00241	CDS	12732	rep_24			Replicase polyprotein 1ab
+ODOLMAEB_00242	misc_RNA	85				Corona_FSE
+ODOLMAEB_00243	CDS	7767	rep_25			Replicase polyprotein 1ab
+ODOLMAEB_00244	CDS	3819	S_21			Spike glycoprotein
+ODOLMAEB_00245	CDS	687				hypothetical protein
+ODOLMAEB_00246	CDS	231				hypothetical protein
+ODOLMAEB_00247	CDS	669	M_21			Membrane protein
+ODOLMAEB_00248	CDS	1413				hypothetical protein
+ODOLMAEB_00249	CDS	597				hypothetical protein
+ODOLMAEB_00250	CDS	450				hypothetical protein
+ODOLMAEB_00251	misc_RNA	59				Corona_pk3
+ODOLMAEB_00252	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_00253	CDS	12180	1a_18			Replicase polyprotein 1a
+ODOLMAEB_00254	misc_RNA	79				Corona_FSE
+ODOLMAEB_00255	CDS	7839	rep_26			Replicase polyprotein 1ab
+ODOLMAEB_00256	CDS	3387				hypothetical protein
+ODOLMAEB_00257	CDS	690				hypothetical protein
+ODOLMAEB_00258	CDS	228				hypothetical protein
+ODOLMAEB_00259	CDS	690	M_22			Membrane protein
+ODOLMAEB_00260	CDS	1128	N_19			Nucleoprotein
+ODOLMAEB_00261	CDS	300				hypothetical protein
+ODOLMAEB_00262	misc_RNA	63				Corona_pk3
+ODOLMAEB_00263	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_00264	CDS	12180	1a_19			Replicase polyprotein 1a
+ODOLMAEB_00265	misc_RNA	79				Corona_FSE
+ODOLMAEB_00266	CDS	7839	rep_27			Replicase polyprotein 1ab
+ODOLMAEB_00267	CDS	3387				hypothetical protein
+ODOLMAEB_00268	CDS	690				hypothetical protein
+ODOLMAEB_00269	CDS	228				hypothetical protein
+ODOLMAEB_00270	CDS	690	M_23			Membrane protein
+ODOLMAEB_00271	CDS	1128	N_20			Nucleoprotein
+ODOLMAEB_00272	CDS	300				hypothetical protein
+ODOLMAEB_00273	misc_RNA	63				Corona_pk3
+ODOLMAEB_00274	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_00275	CDS	12180	1a_20			Replicase polyprotein 1a
+ODOLMAEB_00276	misc_RNA	79				Corona_FSE
+ODOLMAEB_00277	CDS	7839	rep_28			Replicase polyprotein 1ab
+ODOLMAEB_00278	CDS	3387				hypothetical protein
+ODOLMAEB_00279	CDS	690				hypothetical protein
+ODOLMAEB_00280	CDS	228				hypothetical protein
+ODOLMAEB_00281	CDS	690	M_24			Membrane protein
+ODOLMAEB_00282	CDS	1128	N_21			Nucleoprotein
+ODOLMAEB_00283	CDS	300				hypothetical protein
+ODOLMAEB_00284	misc_RNA	63				Corona_pk3
+ODOLMAEB_00285	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_00286	CDS	12180	1a_21			Replicase polyprotein 1a
+ODOLMAEB_00287	misc_RNA	79				Corona_FSE
+ODOLMAEB_00288	CDS	7839	rep_29			Replicase polyprotein 1ab
+ODOLMAEB_00289	CDS	3387				hypothetical protein
+ODOLMAEB_00290	CDS	690				hypothetical protein
+ODOLMAEB_00291	CDS	228				hypothetical protein
+ODOLMAEB_00292	CDS	690	M_25			Membrane protein
+ODOLMAEB_00293	CDS	1128	N_22			Nucleoprotein
+ODOLMAEB_00294	CDS	300				hypothetical protein
+ODOLMAEB_00295	misc_RNA	63				Corona_pk3
+ODOLMAEB_00296	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00297	CDS	12975				hypothetical protein
+ODOLMAEB_00298	misc_RNA	79				Corona_FSE
+ODOLMAEB_00299	CDS	7827	rep_30			Replicase polyprotein 1ab
+ODOLMAEB_00300	CDS	4158	S_22			Spike glycoprotein
+ODOLMAEB_00301	CDS	660				hypothetical protein
+ODOLMAEB_00302	CDS	225				hypothetical protein
+ODOLMAEB_00303	CDS	768	M_26			Membrane protein
+ODOLMAEB_00304	CDS	1152	N_23			Nucleoprotein
+ODOLMAEB_00305	misc_RNA	68				Coronavirus_5p_sl_1_2
+ODOLMAEB_00306	CDS	12807				hypothetical protein
+ODOLMAEB_00307	misc_RNA	79				Corona_FSE
+ODOLMAEB_00308	CDS	7827	rep_31			Replicase polyprotein 1ab
+ODOLMAEB_00309	CDS	4128	S_23			Spike glycoprotein
+ODOLMAEB_00310	CDS	660				hypothetical protein
+ODOLMAEB_00311	CDS	225				hypothetical protein
+ODOLMAEB_00312	CDS	768	M_27			Membrane protein
+ODOLMAEB_00313	CDS	1170	N_24			Nucleoprotein
+ODOLMAEB_00314	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00315	CDS	12696				hypothetical protein
+ODOLMAEB_00316	misc_RNA	79				Corona_FSE
+ODOLMAEB_00317	CDS	7830	rep_32			Replicase polyprotein 1ab
+ODOLMAEB_00318	CDS	4128	S_24			Spike glycoprotein
+ODOLMAEB_00319	CDS	669				hypothetical protein
+ODOLMAEB_00320	CDS	225				hypothetical protein
+ODOLMAEB_00321	CDS	756	M_28			Membrane protein
+ODOLMAEB_00322	CDS	1269	N_25			Nucleoprotein
+ODOLMAEB_00323	CDS	480				hypothetical protein
+ODOLMAEB_00324	misc_RNA	62				Corona_pk3
+ODOLMAEB_00325	CDS	12570				hypothetical protein
+ODOLMAEB_00326	misc_RNA	82				Corona_FSE
+ODOLMAEB_00327	CDS	7887	rep_33			Replicase polyprotein 1ab
+ODOLMAEB_00328	CDS	3726	S_25			Spike glycoprotein
+ODOLMAEB_00329	CDS	825	3a_9			Protein 3a
+ODOLMAEB_00330	CDS	231	E_18			Envelope small membrane protein
+ODOLMAEB_00331	CDS	666	M_29			Membrane protein
+ODOLMAEB_00332	CDS	192				hypothetical protein
+ODOLMAEB_00333	CDS	369	7a_9			Protein 7a
+ODOLMAEB_00334	CDS	135				hypothetical protein
+ODOLMAEB_00335	CDS	366				hypothetical protein
+ODOLMAEB_00336	CDS	1269	N_26			Nucleoprotein
+ODOLMAEB_00337	misc_RNA	43				s2m
+ODOLMAEB_00338	CDS	13131	1a_22			Replicase polyprotein 1a
+ODOLMAEB_00339	misc_RNA	82				Corona_FSE
+ODOLMAEB_00340	CDS	7887	rep_34			Replicase polyprotein 1ab
+ODOLMAEB_00341	CDS	3729	S_26			Spike glycoprotein
+ODOLMAEB_00342	CDS	825	3a_10			Protein 3a
+ODOLMAEB_00343	CDS	231	E_19			Envelope small membrane protein
+ODOLMAEB_00344	CDS	666	M_30			Membrane protein
+ODOLMAEB_00345	CDS	192				hypothetical protein
+ODOLMAEB_00346	CDS	369	7a_10			Protein 7a
+ODOLMAEB_00347	CDS	135				hypothetical protein
+ODOLMAEB_00348	CDS	366				hypothetical protein
+ODOLMAEB_00349	CDS	1266	N_27			Nucleoprotein
+ODOLMAEB_00350	misc_RNA	43				s2m
+ODOLMAEB_00351	CDS	13131	1a_23			Replicase polyprotein 1a
+ODOLMAEB_00352	misc_RNA	82				Corona_FSE
+ODOLMAEB_00353	CDS	7887	rep_35			Replicase polyprotein 1ab
+ODOLMAEB_00354	CDS	3729	S_27			Spike glycoprotein
+ODOLMAEB_00355	CDS	825	3a_11			Protein 3a
+ODOLMAEB_00356	CDS	231	E_20			Envelope small membrane protein
+ODOLMAEB_00357	CDS	666	M_31			Membrane protein
+ODOLMAEB_00358	CDS	192				hypothetical protein
+ODOLMAEB_00359	CDS	369	7a_11			Protein 7a
+ODOLMAEB_00360	CDS	135				hypothetical protein
+ODOLMAEB_00361	CDS	366				hypothetical protein
+ODOLMAEB_00362	CDS	1266	N_28			Nucleoprotein
+ODOLMAEB_00363	misc_RNA	43				s2m
+ODOLMAEB_00364	CDS	13131	1a_24			Replicase polyprotein 1a
+ODOLMAEB_00365	misc_RNA	82				Corona_FSE
+ODOLMAEB_00366	CDS	7887	rep_36			Replicase polyprotein 1ab
+ODOLMAEB_00367	CDS	3729	S_28			Spike glycoprotein
+ODOLMAEB_00368	CDS	825	3a_12			Protein 3a
+ODOLMAEB_00369	CDS	231	E_21			Envelope small membrane protein
+ODOLMAEB_00370	CDS	666	M_32			Membrane protein
+ODOLMAEB_00371	CDS	192				hypothetical protein
+ODOLMAEB_00372	CDS	369	7a_12			Protein 7a
+ODOLMAEB_00373	CDS	135				hypothetical protein
+ODOLMAEB_00374	CDS	366				hypothetical protein
+ODOLMAEB_00375	CDS	1266	N_29			Nucleoprotein
+ODOLMAEB_00376	misc_RNA	43				s2m
+ODOLMAEB_00377	CDS	13143	1a_25			Replicase polyprotein 1a
+ODOLMAEB_00378	misc_RNA	82				Corona_FSE
+ODOLMAEB_00379	CDS	7887	rep_37			Replicase polyprotein 1ab
+ODOLMAEB_00380	CDS	3729	S_29			Spike glycoprotein
+ODOLMAEB_00381	CDS	825	3a_13			Protein 3a
+ODOLMAEB_00382	CDS	231	E_22			Envelope small membrane protein
+ODOLMAEB_00383	CDS	666	M_33			Membrane protein
+ODOLMAEB_00384	CDS	192				hypothetical protein
+ODOLMAEB_00385	CDS	369	7a_13			Protein 7a
+ODOLMAEB_00386	CDS	135				hypothetical protein
+ODOLMAEB_00387	CDS	366				hypothetical protein
+ODOLMAEB_00388	CDS	1266	N_30			Nucleoprotein
+ODOLMAEB_00389	misc_RNA	43				s2m
+ODOLMAEB_00390	CDS	13143	1a_26			Replicase polyprotein 1a
+ODOLMAEB_00391	misc_RNA	82				Corona_FSE
+ODOLMAEB_00392	CDS	7887	rep_38			Replicase polyprotein 1ab
+ODOLMAEB_00393	CDS	3729	S_30			Spike glycoprotein
+ODOLMAEB_00394	CDS	816	3a_14			Protein 3a
+ODOLMAEB_00395	CDS	231	E_23			Envelope small membrane protein
+ODOLMAEB_00396	CDS	666	M_34			Membrane protein
+ODOLMAEB_00397	CDS	192				hypothetical protein
+ODOLMAEB_00398	CDS	369	7a_14			Protein 7a
+ODOLMAEB_00399	CDS	135				hypothetical protein
+ODOLMAEB_00400	CDS	1266	N_31			Nucleoprotein
+ODOLMAEB_00401	misc_RNA	43				s2m
+ODOLMAEB_00402	CDS	13122	1a_27			Replicase polyprotein 1a
+ODOLMAEB_00403	misc_RNA	82				Corona_FSE
+ODOLMAEB_00404	CDS	7887	rep_39			Replicase polyprotein 1ab
+ODOLMAEB_00405	CDS	3729	S_31			Spike glycoprotein
+ODOLMAEB_00406	CDS	825	3a_15			Protein 3a
+ODOLMAEB_00407	CDS	231	E_24			Envelope small membrane protein
+ODOLMAEB_00408	CDS	666	M_35			Membrane protein
+ODOLMAEB_00409	CDS	192				hypothetical protein
+ODOLMAEB_00410	CDS	369	7a_15			Protein 7a
+ODOLMAEB_00411	CDS	135				hypothetical protein
+ODOLMAEB_00412	CDS	366				hypothetical protein
+ODOLMAEB_00413	CDS	1266	N_32			Nucleoprotein
+ODOLMAEB_00414	misc_RNA	43				s2m
+ODOLMAEB_00415	CDS	13122	1a_28			Replicase polyprotein 1a
+ODOLMAEB_00416	misc_RNA	82				Corona_FSE
+ODOLMAEB_00417	CDS	7887	rep_40			Replicase polyprotein 1ab
+ODOLMAEB_00418	CDS	3729	S_32			Spike glycoprotein
+ODOLMAEB_00419	CDS	825	3a_16			Protein 3a
+ODOLMAEB_00420	CDS	231	E_25			Envelope small membrane protein
+ODOLMAEB_00421	CDS	666	M_36			Membrane protein
+ODOLMAEB_00422	CDS	192				hypothetical protein
+ODOLMAEB_00423	CDS	369	7a_16			Protein 7a
+ODOLMAEB_00424	CDS	135				hypothetical protein
+ODOLMAEB_00425	CDS	366				hypothetical protein
+ODOLMAEB_00426	CDS	1266	N_33			Nucleoprotein
+ODOLMAEB_00427	misc_RNA	43				s2m
+ODOLMAEB_00428	CDS	13122	1a_29			Replicase polyprotein 1a
+ODOLMAEB_00429	misc_RNA	82				Corona_FSE
+ODOLMAEB_00430	CDS	7887	rep_41			Replicase polyprotein 1ab
+ODOLMAEB_00431	CDS	3729	S_33			Spike glycoprotein
+ODOLMAEB_00432	CDS	825	3a_17			Protein 3a
+ODOLMAEB_00433	CDS	231	E_26			Envelope small membrane protein
+ODOLMAEB_00434	CDS	666	M_37			Membrane protein
+ODOLMAEB_00435	CDS	192				hypothetical protein
+ODOLMAEB_00436	CDS	369	7a_17			Protein 7a
+ODOLMAEB_00437	CDS	135				hypothetical protein
+ODOLMAEB_00438	CDS	366				hypothetical protein
+ODOLMAEB_00439	CDS	1266	N_34			Nucleoprotein
+ODOLMAEB_00440	misc_RNA	43				s2m
+ODOLMAEB_00441	CDS	13131	1a_30			Replicase polyprotein 1a
+ODOLMAEB_00442	misc_RNA	82				Corona_FSE
+ODOLMAEB_00443	CDS	7887	rep_42			Replicase polyprotein 1ab
+ODOLMAEB_00444	CDS	3729	S_34			Spike glycoprotein
+ODOLMAEB_00445	CDS	825	3a_18			Protein 3a
+ODOLMAEB_00446	CDS	231	E_27			Envelope small membrane protein
+ODOLMAEB_00447	CDS	666	M_38			Membrane protein
+ODOLMAEB_00448	CDS	192				hypothetical protein
+ODOLMAEB_00449	CDS	369	7a_18			Protein 7a
+ODOLMAEB_00450	CDS	135				hypothetical protein
+ODOLMAEB_00451	CDS	366				hypothetical protein
+ODOLMAEB_00452	CDS	1266	N_35			Nucleoprotein
+ODOLMAEB_00453	misc_RNA	43				s2m
+ODOLMAEB_00454	CDS	13104	1a_31			Replicase polyprotein 1a
+ODOLMAEB_00455	misc_RNA	82				Corona_FSE
+ODOLMAEB_00456	CDS	7887	rep_43			Replicase polyprotein 1ab
+ODOLMAEB_00457	CDS	3729	S_35			Spike glycoprotein
+ODOLMAEB_00458	CDS	825	3a_19			Protein 3a
+ODOLMAEB_00459	CDS	231	E_28			Envelope small membrane protein
+ODOLMAEB_00460	CDS	666	M_39			Membrane protein
+ODOLMAEB_00461	CDS	192				hypothetical protein
+ODOLMAEB_00462	CDS	369	7a_19			Protein 7a
+ODOLMAEB_00463	CDS	135				hypothetical protein
+ODOLMAEB_00464	CDS	366				hypothetical protein
+ODOLMAEB_00465	CDS	1266	N_36			Nucleoprotein
+ODOLMAEB_00466	misc_RNA	43				s2m
+ODOLMAEB_00467	CDS	13122	1a_32			Replicase polyprotein 1a
+ODOLMAEB_00468	misc_RNA	82				Corona_FSE
+ODOLMAEB_00469	CDS	7887	rep_44			Replicase polyprotein 1ab
+ODOLMAEB_00470	CDS	3780	S_36			Spike glycoprotein
+ODOLMAEB_00471	CDS	816	3a_20			Protein 3a
+ODOLMAEB_00472	CDS	684	M_40			Membrane protein
+ODOLMAEB_00473	CDS	189				hypothetical protein
+ODOLMAEB_00474	CDS	357	7a_20			Protein 7a
+ODOLMAEB_00475	CDS	1254	N_37			Nucleoprotein
+ODOLMAEB_00476	misc_RNA	43				s2m
+ODOLMAEB_00477	CDS	13215	1a_33			Replicase polyprotein 1a
+ODOLMAEB_00478	misc_RNA	82				Corona_FSE
+ODOLMAEB_00479	CDS	7746	rep_45			Replicase polyprotein 1ab
+ODOLMAEB_00480	CDS	3810	S_37			Spike glycoprotein
+ODOLMAEB_00481	CDS	828	3a_21			Protein 3a
+ODOLMAEB_00482	CDS	666	M_41			Membrane protein
+ODOLMAEB_00483	CDS	186				hypothetical protein
+ODOLMAEB_00484	CDS	366	7a_21			Protein 7a
+ODOLMAEB_00485	CDS	132				hypothetical protein
+ODOLMAEB_00486	CDS	366				hypothetical protein
+ODOLMAEB_00487	CDS	1260	N_38			Nucleoprotein
+ODOLMAEB_00488	misc_RNA	43				s2m
+ODOLMAEB_00489	CDS	12696	rep_46			Replicase polyprotein 1ab
+ODOLMAEB_00490	misc_RNA	85				Corona_FSE
+ODOLMAEB_00491	CDS	7761	rep_47			Replicase polyprotein 1ab
+ODOLMAEB_00492	CDS	3810	S_38			Spike glycoprotein
+ODOLMAEB_00493	CDS	693				hypothetical protein
+ODOLMAEB_00494	CDS	231				hypothetical protein
+ODOLMAEB_00495	CDS	663	M_42			Membrane protein
+ODOLMAEB_00496	CDS	1407				hypothetical protein
+ODOLMAEB_00497	CDS	597				hypothetical protein
+ODOLMAEB_00498	CDS	447				hypothetical protein
+ODOLMAEB_00499	misc_RNA	59				Corona_pk3
+ODOLMAEB_00500	CDS	12672	rep_48			Replicase polyprotein 1ab
+ODOLMAEB_00501	misc_RNA	85				Corona_FSE
+ODOLMAEB_00502	CDS	7719	rep_49			Replicase polyprotein 1ab
+ODOLMAEB_00503	CDS	3843	S_39			Spike glycoprotein
+ODOLMAEB_00504	CDS	693				hypothetical protein
+ODOLMAEB_00505	CDS	240				hypothetical protein
+ODOLMAEB_00506	CDS	660	M_43			Membrane protein
+ODOLMAEB_00507	CDS	1410	N_39			Nucleoprotein
+ODOLMAEB_00508	CDS	594				hypothetical protein
+ODOLMAEB_00509	CDS	444				hypothetical protein
+ODOLMAEB_00510	misc_RNA	59				Corona_pk3
+ODOLMAEB_00511	CDS	12732	rep_50			Replicase polyprotein 1ab
+ODOLMAEB_00512	misc_RNA	85				Corona_FSE
+ODOLMAEB_00513	CDS	7761	rep_51			Replicase polyprotein 1ab
+ODOLMAEB_00514	CDS	3810	S_40			Spike glycoprotein
+ODOLMAEB_00515	CDS	693				hypothetical protein
+ODOLMAEB_00516	CDS	231				hypothetical protein
+ODOLMAEB_00517	CDS	663	M_44			Membrane protein
+ODOLMAEB_00518	CDS	1407				hypothetical protein
+ODOLMAEB_00519	CDS	597				hypothetical protein
+ODOLMAEB_00520	CDS	447				hypothetical protein
+ODOLMAEB_00521	misc_RNA	59				Corona_pk3
+ODOLMAEB_00522	CDS	12672	rep_52			Replicase polyprotein 1ab
+ODOLMAEB_00523	misc_RNA	85				Corona_FSE
+ODOLMAEB_00524	CDS	7719	rep_53			Replicase polyprotein 1ab
+ODOLMAEB_00525	CDS	3843	S_41			Spike glycoprotein
+ODOLMAEB_00526	CDS	693				hypothetical protein
+ODOLMAEB_00527	CDS	240				hypothetical protein
+ODOLMAEB_00528	CDS	663	M_45			Membrane protein
+ODOLMAEB_00529	CDS	1410				hypothetical protein
+ODOLMAEB_00530	CDS	597				hypothetical protein
+ODOLMAEB_00531	CDS	450				hypothetical protein
+ODOLMAEB_00532	misc_RNA	59				Corona_pk3
+ODOLMAEB_00533	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00534	CDS	12348	1a_34			Replicase polyprotein 1a
+ODOLMAEB_00535	misc_RNA	79				Corona_FSE
+ODOLMAEB_00536	CDS	7833	rep_54			Replicase polyprotein 1ab
+ODOLMAEB_00537	CDS	4056	S_42			Spike glycoprotein
+ODOLMAEB_00538	CDS	657				hypothetical protein
+ODOLMAEB_00539	CDS	228				hypothetical protein
+ODOLMAEB_00540	CDS	681	M_46			Membrane protein
+ODOLMAEB_00541	CDS	1200	N_40			Nucleoprotein
+ODOLMAEB_00542	CDS	462				hypothetical protein
+ODOLMAEB_00543	misc_RNA	63				Corona_pk3
+ODOLMAEB_00544	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00545	CDS	12348	1a_35			Replicase polyprotein 1a
+ODOLMAEB_00546	misc_RNA	79				Corona_FSE
+ODOLMAEB_00547	CDS	7833	rep_55			Replicase polyprotein 1ab
+ODOLMAEB_00548	CDS	4056	S_43			Spike glycoprotein
+ODOLMAEB_00549	CDS	657				hypothetical protein
+ODOLMAEB_00550	CDS	228				hypothetical protein
+ODOLMAEB_00551	CDS	681	M_47			Membrane protein
+ODOLMAEB_00552	CDS	1200	N_41			Nucleoprotein
+ODOLMAEB_00553	CDS	462				hypothetical protein
+ODOLMAEB_00554	misc_RNA	63				Corona_pk3
+ODOLMAEB_00555	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00556	CDS	12348	1a_36			Replicase polyprotein 1a
+ODOLMAEB_00557	misc_RNA	79				Corona_FSE
+ODOLMAEB_00558	CDS	7833	rep_56			Replicase polyprotein 1ab
+ODOLMAEB_00559	CDS	4056	S_44			Spike glycoprotein
+ODOLMAEB_00560	CDS	657				hypothetical protein
+ODOLMAEB_00561	CDS	228				hypothetical protein
+ODOLMAEB_00562	CDS	681	M_48			Membrane protein
+ODOLMAEB_00563	CDS	1200	N_42			Nucleoprotein
+ODOLMAEB_00564	CDS	243				hypothetical protein
+ODOLMAEB_00565	CDS	462				hypothetical protein
+ODOLMAEB_00566	misc_RNA	63				Corona_pk3
+ODOLMAEB_00567	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00568	CDS	12348	1a_37			Replicase polyprotein 1a
+ODOLMAEB_00569	misc_RNA	79				Corona_FSE
+ODOLMAEB_00570	CDS	7833	rep_57			Replicase polyprotein 1ab
+ODOLMAEB_00571	CDS	4056	S_45			Spike glycoprotein
+ODOLMAEB_00572	CDS	657				hypothetical protein
+ODOLMAEB_00573	CDS	228				hypothetical protein
+ODOLMAEB_00574	CDS	681	M_49			Membrane protein
+ODOLMAEB_00575	CDS	1209	N_43			Nucleoprotein
+ODOLMAEB_00576	CDS	243				hypothetical protein
+ODOLMAEB_00577	CDS	462				hypothetical protein
+ODOLMAEB_00578	misc_RNA	63				Corona_pk3
+ODOLMAEB_00579	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00580	CDS	12345	1a_38			Replicase polyprotein 1a
+ODOLMAEB_00581	misc_RNA	79				Corona_FSE
+ODOLMAEB_00582	CDS	7833	rep_58			Replicase polyprotein 1ab
+ODOLMAEB_00583	CDS	4050	S_46			Spike glycoprotein
+ODOLMAEB_00584	CDS	657				hypothetical protein
+ODOLMAEB_00585	CDS	225				hypothetical protein
+ODOLMAEB_00586	CDS	690	M_50			Membrane protein
+ODOLMAEB_00587	CDS	1209	N_44			Nucleoprotein
+ODOLMAEB_00588	CDS	246				hypothetical protein
+ODOLMAEB_00589	CDS	462				hypothetical protein
+ODOLMAEB_00590	misc_RNA	63				Corona_pk3
+ODOLMAEB_00591	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00592	CDS	12348	1a_39			Replicase polyprotein 1a
+ODOLMAEB_00593	misc_RNA	79				Corona_FSE
+ODOLMAEB_00594	CDS	7833	rep_59			Replicase polyprotein 1ab
+ODOLMAEB_00595	CDS	4050	S_47			Spike glycoprotein
+ODOLMAEB_00596	CDS	657				hypothetical protein
+ODOLMAEB_00597	CDS	225				hypothetical protein
+ODOLMAEB_00598	CDS	681	M_51			Membrane protein
+ODOLMAEB_00599	CDS	1209	N_45			Nucleoprotein
+ODOLMAEB_00600	CDS	246				hypothetical protein
+ODOLMAEB_00601	CDS	276				hypothetical protein
+ODOLMAEB_00602	misc_RNA	63				Corona_pk3
+ODOLMAEB_00603	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00604	CDS	12345	1a_40			Replicase polyprotein 1a
+ODOLMAEB_00605	misc_RNA	79				Corona_FSE
+ODOLMAEB_00606	CDS	7842	rep_60			Replicase polyprotein 1ab
+ODOLMAEB_00607	CDS	4050	S_48			Spike glycoprotein
+ODOLMAEB_00608	CDS	657				hypothetical protein
+ODOLMAEB_00609	CDS	225				hypothetical protein
+ODOLMAEB_00610	CDS	681	M_52			Membrane protein
+ODOLMAEB_00611	CDS	1209	N_46			Nucleoprotein
+ODOLMAEB_00612	CDS	243				hypothetical protein
+ODOLMAEB_00613	CDS	462				hypothetical protein
+ODOLMAEB_00614	misc_RNA	63				Corona_pk3
+ODOLMAEB_00615	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_00616	CDS	12345	1a_41			Replicase polyprotein 1a
+ODOLMAEB_00617	misc_RNA	79				Corona_FSE
+ODOLMAEB_00618	CDS	7842	rep_61			Replicase polyprotein 1ab
+ODOLMAEB_00619	CDS	4050	S_49			Spike glycoprotein
+ODOLMAEB_00620	CDS	657				hypothetical protein
+ODOLMAEB_00621	CDS	225				hypothetical protein
+ODOLMAEB_00622	CDS	681	M_53			Membrane protein
+ODOLMAEB_00623	CDS	1209	N_47			Nucleoprotein
+ODOLMAEB_00624	CDS	243				hypothetical protein
+ODOLMAEB_00625	CDS	462				hypothetical protein
+ODOLMAEB_00626	misc_RNA	63				Corona_pk3
+ODOLMAEB_00627	CDS	13125	1a_42			Replicase polyprotein 1a
+ODOLMAEB_00628	misc_RNA	82				Corona_FSE
+ODOLMAEB_00629	CDS	7887	rep_62			Replicase polyprotein 1ab
+ODOLMAEB_00630	CDS	3723	S_50			Spike glycoprotein
+ODOLMAEB_00631	CDS	825	3a_22			Protein 3a
+ODOLMAEB_00632	CDS	231	E_29			Envelope small membrane protein
+ODOLMAEB_00633	CDS	666	M_54			Membrane protein
+ODOLMAEB_00634	CDS	192				hypothetical protein
+ODOLMAEB_00635	CDS	369	7a_22			Protein 7a
+ODOLMAEB_00636	CDS	135				hypothetical protein
+ODOLMAEB_00637	CDS	366				hypothetical protein
+ODOLMAEB_00638	CDS	1263	N_48			Nucleoprotein
+ODOLMAEB_00639	CDS	13152	1a_43			Replicase polyprotein 1a
+ODOLMAEB_00640	misc_RNA	82				Corona_FSE
+ODOLMAEB_00641	CDS	7887	rep_63			Replicase polyprotein 1ab
+ODOLMAEB_00642	CDS	3726	S_51			Spike glycoprotein
+ODOLMAEB_00643	CDS	825	3a_23			Protein 3a
+ODOLMAEB_00644	CDS	231	E_30			Envelope small membrane protein
+ODOLMAEB_00645	CDS	666	M_55			Membrane protein
+ODOLMAEB_00646	CDS	192				hypothetical protein
+ODOLMAEB_00647	CDS	369	7a_23			Protein 7a
+ODOLMAEB_00648	CDS	366				hypothetical protein
+ODOLMAEB_00649	CDS	1269	N_49			Nucleoprotein
+ODOLMAEB_00650	CDS	13149	1a_44			Replicase polyprotein 1a
+ODOLMAEB_00651	misc_RNA	82				Corona_FSE
+ODOLMAEB_00652	CDS	7887	rep_64			Replicase polyprotein 1ab
+ODOLMAEB_00653	CDS	3771	S_52			Spike glycoprotein
+ODOLMAEB_00654	CDS	825	3a_24			Protein 3a
+ODOLMAEB_00655	CDS	231	E_31			Envelope small membrane protein
+ODOLMAEB_00656	CDS	666	M_56			Membrane protein
+ODOLMAEB_00657	CDS	192				hypothetical protein
+ODOLMAEB_00658	CDS	369	7a_24			Protein 7a
+ODOLMAEB_00659	CDS	135				hypothetical protein
+ODOLMAEB_00660	CDS	366				hypothetical protein
+ODOLMAEB_00661	CDS	1269	N_50			Nucleoprotein
+ODOLMAEB_00662	misc_RNA	43				s2m
+ODOLMAEB_00663	CDS	13149	1a_45			Replicase polyprotein 1a
+ODOLMAEB_00664	misc_RNA	82				Corona_FSE
+ODOLMAEB_00665	CDS	7887	rep_65			Replicase polyprotein 1ab
+ODOLMAEB_00666	CDS	3771	S_53			Spike glycoprotein
+ODOLMAEB_00667	CDS	825	3a_25			Protein 3a
+ODOLMAEB_00668	CDS	231	E_32			Envelope small membrane protein
+ODOLMAEB_00669	CDS	666	M_57			Membrane protein
+ODOLMAEB_00670	CDS	192				hypothetical protein
+ODOLMAEB_00671	CDS	369	7a_25			Protein 7a
+ODOLMAEB_00672	CDS	135				hypothetical protein
+ODOLMAEB_00673	CDS	366				hypothetical protein
+ODOLMAEB_00674	CDS	1269	N_51			Nucleoprotein
+ODOLMAEB_00675	misc_RNA	43				s2m
+ODOLMAEB_00676	CDS	13149	1a_46			Replicase polyprotein 1a
+ODOLMAEB_00677	misc_RNA	82				Corona_FSE
+ODOLMAEB_00678	CDS	7887	rep_66			Replicase polyprotein 1ab
+ODOLMAEB_00679	CDS	3771	S_54			Spike glycoprotein
+ODOLMAEB_00680	CDS	825	3a_26			Protein 3a
+ODOLMAEB_00681	CDS	231	E_33			Envelope small membrane protein
+ODOLMAEB_00682	CDS	666	M_58			Membrane protein
+ODOLMAEB_00683	CDS	192				hypothetical protein
+ODOLMAEB_00684	CDS	294				hypothetical protein
+ODOLMAEB_00685	CDS	369	7a_26			Protein 7a
+ODOLMAEB_00686	CDS	135				hypothetical protein
+ODOLMAEB_00687	CDS	366				hypothetical protein
+ODOLMAEB_00688	CDS	1269	N_52			Nucleoprotein
+ODOLMAEB_00689	misc_RNA	43				s2m
+ODOLMAEB_00690	CDS	12483	1a_47			Replicase polyprotein 1a
+ODOLMAEB_00691	misc_RNA	79				Corona_FSE
+ODOLMAEB_00692	CDS	7830	rep_67			Replicase polyprotein 1ab
+ODOLMAEB_00693	CDS	4095	S_55			Spike glycoprotein
+ODOLMAEB_00694	CDS	678				hypothetical protein
+ODOLMAEB_00695	CDS	225				hypothetical protein
+ODOLMAEB_00696	CDS	681	M_59			Membrane protein
+ODOLMAEB_00697	CDS	1278	N_53			Nucleoprotein
+ODOLMAEB_00698	CDS	390				hypothetical protein
+ODOLMAEB_00699	misc_RNA	63				Corona_pk3
+ODOLMAEB_00700	CDS	13644				hypothetical protein
+ODOLMAEB_00701	misc_RNA	82				Corona_FSE
+ODOLMAEB_00702	CDS	7887	rep_68			Replicase polyprotein 1ab
+ODOLMAEB_00703	CDS	1356				hypothetical protein
+ODOLMAEB_00704	CDS	3954	S_56			Spike glycoprotein
+ODOLMAEB_00705	CDS	738				hypothetical protein
+ODOLMAEB_00706	CDS	672	M_60			Membrane protein
+ODOLMAEB_00707	CDS	1257	N_54			Nucleoprotein
+ODOLMAEB_00708	misc_RNA	43				s2m
+ODOLMAEB_00709	misc_RNA	68				Coronavirus_5p_sl_1_2
+ODOLMAEB_00710	CDS	12804				hypothetical protein
+ODOLMAEB_00711	misc_RNA	79				Corona_FSE
+ODOLMAEB_00712	CDS	7827	rep_69			Replicase polyprotein 1ab
+ODOLMAEB_00713	CDS	4128	S_57			Spike glycoprotein
+ODOLMAEB_00714	CDS	660				hypothetical protein
+ODOLMAEB_00715	CDS	225				hypothetical protein
+ODOLMAEB_00716	CDS	762	M_61			Membrane protein
+ODOLMAEB_00717	CDS	1170	N_55			Nucleoprotein
+ODOLMAEB_00718	misc_RNA	68				Coronavirus_5p_sl_1_2
+ODOLMAEB_00719	CDS	12804				hypothetical protein
+ODOLMAEB_00720	misc_RNA	79				Corona_FSE
+ODOLMAEB_00721	CDS	7827	rep_70			Replicase polyprotein 1ab
+ODOLMAEB_00722	CDS	4131	S_58			Spike glycoprotein
+ODOLMAEB_00723	CDS	660				hypothetical protein
+ODOLMAEB_00724	CDS	225				hypothetical protein
+ODOLMAEB_00725	CDS	759	M_62			Membrane protein
+ODOLMAEB_00726	CDS	1170	N_56			Nucleoprotein
+ODOLMAEB_00727	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00728	CDS	12696				hypothetical protein
+ODOLMAEB_00729	misc_RNA	79				Corona_FSE
+ODOLMAEB_00730	CDS	7830	rep_71			Replicase polyprotein 1ab
+ODOLMAEB_00731	CDS	4137	S_59			Spike glycoprotein
+ODOLMAEB_00732	CDS	669				hypothetical protein
+ODOLMAEB_00733	CDS	225				hypothetical protein
+ODOLMAEB_00734	CDS	759	M_63			Membrane protein
+ODOLMAEB_00735	CDS	1269	N_57			Nucleoprotein
+ODOLMAEB_00736	CDS	450				hypothetical protein
+ODOLMAEB_00737	misc_RNA	62				Corona_pk3
+ODOLMAEB_00738	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00739	CDS	12675				hypothetical protein
+ODOLMAEB_00740	misc_RNA	79				Corona_FSE
+ODOLMAEB_00741	CDS	7830	rep_72			Replicase polyprotein 1ab
+ODOLMAEB_00742	CDS	4125	S_60			Spike glycoprotein
+ODOLMAEB_00743	CDS	669				hypothetical protein
+ODOLMAEB_00744	CDS	225				hypothetical protein
+ODOLMAEB_00745	CDS	765	M_64			Membrane protein
+ODOLMAEB_00746	CDS	1269	N_58			Nucleoprotein
+ODOLMAEB_00747	CDS	480				hypothetical protein
+ODOLMAEB_00748	misc_RNA	62				Corona_pk3
+ODOLMAEB_00749	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00750	CDS	12675				hypothetical protein
+ODOLMAEB_00751	misc_RNA	79				Corona_FSE
+ODOLMAEB_00752	CDS	7830	rep_73			Replicase polyprotein 1ab
+ODOLMAEB_00753	CDS	4137	S_61			Spike glycoprotein
+ODOLMAEB_00754	CDS	669				hypothetical protein
+ODOLMAEB_00755	CDS	225				hypothetical protein
+ODOLMAEB_00756	CDS	759	M_65			Membrane protein
+ODOLMAEB_00757	CDS	1269	N_59			Nucleoprotein
+ODOLMAEB_00758	CDS	480				hypothetical protein
+ODOLMAEB_00759	misc_RNA	62				Corona_pk3
+ODOLMAEB_00760	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_00761	CDS	12675				hypothetical protein
+ODOLMAEB_00762	misc_RNA	79				Corona_FSE
+ODOLMAEB_00763	CDS	7830	rep_74			Replicase polyprotein 1ab
+ODOLMAEB_00764	CDS	4137	S_62			Spike glycoprotein
+ODOLMAEB_00765	CDS	669				hypothetical protein
+ODOLMAEB_00766	CDS	225				hypothetical protein
+ODOLMAEB_00767	CDS	759	M_66			Membrane protein
+ODOLMAEB_00768	CDS	1269	N_60			Nucleoprotein
+ODOLMAEB_00769	CDS	450				hypothetical protein
+ODOLMAEB_00770	misc_RNA	62				Corona_pk3
+ODOLMAEB_00771	CDS	13446	1a_48			Replicase polyprotein 1a
+ODOLMAEB_00772	misc_RNA	85				Corona_FSE
+ODOLMAEB_00773	CDS	7914	rep_75			Replicase polyprotein 1ab
+ODOLMAEB_00774	CDS	3906	S_63			Spike glycoprotein
+ODOLMAEB_00775	CDS	312				hypothetical protein
+ODOLMAEB_00776	CDS	360	ORF4a_10			Non-structural protein ORF4a
+ODOLMAEB_00777	CDS	708	ORF4b_10			Non-structural protein ORF4b
+ODOLMAEB_00778	CDS	672				hypothetical protein
+ODOLMAEB_00779	CDS	249	E_34			Envelope small membrane protein
+ODOLMAEB_00780	CDS	354	M_67			Membrane protein
+ODOLMAEB_00781	CDS	1284	N_61			Nucleoprotein
+ODOLMAEB_00782	misc_RNA	60				Corona_pk3
+ODOLMAEB_00783	CDS	13329	1a_49			Replicase polyprotein 1a
+ODOLMAEB_00784	misc_RNA	85				Corona_FSE
+ODOLMAEB_00785	CDS	7866	rep_76			Replicase polyprotein 1ab
+ODOLMAEB_00786	CDS	4035	S_64			Spike glycoprotein
+ODOLMAEB_00787	CDS	276				hypothetical protein
+ODOLMAEB_00788	CDS	360	ORF4a_11			Non-structural protein ORF4a
+ODOLMAEB_00789	CDS	702	ORF4b_11			Non-structural protein ORF4b
+ODOLMAEB_00790	CDS	684				hypothetical protein
+ODOLMAEB_00791	CDS	249	E_35			Envelope small membrane protein
+ODOLMAEB_00792	CDS	660	M_68			Membrane protein
+ODOLMAEB_00793	CDS	1272	N_62			Nucleoprotein
+ODOLMAEB_00794	CDS	13149	1a_50			Replicase polyprotein 1a
+ODOLMAEB_00795	misc_RNA	82				Corona_FSE
+ODOLMAEB_00796	CDS	7887	rep_77			Replicase polyprotein 1ab
+ODOLMAEB_00797	CDS	3726	S_65			Spike glycoprotein
+ODOLMAEB_00798	CDS	825	3a_27			Protein 3a
+ODOLMAEB_00799	CDS	231	E_36			Envelope small membrane protein
+ODOLMAEB_00800	CDS	666	M_69			Membrane protein
+ODOLMAEB_00801	CDS	369	7a_27			Protein 7a
+ODOLMAEB_00802	CDS	135				hypothetical protein
+ODOLMAEB_00803	CDS	369				hypothetical protein
+ODOLMAEB_00804	CDS	1266	N_63			Nucleoprotein
+ODOLMAEB_00805	misc_RNA	43				s2m
+ODOLMAEB_00806	CDS	13149	1a_51			Replicase polyprotein 1a
+ODOLMAEB_00807	misc_RNA	82				Corona_FSE
+ODOLMAEB_00808	CDS	7887	rep_78			Replicase polyprotein 1ab
+ODOLMAEB_00809	CDS	3726	S_66			Spike glycoprotein
+ODOLMAEB_00810	CDS	825	3a_28			Protein 3a
+ODOLMAEB_00811	CDS	231	E_37			Envelope small membrane protein
+ODOLMAEB_00812	CDS	666	M_70			Membrane protein
+ODOLMAEB_00813	CDS	192				hypothetical protein
+ODOLMAEB_00814	CDS	369	7a_28			Protein 7a
+ODOLMAEB_00815	CDS	135				hypothetical protein
+ODOLMAEB_00816	CDS	369				hypothetical protein
+ODOLMAEB_00817	CDS	1266	N_64			Nucleoprotein
+ODOLMAEB_00818	misc_RNA	43				s2m
+ODOLMAEB_00819	CDS	12555				hypothetical protein
+ODOLMAEB_00820	misc_RNA	82				Corona_FSE
+ODOLMAEB_00821	CDS	7941	rep_79			Replicase polyprotein 1ab
+ODOLMAEB_00822	CDS	3711	S_67			Spike glycoprotein
+ODOLMAEB_00823	CDS	825	3a_29			Protein 3a
+ODOLMAEB_00824	CDS	231	E_38			Envelope small membrane protein
+ODOLMAEB_00825	CDS	666	M_71			Membrane protein
+ODOLMAEB_00826	CDS	192				hypothetical protein
+ODOLMAEB_00827	CDS	369	7a_29			Protein 7a
+ODOLMAEB_00828	CDS	159				hypothetical protein
+ODOLMAEB_00829	CDS	1263	N_65			Nucleoprotein
+ODOLMAEB_00830	misc_RNA	43				s2m
+ODOLMAEB_00831	CDS	13344	1a_52			Replicase polyprotein 1a
+ODOLMAEB_00832	misc_RNA	85				Corona_FSE
+ODOLMAEB_00833	CDS	7866	rep_80			Replicase polyprotein 1ab
+ODOLMAEB_00834	CDS	4035	S_68			Spike glycoprotein
+ODOLMAEB_00835	CDS	276				hypothetical protein
+ODOLMAEB_00836	CDS	360	ORF4a_12			Non-structural protein ORF4a
+ODOLMAEB_00837	CDS	702	ORF4b_12			Non-structural protein ORF4b
+ODOLMAEB_00838	CDS	684				hypothetical protein
+ODOLMAEB_00839	CDS	249	E_39			Envelope small membrane protein
+ODOLMAEB_00840	CDS	660	M_72			Membrane protein
+ODOLMAEB_00841	CDS	1272	N_66			Nucleoprotein
+ODOLMAEB_00842	CDS	12873	rep_81			Replicase polyprotein 1ab
+ODOLMAEB_00843	misc_RNA	85				Corona_FSE
+ODOLMAEB_00844	CDS	7728	rep_82			Replicase polyprotein 1ab
+ODOLMAEB_00845	CDS	3873	S_69			Spike glycoprotein
+ODOLMAEB_00846	CDS	687				hypothetical protein
+ODOLMAEB_00847	CDS	231				hypothetical protein
+ODOLMAEB_00848	CDS	315	M_73			Membrane protein
+ODOLMAEB_00849	CDS	1332	N_67			Nucleoprotein
+ODOLMAEB_00850	CDS	564				hypothetical protein
+ODOLMAEB_00851	CDS	582				hypothetical protein
+ODOLMAEB_00852	CDS	450				hypothetical protein
+ODOLMAEB_00853	CDS	13149	1a_53			Replicase polyprotein 1a
+ODOLMAEB_00854	misc_RNA	82				Corona_FSE
+ODOLMAEB_00855	CDS	7887	rep_83			Replicase polyprotein 1ab
+ODOLMAEB_00856	CDS	3711	S_70			Spike glycoprotein
+ODOLMAEB_00857	CDS	825	3a_30			Protein 3a
+ODOLMAEB_00858	CDS	231	E_40			Envelope small membrane protein
+ODOLMAEB_00859	CDS	666	M_74			Membrane protein
+ODOLMAEB_00860	CDS	192				hypothetical protein
+ODOLMAEB_00861	CDS	369	7a_30			Protein 7a
+ODOLMAEB_00862	CDS	135				hypothetical protein
+ODOLMAEB_00863	CDS	369				hypothetical protein
+ODOLMAEB_00864	CDS	1269	N_68			Nucleoprotein
+ODOLMAEB_00865	misc_RNA	43				s2m
+ODOLMAEB_00866	CDS	13578	1a_54			Replicase polyprotein 1a
+ODOLMAEB_00867	misc_RNA	85				Corona_FSE
+ODOLMAEB_00868	CDS	7872	rep_84			Replicase polyprotein 1ab
+ODOLMAEB_00869	CDS	4041	S_71			Spike glycoprotein
+ODOLMAEB_00870	CDS	312				hypothetical protein
+ODOLMAEB_00871	CDS	753	ORF4b_13			Non-structural protein ORF4b
+ODOLMAEB_00872	CDS	690				hypothetical protein
+ODOLMAEB_00873	CDS	249	E_41			Envelope small membrane protein
+ODOLMAEB_00874	CDS	657	M_75			Membrane protein
+ODOLMAEB_00875	CDS	1299	N_69			Nucleoprotein
+ODOLMAEB_00876	misc_RNA	61				Corona_pk3
+ODOLMAEB_00877	CDS	13578	1a_55			Replicase polyprotein 1a
+ODOLMAEB_00878	misc_RNA	85				Corona_FSE
+ODOLMAEB_00879	CDS	7872	rep_85			Replicase polyprotein 1ab
+ODOLMAEB_00880	CDS	4041	S_72			Spike glycoprotein
+ODOLMAEB_00881	CDS	312				hypothetical protein
+ODOLMAEB_00882	CDS	294	ORF4a_13			Non-structural protein ORF4a
+ODOLMAEB_00883	CDS	642	ORF4b_14			Non-structural protein ORF4b
+ODOLMAEB_00884	CDS	690				hypothetical protein
+ODOLMAEB_00885	CDS	249	E_42			Envelope small membrane protein
+ODOLMAEB_00886	CDS	684	M_76			Membrane protein
+ODOLMAEB_00887	CDS	1299	N_70			Nucleoprotein
+ODOLMAEB_00888	misc_RNA	61				Corona_pk3
+ODOLMAEB_00889	CDS	13167	1a_56			Replicase polyprotein 1a
+ODOLMAEB_00890	misc_RNA	85				Corona_FSE
+ODOLMAEB_00891	CDS	7875	rep_86			Replicase polyprotein 1ab
+ODOLMAEB_00892	CDS	4014	S_73			Spike glycoprotein
+ODOLMAEB_00893	CDS	306				hypothetical protein
+ODOLMAEB_00894	CDS	330	ORF4a_14			Non-structural protein ORF4a
+ODOLMAEB_00895	CDS	417	ORF4b_15			Non-structural protein ORF4b
+ODOLMAEB_00896	CDS	678				hypothetical protein
+ODOLMAEB_00897	CDS	651	M_77			Membrane protein
+ODOLMAEB_00898	CDS	1248	N_71			Nucleoprotein
+ODOLMAEB_00899	CDS	12261	1a_57			Replicase polyprotein 1a
+ODOLMAEB_00900	misc_RNA	79				Corona_FSE
+ODOLMAEB_00901	CDS	7851	rep_87			Replicase polyprotein 1ab
+ODOLMAEB_00902	CDS	4119	S_74			Spike glycoprotein
+ODOLMAEB_00903	CDS	684				hypothetical protein
+ODOLMAEB_00904	CDS	234				hypothetical protein
+ODOLMAEB_00905	CDS	693	M_78			Membrane protein
+ODOLMAEB_00906	CDS	1224	N_72			Nucleoprotein
+ODOLMAEB_00907	CDS	93				hypothetical protein
+ODOLMAEB_00908	CDS	288				hypothetical protein
+ODOLMAEB_00909	misc_RNA	63				Corona_pk3
+ODOLMAEB_00910	CDS	12342	1a_58			Replicase polyprotein 1a
+ODOLMAEB_00911	misc_RNA	79				Corona_FSE
+ODOLMAEB_00912	CDS	7842	rep_88			Replicase polyprotein 1ab
+ODOLMAEB_00913	CDS	4122	S_75			Spike glycoprotein
+ODOLMAEB_00914	CDS	684				hypothetical protein
+ODOLMAEB_00915	CDS	234				hypothetical protein
+ODOLMAEB_00916	CDS	681	M_79			Membrane protein
+ODOLMAEB_00917	CDS	1302	N_73			Nucleoprotein
+ODOLMAEB_00918	CDS	291				hypothetical protein
+ODOLMAEB_00919	misc_RNA	63				Corona_pk3
+ODOLMAEB_00920	CDS	12345	1a_59			Replicase polyprotein 1a
+ODOLMAEB_00921	misc_RNA	79				Corona_FSE
+ODOLMAEB_00922	CDS	7845	rep_89			Replicase polyprotein 1ab
+ODOLMAEB_00923	CDS	4134	S_76			Spike glycoprotein
+ODOLMAEB_00924	CDS	684				hypothetical protein
+ODOLMAEB_00925	CDS	684	M_80			Membrane protein
+ODOLMAEB_00926	CDS	1302	N_74			Nucleoprotein
+ODOLMAEB_00927	CDS	12270	1a_60			Replicase polyprotein 1a
+ODOLMAEB_00928	misc_RNA	79				Corona_FSE
+ODOLMAEB_00929	CDS	7851	rep_90			Replicase polyprotein 1ab
+ODOLMAEB_00930	CDS	4095	S_77			Spike glycoprotein
+ODOLMAEB_00931	CDS	681				hypothetical protein
+ODOLMAEB_00932	CDS	681	M_81			Membrane protein
+ODOLMAEB_00933	CDS	1161	N_75			Nucleoprotein
+ODOLMAEB_00934	CDS	288				hypothetical protein
+ODOLMAEB_00935	misc_RNA	63				Corona_pk3
+ODOLMAEB_00936	CDS	12288	1a_61			Replicase polyprotein 1a
+ODOLMAEB_00937	misc_RNA	79				Corona_FSE
+ODOLMAEB_00938	CDS	7851	rep_91			Replicase polyprotein 1ab
+ODOLMAEB_00939	CDS	4095	S_78			Spike glycoprotein
+ODOLMAEB_00940	CDS	684				hypothetical protein
+ODOLMAEB_00941	CDS	681	M_82			Membrane protein
+ODOLMAEB_00942	CDS	1200	N_76			Nucleoprotein
+ODOLMAEB_00943	CDS	198				hypothetical protein
+ODOLMAEB_00944	CDS	13149	1a_62			Replicase polyprotein 1a
+ODOLMAEB_00945	misc_RNA	82				Corona_FSE
+ODOLMAEB_00946	CDS	7887	rep_92			Replicase polyprotein 1ab
+ODOLMAEB_00947	CDS	3726	S_79			Spike glycoprotein
+ODOLMAEB_00948	CDS	825	3a_31			Protein 3a
+ODOLMAEB_00949	CDS	231	E_43			Envelope small membrane protein
+ODOLMAEB_00950	CDS	666	M_83			Membrane protein
+ODOLMAEB_00951	CDS	192				hypothetical protein
+ODOLMAEB_00952	CDS	369	7a_31			Protein 7a
+ODOLMAEB_00953	CDS	135				hypothetical protein
+ODOLMAEB_00954	CDS	366				hypothetical protein
+ODOLMAEB_00955	CDS	1269	N_77			Nucleoprotein
+ODOLMAEB_00956	misc_RNA	43				s2m
+ODOLMAEB_00957	CDS	13149	1a_63			Replicase polyprotein 1a
+ODOLMAEB_00958	misc_RNA	82				Corona_FSE
+ODOLMAEB_00959	CDS	7887	rep_93			Replicase polyprotein 1ab
+ODOLMAEB_00960	CDS	3726	S_80			Spike glycoprotein
+ODOLMAEB_00961	CDS	825	3a_32			Protein 3a
+ODOLMAEB_00962	CDS	231	E_44			Envelope small membrane protein
+ODOLMAEB_00963	CDS	666	M_84			Membrane protein
+ODOLMAEB_00964	CDS	192				hypothetical protein
+ODOLMAEB_00965	CDS	369	7a_32			Protein 7a
+ODOLMAEB_00966	CDS	135				hypothetical protein
+ODOLMAEB_00967	CDS	366				hypothetical protein
+ODOLMAEB_00968	CDS	1269	N_78			Nucleoprotein
+ODOLMAEB_00969	misc_RNA	43				s2m
+ODOLMAEB_00970	CDS	13149	1a_64			Replicase polyprotein 1a
+ODOLMAEB_00971	misc_RNA	82				Corona_FSE
+ODOLMAEB_00972	CDS	7887	rep_94			Replicase polyprotein 1ab
+ODOLMAEB_00973	CDS	3771	S_81			Spike glycoprotein
+ODOLMAEB_00974	CDS	825	3a_33			Protein 3a
+ODOLMAEB_00975	CDS	231	E_45			Envelope small membrane protein
+ODOLMAEB_00976	CDS	666	M_85			Membrane protein
+ODOLMAEB_00977	CDS	192				hypothetical protein
+ODOLMAEB_00978	CDS	369	7a_33			Protein 7a
+ODOLMAEB_00979	CDS	135				hypothetical protein
+ODOLMAEB_00980	CDS	144				hypothetical protein
+ODOLMAEB_00981	CDS	279				hypothetical protein
+ODOLMAEB_00982	CDS	1269	N_79			Nucleoprotein
+ODOLMAEB_00983	misc_RNA	43				s2m
+ODOLMAEB_00984	CDS	13149	1a_65			Replicase polyprotein 1a
+ODOLMAEB_00985	misc_RNA	82				Corona_FSE
+ODOLMAEB_00986	CDS	7887	rep_95			Replicase polyprotein 1ab
+ODOLMAEB_00987	CDS	3705	S_82			Spike glycoprotein
+ODOLMAEB_00988	CDS	825	3a_34			Protein 3a
+ODOLMAEB_00989	CDS	231	E_46			Envelope small membrane protein
+ODOLMAEB_00990	CDS	666	M_86			Membrane protein
+ODOLMAEB_00991	CDS	192				hypothetical protein
+ODOLMAEB_00992	CDS	369	7a_34			Protein 7a
+ODOLMAEB_00993	CDS	135				hypothetical protein
+ODOLMAEB_00994	CDS	369				hypothetical protein
+ODOLMAEB_00995	CDS	1269	N_80			Nucleoprotein
+ODOLMAEB_00996	misc_RNA	43				s2m
+ODOLMAEB_00997	CDS	13149	1a_66			Replicase polyprotein 1a
+ODOLMAEB_00998	misc_RNA	82				Corona_FSE
+ODOLMAEB_00999	CDS	7887	rep_96			Replicase polyprotein 1ab
+ODOLMAEB_01000	CDS	3768	S_83			Spike glycoprotein
+ODOLMAEB_01001	CDS	825	3a_35			Protein 3a
+ODOLMAEB_01002	CDS	231	E_47			Envelope small membrane protein
+ODOLMAEB_01003	CDS	666	M_87			Membrane protein
+ODOLMAEB_01004	CDS	192				hypothetical protein
+ODOLMAEB_01005	CDS	369	7a_35			Protein 7a
+ODOLMAEB_01006	CDS	135				hypothetical protein
+ODOLMAEB_01007	CDS	366				hypothetical protein
+ODOLMAEB_01008	CDS	1269	N_81			Nucleoprotein
+ODOLMAEB_01009	misc_RNA	43				s2m
+ODOLMAEB_01010	CDS	13149	1a_67			Replicase polyprotein 1a
+ODOLMAEB_01011	misc_RNA	82				Corona_FSE
+ODOLMAEB_01012	CDS	7887	rep_97			Replicase polyprotein 1ab
+ODOLMAEB_01013	CDS	3726	S_84			Spike glycoprotein
+ODOLMAEB_01014	CDS	825	3a_36			Protein 3a
+ODOLMAEB_01015	CDS	231	E_48			Envelope small membrane protein
+ODOLMAEB_01016	CDS	666	M_88			Membrane protein
+ODOLMAEB_01017	CDS	192				hypothetical protein
+ODOLMAEB_01018	CDS	369	7a_36			Protein 7a
+ODOLMAEB_01019	CDS	135				hypothetical protein
+ODOLMAEB_01020	CDS	366				hypothetical protein
+ODOLMAEB_01021	CDS	1269	N_82			Nucleoprotein
+ODOLMAEB_01022	misc_RNA	43				s2m
+ODOLMAEB_01023	CDS	13149	1a_68			Replicase polyprotein 1a
+ODOLMAEB_01024	misc_RNA	82				Corona_FSE
+ODOLMAEB_01025	CDS	7887	rep_98			Replicase polyprotein 1ab
+ODOLMAEB_01026	CDS	3729	S_85			Spike glycoprotein
+ODOLMAEB_01027	CDS	825	3a_37			Protein 3a
+ODOLMAEB_01028	CDS	231	E_49			Envelope small membrane protein
+ODOLMAEB_01029	CDS	666	M_89			Membrane protein
+ODOLMAEB_01030	CDS	192				hypothetical protein
+ODOLMAEB_01031	CDS	369	7a_37			Protein 7a
+ODOLMAEB_01032	CDS	135				hypothetical protein
+ODOLMAEB_01033	CDS	366				hypothetical protein
+ODOLMAEB_01034	CDS	1269	N_83			Nucleoprotein
+ODOLMAEB_01035	misc_RNA	43				s2m
+ODOLMAEB_01036	CDS	13149	1a_69			Replicase polyprotein 1a
+ODOLMAEB_01037	misc_RNA	82				Corona_FSE
+ODOLMAEB_01038	CDS	7887	rep_99			Replicase polyprotein 1ab
+ODOLMAEB_01039	CDS	3726	S_86			Spike glycoprotein
+ODOLMAEB_01040	CDS	825	3a_38			Protein 3a
+ODOLMAEB_01041	CDS	231	E_50			Envelope small membrane protein
+ODOLMAEB_01042	CDS	666	M_90			Membrane protein
+ODOLMAEB_01043	CDS	192				hypothetical protein
+ODOLMAEB_01044	CDS	369	7a_38			Protein 7a
+ODOLMAEB_01045	CDS	135				hypothetical protein
+ODOLMAEB_01046	CDS	366				hypothetical protein
+ODOLMAEB_01047	CDS	1269	N_84			Nucleoprotein
+ODOLMAEB_01048	misc_RNA	43				s2m
+ODOLMAEB_01049	CDS	13149	1a_70			Replicase polyprotein 1a
+ODOLMAEB_01050	misc_RNA	82				Corona_FSE
+ODOLMAEB_01051	CDS	7887	rep_100			Replicase polyprotein 1ab
+ODOLMAEB_01052	CDS	3768	S_87			Spike glycoprotein
+ODOLMAEB_01053	CDS	825	3a_39			Protein 3a
+ODOLMAEB_01054	CDS	231	E_51			Envelope small membrane protein
+ODOLMAEB_01055	CDS	666	M_91			Membrane protein
+ODOLMAEB_01056	CDS	192				hypothetical protein
+ODOLMAEB_01057	CDS	510				hypothetical protein
+ODOLMAEB_01058	CDS	369	7a_39			Protein 7a
+ODOLMAEB_01059	CDS	135				hypothetical protein
+ODOLMAEB_01060	CDS	366				hypothetical protein
+ODOLMAEB_01061	CDS	1269	N_85			Nucleoprotein
+ODOLMAEB_01062	misc_RNA	43				s2m
+ODOLMAEB_01063	CDS	13149	1a_71			Replicase polyprotein 1a
+ODOLMAEB_01064	misc_RNA	82				Corona_FSE
+ODOLMAEB_01065	CDS	7887	rep_101			Replicase polyprotein 1ab
+ODOLMAEB_01066	CDS	3771	S_88			Spike glycoprotein
+ODOLMAEB_01067	CDS	825	3a_40			Protein 3a
+ODOLMAEB_01068	CDS	231	E_52			Envelope small membrane protein
+ODOLMAEB_01069	CDS	666	M_92			Membrane protein
+ODOLMAEB_01070	CDS	192				hypothetical protein
+ODOLMAEB_01071	CDS	510				hypothetical protein
+ODOLMAEB_01072	CDS	369	7a_40			Protein 7a
+ODOLMAEB_01073	CDS	135				hypothetical protein
+ODOLMAEB_01074	CDS	366				hypothetical protein
+ODOLMAEB_01075	CDS	1269	N_86			Nucleoprotein
+ODOLMAEB_01076	misc_RNA	43				s2m
+ODOLMAEB_01077	CDS	13149	1a_72			Replicase polyprotein 1a
+ODOLMAEB_01078	misc_RNA	82				Corona_FSE
+ODOLMAEB_01079	CDS	7887	rep_102			Replicase polyprotein 1ab
+ODOLMAEB_01080	CDS	3771	S_89			Spike glycoprotein
+ODOLMAEB_01081	CDS	825	3a_41			Protein 3a
+ODOLMAEB_01082	CDS	231	E_53			Envelope small membrane protein
+ODOLMAEB_01083	CDS	666	M_93			Membrane protein
+ODOLMAEB_01084	CDS	192				hypothetical protein
+ODOLMAEB_01085	CDS	369	7a_41			Protein 7a
+ODOLMAEB_01086	CDS	135				hypothetical protein
+ODOLMAEB_01087	CDS	366				hypothetical protein
+ODOLMAEB_01088	CDS	1269	N_87			Nucleoprotein
+ODOLMAEB_01089	misc_RNA	43				s2m
+ODOLMAEB_01090	CDS	10773	1a_73			Replicase polyprotein 1a
+ODOLMAEB_01091	misc_RNA	79				Corona_FSE
+ODOLMAEB_01092	CDS	7851	rep_103			Replicase polyprotein 1ab
+ODOLMAEB_01093	CDS	4176	S_90			Spike glycoprotein
+ODOLMAEB_01094	CDS	660				hypothetical protein
+ODOLMAEB_01095	CDS	687	M_94			Membrane protein
+ODOLMAEB_01096	CDS	1302	N_88			Nucleoprotein
+ODOLMAEB_01097	misc_RNA	63				Corona_pk3
+ODOLMAEB_01098	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_01099	CDS	12078	1a_74			Replicase polyprotein 1a
+ODOLMAEB_01100	misc_RNA	79				Corona_FSE
+ODOLMAEB_01101	CDS	7851	rep_104			Replicase polyprotein 1ab
+ODOLMAEB_01102	CDS	4188	S_91			Spike glycoprotein
+ODOLMAEB_01103	CDS	660				hypothetical protein
+ODOLMAEB_01104	CDS	687	M_95			Membrane protein
+ODOLMAEB_01105	CDS	1302	N_89			Nucleoprotein
+ODOLMAEB_01106	misc_RNA	64				Corona_pk3
+ODOLMAEB_01107	CDS	13149	1a_75			Replicase polyprotein 1a
+ODOLMAEB_01108	misc_RNA	82				Corona_FSE
+ODOLMAEB_01109	CDS	7887	rep_105			Replicase polyprotein 1ab
+ODOLMAEB_01110	CDS	3702	S_92			Spike glycoprotein
+ODOLMAEB_01111	CDS	825	3a_42			Protein 3a
+ODOLMAEB_01112	CDS	231	E_54			Envelope small membrane protein
+ODOLMAEB_01113	CDS	666	M_96			Membrane protein
+ODOLMAEB_01114	CDS	192				hypothetical protein
+ODOLMAEB_01115	CDS	369	7a_42			Protein 7a
+ODOLMAEB_01116	CDS	135				hypothetical protein
+ODOLMAEB_01117	CDS	369				hypothetical protein
+ODOLMAEB_01118	CDS	1266	N_90			Nucleoprotein
+ODOLMAEB_01119	misc_RNA	43				s2m
+ODOLMAEB_01120	CDS	13149	1a_76			Replicase polyprotein 1a
+ODOLMAEB_01121	misc_RNA	82				Corona_FSE
+ODOLMAEB_01122	CDS	7887	rep_106			Replicase polyprotein 1ab
+ODOLMAEB_01123	CDS	3702	S_93			Spike glycoprotein
+ODOLMAEB_01124	CDS	825	3a_43			Protein 3a
+ODOLMAEB_01125	CDS	231	E_55			Envelope small membrane protein
+ODOLMAEB_01126	CDS	666	M_97			Membrane protein
+ODOLMAEB_01127	CDS	192				hypothetical protein
+ODOLMAEB_01128	CDS	369				hypothetical protein
+ODOLMAEB_01129	CDS	1266	N_91			Nucleoprotein
+ODOLMAEB_01130	misc_RNA	43				s2m
+ODOLMAEB_01131	CDS	13134	1a_77			Replicase polyprotein 1a
+ODOLMAEB_01132	misc_RNA	82				Corona_FSE
+ODOLMAEB_01133	CDS	7887	rep_107			Replicase polyprotein 1ab
+ODOLMAEB_01134	CDS	3726	S_94			Spike glycoprotein
+ODOLMAEB_01135	CDS	825	3a_44			Protein 3a
+ODOLMAEB_01136	CDS	231	E_56			Envelope small membrane protein
+ODOLMAEB_01137	CDS	666	M_98			Membrane protein
+ODOLMAEB_01138	CDS	192				hypothetical protein
+ODOLMAEB_01139	CDS	369	7a_43			Protein 7a
+ODOLMAEB_01140	CDS	135				hypothetical protein
+ODOLMAEB_01141	CDS	369				hypothetical protein
+ODOLMAEB_01142	CDS	1266	N_92			Nucleoprotein
+ODOLMAEB_01143	misc_RNA	43				s2m
+ODOLMAEB_01144	CDS	12483	1a_78			Replicase polyprotein 1a
+ODOLMAEB_01145	misc_RNA	79				Corona_FSE
+ODOLMAEB_01146	CDS	7875	rep_108			Replicase polyprotein 1ab
+ODOLMAEB_01147	CDS	4098	S_95			Spike glycoprotein
+ODOLMAEB_01148	CDS	678				hypothetical protein
+ODOLMAEB_01149	CDS	225				hypothetical protein
+ODOLMAEB_01150	CDS	681	M_99			Membrane protein
+ODOLMAEB_01151	CDS	1278	N_93			Nucleoprotein
+ODOLMAEB_01152	CDS	390				hypothetical protein
+ODOLMAEB_01153	misc_RNA	63				Corona_pk3
+ODOLMAEB_01154	CDS	12555				hypothetical protein
+ODOLMAEB_01155	misc_RNA	82				Corona_FSE
+ODOLMAEB_01156	CDS	7941	rep_109			Replicase polyprotein 1ab
+ODOLMAEB_01157	CDS	3711	S_96			Spike glycoprotein
+ODOLMAEB_01158	CDS	825	3a_45			Protein 3a
+ODOLMAEB_01159	CDS	231	E_57			Envelope small membrane protein
+ODOLMAEB_01160	CDS	666	M_100			Membrane protein
+ODOLMAEB_01161	CDS	192				hypothetical protein
+ODOLMAEB_01162	CDS	369	7a_44			Protein 7a
+ODOLMAEB_01163	CDS	147				hypothetical protein
+ODOLMAEB_01164	CDS	1263	N_94			Nucleoprotein
+ODOLMAEB_01165	misc_RNA	43				s2m
+ODOLMAEB_01166	CDS	13479	1a_79			Replicase polyprotein 1a
+ODOLMAEB_01167	misc_RNA	85				Corona_FSE
+ODOLMAEB_01168	CDS	7872	rep_110			Replicase polyprotein 1ab
+ODOLMAEB_01169	CDS	4020	S_97			Spike glycoprotein
+ODOLMAEB_01170	CDS	312				hypothetical protein
+ODOLMAEB_01171	CDS	285	ORF4a_15			Non-structural protein ORF4a
+ODOLMAEB_01172	CDS	714	ORF4b_16			Non-structural protein ORF4b
+ODOLMAEB_01173	CDS	696				hypothetical protein
+ODOLMAEB_01174	CDS	249	E_58			Envelope small membrane protein
+ODOLMAEB_01175	CDS	657	M_101			Membrane protein
+ODOLMAEB_01176	CDS	1305	N_95			Nucleoprotein
+ODOLMAEB_01177	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_01178	CDS	12180	1a_80			Replicase polyprotein 1a
+ODOLMAEB_01179	misc_RNA	79				Corona_FSE
+ODOLMAEB_01180	CDS	7839	rep_111			Replicase polyprotein 1ab
+ODOLMAEB_01181	CDS	3393				hypothetical protein
+ODOLMAEB_01182	CDS	690				hypothetical protein
+ODOLMAEB_01183	CDS	228				hypothetical protein
+ODOLMAEB_01184	CDS	690	M_102			Membrane protein
+ODOLMAEB_01185	CDS	1128	N_96			Nucleoprotein
+ODOLMAEB_01186	CDS	300				hypothetical protein
+ODOLMAEB_01187	misc_RNA	63				Corona_pk3
+ODOLMAEB_01188	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_01189	CDS	12183	1a_81			Replicase polyprotein 1a
+ODOLMAEB_01190	misc_RNA	79				Corona_FSE
+ODOLMAEB_01191	CDS	7839	rep_112			Replicase polyprotein 1ab
+ODOLMAEB_01192	CDS	3393				hypothetical protein
+ODOLMAEB_01193	CDS	690				hypothetical protein
+ODOLMAEB_01194	CDS	228				hypothetical protein
+ODOLMAEB_01195	CDS	687	M_103			Membrane protein
+ODOLMAEB_01196	CDS	1128	N_97			Nucleoprotein
+ODOLMAEB_01197	CDS	300				hypothetical protein
+ODOLMAEB_01198	misc_RNA	63				Corona_pk3
+ODOLMAEB_01199	CDS	13170	1a_82			Replicase polyprotein 1a
+ODOLMAEB_01200	misc_RNA	85				Corona_FSE
+ODOLMAEB_01201	CDS	7872	rep_113			Replicase polyprotein 1ab
+ODOLMAEB_01202	CDS	4014	S_98			Spike glycoprotein
+ODOLMAEB_01203	CDS	312				hypothetical protein
+ODOLMAEB_01204	CDS	762	ORF4b_17			Non-structural protein ORF4b
+ODOLMAEB_01205	CDS	684				hypothetical protein
+ODOLMAEB_01206	CDS	249	E_59			Envelope small membrane protein
+ODOLMAEB_01207	CDS	657	M_104			Membrane protein
+ODOLMAEB_01208	CDS	1290	N_98			Nucleoprotein
+ODOLMAEB_01209	misc_RNA	61				Corona_pk3
+ODOLMAEB_01210	CDS	13170	1a_83			Replicase polyprotein 1a
+ODOLMAEB_01211	misc_RNA	85				Corona_FSE
+ODOLMAEB_01212	CDS	7872	rep_114			Replicase polyprotein 1ab
+ODOLMAEB_01213	CDS	4014	S_99			Spike glycoprotein
+ODOLMAEB_01214	CDS	312				hypothetical protein
+ODOLMAEB_01215	CDS	288	ORF4a_16			Non-structural protein ORF4a
+ODOLMAEB_01216	CDS	603	ORF4b_18			Non-structural protein ORF4b
+ODOLMAEB_01217	CDS	684				hypothetical protein
+ODOLMAEB_01218	CDS	249	E_60			Envelope small membrane protein
+ODOLMAEB_01219	CDS	657	M_105			Membrane protein
+ODOLMAEB_01220	CDS	1290	N_99			Nucleoprotein
+ODOLMAEB_01221	misc_RNA	61				Corona_pk3
+ODOLMAEB_01222	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_01223	CDS	12183	1a_84			Replicase polyprotein 1a
+ODOLMAEB_01224	misc_RNA	79				Corona_FSE
+ODOLMAEB_01225	CDS	7839	rep_115			Replicase polyprotein 1ab
+ODOLMAEB_01226	CDS	3393				hypothetical protein
+ODOLMAEB_01227	CDS	690				hypothetical protein
+ODOLMAEB_01228	CDS	228				hypothetical protein
+ODOLMAEB_01229	CDS	687	M_106			Membrane protein
+ODOLMAEB_01230	CDS	1128	N_100			Nucleoprotein
+ODOLMAEB_01231	CDS	300				hypothetical protein
+ODOLMAEB_01232	misc_RNA	63				Corona_pk3
+ODOLMAEB_01233	CDS	12723	rep_116			Replicase polyprotein 1ab
+ODOLMAEB_01234	CDS	8076	rep_117			Replicase polyprotein 1ab
+ODOLMAEB_01235	misc_RNA	85				Corona_FSE
+ODOLMAEB_01236	CDS	3798	S_100			Spike glycoprotein
+ODOLMAEB_01237	CDS	693				hypothetical protein
+ODOLMAEB_01238	CDS	231				hypothetical protein
+ODOLMAEB_01239	CDS	675	M_107			Membrane protein
+ODOLMAEB_01240	CDS	1410	N_101			Nucleoprotein
+ODOLMAEB_01241	CDS	594				hypothetical protein
+ODOLMAEB_01242	CDS	444				hypothetical protein
+ODOLMAEB_01243	CDS	13206	1a_85			Replicase polyprotein 1a
+ODOLMAEB_01244	misc_RNA	82				Corona_FSE
+ODOLMAEB_01245	CDS	7887	rep_118			Replicase polyprotein 1ab
+ODOLMAEB_01246	CDS	3741	S_101			Spike glycoprotein
+ODOLMAEB_01247	CDS	828	3a_46			Protein 3a
+ODOLMAEB_01248	CDS	228	E_61			Envelope small membrane protein
+ODOLMAEB_01249	CDS	669	M_108			Membrane protein
+ODOLMAEB_01250	CDS	186				hypothetical protein
+ODOLMAEB_01251	CDS	366	7a_45			Protein 7a
+ODOLMAEB_01252	CDS	366				hypothetical protein
+ODOLMAEB_01253	CDS	1260	N_102			Nucleoprotein
+ODOLMAEB_01254	misc_RNA	43				s2m
+ODOLMAEB_01255	CDS	13140	1a_86			Replicase polyprotein 1a
+ODOLMAEB_01256	misc_RNA	82				Corona_FSE
+ODOLMAEB_01257	CDS	7887	rep_119			Replicase polyprotein 1ab
+ODOLMAEB_01258	CDS	3738	S_102			Spike glycoprotein
+ODOLMAEB_01259	CDS	828	3a_47			Protein 3a
+ODOLMAEB_01260	CDS	228	E_62			Envelope small membrane protein
+ODOLMAEB_01261	CDS	669	M_109			Membrane protein
+ODOLMAEB_01262	CDS	186				hypothetical protein
+ODOLMAEB_01263	CDS	366	7a_46			Protein 7a
+ODOLMAEB_01264	CDS	366				hypothetical protein
+ODOLMAEB_01265	CDS	1260	N_103			Nucleoprotein
+ODOLMAEB_01266	misc_RNA	43				s2m
+ODOLMAEB_01267	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01268	CDS	12177	1a_87			Replicase polyprotein 1a
+ODOLMAEB_01269	misc_RNA	79				Corona_FSE
+ODOLMAEB_01270	CDS	7827	rep_120			Replicase polyprotein 1ab
+ODOLMAEB_01271	CDS	4062	S_103			Spike glycoprotein
+ODOLMAEB_01272	CDS	669				hypothetical protein
+ODOLMAEB_01273	CDS	447				hypothetical protein
+ODOLMAEB_01274	CDS	684	M_110			Membrane protein
+ODOLMAEB_01275	CDS	1212	N_104			Nucleoprotein
+ODOLMAEB_01276	CDS	366				hypothetical protein
+ODOLMAEB_01277	misc_RNA	63				Corona_pk3
+ODOLMAEB_01278	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01279	CDS	12147	1a_88			Replicase polyprotein 1a
+ODOLMAEB_01280	misc_RNA	79				Corona_FSE
+ODOLMAEB_01281	CDS	7827	rep_121			Replicase polyprotein 1ab
+ODOLMAEB_01282	CDS	4059	S_104			Spike glycoprotein
+ODOLMAEB_01283	CDS	660				hypothetical protein
+ODOLMAEB_01284	CDS	447				hypothetical protein
+ODOLMAEB_01285	CDS	690	M_111			Membrane protein
+ODOLMAEB_01286	CDS	1227	N_105			Nucleoprotein
+ODOLMAEB_01287	CDS	273				hypothetical protein
+ODOLMAEB_01288	misc_RNA	63				Corona_pk3
+ODOLMAEB_01289	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01290	CDS	12147	1a_89			Replicase polyprotein 1a
+ODOLMAEB_01291	misc_RNA	79				Corona_FSE
+ODOLMAEB_01292	CDS	7827	rep_122			Replicase polyprotein 1ab
+ODOLMAEB_01293	CDS	4059	S_105			Spike glycoprotein
+ODOLMAEB_01294	CDS	660				hypothetical protein
+ODOLMAEB_01295	CDS	327				hypothetical protein
+ODOLMAEB_01296	CDS	447				hypothetical protein
+ODOLMAEB_01297	CDS	690	M_112			Membrane protein
+ODOLMAEB_01298	CDS	1227	N_106			Nucleoprotein
+ODOLMAEB_01299	CDS	279				hypothetical protein
+ODOLMAEB_01300	misc_RNA	63				Corona_pk3
+ODOLMAEB_01301	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_01302	CDS	12174	1a_90			Replicase polyprotein 1a
+ODOLMAEB_01303	misc_RNA	79				Corona_FSE
+ODOLMAEB_01304	CDS	7881	rep_123			Replicase polyprotein 1ab
+ODOLMAEB_01305	CDS	4080	S_106			Spike glycoprotein
+ODOLMAEB_01306	CDS	657				hypothetical protein
+ODOLMAEB_01307	CDS	474				hypothetical protein
+ODOLMAEB_01308	CDS	198				hypothetical protein
+ODOLMAEB_01309	CDS	741	M_113			Membrane protein
+ODOLMAEB_01310	CDS	1176	N_107			Nucleoprotein
+ODOLMAEB_01311	CDS	279				hypothetical protein
+ODOLMAEB_01312	CDS	363				hypothetical protein
+ODOLMAEB_01313	misc_RNA	63				Corona_pk3
+ODOLMAEB_01314	CDS	13329	1a_91			Replicase polyprotein 1a
+ODOLMAEB_01315	misc_RNA	85				Corona_FSE
+ODOLMAEB_01316	CDS	7866	rep_124			Replicase polyprotein 1ab
+ODOLMAEB_01317	CDS	4035	S_107			Spike glycoprotein
+ODOLMAEB_01318	CDS	267				hypothetical protein
+ODOLMAEB_01319	CDS	357	ORF4a_17			Non-structural protein ORF4a
+ODOLMAEB_01320	CDS	702	ORF4b_19			Non-structural protein ORF4b
+ODOLMAEB_01321	CDS	684				hypothetical protein
+ODOLMAEB_01322	CDS	249	E_63			Envelope small membrane protein
+ODOLMAEB_01323	CDS	654	M_114			Membrane protein
+ODOLMAEB_01324	CDS	1272	N_108			Nucleoprotein
+ODOLMAEB_01325	CDS	13329	1a_92			Replicase polyprotein 1a
+ODOLMAEB_01326	misc_RNA	85				Corona_FSE
+ODOLMAEB_01327	CDS	7863	rep_125			Replicase polyprotein 1ab
+ODOLMAEB_01328	CDS	4035	S_108			Spike glycoprotein
+ODOLMAEB_01329	CDS	267				hypothetical protein
+ODOLMAEB_01330	CDS	357	ORF4a_18			Non-structural protein ORF4a
+ODOLMAEB_01331	CDS	702	ORF4b_20			Non-structural protein ORF4b
+ODOLMAEB_01332	CDS	684				hypothetical protein
+ODOLMAEB_01333	CDS	249	E_64			Envelope small membrane protein
+ODOLMAEB_01334	CDS	657	M_115			Membrane protein
+ODOLMAEB_01335	CDS	1272	N_109			Nucleoprotein
+ODOLMAEB_01336	CDS	13335	1a_93			Replicase polyprotein 1a
+ODOLMAEB_01337	misc_RNA	85				Corona_FSE
+ODOLMAEB_01338	CDS	7866	rep_126			Replicase polyprotein 1ab
+ODOLMAEB_01339	CDS	4035	S_109			Spike glycoprotein
+ODOLMAEB_01340	CDS	276				hypothetical protein
+ODOLMAEB_01341	CDS	360	ORF4a_19			Non-structural protein ORF4a
+ODOLMAEB_01342	CDS	702	ORF4b_21			Non-structural protein ORF4b
+ODOLMAEB_01343	CDS	684				hypothetical protein
+ODOLMAEB_01344	CDS	249	E_65			Envelope small membrane protein
+ODOLMAEB_01345	CDS	660	M_116			Membrane protein
+ODOLMAEB_01346	CDS	1272	N_110			Nucleoprotein
+ODOLMAEB_01347	CDS	13449	1a_94			Replicase polyprotein 1a
+ODOLMAEB_01348	misc_RNA	85				Corona_FSE
+ODOLMAEB_01349	CDS	7914	rep_127			Replicase polyprotein 1ab
+ODOLMAEB_01350	CDS	3924	S_110			Spike glycoprotein
+ODOLMAEB_01351	CDS	312				hypothetical protein
+ODOLMAEB_01352	CDS	360	ORF4a_20			Non-structural protein ORF4a
+ODOLMAEB_01353	CDS	660	ORF4b_22			Non-structural protein ORF4b
+ODOLMAEB_01354	CDS	672				hypothetical protein
+ODOLMAEB_01355	CDS	249	E_66			Envelope small membrane protein
+ODOLMAEB_01356	CDS	354	M_117			Membrane protein
+ODOLMAEB_01357	CDS	1284	N_111			Nucleoprotein
+ODOLMAEB_01358	CDS	13446	1a_95			Replicase polyprotein 1a
+ODOLMAEB_01359	misc_RNA	85				Corona_FSE
+ODOLMAEB_01360	CDS	7914	rep_128			Replicase polyprotein 1ab
+ODOLMAEB_01361	CDS	3906	S_111			Spike glycoprotein
+ODOLMAEB_01362	CDS	312				hypothetical protein
+ODOLMAEB_01363	CDS	360	ORF4a_21			Non-structural protein ORF4a
+ODOLMAEB_01364	CDS	660	ORF4b_23			Non-structural protein ORF4b
+ODOLMAEB_01365	CDS	672				hypothetical protein
+ODOLMAEB_01366	CDS	249	E_67			Envelope small membrane protein
+ODOLMAEB_01367	CDS	663	M_118			Membrane protein
+ODOLMAEB_01368	CDS	1284	N_112			Nucleoprotein
+ODOLMAEB_01369	misc_RNA	60				Corona_pk3
+ODOLMAEB_01370	CDS	13503	1a_96			Replicase polyprotein 1a
+ODOLMAEB_01371	misc_RNA	85				Corona_FSE
+ODOLMAEB_01372	CDS	7905	rep_129			Replicase polyprotein 1ab
+ODOLMAEB_01373	CDS	3912	S_112			Spike glycoprotein
+ODOLMAEB_01374	CDS	312				hypothetical protein
+ODOLMAEB_01375	CDS	360	ORF4a_22			Non-structural protein ORF4a
+ODOLMAEB_01376	CDS	660	ORF4b_24			Non-structural protein ORF4b
+ODOLMAEB_01377	CDS	672				hypothetical protein
+ODOLMAEB_01378	CDS	249	E_68			Envelope small membrane protein
+ODOLMAEB_01379	CDS	663	M_119			Membrane protein
+ODOLMAEB_01380	CDS	1284	N_113			Nucleoprotein
+ODOLMAEB_01381	misc_RNA	60				Corona_pk3
+ODOLMAEB_01382	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_01383	CDS	12183	1a_97			Replicase polyprotein 1a
+ODOLMAEB_01384	misc_RNA	79				Corona_FSE
+ODOLMAEB_01385	CDS	7839	rep_130			Replicase polyprotein 1ab
+ODOLMAEB_01386	CDS	3393				hypothetical protein
+ODOLMAEB_01387	CDS	690				hypothetical protein
+ODOLMAEB_01388	CDS	228				hypothetical protein
+ODOLMAEB_01389	CDS	687	M_120			Membrane protein
+ODOLMAEB_01390	CDS	1128	N_114			Nucleoprotein
+ODOLMAEB_01391	CDS	300				hypothetical protein
+ODOLMAEB_01392	misc_RNA	63				Corona_pk3
+ODOLMAEB_01393	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_01394	CDS	12183	1a_98			Replicase polyprotein 1a
+ODOLMAEB_01395	misc_RNA	89				Corona_FSE
+ODOLMAEB_01396	CDS	7839	rep_131			Replicase polyprotein 1ab
+ODOLMAEB_01397	CDS	3393				hypothetical protein
+ODOLMAEB_01398	CDS	690				hypothetical protein
+ODOLMAEB_01399	CDS	228				hypothetical protein
+ODOLMAEB_01400	CDS	690	M_121			Membrane protein
+ODOLMAEB_01401	CDS	1128	N_115			Nucleoprotein
+ODOLMAEB_01402	CDS	300				hypothetical protein
+ODOLMAEB_01403	misc_RNA	63				Corona_pk3
+ODOLMAEB_01404	misc_RNA	69				Coronavirus_5p_sl_1_2
+ODOLMAEB_01405	CDS	11874	1a_99			Replicase polyprotein 1a
+ODOLMAEB_01406	misc_RNA	79				Corona_FSE
+ODOLMAEB_01407	CDS	7893	rep_132			Replicase polyprotein 1ab
+ODOLMAEB_01408	CDS	4122	S_113			Spike glycoprotein
+ODOLMAEB_01409	CDS	651				hypothetical protein
+ODOLMAEB_01410	CDS	228				hypothetical protein
+ODOLMAEB_01411	CDS	684	M_122			Membrane protein
+ODOLMAEB_01412	CDS	1305	N_116			Nucleoprotein
+ODOLMAEB_01413	CDS	291				hypothetical protein
+ODOLMAEB_01414	misc_RNA	63				Corona_pk3
+ODOLMAEB_01415	misc_RNA	54				Coronavirus_5p_sl_1_2
+ODOLMAEB_01416	CDS	11913	1a_100			Replicase polyprotein 1a
+ODOLMAEB_01417	misc_RNA	79				Corona_FSE
+ODOLMAEB_01418	CDS	7818	rep_133			Replicase polyprotein 1ab
+ODOLMAEB_01419	CDS	4200	S_114			Spike glycoprotein
+ODOLMAEB_01420	CDS	654				hypothetical protein
+ODOLMAEB_01421	CDS	708	M_123			Membrane protein
+ODOLMAEB_01422	CDS	1299	N_117			Nucleoprotein
+ODOLMAEB_01423	CDS	327				hypothetical protein
+ODOLMAEB_01424	misc_RNA	63				Corona_pk3
+ODOLMAEB_01425	CDS	11958	1a_101			Replicase polyprotein 1a
+ODOLMAEB_01426	misc_RNA	79				Corona_FSE
+ODOLMAEB_01427	CDS	7818	rep_134			Replicase polyprotein 1ab
+ODOLMAEB_01428	CDS	4200	S_115			Spike glycoprotein
+ODOLMAEB_01429	CDS	654				hypothetical protein
+ODOLMAEB_01430	CDS	708	M_124			Membrane protein
+ODOLMAEB_01431	CDS	1299	N_118			Nucleoprotein
+ODOLMAEB_01432	CDS	327				hypothetical protein
+ODOLMAEB_01433	misc_RNA	63				Corona_pk3
+ODOLMAEB_01434	CDS	12543	rep_135			Replicase polyprotein 1ab
+ODOLMAEB_01435	misc_RNA	85				Corona_FSE
+ODOLMAEB_01436	CDS	7719	rep_136			Replicase polyprotein 1ab
+ODOLMAEB_01437	CDS	3825	S_116			Spike glycoprotein
+ODOLMAEB_01438	CDS	693				hypothetical protein
+ODOLMAEB_01439	CDS	666	M_125			Membrane protein
+ODOLMAEB_01440	CDS	1392				hypothetical protein
+ODOLMAEB_01441	CDS	603				hypothetical protein
+ODOLMAEB_01442	CDS	594				hypothetical protein
+ODOLMAEB_01443	CDS	441				hypothetical protein
+ODOLMAEB_01444	misc_RNA	59				Corona_pk3
+ODOLMAEB_01445	CDS	11811	1a_102			Replicase polyprotein 1a
+ODOLMAEB_01446	misc_RNA	79				Corona_FSE
+ODOLMAEB_01447	CDS	7860	rep_137			Replicase polyprotein 1ab
+ODOLMAEB_01448	CDS	4098	S_117			Spike glycoprotein
+ODOLMAEB_01449	CDS	606				hypothetical protein
+ODOLMAEB_01450	CDS	228				hypothetical protein
+ODOLMAEB_01451	CDS	687	M_126			Membrane protein
+ODOLMAEB_01452	CDS	1272	N_119			Nucleoprotein
+ODOLMAEB_01453	CDS	360				hypothetical protein
+ODOLMAEB_01454	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01455	CDS	12147	1a_103			Replicase polyprotein 1a
+ODOLMAEB_01456	misc_RNA	79				Corona_FSE
+ODOLMAEB_01457	CDS	7827	rep_138			Replicase polyprotein 1ab
+ODOLMAEB_01458	CDS	4056	S_118			Spike glycoprotein
+ODOLMAEB_01459	CDS	669				hypothetical protein
+ODOLMAEB_01460	CDS	360				hypothetical protein
+ODOLMAEB_01461	CDS	444				hypothetical protein
+ODOLMAEB_01462	CDS	687	M_127			Membrane protein
+ODOLMAEB_01463	CDS	1143	N_120			Nucleoprotein
+ODOLMAEB_01464	CDS	279				hypothetical protein
+ODOLMAEB_01465	CDS	363				hypothetical protein
+ODOLMAEB_01466	misc_RNA	63				Corona_pk3
+ODOLMAEB_01467	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01468	CDS	12147	1a_104			Replicase polyprotein 1a
+ODOLMAEB_01469	misc_RNA	79				Corona_FSE
+ODOLMAEB_01470	CDS	7827	rep_139			Replicase polyprotein 1ab
+ODOLMAEB_01471	CDS	4056	S_119			Spike glycoprotein
+ODOLMAEB_01472	CDS	669				hypothetical protein
+ODOLMAEB_01473	CDS	360				hypothetical protein
+ODOLMAEB_01474	CDS	444				hypothetical protein
+ODOLMAEB_01475	CDS	687	M_128			Membrane protein
+ODOLMAEB_01476	CDS	1143	N_121			Nucleoprotein
+ODOLMAEB_01477	CDS	279				hypothetical protein
+ODOLMAEB_01478	CDS	363				hypothetical protein
+ODOLMAEB_01479	misc_RNA	63				Corona_pk3
+ODOLMAEB_01480	CDS	12237	1a_105			Replicase polyprotein 1a
+ODOLMAEB_01481	misc_RNA	79				Corona_FSE
+ODOLMAEB_01482	CDS	7830	rep_140			Replicase polyprotein 1ab
+ODOLMAEB_01483	CDS	4095	S_120			Spike glycoprotein
+ODOLMAEB_01484	CDS	675				hypothetical protein
+ODOLMAEB_01485	CDS	687	M_129			Membrane protein
+ODOLMAEB_01486	CDS	1260	N_122			Nucleoprotein
+ODOLMAEB_01487	CDS	375				hypothetical protein
+ODOLMAEB_01488	misc_RNA	63				Corona_pk3
+ODOLMAEB_01489	misc_RNA	60				Coronavirus_5p_sl_1_2
+ODOLMAEB_01490	CDS	12288	1a_106			Replicase polyprotein 1a
+ODOLMAEB_01491	misc_RNA	79				Corona_FSE
+ODOLMAEB_01492	CDS	7854	rep_141			Replicase polyprotein 1ab
+ODOLMAEB_01493	CDS	4092	S_121			Spike glycoprotein
+ODOLMAEB_01494	CDS	684				hypothetical protein
+ODOLMAEB_01495	CDS	681	M_130			Membrane protein
+ODOLMAEB_01496	CDS	1203	N_123			Nucleoprotein
+ODOLMAEB_01497	CDS	12696				hypothetical protein
+ODOLMAEB_01498	misc_RNA	79				Corona_FSE
+ODOLMAEB_01499	CDS	7830	rep_142			Replicase polyprotein 1ab
+ODOLMAEB_01500	CDS	4125	S_122			Spike glycoprotein
+ODOLMAEB_01501	CDS	669				hypothetical protein
+ODOLMAEB_01502	CDS	225				hypothetical protein
+ODOLMAEB_01503	CDS	759	M_131			Membrane protein
+ODOLMAEB_01504	CDS	1269	N_124			Nucleoprotein
+ODOLMAEB_01505	CDS	477				hypothetical protein
+ODOLMAEB_01506	misc_RNA	62				Corona_pk3
+ODOLMAEB_01507	CDS	13338	1a_107			Replicase polyprotein 1a
+ODOLMAEB_01508	misc_RNA	85				Corona_FSE
+ODOLMAEB_01509	CDS	7863	rep_143			Replicase polyprotein 1ab
+ODOLMAEB_01510	CDS	4035	S_123			Spike glycoprotein
+ODOLMAEB_01511	CDS	276				hypothetical protein
+ODOLMAEB_01512	CDS	360	ORF4a_23			Non-structural protein ORF4a
+ODOLMAEB_01513	CDS	702	ORF4b_25			Non-structural protein ORF4b
+ODOLMAEB_01514	CDS	684				hypothetical protein
+ODOLMAEB_01515	CDS	249	E_69			Envelope small membrane protein
+ODOLMAEB_01516	CDS	660	M_132			Membrane protein
+ODOLMAEB_01517	CDS	1272	N_125			Nucleoprotein
+ODOLMAEB_01518	CDS	13443	1a_108			Replicase polyprotein 1a
+ODOLMAEB_01519	misc_RNA	85				Corona_FSE
+ODOLMAEB_01520	CDS	7908	rep_144			Replicase polyprotein 1ab
+ODOLMAEB_01521	CDS	3924	S_124			Spike glycoprotein
+ODOLMAEB_01522	CDS	312				hypothetical protein
+ODOLMAEB_01523	CDS	360	ORF4a_24			Non-structural protein ORF4a
+ODOLMAEB_01524	CDS	660	ORF4b_26			Non-structural protein ORF4b
+ODOLMAEB_01525	CDS	672				hypothetical protein
+ODOLMAEB_01526	CDS	249	E_70			Envelope small membrane protein
+ODOLMAEB_01527	CDS	354	M_133			Membrane protein
+ODOLMAEB_01528	CDS	1284	N_126			Nucleoprotein
+ODOLMAEB_01529	misc_RNA	60				Corona_pk3
+ODOLMAEB_01530	CDS	12387	1a_109			Replicase polyprotein 1a
+ODOLMAEB_01531	misc_RNA	79				Corona_FSE
+ODOLMAEB_01532	CDS	7839	rep_145			Replicase polyprotein 1ab
+ODOLMAEB_01533	CDS	4020	S_125			Spike glycoprotein
+ODOLMAEB_01534	CDS	675				hypothetical protein
+ODOLMAEB_01535	CDS	684	M_134			Membrane protein
+ODOLMAEB_01536	CDS	1101				hypothetical protein
+ODOLMAEB_01537	misc_RNA	63				Corona_pk3
+ODOLMAEB_01538	CDS	12183	1a_110			Replicase polyprotein 1a
+ODOLMAEB_01539	misc_RNA	79				Corona_FSE
+ODOLMAEB_01540	CDS	7839	rep_146			Replicase polyprotein 1ab
+ODOLMAEB_01541	CDS	3360				hypothetical protein
+ODOLMAEB_01542	CDS	690				hypothetical protein
+ODOLMAEB_01543	CDS	228				hypothetical protein
+ODOLMAEB_01544	CDS	687	M_135			Membrane protein
+ODOLMAEB_01545	CDS	1131	N_127			Nucleoprotein
+ODOLMAEB_01546	CDS	300				hypothetical protein
+ODOLMAEB_01547	misc_RNA	63				Corona_pk3
+ODOLMAEB_01548	misc_RNA	71				Coronavirus_5p_sl_1_2
+ODOLMAEB_01549	CDS	12357	1a_111			Replicase polyprotein 1a
+ODOLMAEB_01550	misc_RNA	79				Corona_FSE
+ODOLMAEB_01551	CDS	7833	rep_147			Replicase polyprotein 1ab
+ODOLMAEB_01552	CDS	3612	S_126			Spike glycoprotein
+ODOLMAEB_01553	CDS	657				hypothetical protein
+ODOLMAEB_01554	CDS	225				hypothetical protein
+ODOLMAEB_01555	CDS	687	M_136			Membrane protein
+ODOLMAEB_01556	CDS	1209	N_128			Nucleoprotein
+ODOLMAEB_01557	CDS	243				hypothetical protein
+ODOLMAEB_01558	CDS	462				hypothetical protein
+ODOLMAEB_01559	misc_RNA	63				Corona_pk3
+ODOLMAEB_01560	CDS	12810				hypothetical protein
+ODOLMAEB_01561	misc_RNA	79				Corona_FSE
+ODOLMAEB_01562	CDS	7827	rep_148			Replicase polyprotein 1ab
+ODOLMAEB_01563	CDS	4131	S_127			Spike glycoprotein
+ODOLMAEB_01564	CDS	660				hypothetical protein
+ODOLMAEB_01565	CDS	225				hypothetical protein
+ODOLMAEB_01566	CDS	768	M_137			Membrane protein
+ODOLMAEB_01567	CDS	1170	N_129			Nucleoprotein
+ODOLMAEB_01568	misc_RNA	62				Coronavirus_5p_sl_1_2
+ODOLMAEB_01569	CDS	12162	1a_112			Replicase polyprotein 1a
+ODOLMAEB_01570	misc_RNA	79				Corona_FSE
+ODOLMAEB_01571	CDS	7833	rep_149			Replicase polyprotein 1ab
+ODOLMAEB_01572	CDS	4059	S_128			Spike glycoprotein
+ODOLMAEB_01573	CDS	657				hypothetical protein
+ODOLMAEB_01574	CDS	225				hypothetical protein
+ODOLMAEB_01575	CDS	681	M_138			Membrane protein
+ODOLMAEB_01576	CDS	1158	N_130			Nucleoprotein
+ODOLMAEB_01577	CDS	252				hypothetical protein
+ODOLMAEB_01578	CDS	435				hypothetical protein
+ODOLMAEB_01579	misc_RNA	63				Corona_pk3
+ODOLMAEB_01580	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01581	CDS	12387	1a_113			Replicase polyprotein 1a
+ODOLMAEB_01582	misc_RNA	79				Corona_FSE
+ODOLMAEB_01583	CDS	7830	rep_150			Replicase polyprotein 1ab
+ODOLMAEB_01584	CDS	4116	S_129			Spike glycoprotein
+ODOLMAEB_01585	CDS	675				hypothetical protein
+ODOLMAEB_01586	CDS	231				hypothetical protein
+ODOLMAEB_01587	CDS	684	M_139			Membrane protein
+ODOLMAEB_01588	CDS	1185	N_131			Nucleoprotein
+ODOLMAEB_01589	CDS	390				hypothetical protein
+ODOLMAEB_01590	misc_RNA	63				Corona_pk3
+ODOLMAEB_01591	CDS	12387	1a_114			Replicase polyprotein 1a
+ODOLMAEB_01592	misc_RNA	79				Corona_FSE
+ODOLMAEB_01593	CDS	7830	rep_151			Replicase polyprotein 1ab
+ODOLMAEB_01594	CDS	4119	S_130			Spike glycoprotein
+ODOLMAEB_01595	CDS	675				hypothetical protein
+ODOLMAEB_01596	CDS	231				hypothetical protein
+ODOLMAEB_01597	CDS	687	M_140			Membrane protein
+ODOLMAEB_01598	CDS	1185	N_132			Nucleoprotein
+ODOLMAEB_01599	CDS	492				hypothetical protein
+ODOLMAEB_01600	misc_RNA	63				Corona_pk3
+ODOLMAEB_01601	CDS	12321	1a_115			Replicase polyprotein 1a
+ODOLMAEB_01602	misc_RNA	79				Corona_FSE
+ODOLMAEB_01603	CDS	7830	rep_152			Replicase polyprotein 1ab
+ODOLMAEB_01604	CDS	4116	S_131			Spike glycoprotein
+ODOLMAEB_01605	CDS	675				hypothetical protein
+ODOLMAEB_01606	CDS	231				hypothetical protein
+ODOLMAEB_01607	CDS	684	M_141			Membrane protein
+ODOLMAEB_01608	CDS	1185	N_133			Nucleoprotein
+ODOLMAEB_01609	CDS	12321	1a_116			Replicase polyprotein 1a
+ODOLMAEB_01610	misc_RNA	79				Corona_FSE
+ODOLMAEB_01611	CDS	7830	rep_153			Replicase polyprotein 1ab
+ODOLMAEB_01612	CDS	4116	S_132			Spike glycoprotein
+ODOLMAEB_01613	CDS	675				hypothetical protein
+ODOLMAEB_01614	CDS	684	M_142			Membrane protein
+ODOLMAEB_01615	CDS	1185	N_134			Nucleoprotein
+ODOLMAEB_01616	CDS	495				hypothetical protein
+ODOLMAEB_01617	misc_RNA	63				Corona_pk3
+ODOLMAEB_01618	CDS	12387	1a_117			Replicase polyprotein 1a
+ODOLMAEB_01619	misc_RNA	79				Corona_FSE
+ODOLMAEB_01620	CDS	7839	rep_154			Replicase polyprotein 1ab
+ODOLMAEB_01621	CDS	4107	S_133			Spike glycoprotein
+ODOLMAEB_01622	CDS	675				hypothetical protein
+ODOLMAEB_01623	CDS	231				hypothetical protein
+ODOLMAEB_01624	CDS	684	M_143			Membrane protein
+ODOLMAEB_01625	CDS	1185	N_135			Nucleoprotein
+ODOLMAEB_01626	CDS	492				hypothetical protein
+ODOLMAEB_01627	misc_RNA	63				Corona_pk3
+ODOLMAEB_01628	CDS	12387	1a_118			Replicase polyprotein 1a
+ODOLMAEB_01629	misc_RNA	79				Corona_FSE
+ODOLMAEB_01630	CDS	7830	rep_155			Replicase polyprotein 1ab
+ODOLMAEB_01631	CDS	4119	S_134			Spike glycoprotein
+ODOLMAEB_01632	CDS	675				hypothetical protein
+ODOLMAEB_01633	CDS	231				hypothetical protein
+ODOLMAEB_01634	CDS	684	M_144			Membrane protein
+ODOLMAEB_01635	CDS	1185	N_136			Nucleoprotein
+ODOLMAEB_01636	CDS	495				hypothetical protein
+ODOLMAEB_01637	misc_RNA	63				Corona_pk3
+ODOLMAEB_01638	misc_RNA	63				Corona_pk3
+ODOLMAEB_01639	CDS	12321	1a_119			Replicase polyprotein 1a
+ODOLMAEB_01640	misc_RNA	79				Corona_FSE
+ODOLMAEB_01641	CDS	7830	rep_156			Replicase polyprotein 1ab
+ODOLMAEB_01642	CDS	4116	S_135			Spike glycoprotein
+ODOLMAEB_01643	CDS	675				hypothetical protein
+ODOLMAEB_01644	CDS	231				hypothetical protein
+ODOLMAEB_01645	CDS	684	M_145			Membrane protein
+ODOLMAEB_01646	CDS	1185	N_137			Nucleoprotein
+ODOLMAEB_01647	CDS	495				hypothetical protein
+ODOLMAEB_01648	misc_RNA	63				Corona_pk3
+ODOLMAEB_01649	CDS	12321	1a_120			Replicase polyprotein 1a
+ODOLMAEB_01650	misc_RNA	79				Corona_FSE
+ODOLMAEB_01651	CDS	7830	rep_157			Replicase polyprotein 1ab
+ODOLMAEB_01652	CDS	4119	S_136			Spike glycoprotein
+ODOLMAEB_01653	CDS	675				hypothetical protein
+ODOLMAEB_01654	CDS	231				hypothetical protein
+ODOLMAEB_01655	CDS	684	M_146			Membrane protein
+ODOLMAEB_01656	CDS	1185	N_138			Nucleoprotein
+ODOLMAEB_01657	CDS	495				hypothetical protein
+ODOLMAEB_01658	misc_RNA	63				Corona_pk3
+ODOLMAEB_01659	CDS	12387	1a_121			Replicase polyprotein 1a
+ODOLMAEB_01660	misc_RNA	79				Corona_FSE
+ODOLMAEB_01661	CDS	7800	rep_158			Replicase polyprotein 1ab
+ODOLMAEB_01662	CDS	4119	S_137			Spike glycoprotein
+ODOLMAEB_01663	CDS	675				hypothetical protein
+ODOLMAEB_01664	CDS	231				hypothetical protein
+ODOLMAEB_01665	CDS	687	M_147			Membrane protein
+ODOLMAEB_01666	CDS	1185	N_139			Nucleoprotein
+ODOLMAEB_01667	CDS	12387	1a_122			Replicase polyprotein 1a
+ODOLMAEB_01668	misc_RNA	79				Corona_FSE
+ODOLMAEB_01669	CDS	7839	rep_159			Replicase polyprotein 1ab
+ODOLMAEB_01670	CDS	4107	S_138			Spike glycoprotein
+ODOLMAEB_01671	CDS	675				hypothetical protein
+ODOLMAEB_01672	CDS	231				hypothetical protein
+ODOLMAEB_01673	CDS	537	M_148			Membrane protein
+ODOLMAEB_01674	CDS	1179	N_140			Nucleoprotein
+ODOLMAEB_01675	CDS	492				hypothetical protein
+ODOLMAEB_01676	misc_RNA	63				Corona_pk3
+ODOLMAEB_01677	CDS	12387	1a_123			Replicase polyprotein 1a
+ODOLMAEB_01678	misc_RNA	79				Corona_FSE
+ODOLMAEB_01679	CDS	7839	rep_160			Replicase polyprotein 1ab
+ODOLMAEB_01680	CDS	4107	S_139			Spike glycoprotein
+ODOLMAEB_01681	CDS	675				hypothetical protein
+ODOLMAEB_01682	CDS	231				hypothetical protein
+ODOLMAEB_01683	CDS	687	M_149			Membrane protein
+ODOLMAEB_01684	CDS	1185	N_141			Nucleoprotein
+ODOLMAEB_01685	CDS	492				hypothetical protein
+ODOLMAEB_01686	misc_RNA	63				Corona_pk3
+ODOLMAEB_01687	CDS	12387	1a_124			Replicase polyprotein 1a
+ODOLMAEB_01688	misc_RNA	79				Corona_FSE
+ODOLMAEB_01689	CDS	7839	rep_161			Replicase polyprotein 1ab
+ODOLMAEB_01690	CDS	4095	S_140			Spike glycoprotein
+ODOLMAEB_01691	CDS	675				hypothetical protein
+ODOLMAEB_01692	CDS	687	M_150			Membrane protein
+ODOLMAEB_01693	CDS	1179	N_142			Nucleoprotein
+ODOLMAEB_01694	CDS	492				hypothetical protein
+ODOLMAEB_01695	misc_RNA	63				Corona_pk3
+ODOLMAEB_01696	CDS	12387	1a_125			Replicase polyprotein 1a
+ODOLMAEB_01697	misc_RNA	79				Corona_FSE
+ODOLMAEB_01698	CDS	7830	rep_162			Replicase polyprotein 1ab
+ODOLMAEB_01699	CDS	4116	S_141			Spike glycoprotein
+ODOLMAEB_01700	CDS	675				hypothetical protein
+ODOLMAEB_01701	CDS	231				hypothetical protein
+ODOLMAEB_01702	CDS	687	M_151			Membrane protein
+ODOLMAEB_01703	CDS	1185	N_143			Nucleoprotein
+ODOLMAEB_01704	misc_RNA	63				Corona_pk3
+ODOLMAEB_01705	CDS	12387	1a_126			Replicase polyprotein 1a
+ODOLMAEB_01706	misc_RNA	79				Corona_FSE
+ODOLMAEB_01707	CDS	7830	rep_163			Replicase polyprotein 1ab
+ODOLMAEB_01708	CDS	4116	S_142			Spike glycoprotein
+ODOLMAEB_01709	CDS	675				hypothetical protein
+ODOLMAEB_01710	CDS	231				hypothetical protein
+ODOLMAEB_01711	CDS	687	M_152			Membrane protein
+ODOLMAEB_01712	CDS	1185	N_144			Nucleoprotein
+ODOLMAEB_01713	CDS	492				hypothetical protein
+ODOLMAEB_01714	misc_RNA	63				Corona_pk3
+ODOLMAEB_01715	CDS	12321	1a_127			Replicase polyprotein 1a
+ODOLMAEB_01716	misc_RNA	79				Corona_FSE
+ODOLMAEB_01717	CDS	7830	rep_164			Replicase polyprotein 1ab
+ODOLMAEB_01718	CDS	12387	1a_128			Replicase polyprotein 1a
+ODOLMAEB_01719	misc_RNA	79				Corona_FSE
+ODOLMAEB_01720	CDS	7830	rep_165			Replicase polyprotein 1ab
+ODOLMAEB_01721	CDS	4119	S_143			Spike glycoprotein
+ODOLMAEB_01722	CDS	675				hypothetical protein
+ODOLMAEB_01723	CDS	231				hypothetical protein
+ODOLMAEB_01724	CDS	687	M_153			Membrane protein
+ODOLMAEB_01725	CDS	1185	N_145			Nucleoprotein
+ODOLMAEB_01726	CDS	495				hypothetical protein
+ODOLMAEB_01727	misc_RNA	63				Corona_pk3
+ODOLMAEB_01728	CDS	12321	1a_129			Replicase polyprotein 1a
+ODOLMAEB_01729	misc_RNA	79				Corona_FSE
+ODOLMAEB_01730	CDS	7830	rep_166			Replicase polyprotein 1ab
+ODOLMAEB_01731	CDS	4116	S_144			Spike glycoprotein
+ODOLMAEB_01732	CDS	675				hypothetical protein
+ODOLMAEB_01733	CDS	231				hypothetical protein
+ODOLMAEB_01734	CDS	684	M_154			Membrane protein
+ODOLMAEB_01735	CDS	1185	N_146			Nucleoprotein
+ODOLMAEB_01736	CDS	495				hypothetical protein
+ODOLMAEB_01737	misc_RNA	63				Corona_pk3
+ODOLMAEB_01738	CDS	12321	1a_130			Replicase polyprotein 1a
+ODOLMAEB_01739	misc_RNA	79				Corona_FSE
+ODOLMAEB_01740	CDS	7830	rep_167			Replicase polyprotein 1ab
+ODOLMAEB_01741	CDS	4116	S_145			Spike glycoprotein
+ODOLMAEB_01742	CDS	675				hypothetical protein
+ODOLMAEB_01743	CDS	684	M_155			Membrane protein
+ODOLMAEB_01744	CDS	1185	N_147			Nucleoprotein
+ODOLMAEB_01745	CDS	495				hypothetical protein
+ODOLMAEB_01746	misc_RNA	63				Corona_pk3
+ODOLMAEB_01747	CDS	12321	1a_131			Replicase polyprotein 1a
+ODOLMAEB_01748	misc_RNA	79				Corona_FSE
+ODOLMAEB_01749	CDS	7830	rep_168			Replicase polyprotein 1ab
+ODOLMAEB_01750	CDS	4119	S_146			Spike glycoprotein
+ODOLMAEB_01751	CDS	675				hypothetical protein
+ODOLMAEB_01752	CDS	231				hypothetical protein
+ODOLMAEB_01753	CDS	684	M_156			Membrane protein
+ODOLMAEB_01754	CDS	1185	N_148			Nucleoprotein
+ODOLMAEB_01755	CDS	498				hypothetical protein
+ODOLMAEB_01756	misc_RNA	63				Corona_pk3
+ODOLMAEB_01757	CDS	12321	1a_132			Replicase polyprotein 1a
+ODOLMAEB_01758	misc_RNA	79				Corona_FSE
+ODOLMAEB_01759	CDS	7830	rep_169			Replicase polyprotein 1ab
+ODOLMAEB_01760	CDS	4119	S_147			Spike glycoprotein
+ODOLMAEB_01761	CDS	675				hypothetical protein
+ODOLMAEB_01762	CDS	231				hypothetical protein
+ODOLMAEB_01763	CDS	684	M_157			Membrane protein
+ODOLMAEB_01764	CDS	12321	1a_133			Replicase polyprotein 1a
+ODOLMAEB_01765	misc_RNA	79				Corona_FSE
+ODOLMAEB_01766	CDS	7830	rep_170			Replicase polyprotein 1ab
+ODOLMAEB_01767	CDS	12387	1a_134			Replicase polyprotein 1a
+ODOLMAEB_01768	misc_RNA	79				Corona_FSE
+ODOLMAEB_01769	CDS	7830	rep_171			Replicase polyprotein 1ab
+ODOLMAEB_01770	CDS	4119	S_148			Spike glycoprotein
+ODOLMAEB_01771	CDS	675				hypothetical protein
+ODOLMAEB_01772	CDS	231				hypothetical protein
+ODOLMAEB_01773	CDS	687	M_158			Membrane protein
+ODOLMAEB_01774	CDS	1185	N_149			Nucleoprotein
+ODOLMAEB_01775	CDS	492				hypothetical protein
+ODOLMAEB_01776	misc_RNA	63				Corona_pk3
+ODOLMAEB_01777	CDS	12387	1a_135			Replicase polyprotein 1a
+ODOLMAEB_01778	misc_RNA	79				Corona_FSE
+ODOLMAEB_01779	CDS	7839	rep_172			Replicase polyprotein 1ab
+ODOLMAEB_01780	CDS	4095	S_149			Spike glycoprotein
+ODOLMAEB_01781	CDS	675				hypothetical protein
+ODOLMAEB_01782	CDS	231				hypothetical protein
+ODOLMAEB_01783	CDS	684	M_159			Membrane protein
+ODOLMAEB_01784	CDS	1185	N_150			Nucleoprotein
+ODOLMAEB_01785	CDS	492				hypothetical protein
+ODOLMAEB_01786	misc_RNA	63				Corona_pk3
+ODOLMAEB_01787	CDS	12387	1a_136			Replicase polyprotein 1a
+ODOLMAEB_01788	misc_RNA	79				Corona_FSE
+ODOLMAEB_01789	CDS	7839	rep_173			Replicase polyprotein 1ab
+ODOLMAEB_01790	CDS	4095	S_150			Spike glycoprotein
+ODOLMAEB_01791	CDS	675				hypothetical protein
+ODOLMAEB_01792	CDS	231				hypothetical protein
+ODOLMAEB_01793	CDS	687	M_160			Membrane protein
+ODOLMAEB_01794	CDS	1185	N_151			Nucleoprotein
+ODOLMAEB_01795	misc_RNA	63				Corona_pk3
+ODOLMAEB_01796	CDS	12387	1a_137			Replicase polyprotein 1a
+ODOLMAEB_01797	misc_RNA	79				Corona_FSE
+ODOLMAEB_01798	CDS	7839	rep_174			Replicase polyprotein 1ab
+ODOLMAEB_01799	CDS	4095	S_151			Spike glycoprotein
+ODOLMAEB_01800	CDS	675				hypothetical protein
+ODOLMAEB_01801	CDS	231				hypothetical protein
+ODOLMAEB_01802	CDS	687	M_161			Membrane protein
+ODOLMAEB_01803	CDS	1179	N_152			Nucleoprotein
+ODOLMAEB_01804	CDS	492				hypothetical protein
+ODOLMAEB_01805	misc_RNA	63				Corona_pk3
+ODOLMAEB_01806	CDS	12387	1a_138			Replicase polyprotein 1a
+ODOLMAEB_01807	misc_RNA	79				Corona_FSE
+ODOLMAEB_01808	CDS	7821	rep_175			Replicase polyprotein 1ab
+ODOLMAEB_01809	CDS	4095	S_152			Spike glycoprotein
+ODOLMAEB_01810	CDS	675				hypothetical protein
+ODOLMAEB_01811	CDS	231				hypothetical protein
+ODOLMAEB_01812	CDS	687	M_162			Membrane protein
+ODOLMAEB_01813	CDS	1185	N_153			Nucleoprotein
+ODOLMAEB_01814	misc_RNA	63				Corona_pk3
+ODOLMAEB_01815	CDS	12321	1a_139			Replicase polyprotein 1a
+ODOLMAEB_01816	misc_RNA	79				Corona_FSE
+ODOLMAEB_01817	CDS	7830	rep_176			Replicase polyprotein 1ab
+ODOLMAEB_01818	CDS	4116	S_153			Spike glycoprotein
+ODOLMAEB_01819	CDS	675				hypothetical protein
+ODOLMAEB_01820	CDS	684	M_163			Membrane protein
+ODOLMAEB_01821	CDS	1185	N_154			Nucleoprotein
+ODOLMAEB_01822	CDS	492				hypothetical protein
+ODOLMAEB_01823	misc_RNA	63				Corona_pk3
+ODOLMAEB_01824	CDS	12252	1a_140			Replicase polyprotein 1a
+ODOLMAEB_01825	misc_RNA	79				Corona_FSE
+ODOLMAEB_01826	CDS	7140				hypothetical protein
+ODOLMAEB_01827	CDS	4095	S_154			Spike glycoprotein
+ODOLMAEB_01828	CDS	675				hypothetical protein
+ODOLMAEB_01829	CDS	231				hypothetical protein
+ODOLMAEB_01830	CDS	684	M_164			Membrane protein
+ODOLMAEB_01831	CDS	1185	N_155			Nucleoprotein
+ODOLMAEB_01832	misc_RNA	63				Corona_pk3
+ODOLMAEB_01833	CDS	12387	1a_141			Replicase polyprotein 1a
+ODOLMAEB_01834	misc_RNA	79				Corona_FSE
+ODOLMAEB_01835	CDS	7839	rep_177			Replicase polyprotein 1ab
+ODOLMAEB_01836	CDS	4107	S_155			Spike glycoprotein
+ODOLMAEB_01837	CDS	675				hypothetical protein
+ODOLMAEB_01838	CDS	231				hypothetical protein
+ODOLMAEB_01839	CDS	684	M_165			Membrane protein
+ODOLMAEB_01840	CDS	1185	N_156			Nucleoprotein
+ODOLMAEB_01841	misc_RNA	63				Corona_pk3
+ODOLMAEB_01842	CDS	11814	1a_142			Replicase polyprotein 1a
+ODOLMAEB_01843	misc_RNA	79				Corona_FSE
+ODOLMAEB_01844	CDS	7830	rep_178			Replicase polyprotein 1ab
+ODOLMAEB_01845	CDS	4116	S_156			Spike glycoprotein
+ODOLMAEB_01846	CDS	675				hypothetical protein
+ODOLMAEB_01847	CDS	231				hypothetical protein
+ODOLMAEB_01848	CDS	684	M_166			Membrane protein
+ODOLMAEB_01849	CDS	1185	N_157			Nucleoprotein
+ODOLMAEB_01850	CDS	495				hypothetical protein
+ODOLMAEB_01851	misc_RNA	63				Corona_pk3
+ODOLMAEB_01852	CDS	12387	1a_143			Replicase polyprotein 1a
+ODOLMAEB_01853	misc_RNA	79				Corona_FSE
+ODOLMAEB_01854	CDS	7830	rep_179			Replicase polyprotein 1ab
+ODOLMAEB_01855	CDS	4116	S_157			Spike glycoprotein
+ODOLMAEB_01856	CDS	675				hypothetical protein
+ODOLMAEB_01857	CDS	231				hypothetical protein
+ODOLMAEB_01858	CDS	687	M_167			Membrane protein
+ODOLMAEB_01859	CDS	1185	N_158			Nucleoprotein
+ODOLMAEB_01860	CDS	492				hypothetical protein
+ODOLMAEB_01861	misc_RNA	63				Corona_pk3
+ODOLMAEB_01862	CDS	12387	1a_144			Replicase polyprotein 1a
+ODOLMAEB_01863	misc_RNA	79				Corona_FSE
+ODOLMAEB_01864	CDS	7830	rep_180			Replicase polyprotein 1ab
+ODOLMAEB_01865	CDS	4116	S_158			Spike glycoprotein
+ODOLMAEB_01866	CDS	675				hypothetical protein
+ODOLMAEB_01867	CDS	231				hypothetical protein
+ODOLMAEB_01868	CDS	687	M_168			Membrane protein
+ODOLMAEB_01869	CDS	1185	N_159			Nucleoprotein
+ODOLMAEB_01870	CDS	492				hypothetical protein
+ODOLMAEB_01871	misc_RNA	63				Corona_pk3
+ODOLMAEB_01872	CDS	12387	1a_145			Replicase polyprotein 1a
+ODOLMAEB_01873	misc_RNA	79				Corona_FSE
+ODOLMAEB_01874	CDS	7839	rep_181			Replicase polyprotein 1ab
+ODOLMAEB_01875	CDS	4095	S_159			Spike glycoprotein
+ODOLMAEB_01876	CDS	675				hypothetical protein
+ODOLMAEB_01877	CDS	231				hypothetical protein
+ODOLMAEB_01878	CDS	684	M_169			Membrane protein
+ODOLMAEB_01879	CDS	1185	N_160			Nucleoprotein
+ODOLMAEB_01880	misc_RNA	63				Corona_pk3
+ODOLMAEB_01881	CDS	12387	1a_146			Replicase polyprotein 1a
+ODOLMAEB_01882	misc_RNA	79				Corona_FSE
+ODOLMAEB_01883	CDS	7839	rep_182			Replicase polyprotein 1ab
+ODOLMAEB_01884	CDS	4107	S_160			Spike glycoprotein
+ODOLMAEB_01885	CDS	675				hypothetical protein
+ODOLMAEB_01886	CDS	231				hypothetical protein
+ODOLMAEB_01887	CDS	684	M_170			Membrane protein
+ODOLMAEB_01888	CDS	1179	N_161			Nucleoprotein
+ODOLMAEB_01889	CDS	492				hypothetical protein
+ODOLMAEB_01890	misc_RNA	63				Corona_pk3
+ODOLMAEB_01891	CDS	12321	1a_147			Replicase polyprotein 1a
+ODOLMAEB_01892	misc_RNA	79				Corona_FSE
+ODOLMAEB_01893	CDS	7584				hypothetical protein
+ODOLMAEB_01894	CDS	4116	S_161			Spike glycoprotein
+ODOLMAEB_01895	CDS	675				hypothetical protein
+ODOLMAEB_01896	CDS	225				hypothetical protein
+ODOLMAEB_01897	CDS	687	M_171			Membrane protein
+ODOLMAEB_01898	CDS	1185	N_162			Nucleoprotein
+ODOLMAEB_01899	CDS	240				hypothetical protein
+ODOLMAEB_01900	misc_RNA	63				Corona_pk3
+ODOLMAEB_01901	CDS	12270	1a_148			Replicase polyprotein 1a
+ODOLMAEB_01902	misc_RNA	79				Corona_FSE
+ODOLMAEB_01903	CDS	7830	rep_183			Replicase polyprotein 1ab
+ODOLMAEB_01904	CDS	4101	S_162			Spike glycoprotein
+ODOLMAEB_01905	CDS	675				hypothetical protein
+ODOLMAEB_01906	CDS	687	M_172			Membrane protein
+ODOLMAEB_01907	CDS	1281	N_163			Nucleoprotein
+ODOLMAEB_01908	CDS	387				hypothetical protein
+ODOLMAEB_01909	misc_RNA	63				Corona_pk3
+ODOLMAEB_01910	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01911	CDS	11970	1a_149			Replicase polyprotein 1a
+ODOLMAEB_01912	misc_RNA	79				Corona_FSE
+ODOLMAEB_01913	CDS	7854	rep_184			Replicase polyprotein 1ab
+ODOLMAEB_01914	CDS	4164	S_163			Spike glycoprotein
+ODOLMAEB_01915	CDS	657				hypothetical protein
+ODOLMAEB_01916	CDS	684	M_173			Membrane protein
+ODOLMAEB_01917	CDS	1290	N_164			Nucleoprotein
+ODOLMAEB_01918	misc_RNA	63				Corona_pk3
+ODOLMAEB_01919	CDS	11802	1a_150			Replicase polyprotein 1a
+ODOLMAEB_01920	misc_RNA	79				Corona_FSE
+ODOLMAEB_01921	CDS	7890	rep_185			Replicase polyprotein 1ab
+ODOLMAEB_01922	CDS	4113	S_164			Spike glycoprotein
+ODOLMAEB_01923	CDS	624				hypothetical protein
+ODOLMAEB_01924	CDS	228				hypothetical protein
+ODOLMAEB_01925	CDS	687	M_174			Membrane protein
+ODOLMAEB_01926	CDS	1296	N_165			Nucleoprotein
+ODOLMAEB_01927	CDS	396				hypothetical protein
+ODOLMAEB_01928	misc_RNA	64				Corona_pk3
+ODOLMAEB_01929	CDS	12231	1a_151			Replicase polyprotein 1a
+ODOLMAEB_01930	misc_RNA	79				Corona_FSE
+ODOLMAEB_01931	CDS	7920	rep_186			Replicase polyprotein 1ab
+ODOLMAEB_01932	CDS	4113	S_165			Spike glycoprotein
+ODOLMAEB_01933	CDS	690				hypothetical protein
+ODOLMAEB_01934	CDS	684	M_175			Membrane protein
+ODOLMAEB_01935	CDS	1152	N_166			Nucleoprotein
+ODOLMAEB_01936	misc_RNA	63				Corona_pk3
+ODOLMAEB_01937	CDS	12192	1a_152			Replicase polyprotein 1a
+ODOLMAEB_01938	misc_RNA	79				Corona_FSE
+ODOLMAEB_01939	CDS	7920	rep_187			Replicase polyprotein 1ab
+ODOLMAEB_01940	CDS	4113	S_166			Spike glycoprotein
+ODOLMAEB_01941	CDS	690				hypothetical protein
+ODOLMAEB_01942	CDS	684	M_176			Membrane protein
+ODOLMAEB_01943	CDS	1152	N_167			Nucleoprotein
+ODOLMAEB_01944	CDS	234				hypothetical protein
+ODOLMAEB_01945	misc_RNA	63				Corona_pk3
+ODOLMAEB_01946	CDS	12147	1a_153			Replicase polyprotein 1a
+ODOLMAEB_01947	misc_RNA	79				Corona_FSE
+ODOLMAEB_01948	CDS	7839	rep_188			Replicase polyprotein 1ab
+ODOLMAEB_01949	CDS	3399				hypothetical protein
+ODOLMAEB_01950	CDS	690				hypothetical protein
+ODOLMAEB_01951	CDS	228				hypothetical protein
+ODOLMAEB_01952	CDS	687	M_177			Membrane protein
+ODOLMAEB_01953	CDS	1128	N_168			Nucleoprotein
+ODOLMAEB_01954	CDS	300				hypothetical protein
+ODOLMAEB_01955	misc_RNA	63				Corona_pk3
+ODOLMAEB_01956	CDS	13116	1a_154			Replicase polyprotein 1a
+ODOLMAEB_01957	misc_RNA	82				Corona_FSE
+ODOLMAEB_01958	CDS	7887	rep_189			Replicase polyprotein 1ab
+ODOLMAEB_01959	CDS	3726	S_167			Spike glycoprotein
+ODOLMAEB_01960	CDS	825	3a_48			Protein 3a
+ODOLMAEB_01961	CDS	231	E_71			Envelope small membrane protein
+ODOLMAEB_01962	CDS	666	M_178			Membrane protein
+ODOLMAEB_01963	CDS	120				hypothetical protein
+ODOLMAEB_01964	CDS	369	7a_47			Protein 7a
+ODOLMAEB_01965	CDS	135				hypothetical protein
+ODOLMAEB_01966	CDS	366				hypothetical protein
+ODOLMAEB_01967	CDS	1266	N_169			Nucleoprotein
+ODOLMAEB_01968	misc_RNA	43				s2m
+ODOLMAEB_01969	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_01970	CDS	93				hypothetical protein
+ODOLMAEB_01971	CDS	12147	1a_155			Replicase polyprotein 1a
+ODOLMAEB_01972	misc_RNA	79				Corona_FSE
+ODOLMAEB_01973	CDS	7827	rep_190			Replicase polyprotein 1ab
+ODOLMAEB_01974	CDS	4053	S_168			Spike glycoprotein
+ODOLMAEB_01975	CDS	669				hypothetical protein
+ODOLMAEB_01976	CDS	447				hypothetical protein
+ODOLMAEB_01977	CDS	684	M_179			Membrane protein
+ODOLMAEB_01978	CDS	1212	N_170			Nucleoprotein
+ODOLMAEB_01979	CDS	279				hypothetical protein
+ODOLMAEB_01980	CDS	366				hypothetical protein
+ODOLMAEB_01981	misc_RNA	63				Corona_pk3
+ODOLMAEB_01982	CDS	13149	1a_156			Replicase polyprotein 1a
+ODOLMAEB_01983	misc_RNA	82				Corona_FSE
+ODOLMAEB_01984	CDS	7620	rep_191			Replicase polyprotein 1ab
+ODOLMAEB_01985	CDS	3729	S_169			Spike glycoprotein
+ODOLMAEB_01986	CDS	825	3a_49			Protein 3a
+ODOLMAEB_01987	CDS	231	E_72			Envelope small membrane protein
+ODOLMAEB_01988	CDS	666	M_180			Membrane protein
+ODOLMAEB_01989	CDS	192				hypothetical protein
+ODOLMAEB_01990	CDS	369	7a_48			Protein 7a
+ODOLMAEB_01991	CDS	135				hypothetical protein
+ODOLMAEB_01992	CDS	366				hypothetical protein
+ODOLMAEB_01993	CDS	1269	N_171			Nucleoprotein
+ODOLMAEB_01994	misc_RNA	43				s2m
+ODOLMAEB_01995	CDS	13149	1a_157			Replicase polyprotein 1a
+ODOLMAEB_01996	misc_RNA	82				Corona_FSE
+ODOLMAEB_01997	CDS	7887	rep_192			Replicase polyprotein 1ab
+ODOLMAEB_01998	CDS	3771	S_170			Spike glycoprotein
+ODOLMAEB_01999	CDS	825	3a_50			Protein 3a
+ODOLMAEB_02000	CDS	231	E_73			Envelope small membrane protein
+ODOLMAEB_02001	CDS	666	M_181			Membrane protein
+ODOLMAEB_02002	CDS	192				hypothetical protein
+ODOLMAEB_02003	CDS	510				hypothetical protein
+ODOLMAEB_02004	CDS	369	7a_49			Protein 7a
+ODOLMAEB_02005	CDS	135				hypothetical protein
+ODOLMAEB_02006	CDS	366				hypothetical protein
+ODOLMAEB_02007	CDS	1269	N_172			Nucleoprotein
+ODOLMAEB_02008	misc_RNA	43				s2m
+ODOLMAEB_02009	CDS	13149	1a_158			Replicase polyprotein 1a
+ODOLMAEB_02010	misc_RNA	82				Corona_FSE
+ODOLMAEB_02011	CDS	7887	rep_193			Replicase polyprotein 1ab
+ODOLMAEB_02012	CDS	3726	S_171			Spike glycoprotein
+ODOLMAEB_02013	CDS	825	3a_51			Protein 3a
+ODOLMAEB_02014	CDS	231	E_74			Envelope small membrane protein
+ODOLMAEB_02015	CDS	666	M_182			Membrane protein
+ODOLMAEB_02016	CDS	192				hypothetical protein
+ODOLMAEB_02017	CDS	369	7a_50			Protein 7a
+ODOLMAEB_02018	CDS	135				hypothetical protein
+ODOLMAEB_02019	CDS	366				hypothetical protein
+ODOLMAEB_02020	CDS	1269	N_173			Nucleoprotein
+ODOLMAEB_02021	misc_RNA	43				s2m
+ODOLMAEB_02022	CDS	13149	1a_159			Replicase polyprotein 1a
+ODOLMAEB_02023	misc_RNA	82				Corona_FSE
+ODOLMAEB_02024	CDS	7887	rep_194			Replicase polyprotein 1ab
+ODOLMAEB_02025	CDS	3726	S_172			Spike glycoprotein
+ODOLMAEB_02026	CDS	825	3a_52			Protein 3a
+ODOLMAEB_02027	CDS	231	E_75			Envelope small membrane protein
+ODOLMAEB_02028	CDS	558	M_183			Membrane protein
+ODOLMAEB_02029	CDS	192				hypothetical protein
+ODOLMAEB_02030	CDS	510				hypothetical protein
+ODOLMAEB_02031	CDS	369	7a_51			Protein 7a
+ODOLMAEB_02032	CDS	135				hypothetical protein
+ODOLMAEB_02033	CDS	366				hypothetical protein
+ODOLMAEB_02034	CDS	1269	N_174			Nucleoprotein
+ODOLMAEB_02035	misc_RNA	43				s2m
+ODOLMAEB_02036	CDS	12741	rep_195			Replicase polyprotein 1ab
+ODOLMAEB_02037	misc_RNA	85				Corona_FSE
+ODOLMAEB_02038	CDS	7773	rep_196			Replicase polyprotein 1ab
+ODOLMAEB_02039	CDS	3834	S_173			Spike glycoprotein
+ODOLMAEB_02040	CDS	663				hypothetical protein
+ODOLMAEB_02041	CDS	669	M_184			Membrane protein
+ODOLMAEB_02042	CDS	1392				hypothetical protein
+ODOLMAEB_02043	CDS	603				hypothetical protein
+ODOLMAEB_02044	CDS	594				hypothetical protein
+ODOLMAEB_02045	CDS	441				hypothetical protein
+ODOLMAEB_02046	misc_RNA	59				Corona_pk3
+ODOLMAEB_02047	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_02048	CDS	12387	1a_160			Replicase polyprotein 1a
+ODOLMAEB_02049	misc_RNA	79				Corona_FSE
+ODOLMAEB_02050	CDS	7830	rep_197			Replicase polyprotein 1ab
+ODOLMAEB_02051	CDS	4116	S_174			Spike glycoprotein
+ODOLMAEB_02052	CDS	675				hypothetical protein
+ODOLMAEB_02053	CDS	231				hypothetical protein
+ODOLMAEB_02054	CDS	687	M_185			Membrane protein
+ODOLMAEB_02055	CDS	1185	N_175			Nucleoprotein
+ODOLMAEB_02056	CDS	495				hypothetical protein
+ODOLMAEB_02057	misc_RNA	63				Corona_pk3
+ODOLMAEB_02058	CDS	12387	1a_161			Replicase polyprotein 1a
+ODOLMAEB_02059	misc_RNA	79				Corona_FSE
+ODOLMAEB_02060	CDS	7830	rep_198			Replicase polyprotein 1ab
+ODOLMAEB_02061	CDS	4119	S_175			Spike glycoprotein
+ODOLMAEB_02062	CDS	675				hypothetical protein
+ODOLMAEB_02063	CDS	231				hypothetical protein
+ODOLMAEB_02064	CDS	687	M_186			Membrane protein
+ODOLMAEB_02065	CDS	1185	N_176			Nucleoprotein
+ODOLMAEB_02066	CDS	495				hypothetical protein
+ODOLMAEB_02067	misc_RNA	63				Corona_pk3
+ODOLMAEB_02068	CDS	12387	1a_162			Replicase polyprotein 1a
+ODOLMAEB_02069	misc_RNA	79				Corona_FSE
+ODOLMAEB_02070	CDS	7830	rep_199			Replicase polyprotein 1ab
+ODOLMAEB_02071	CDS	4119	S_176			Spike glycoprotein
+ODOLMAEB_02072	CDS	675				hypothetical protein
+ODOLMAEB_02073	CDS	231				hypothetical protein
+ODOLMAEB_02074	CDS	687	M_187			Membrane protein
+ODOLMAEB_02075	CDS	1185	N_177			Nucleoprotein
+ODOLMAEB_02076	CDS	495				hypothetical protein
+ODOLMAEB_02077	misc_RNA	63				Corona_pk3
+ODOLMAEB_02078	CDS	12387	1a_163			Replicase polyprotein 1a
+ODOLMAEB_02079	misc_RNA	79				Corona_FSE
+ODOLMAEB_02080	CDS	7836	rep_200			Replicase polyprotein 1ab
+ODOLMAEB_02081	CDS	4098	S_177			Spike glycoprotein
+ODOLMAEB_02082	CDS	675				hypothetical protein
+ODOLMAEB_02083	CDS	231				hypothetical protein
+ODOLMAEB_02084	CDS	687	M_188			Membrane protein
+ODOLMAEB_02085	CDS	1185	N_178			Nucleoprotein
+ODOLMAEB_02086	CDS	495				hypothetical protein
+ODOLMAEB_02087	misc_RNA	63				Corona_pk3
+ODOLMAEB_02088	CDS	13479	1a_164			Replicase polyprotein 1a
+ODOLMAEB_02089	misc_RNA	85				Corona_FSE
+ODOLMAEB_02090	CDS	7872	rep_201			Replicase polyprotein 1ab
+ODOLMAEB_02091	CDS	4035	S_178			Spike glycoprotein
+ODOLMAEB_02092	CDS	312				hypothetical protein
+ODOLMAEB_02093	CDS	750	ORF4b_27			Non-structural protein ORF4b
+ODOLMAEB_02094	CDS	696				hypothetical protein
+ODOLMAEB_02095	CDS	249	E_76			Envelope small membrane protein
+ODOLMAEB_02096	CDS	657	M_189			Membrane protein
+ODOLMAEB_02097	CDS	1305	N_179			Nucleoprotein
+ODOLMAEB_02098	misc_RNA	61				Corona_pk3
+ODOLMAEB_02099	CDS	13194	1a_165			Replicase polyprotein 1a
+ODOLMAEB_02100	misc_RNA	85				Corona_FSE
+ODOLMAEB_02101	CDS	7875	rep_202			Replicase polyprotein 1ab
+ODOLMAEB_02102	CDS	4035	S_179			Spike glycoprotein
+ODOLMAEB_02103	CDS	312				hypothetical protein
+ODOLMAEB_02104	CDS	777	ORF4b_28			Non-structural protein ORF4b
+ODOLMAEB_02105	CDS	675				hypothetical protein
+ODOLMAEB_02106	CDS	249	E_77			Envelope small membrane protein
+ODOLMAEB_02107	CDS	660	M_190			Membrane protein
+ODOLMAEB_02108	CDS	1245	N_180			Nucleoprotein
+ODOLMAEB_02109	misc_RNA	61				Corona_pk3
+ODOLMAEB_02110	CDS	13149	1a_166			Replicase polyprotein 1a
+ODOLMAEB_02111	misc_RNA	82				Corona_FSE
+ODOLMAEB_02112	CDS	7887	rep_203			Replicase polyprotein 1ab
+ODOLMAEB_02113	CDS	3768	S_180			Spike glycoprotein
+ODOLMAEB_02114	CDS	825	3a_53			Protein 3a
+ODOLMAEB_02115	CDS	231	E_78			Envelope small membrane protein
+ODOLMAEB_02116	CDS	666	M_191			Membrane protein
+ODOLMAEB_02117	CDS	192				hypothetical protein
+ODOLMAEB_02118	CDS	294				hypothetical protein
+ODOLMAEB_02119	CDS	369	7a_52			Protein 7a
+ODOLMAEB_02120	CDS	135				hypothetical protein
+ODOLMAEB_02121	CDS	366				hypothetical protein
+ODOLMAEB_02122	CDS	1269	N_181			Nucleoprotein
+ODOLMAEB_02123	misc_RNA	43				s2m
+ODOLMAEB_02124	CDS	13134	1a_167			Replicase polyprotein 1a
+ODOLMAEB_02125	misc_RNA	82				Corona_FSE
+ODOLMAEB_02126	CDS	7887	rep_204			Replicase polyprotein 1ab
+ODOLMAEB_02127	CDS	3726	S_181			Spike glycoprotein
+ODOLMAEB_02128	CDS	825	3a_54			Protein 3a
+ODOLMAEB_02129	CDS	231	E_79			Envelope small membrane protein
+ODOLMAEB_02130	CDS	666	M_192			Membrane protein
+ODOLMAEB_02131	CDS	192				hypothetical protein
+ODOLMAEB_02132	CDS	369	7a_53			Protein 7a
+ODOLMAEB_02133	CDS	135				hypothetical protein
+ODOLMAEB_02134	CDS	369				hypothetical protein
+ODOLMAEB_02135	CDS	1266	N_182			Nucleoprotein
+ODOLMAEB_02136	misc_RNA	43				s2m
+ODOLMAEB_02137	CDS	13134	1a_168			Replicase polyprotein 1a
+ODOLMAEB_02138	misc_RNA	82				Corona_FSE
+ODOLMAEB_02139	CDS	7941	rep_205			Replicase polyprotein 1ab
+ODOLMAEB_02140	CDS	3711	S_182			Spike glycoprotein
+ODOLMAEB_02141	CDS	825	3a_55			Protein 3a
+ODOLMAEB_02142	CDS	231	E_80			Envelope small membrane protein
+ODOLMAEB_02143	CDS	666	M_193			Membrane protein
+ODOLMAEB_02144	CDS	192				hypothetical protein
+ODOLMAEB_02145	CDS	369	7a_54			Protein 7a
+ODOLMAEB_02146	CDS	147				hypothetical protein
+ODOLMAEB_02147	CDS	1263	N_183			Nucleoprotein
+ODOLMAEB_02148	misc_RNA	43				s2m
+ODOLMAEB_02149	CDS	13134	1a_169			Replicase polyprotein 1a
+ODOLMAEB_02150	misc_RNA	82				Corona_FSE
+ODOLMAEB_02151	CDS	7887	rep_206			Replicase polyprotein 1ab
+ODOLMAEB_02152	CDS	3720	S_183			Spike glycoprotein
+ODOLMAEB_02153	CDS	825	3a_56			Protein 3a
+ODOLMAEB_02154	CDS	231	E_81			Envelope small membrane protein
+ODOLMAEB_02155	CDS	666	M_194			Membrane protein
+ODOLMAEB_02156	CDS	192				hypothetical protein
+ODOLMAEB_02157	CDS	369	7a_55			Protein 7a
+ODOLMAEB_02158	CDS	135				hypothetical protein
+ODOLMAEB_02159	CDS	369				hypothetical protein
+ODOLMAEB_02160	CDS	1266	N_184			Nucleoprotein
+ODOLMAEB_02161	misc_RNA	43				s2m
+ODOLMAEB_02162	CDS	13143	1a_170			Replicase polyprotein 1a
+ODOLMAEB_02163	misc_RNA	82				Corona_FSE
+ODOLMAEB_02164	CDS	7887	rep_207			Replicase polyprotein 1ab
+ODOLMAEB_02165	CDS	3729	S_184			Spike glycoprotein
+ODOLMAEB_02166	CDS	825	3a_57			Protein 3a
+ODOLMAEB_02167	CDS	231	E_82			Envelope small membrane protein
+ODOLMAEB_02168	CDS	666	M_195			Membrane protein
+ODOLMAEB_02169	CDS	192				hypothetical protein
+ODOLMAEB_02170	CDS	369	7a_56			Protein 7a
+ODOLMAEB_02171	CDS	135				hypothetical protein
+ODOLMAEB_02172	CDS	369				hypothetical protein
+ODOLMAEB_02173	CDS	1269	N_185			Nucleoprotein
+ODOLMAEB_02174	CDS	13140	1a_171			Replicase polyprotein 1a
+ODOLMAEB_02175	misc_RNA	82				Corona_FSE
+ODOLMAEB_02176	CDS	7887	rep_208			Replicase polyprotein 1ab
+ODOLMAEB_02177	CDS	3726	S_185			Spike glycoprotein
+ODOLMAEB_02178	CDS	825	3a_58			Protein 3a
+ODOLMAEB_02179	CDS	231	E_83			Envelope small membrane protein
+ODOLMAEB_02180	CDS	666	M_196			Membrane protein
+ODOLMAEB_02181	CDS	192				hypothetical protein
+ODOLMAEB_02182	CDS	369	7a_57			Protein 7a
+ODOLMAEB_02183	CDS	366				hypothetical protein
+ODOLMAEB_02184	CDS	1263	N_186			Nucleoprotein
+ODOLMAEB_02185	misc_RNA	43				s2m
+ODOLMAEB_02186	CDS	13149	1a_172			Replicase polyprotein 1a
+ODOLMAEB_02187	misc_RNA	82				Corona_FSE
+ODOLMAEB_02188	CDS	7887	rep_209			Replicase polyprotein 1ab
+ODOLMAEB_02189	CDS	3702	S_186			Spike glycoprotein
+ODOLMAEB_02190	CDS	825	3a_59			Protein 3a
+ODOLMAEB_02191	CDS	231	E_84			Envelope small membrane protein
+ODOLMAEB_02192	CDS	666	M_197			Membrane protein
+ODOLMAEB_02193	CDS	369	7a_58			Protein 7a
+ODOLMAEB_02194	CDS	135				hypothetical protein
+ODOLMAEB_02195	CDS	369				hypothetical protein
+ODOLMAEB_02196	CDS	1269	N_187			Nucleoprotein
+ODOLMAEB_02197	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_02198	CDS	12183	1a_173			Replicase polyprotein 1a
+ODOLMAEB_02199	misc_RNA	79				Corona_FSE
+ODOLMAEB_02200	CDS	7839	rep_210			Replicase polyprotein 1ab
+ODOLMAEB_02201	CDS	3396				hypothetical protein
+ODOLMAEB_02202	CDS	690				hypothetical protein
+ODOLMAEB_02203	CDS	228				hypothetical protein
+ODOLMAEB_02204	CDS	687	M_198			Membrane protein
+ODOLMAEB_02205	CDS	1128	N_188			Nucleoprotein
+ODOLMAEB_02206	CDS	312				hypothetical protein
+ODOLMAEB_02207	misc_RNA	63				Corona_pk3
+ODOLMAEB_02208	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_02209	CDS	12183	1a_174			Replicase polyprotein 1a
+ODOLMAEB_02210	misc_RNA	79				Corona_FSE
+ODOLMAEB_02211	CDS	7839	rep_211			Replicase polyprotein 1ab
+ODOLMAEB_02212	CDS	3396				hypothetical protein
+ODOLMAEB_02213	CDS	690				hypothetical protein
+ODOLMAEB_02214	CDS	228				hypothetical protein
+ODOLMAEB_02215	CDS	690	M_199			Membrane protein
+ODOLMAEB_02216	CDS	1128	N_189			Nucleoprotein
+ODOLMAEB_02217	CDS	300				hypothetical protein
+ODOLMAEB_02218	misc_RNA	63				Corona_pk3
+ODOLMAEB_02219	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_02220	CDS	12183	1a_175			Replicase polyprotein 1a
+ODOLMAEB_02221	misc_RNA	79				Corona_FSE
+ODOLMAEB_02222	CDS	7839	rep_212			Replicase polyprotein 1ab
+ODOLMAEB_02223	CDS	3417	S_187			Spike glycoprotein
+ODOLMAEB_02224	CDS	690				hypothetical protein
+ODOLMAEB_02225	CDS	228				hypothetical protein
+ODOLMAEB_02226	CDS	690	M_200			Membrane protein
+ODOLMAEB_02227	CDS	1128	N_190			Nucleoprotein
+ODOLMAEB_02228	CDS	300				hypothetical protein
+ODOLMAEB_02229	misc_RNA	63				Corona_pk3
+ODOLMAEB_02230	misc_RNA	72				Coronavirus_5p_sl_1_2
+ODOLMAEB_02231	CDS	12183	1a_176			Replicase polyprotein 1a
+ODOLMAEB_02232	misc_RNA	79				Corona_FSE
+ODOLMAEB_02233	CDS	7839	rep_213			Replicase polyprotein 1ab
+ODOLMAEB_02234	CDS	3417	S_188			Spike glycoprotein
+ODOLMAEB_02235	CDS	690				hypothetical protein
+ODOLMAEB_02236	CDS	228				hypothetical protein
+ODOLMAEB_02237	CDS	690	M_201			Membrane protein
+ODOLMAEB_02238	CDS	1128	N_191			Nucleoprotein
+ODOLMAEB_02239	CDS	312				hypothetical protein
+ODOLMAEB_02240	misc_RNA	63				Corona_pk3
+ODOLMAEB_02241	CDS	12711	rep_214			Replicase polyprotein 1ab
+ODOLMAEB_02242	misc_RNA	85				Corona_FSE
+ODOLMAEB_02243	CDS	7764	rep_215			Replicase polyprotein 1ab
+ODOLMAEB_02244	CDS	3837	S_189			Spike glycoprotein
+ODOLMAEB_02245	CDS	663				hypothetical protein
+ODOLMAEB_02246	CDS	249				hypothetical protein
+ODOLMAEB_02247	CDS	672	M_202			Membrane protein
+ODOLMAEB_02248	CDS	1407				hypothetical protein
+ODOLMAEB_02249	CDS	558				hypothetical protein
+ODOLMAEB_02250	CDS	450				hypothetical protein
+ODOLMAEB_02251	misc_RNA	59				Corona_pk3
+ODOLMAEB_02252	CDS	12582	rep_216			Replicase polyprotein 1ab
+ODOLMAEB_02253	misc_RNA	85				Corona_FSE
+ODOLMAEB_02254	CDS	7695	rep_217			Replicase polyprotein 1ab
+ODOLMAEB_02255	CDS	3810	S_190			Spike glycoprotein
+ODOLMAEB_02256	CDS	720				hypothetical protein
+ODOLMAEB_02257	CDS	228				hypothetical protein
+ODOLMAEB_02258	CDS	666	M_203			Membrane protein
+ODOLMAEB_02259	CDS	1413				hypothetical protein
+ODOLMAEB_02260	CDS	552				hypothetical protein
+ODOLMAEB_02261	CDS	441				hypothetical protein
+ODOLMAEB_02262	CDS	12585	rep_218			Replicase polyprotein 1ab
+ODOLMAEB_02263	misc_RNA	85				Corona_FSE
+ODOLMAEB_02264	CDS	7695	rep_219			Replicase polyprotein 1ab
+ODOLMAEB_02265	CDS	717				hypothetical protein
+ODOLMAEB_02266	CDS	228				hypothetical protein
+ODOLMAEB_02267	CDS	666	M_204			Membrane protein
+ODOLMAEB_02268	CDS	1413				hypothetical protein
+ODOLMAEB_02269	CDS	552				hypothetical protein
+ODOLMAEB_02270	CDS	441				hypothetical protein
+ODOLMAEB_02271	CDS	12582	rep_220			Replicase polyprotein 1ab
+ODOLMAEB_02272	misc_RNA	85				Corona_FSE
+ODOLMAEB_02273	CDS	7695	rep_221			Replicase polyprotein 1ab
+ODOLMAEB_02274	CDS	3822	S_191			Spike glycoprotein
+ODOLMAEB_02275	CDS	717				hypothetical protein
+ODOLMAEB_02276	CDS	228				hypothetical protein
+ODOLMAEB_02277	CDS	666	M_205			Membrane protein
+ODOLMAEB_02278	CDS	1407				hypothetical protein
+ODOLMAEB_02279	CDS	567				hypothetical protein
+ODOLMAEB_02280	CDS	432				hypothetical protein
+ODOLMAEB_02281	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_02282	CDS	12279	1a_177			Replicase polyprotein 1a
+ODOLMAEB_02283	misc_RNA	79				Corona_FSE
+ODOLMAEB_02284	CDS	7857	rep_222			Replicase polyprotein 1ab
+ODOLMAEB_02285	CDS	4749				hypothetical protein
+ODOLMAEB_02286	CDS	684				hypothetical protein
+ODOLMAEB_02287	CDS	702	M_206			Membrane protein
+ODOLMAEB_02288	CDS	1185	N_192			Nucleoprotein
+ODOLMAEB_02289	CDS	297				hypothetical protein
+ODOLMAEB_02290	misc_RNA	63				Corona_pk3
+ODOLMAEB_02291	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_02292	CDS	12288	1a_178			Replicase polyprotein 1a
+ODOLMAEB_02293	misc_RNA	79				Corona_FSE
+ODOLMAEB_02294	CDS	7854	rep_223			Replicase polyprotein 1ab
+ODOLMAEB_02295	CDS	4086	S_192			Spike glycoprotein
+ODOLMAEB_02296	CDS	681				hypothetical protein
+ODOLMAEB_02297	CDS	681	M_207			Membrane protein
+ODOLMAEB_02298	CDS	1188	N_193			Nucleoprotein
+ODOLMAEB_02299	CDS	297				hypothetical protein
+ODOLMAEB_02300	misc_RNA	63				Corona_pk3
+ODOLMAEB_02301	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_02302	CDS	12288	1a_179			Replicase polyprotein 1a
+ODOLMAEB_02303	misc_RNA	79				Corona_FSE
+ODOLMAEB_02304	CDS	7854	rep_224			Replicase polyprotein 1ab
+ODOLMAEB_02305	CDS	4092	S_193			Spike glycoprotein
+ODOLMAEB_02306	CDS	681				hypothetical protein
+ODOLMAEB_02307	CDS	681	M_208			Membrane protein
+ODOLMAEB_02308	CDS	1188	N_194			Nucleoprotein
+ODOLMAEB_02309	CDS	297				hypothetical protein
+ODOLMAEB_02310	misc_RNA	63				Corona_pk3
+ODOLMAEB_02311	misc_RNA	70				Coronavirus_5p_sl_1_2
+ODOLMAEB_02312	CDS	12273	1a_180			Replicase polyprotein 1a
+ODOLMAEB_02313	misc_RNA	79				Corona_FSE
+ODOLMAEB_02314	CDS	7854	rep_225			Replicase polyprotein 1ab
+ODOLMAEB_02315	CDS	4719				hypothetical protein
+ODOLMAEB_02316	CDS	681				hypothetical protein
+ODOLMAEB_02317	CDS	681	M_209			Membrane protein
+ODOLMAEB_02318	CDS	1176	N_195			Nucleoprotein
+ODOLMAEB_02319	CDS	210				hypothetical protein
+ODOLMAEB_02320	misc_RNA	63				Corona_pk3
+ODOLMAEB_02321	CDS	13185	1a_181			Replicase polyprotein 1a
+ODOLMAEB_02322	misc_RNA	85				Corona_FSE
+ODOLMAEB_02323	CDS	7875	rep_226			Replicase polyprotein 1ab
+ODOLMAEB_02324	CDS	4011	S_194			Spike glycoprotein
+ODOLMAEB_02325	CDS	312				hypothetical protein
+ODOLMAEB_02326	CDS	777	ORF4b_29			Non-structural protein ORF4b
+ODOLMAEB_02327	CDS	675				hypothetical protein
+ODOLMAEB_02328	CDS	249	E_85			Envelope small membrane protein
+ODOLMAEB_02329	CDS	660	M_210			Membrane protein
+ODOLMAEB_02330	CDS	1245	N_196			Nucleoprotein
+ODOLMAEB_02331	misc_RNA	61				Corona_pk3
+ODOLMAEB_02332	CDS	13119	1a_182			Replicase polyprotein 1a
+ODOLMAEB_02333	misc_RNA	82				Corona_FSE
+ODOLMAEB_02334	CDS	7887	rep_227			Replicase polyprotein 1ab
+ODOLMAEB_02335	CDS	3729	S_195			Spike glycoprotein
+ODOLMAEB_02336	CDS	720	3a_60			Protein 3a
+ODOLMAEB_02337	CDS	231	E_86			Envelope small membrane protein
+ODOLMAEB_02338	CDS	666	M_211			Membrane protein
+ODOLMAEB_02339	CDS	192				hypothetical protein
+ODOLMAEB_02340	CDS	369	7a_59			Protein 7a
+ODOLMAEB_02341	CDS	135				hypothetical protein
+ODOLMAEB_02342	CDS	1266	N_197			Nucleoprotein
+ODOLMAEB_02343	misc_RNA	43				s2m
+ODOLMAEB_02344	CDS	13149	1a_183			Replicase polyprotein 1a
+ODOLMAEB_02345	misc_RNA	82				Corona_FSE
+ODOLMAEB_02346	CDS	7887	rep_228			Replicase polyprotein 1ab
+ODOLMAEB_02347	CDS	3780	S_196			Spike glycoprotein
+ODOLMAEB_02348	CDS	825	3a_61			Protein 3a
+ODOLMAEB_02349	CDS	231	E_87			Envelope small membrane protein
+ODOLMAEB_02350	CDS	666	M_212			Membrane protein
+ODOLMAEB_02351	CDS	192				hypothetical protein
+ODOLMAEB_02352	CDS	369	7a_60			Protein 7a
+ODOLMAEB_02353	CDS	366				hypothetical protein
+ODOLMAEB_02354	CDS	1269	N_198			Nucleoprotein
+ODOLMAEB_02355	misc_RNA	43				s2m
+ODOLMAEB_02356	CDS	13080	1a_184			Replicase polyprotein 1a
+ODOLMAEB_02357	misc_RNA	82				Corona_FSE
+ODOLMAEB_02358	CDS	7746	rep_229			Replicase polyprotein 1ab
+ODOLMAEB_02359	CDS	3774	S_197			Spike glycoprotein
+ODOLMAEB_02360	CDS	807	3a_62			Protein 3a
+ODOLMAEB_02361	CDS	666	M_213			Membrane protein
+ODOLMAEB_02362	CDS	192				hypothetical protein
+ODOLMAEB_02363	CDS	360	7a_61			Protein 7a
+ODOLMAEB_02364	CDS	1260	N_199			Nucleoprotein
+ODOLMAEB_02365	misc_RNA	43				s2m

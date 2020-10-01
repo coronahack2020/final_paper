@@ -1,0 +1,142 @@
+[15:54:03] This is prokka 1.14.6
+[15:54:03] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:54:03] Homepage is https://github.com/tseemann/prokka
+[15:54:03] Local time is Thu May 28 15:54:03 2020
+[15:54:03] You are nick
+[15:54:03] Operating system is linux
+[15:54:03] You have BioPerl 1.7.7
+[15:54:03] System has 8 cores.
+[15:54:03] Will use maximum of 8 cores.
+[15:54:03] Annotating as >>> Viruses <<<
+[15:54:03] Generating locus_tag from 'all_pangolin.fasta' contents.
+[15:54:03] Setting --locustag CGIJCJNJ from MD5 c023c373fc25becac7dddc70046879c3
+[15:54:03] Creating new output folder: pangolin_prokka
+[15:54:03] Running: mkdir -p pangolin_prokka
+[15:54:03] Using filename prefix: all_pangolin_prokka.XXX
+[15:54:03] Setting HMMER_NCPU=1
+[15:54:03] Writing log to: pangolin_prokka/all_pangolin_prokka.log
+[15:54:03] Command: /home/nick/Software/prokka/bin/prokka all_pangolin.fasta --kingdom Virus --rfam --cdsrnaolap --prefix all_pangolin_prokka -out pangolin_prokka
+[15:54:03] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux
+[15:54:03] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux/../common
+[15:54:03] Appending to PATH: /home/nick/Software/prokka/bin
+[15:54:03] Looking for 'aragorn' - found /home/nick/Software/prokka/bin/../binaries/linux/aragorn
+[15:54:03] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[15:54:03] Looking for 'blastp' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/blastp
+[15:54:03] Determined blastp version is 002010 from 'blastp: 2.10.0+'
+[15:54:03] Looking for 'cmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/cmpress
+[15:54:03] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[15:54:03] Looking for 'cmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/cmscan
+[15:54:03] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[15:54:03] Looking for 'egrep' - found /bin/egrep
+[15:54:03] Looking for 'find' - found /usr/bin/find
+[15:54:03] Looking for 'grep' - found /bin/grep
+[15:54:03] Looking for 'hmmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmpress
+[15:54:03] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[15:54:03] Looking for 'hmmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmscan
+[15:54:03] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[15:54:03] Looking for 'java' - found /usr/bin/java
+[15:54:03] Looking for 'makeblastdb' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/makeblastdb
+[15:54:03] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.0+'
+[15:54:03] Looking for 'minced' - found /home/nick/Software/prokka/bin/../binaries/linux/../common/minced
+[15:54:03] Determined minced version is 002000 from 'minced 0.2.0'
+[15:54:03] Looking for 'parallel' - found /usr/bin/parallel
+[15:54:03] Determined parallel version is 20161222 from 'GNU parallel 20161222'
+[15:54:03] Looking for 'prodigal' - found /usr/bin/prodigal
+[15:54:03] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[15:54:03] Looking for 'prokka-genbank_to_fasta_db' - found /home/nick/Software/prokka/bin/prokka-genbank_to_fasta_db
+[15:54:03] Looking for 'sed' - found /bin/sed
+[15:54:03] Looking for 'tbl2asn' - found /home/nick/Software/prokka/bin/../binaries/linux/tbl2asn
+[15:54:03] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[15:54:03] Using genetic code table 1.
+[15:54:03] Loading and checking input file: all_pangolin.fasta
+[15:54:03] Wrote 7 contigs totalling 206023 bp.
+[15:54:03] Predicting tRNAs and tmRNAs
+[15:54:03] Running: aragorn -l -gc1  -w pangolin_prokka\/all_pangolin_prokka\.fna
+[15:54:03] Found 0 tRNAs
+[15:54:03] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[15:54:03] Scanning for ncRNAs... please be patient.
+[15:54:03] Running: cmscan -Z 0.412046 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 8 --tblout /dev/stdout -o /dev/null --noali /home/nick/Software/prokka/db/cm/Viruses pangolin_prokka\/all_pangolin_prokka\.fna
+[15:54:05] 1 ncRNA 1 MT040333 1..82
+[15:54:05] 2 ncRNA 2 MT040333 1..43
+[15:54:05] 3 ncRNA 1 MT040334 1..82
+[15:54:05] 4 ncRNA 2 MT040334 6..38
+[15:54:05] 5 ncRNA 1 MT040335 1..82
+[15:54:05] 6 ncRNA 2 MT040335 1..43
+[15:54:05] 7 ncRNA 1 MT040336 1..82
+[15:54:05] 8 ncRNA 2 MT040336 1..43
+[15:54:05] 9 ncRNA 1 MT072864 1..82
+[15:54:05] 10 ncRNA 2 MT072864 1..43
+[15:54:05] 11 ncRNA 1 MT072865.1 1..82
+[15:54:05] 12 ncRNA 2 MT072865.1 1..43
+[15:54:05] 13 ncRNA 1 MT084071.1 1..82
+[15:54:05] Found 13 ncRNAs.
+[15:54:05] Total of 0 tRNA + rRNA features
+[15:54:05] Searching for CRISPR repeats
+[15:54:06] Found 0 CRISPRs
+[15:54:06] Predicting coding sequences
+[15:54:06] Contigs total 206023 bp, so using single mode
+[15:54:06] Running: prodigal -i pangolin_prokka\/all_pangolin_prokka\.fna -c -m -g 1 -p single -f sco -q
+[15:54:06] Found 82 CDS
+[15:54:06] Connecting features back to sequences
+[15:54:06] Not using genus-specific database. Try --usegenus to enable it.
+[15:54:06] Annotating CDS, please be patient.
+[15:54:06] Will use 8 CPUs for similarity searching.
+[15:54:06] There are still 82 unannotated CDS left (started with 82)
+[15:54:06] Will use blast to search against /home/nick/Software/prokka/db/kingdom/Viruses/sprot with 8 CPUs
+[15:54:06] Running: cat pangolin_prokka\/all_pangolin_prokka\.sprot\.tmp\.5149\.faa | parallel --gnu --plain -j 8 --block 3534 --recstart '>' --pipe blastp -query - -db /home/nick/Software/prokka/db/kingdom/Viruses/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > pangolin_prokka\/all_pangolin_prokka\.sprot\.tmp\.5149\.blast 2> /dev/null
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.sprot.tmp.5149.faa
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.sprot.tmp.5149.blast
+[15:54:08] Labelling remaining 19 proteins as 'hypothetical protein'
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 1477
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 3794
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 4557
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 7988
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 9882
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 11689
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1a' at MT072865.1 position 12329
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1ab' at MT072865.1 position 17928
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1ab' at MT072865.1 position 18289
+[15:54:08] Possible /pseudo 'Replicase polyprotein 1ab' at MT072865.1 position 21017
+[15:54:08] Found 8 unique /gene codes.
+[15:54:08] Fixed 6 duplicate /gene - M_1 M_2 M_3 M_4 M_5 M_6
+[15:54:08] Fixed 7 duplicate /gene - N_1 N_2 N_3 N_4 N_5 N_6 N_7
+[15:54:08] Fixed 6 duplicate /gene - 7a_1 7a_2 7a_3 7a_4 7a_5 7a_6
+[15:54:08] Fixed 6 duplicate /gene - S_1 S_2 S_3 S_4 S_5 S_6
+[15:54:08] Fixed 10 duplicate /gene - rep_1 rep_2 rep_3 rep_4 rep_5 rep_6 rep_7 rep_8 rep_9 rep_10
+[15:54:08] Fixed 7 duplicate /gene - 3a_1 3a_2 3a_3 3a_4 3a_5 3a_6 3a_7
+[15:54:08] Fixed 7 duplicate /gene - E_1 E_2 E_3 E_4 E_5 E_6 E_7
+[15:54:08] Fixed 14 duplicate /gene - 1a_1 1a_2 1a_3 1a_4 1a_5 1a_6 1a_7 1a_8 1a_9 1a_10 1a_11 1a_12 1a_13 1a_14
+[15:54:08] Fixed 8 colliding /gene names.
+[15:54:08] Adding /locus_tag identifiers
+[15:54:08] Assigned 95 locus_tags to CDS and RNA features.
+[15:54:08] Writing outputs to pangolin_prokka/
+[15:54:08] Generating annotation statistics file
+[15:54:08] Generating Genbank and Sequin files
+[15:54:08] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z pangolin_prokka\/all_pangolin_prokka\.err -i pangolin_prokka\/all_pangolin_prokka\.fsa 2> /dev/null
+[15:54:08] Deleting unwanted file: pangolin_prokka/errorsummary.val
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.dr
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.fixedproducts
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.ecn
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.val
+[15:54:08] Repairing broken .GBK output that tbl2asn produces...
+[15:54:08] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < pangolin_prokka\/all_pangolin_prokka\.gbf > pangolin_prokka\/all_pangolin_prokka\.gbk
+[15:54:08] Deleting unwanted file: pangolin_prokka/all_pangolin_prokka.gbf
+[15:54:08] Output files:
+[15:54:08] pangolin_prokka/all_pangolin_prokka.err
+[15:54:08] pangolin_prokka/all_pangolin_prokka.faa
+[15:54:08] pangolin_prokka/all_pangolin_prokka.ffn
+[15:54:08] pangolin_prokka/all_pangolin_prokka.fna
+[15:54:08] pangolin_prokka/all_pangolin_prokka.fsa
+[15:54:08] pangolin_prokka/all_pangolin_prokka.gbk
+[15:54:08] pangolin_prokka/all_pangolin_prokka.gff
+[15:54:08] pangolin_prokka/all_pangolin_prokka.log
+[15:54:08] pangolin_prokka/all_pangolin_prokka.sqn
+[15:54:08] pangolin_prokka/all_pangolin_prokka.tbl
+[15:54:08] pangolin_prokka/all_pangolin_prokka.tsv
+[15:54:08] pangolin_prokka/all_pangolin_prokka.txt
+[15:54:08] Annotation finished successfully.
+[15:54:08] Walltime used: 0.08 minutes
+[15:54:08] If you use this result please cite the Prokka paper:
+[15:54:08] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[15:54:08] Type 'prokka --citation' for more details.
+[15:54:08] Share and enjoy!

@@ -1,0 +1,211 @@
+[13:13:29] This is prokka 1.14.6
+[13:13:29] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[13:13:29] Homepage is https://github.com/tseemann/prokka
+[13:13:29] Local time is Sun Jun  7 13:13:29 2020
+[13:13:29] You are nick
+[13:13:29] Operating system is linux
+[13:13:29] You have BioPerl 1.7.7
+[13:13:29] System has 8 cores.
+[13:13:29] Will use maximum of 8 cores.
+[13:13:29] Annotating as >>> Viruses <<<
+[13:13:29] Generating locus_tag from 'all_wuhan_IDs_shortened.fasta' contents.
+[13:13:29] Setting --locustag NMICGJMG from MD5 762c0360e45262d9720ed7a254b6e305
+[13:13:29] Creating new output folder: wuhan_prokka
+[13:13:29] Running: mkdir -p wuhan_prokka
+[13:13:29] Using filename prefix: wuhan_prokka.XXX
+[13:13:29] Setting HMMER_NCPU=1
+[13:13:29] Writing log to: wuhan_prokka/wuhan_prokka.log
+[13:13:29] Command: /home/nick/Software/prokka/bin/prokka all_wuhan_IDs_shortened.fasta --cdsrnaolap --kingdom Virus --rfam --outdir wuhan_prokka --prefix wuhan_prokka
+[13:13:29] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux
+[13:13:29] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux/../common
+[13:13:29] Appending to PATH: /home/nick/Software/prokka/bin
+[13:13:29] Looking for 'aragorn' - found /home/nick/Software/prokka/bin/../binaries/linux/aragorn
+[13:13:29] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[13:13:29] Looking for 'blastp' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/blastp
+[13:13:29] Determined blastp version is 002010 from 'blastp: 2.10.0+'
+[13:13:29] Looking for 'cmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/cmpress
+[13:13:29] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:13:29] Looking for 'cmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/cmscan
+[13:13:29] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:13:29] Looking for 'egrep' - found /bin/egrep
+[13:13:29] Looking for 'find' - found /usr/bin/find
+[13:13:29] Looking for 'grep' - found /bin/grep
+[13:13:29] Looking for 'hmmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmpress
+[13:13:29] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:13:29] Looking for 'hmmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmscan
+[13:13:29] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:13:29] Looking for 'java' - found /usr/bin/java
+[13:13:29] Looking for 'makeblastdb' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/makeblastdb
+[13:13:29] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.0+'
+[13:13:29] Looking for 'minced' - found /home/nick/Software/prokka/bin/../binaries/linux/../common/minced
+[13:13:29] Determined minced version is 002000 from 'minced 0.2.0'
+[13:13:29] Looking for 'parallel' - found /usr/bin/parallel
+[13:13:29] Determined parallel version is 20161222 from 'GNU parallel 20161222'
+[13:13:29] Looking for 'prodigal' - found /usr/bin/prodigal
+[13:13:29] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[13:13:29] Looking for 'prokka-genbank_to_fasta_db' - found /home/nick/Software/prokka/bin/prokka-genbank_to_fasta_db
+[13:13:29] Looking for 'sed' - found /bin/sed
+[13:13:29] Looking for 'tbl2asn' - found /home/nick/Software/prokka/bin/../binaries/linux/tbl2asn
+[13:13:29] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[13:13:29] Using genetic code table 1.
+[13:13:29] Loading and checking input file: all_wuhan_IDs_shortened.fasta
+[13:13:29] Wrote 46 contigs totalling 1372926 bp.
+[13:13:29] Predicting tRNAs and tmRNAs
+[13:13:29] Running: aragorn -l -gc1  -w wuhan_prokka\/wuhan_prokka\.fna
+[13:13:30] Found 0 tRNAs
+[13:13:30] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[13:13:30] Scanning for ncRNAs... please be patient.
+[13:13:30] Running: cmscan -Z 2.745852 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 8 --tblout /dev/stdout -o /dev/null --noali /home/nick/Software/prokka/db/cm/Viruses wuhan_prokka\/wuhan_prokka\.fna
+[13:13:35] 1 ncRNA 1 2019-nCoV_WH01 1..82
+[13:13:35] 2 ncRNA 2 2019-nCoV_WH01 1..43
+[13:13:35] 3 ncRNA 1 2019-nCoV_WH04 1..82
+[13:13:35] 4 ncRNA 2 2019-nCoV_WH04 1..43
+[13:13:35] 5 ncRNA 1 2019-nCoV_WH03 1..82
+[13:13:35] 6 ncRNA 2 2019-nCoV_WH03 1..43
+[13:13:35] 7 ncRNA 1 GWHABKZ01000001 1..82
+[13:13:35] 8 ncRNA 2 GWHABKZ01000001 1..43
+[13:13:35] 9 ncRNA 1 GWHACAT01000001 1..82
+[13:13:35] 10 ncRNA 2 GWHACAT01000001 1..43
+[13:13:35] 11 ncRNA 1 GWHACAU01000001 1..82
+[13:13:35] 12 ncRNA 2 GWHACAU01000001 1..43
+[13:13:35] 13 ncRNA 1 GWHACAV01000001 1..82
+[13:13:35] 14 ncRNA 2 GWHACAV01000001 1..43
+[13:13:40] 15 ncRNA 1 GWHACAW01000001 1..82
+[13:13:40] 16 ncRNA 2 GWHACAW01000001 1..43
+[13:13:40] 17 ncRNA 1 GWHACAX01000001 1..82
+[13:13:40] 18 ncRNA 2 GWHACAX01000001 1..43
+[13:13:40] 19 ncRNA 1 GWHACAY01000001 1..82
+[13:13:40] 20 ncRNA 2 GWHACAY01000001 1..43
+[13:13:40] 21 ncRNA 1 GWHACAZ01000001 1..82
+[13:13:40] 22 ncRNA 2 GWHACAZ01000001 1..43
+[13:13:40] 23 ncRNA 1 GWHACBA01000001 1..82
+[13:13:40] 24 ncRNA 2 GWHACBA01000001 1..43
+[13:13:40] 25 ncRNA 1 GWHACBB01000001 1..82
+[13:13:40] 26 ncRNA 2 GWHACBB01000001 1..43
+[13:13:40] 27 ncRNA 1 GWHACBD01000001 1..82
+[13:13:40] 28 ncRNA 2 GWHACBD01000001 1..43
+[13:13:40] 29 ncRNA 1 GWHACDE01000001 1..82
+[13:13:46] 30 ncRNA 2 GWHACDE01000001 1..43
+[13:13:46] 31 ncRNA 1 GWHACDF01000001 1..82
+[13:13:46] 32 ncRNA 2 GWHACDF01000001 1..43
+[13:13:46] 33 ncRNA 1 GWHACDG01000001 1..82
+[13:13:46] 34 ncRNA 2 GWHACDG01000001 1..43
+[13:13:46] 35 ncRNA 1 GWHACDH01000001 1..82
+[13:13:46] 36 ncRNA 2 GWHACDH01000001 1..43
+[13:13:46] 37 ncRNA 1 GWHACDI01000001 1..82
+[13:13:46] 38 ncRNA 2 GWHACDI01000001 1..43
+[13:13:46] 39 ncRNA 1 GWHACDJ01000001 1..82
+[13:13:46] 40 ncRNA 2 GWHACDJ01000001 1..43
+[13:13:46] 41 ncRNA 1 hCoV-19/Wuhan/IVDC-HB-01/2019 1..82
+[13:13:46] 42 ncRNA 2 hCoV-19/Wuhan/IVDC-HB-01/2019 1..43
+[13:13:46] 43 ncRNA 1 hCoV-19/Wuhan/IVDC-HB-04/2020 1..82
+[13:13:46] 44 ncRNA 2 hCoV-19/Wuhan/IVDC-HB-04/2020 1..43
+[13:13:46] 45 ncRNA 1 hCoV-19/Wuhan/IVDC-HB-05/2019 1..82
+[13:13:52] 46 ncRNA 2 hCoV-19/Wuhan/IVDC-HB-05/2019 1..43
+[13:13:52] 47 ncRNA 1 hCoV-19/Wuhan/IPBCAMS-WH-01/2019 1..82
+[13:13:52] 48 ncRNA 2 hCoV-19/Wuhan/IPBCAMS-WH-01/2019 1..43
+[13:13:52] 49 ncRNA 1 hCoV-19/Wuhan/WIV02/2019 1..82
+[13:13:52] 50 ncRNA 2 hCoV-19/Wuhan/WIV02/2019 1..43
+[13:13:52] 51 ncRNA 1 hCoV-19/Wuhan/WIV05/2019 1..82
+[13:13:52] 52 ncRNA 2 hCoV-19/Wuhan/WIV05/2019 1..43
+[13:13:52] 53 ncRNA 1 hCoV-19/Wuhan/WIV06/2019 1..82
+[13:13:52] 54 ncRNA 2 hCoV-19/Wuhan/WIV06/2019 1..43
+[13:13:52] 55 ncRNA 1 hCoV-19/Wuhan/WIV07/2019 1..82
+[13:13:52] 56 ncRNA 2 hCoV-19/Wuhan/WIV07/2019 1..43
+[13:13:52] 57 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-01/2019 1..82
+[13:13:52] 58 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-01/2019 1..43
+[13:13:52] 59 ncRNA 1 hCoV-19/Wuhan/IPBCAMS-WH-05/2020 1..82
+[13:13:52] 60 ncRNA 2 hCoV-19/Wuhan/IPBCAMS-WH-05/2020 1..43
+[13:13:58] 61 ncRNA 1 hCoV-19/Wuhan/IPBCAMS-WH-04/2019 1..82
+[13:13:58] 62 ncRNA 2 hCoV-19/Wuhan/IPBCAMS-WH-04/2019 1..43
+[13:13:58] 63 ncRNA 1 hCoV-19/Wuhan/IPBCAMS-WH-03/2019 1..82
+[13:13:58] 64 ncRNA 2 hCoV-19/Wuhan/IPBCAMS-WH-03/2019 1..43
+[13:13:58] 65 ncRNA 1 hCoV-19/Wuhan/IPBCAMS-WH-02/2019 1..82
+[13:13:58] 66 ncRNA 2 hCoV-19/Wuhan/IPBCAMS-WH-02/2019 1..43
+[13:13:58] 67 ncRNA 1 hCoV-19/Wuhan/WHU01/2020 1..82
+[13:13:58] 68 ncRNA 2 hCoV-19/Wuhan/WHU01/2020 1..43
+[13:13:58] 69 ncRNA 1 hCoV-19/env/Wuhan/IVDC-HBF13-20/2020 1..82
+[13:13:58] 70 ncRNA 2 hCoV-19/env/Wuhan/IVDC-HBF13-20/2020 1..43
+[13:13:58] 71 ncRNA 1 hCoV-19/env/Wuhan/IVDC-HBF13-21/2020 1..82
+[13:13:58] 72 ncRNA 2 hCoV-19/env/Wuhan/IVDC-HBF13-21/2020 1..43
+[13:13:58] 73 ncRNA 1 hCoV-19/Wuhan/WH05/2020 1..82
+[13:13:58] 74 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-02/2019 1..82
+[13:13:58] 75 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-02/2019 1..43
+[13:13:58] 76 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-03/2019 1..82
+[13:14:03] 77 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-03/2019 1..43
+[13:14:03] 78 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-04/2019 1..82
+[13:14:03] 79 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-04/2019 1..43
+[13:14:03] 80 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-02/2020 1..82
+[13:14:03] 81 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-02/2020 1..43
+[13:14:03] 82 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-03/2020 1..82
+[13:14:03] 83 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-03/2020 1..43
+[13:14:03] 84 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-04/2020 1..82
+[13:14:03] 85 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-04/2020 1..43
+[13:14:03] 86 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-05/2020 1..82
+[13:14:03] 87 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-05/2020 1..43
+[13:14:03] 88 ncRNA 1 hCoV-19/Wuhan/HBCDC-HB-06/2020 1..82
+[13:14:03] 89 ncRNA 2 hCoV-19/Wuhan/HBCDC-HB-06/2020 1..43
+[13:14:03] 90 ncRNA 1 hCoV-19/Wuhan/IVDC-HB-GX02/2019 1..82
+[13:14:03] 91 ncRNA 2 hCoV-19/Wuhan/IVDC-HB-GX02/2019 1..43
+[13:14:03] Found 91 ncRNAs.
+[13:14:03] Total of 0 tRNA + rRNA features
+[13:14:03] Searching for CRISPR repeats
+[13:14:03] Found 0 CRISPRs
+[13:14:03] Predicting coding sequences
+[13:14:03] Contigs total 1372926 bp, so using single mode
+[13:14:03] Running: prodigal -i wuhan_prokka\/wuhan_prokka\.fna -c -m -g 1 -p single -f sco -q
+[13:14:05] Found 500 CDS
+[13:14:05] Connecting features back to sequences
+[13:14:05] Not using genus-specific database. Try --usegenus to enable it.
+[13:14:05] Annotating CDS, please be patient.
+[13:14:05] Will use 8 CPUs for similarity searching.
+[13:14:06] There are still 500 unannotated CDS left (started with 500)
+[13:14:06] Will use blast to search against /home/nick/Software/prokka/db/kingdom/Viruses/sprot with 8 CPUs
+[13:14:06] Running: cat wuhan_prokka\/wuhan_prokka\.sprot\.tmp\.1433\.faa | parallel --gnu --plain -j 8 --block 27429 --recstart '>' --pipe blastp -query - -db /home/nick/Software/prokka/db/kingdom/Viruses/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > wuhan_prokka\/wuhan_prokka\.sprot\.tmp\.1433\.blast 2> /dev/null
+[13:14:20] Deleting unwanted file: wuhan_prokka/wuhan_prokka.sprot.tmp.1433.faa
+[13:14:20] Deleting unwanted file: wuhan_prokka/wuhan_prokka.sprot.tmp.1433.blast
+[13:14:20] Labelling remaining 177 proteins as 'hypothetical protein'
+[13:14:20] Possible /pseudo 'Replicase polyprotein 1a' at hCoV-19/Wuhan/HBCDC-HB-04/2019 position 4362
+[13:14:20] Possible /pseudo 'Replicase polyprotein 1a' at hCoV-19/Wuhan/HBCDC-HB-04/2019 position 9268
+[13:14:20] Found 7 unique /gene codes.
+[13:14:20] Fixed 46 duplicate /gene - S_1 S_2 S_3 S_4 S_5 S_6 S_7 S_8 S_9 S_10 S_11 S_12 S_13 S_14 S_15 S_16 S_17 S_18 S_19 S_20 S_21 S_22 S_23 S_24 S_25 S_26 S_27 S_28 S_29 S_30 S_31 S_32 S_33 S_34 S_35 S_36 S_37 S_38 S_39 S_40 S_41 S_42 S_43 S_44 S_45 S_46
+[13:14:20] Fixed 46 duplicate /gene - M_1 M_2 M_3 M_4 M_5 M_6 M_7 M_8 M_9 M_10 M_11 M_12 M_13 M_14 M_15 M_16 M_17 M_18 M_19 M_20 M_21 M_22 M_23 M_24 M_25 M_26 M_27 M_28 M_29 M_30 M_31 M_32 M_33 M_34 M_35 M_36 M_37 M_38 M_39 M_40 M_41 M_42 M_43 M_44 M_45 M_46
+[13:14:20] Fixed 46 duplicate /gene - 7a_1 7a_2 7a_3 7a_4 7a_5 7a_6 7a_7 7a_8 7a_9 7a_10 7a_11 7a_12 7a_13 7a_14 7a_15 7a_16 7a_17 7a_18 7a_19 7a_20 7a_21 7a_22 7a_23 7a_24 7a_25 7a_26 7a_27 7a_28 7a_29 7a_30 7a_31 7a_32 7a_33 7a_34 7a_35 7a_36 7a_37 7a_38 7a_39 7a_40 7a_41 7a_42 7a_43 7a_44 7a_45 7a_46
+[13:14:20] Fixed 45 duplicate /gene - N_1 N_2 N_3 N_4 N_5 N_6 N_7 N_8 N_9 N_10 N_11 N_12 N_13 N_14 N_15 N_16 N_17 N_18 N_19 N_20 N_21 N_22 N_23 N_24 N_25 N_26 N_27 N_28 N_29 N_30 N_31 N_32 N_33 N_34 N_35 N_36 N_37 N_38 N_39 N_40 N_41 N_42 N_43 N_44 N_45
+[13:14:20] Fixed 48 duplicate /gene - 1a_1 1a_2 1a_3 1a_4 1a_5 1a_6 1a_7 1a_8 1a_9 1a_10 1a_11 1a_12 1a_13 1a_14 1a_15 1a_16 1a_17 1a_18 1a_19 1a_20 1a_21 1a_22 1a_23 1a_24 1a_25 1a_26 1a_27 1a_28 1a_29 1a_30 1a_31 1a_32 1a_33 1a_34 1a_35 1a_36 1a_37 1a_38 1a_39 1a_40 1a_41 1a_42 1a_43 1a_44 1a_45 1a_46 1a_47 1a_48
+[13:14:20] Fixed 46 duplicate /gene - 3a_1 3a_2 3a_3 3a_4 3a_5 3a_6 3a_7 3a_8 3a_9 3a_10 3a_11 3a_12 3a_13 3a_14 3a_15 3a_16 3a_17 3a_18 3a_19 3a_20 3a_21 3a_22 3a_23 3a_24 3a_25 3a_26 3a_27 3a_28 3a_29 3a_30 3a_31 3a_32 3a_33 3a_34 3a_35 3a_36 3a_37 3a_38 3a_39 3a_40 3a_41 3a_42 3a_43 3a_44 3a_45 3a_46
+[13:14:20] Fixed 46 duplicate /gene - rep_1 rep_2 rep_3 rep_4 rep_5 rep_6 rep_7 rep_8 rep_9 rep_10 rep_11 rep_12 rep_13 rep_14 rep_15 rep_16 rep_17 rep_18 rep_19 rep_20 rep_21 rep_22 rep_23 rep_24 rep_25 rep_26 rep_27 rep_28 rep_29 rep_30 rep_31 rep_32 rep_33 rep_34 rep_35 rep_36 rep_37 rep_38 rep_39 rep_40 rep_41 rep_42 rep_43 rep_44 rep_45 rep_46
+[13:14:20] Fixed 7 colliding /gene names.
+[13:14:20] Adding /locus_tag identifiers
+[13:14:20] Assigned 591 locus_tags to CDS and RNA features.
+[13:14:20] Writing outputs to wuhan_prokka/
+[13:14:20] Generating annotation statistics file
+[13:14:20] Generating Genbank and Sequin files
+[13:14:20] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z wuhan_prokka\/wuhan_prokka\.err -i wuhan_prokka\/wuhan_prokka\.fsa 2> /dev/null
+[13:14:21] Deleting unwanted file: wuhan_prokka/errorsummary.val
+[13:14:21] Deleting unwanted file: wuhan_prokka/wuhan_prokka.dr
+[13:14:21] Deleting unwanted file: wuhan_prokka/wuhan_prokka.fixedproducts
+[13:14:21] Deleting unwanted file: wuhan_prokka/wuhan_prokka.ecn
+[13:14:21] Deleting unwanted file: wuhan_prokka/wuhan_prokka.val
+[13:14:21] Repairing broken .GBK output that tbl2asn produces...
+[13:14:21] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < wuhan_prokka\/wuhan_prokka\.gbf > wuhan_prokka\/wuhan_prokka\.gbk
+[13:14:21] Deleting unwanted file: wuhan_prokka/wuhan_prokka.gbf
+[13:14:21] Output files:
+[13:14:21] wuhan_prokka/wuhan_prokka.err
+[13:14:21] wuhan_prokka/wuhan_prokka.faa
+[13:14:21] wuhan_prokka/wuhan_prokka.ffn
+[13:14:21] wuhan_prokka/wuhan_prokka.fna
+[13:14:21] wuhan_prokka/wuhan_prokka.fsa
+[13:14:21] wuhan_prokka/wuhan_prokka.gbk
+[13:14:21] wuhan_prokka/wuhan_prokka.gff
+[13:14:21] wuhan_prokka/wuhan_prokka.log
+[13:14:21] wuhan_prokka/wuhan_prokka.sqn
+[13:14:21] wuhan_prokka/wuhan_prokka.tbl
+[13:14:21] wuhan_prokka/wuhan_prokka.tsv
+[13:14:21] wuhan_prokka/wuhan_prokka.txt
+[13:14:21] Annotation finished successfully.
+[13:14:21] Walltime used: 0.87 minutes
+[13:14:21] If you use this result please cite the Prokka paper:
+[13:14:21] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[13:14:21] Type 'prokka --citation' for more details.
+[13:14:21] Thank you, come again.

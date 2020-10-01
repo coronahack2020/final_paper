@@ -1,0 +1,3238 @@
+>Feature 2019-nCoV_WH01
+241	13458	CDS
+			gene	1a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00001
+			product	Replicase polyprotein 1a
+13444	13525	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00002
+			product	Corona_FSE
+			score	81.6
+13743	21530	CDS
+			gene	rep_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00003
+			product	Replicase polyprotein 1ab
+21538	25359	CDS
+			gene	S_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00004
+			product	Spike glycoprotein
+25368	26195	CDS
+			gene	3a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00005
+			product	Protein 3a
+26498	27166	CDS
+			gene	M_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00006
+			product	Membrane protein
+27177	27362	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00007
+			product	hypothetical protein
+27369	27734	CDS
+			gene	7a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00008
+			product	Protein 7a
+27731	27862	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00009
+			product	hypothetical protein
+27869	28234	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00010
+			product	hypothetical protein
+28249	29508	CDS
+			gene	N_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00011
+			product	Nucleoprotein
+29815	29660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00012
+			product	hypothetical protein
+29702	29744	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00013
+			product	s2m
+			score	54.4
+>Feature 2019-nCoV_WH04
+251	13468	CDS
+			gene	1a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00014
+			product	Replicase polyprotein 1a
+13454	13535	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00015
+			product	Corona_FSE
+			score	81.6
+13753	21540	CDS
+			gene	rep_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00016
+			product	Replicase polyprotein 1ab
+21548	25369	CDS
+			gene	S_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00017
+			product	Spike glycoprotein
+25378	26205	CDS
+			gene	3a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00018
+			product	Protein 3a
+26508	27176	CDS
+			gene	M_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00019
+			product	Membrane protein
+27187	27372	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00020
+			product	hypothetical protein
+27379	27744	CDS
+			gene	7a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00021
+			product	Protein 7a
+27741	27872	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00022
+			product	hypothetical protein
+27879	28244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00023
+			product	hypothetical protein
+28259	29518	CDS
+			gene	N_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00024
+			product	Nucleoprotein
+29825	29670	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00025
+			product	hypothetical protein
+29712	29754	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00026
+			product	s2m
+			score	54.4
+>Feature 2019-nCoV_WH03
+246	13463	CDS
+			gene	1a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00027
+			product	Replicase polyprotein 1a
+13449	13530	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00028
+			product	Corona_FSE
+			score	81.6
+13748	21535	CDS
+			gene	rep_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00029
+			product	Replicase polyprotein 1ab
+21543	25364	CDS
+			gene	S_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00030
+			product	Spike glycoprotein
+25373	26200	CDS
+			gene	3a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00031
+			product	Protein 3a
+26503	27171	CDS
+			gene	M_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00032
+			product	Membrane protein
+27182	27367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00033
+			product	hypothetical protein
+27374	27739	CDS
+			gene	7a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00034
+			product	Protein 7a
+27736	27867	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00035
+			product	hypothetical protein
+27874	28239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00036
+			product	hypothetical protein
+28254	29513	CDS
+			gene	N_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00037
+			product	Nucleoprotein
+29820	29665	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00038
+			product	hypothetical protein
+29707	29749	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00039
+			product	s2m
+			score	54.4
+>Feature GWHABKZ01000001
+178	13395	CDS
+			gene	1a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00040
+			product	Replicase polyprotein 1a
+13381	13462	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00041
+			product	Corona_FSE
+			score	81.6
+13680	21467	CDS
+			gene	rep_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00042
+			product	Replicase polyprotein 1ab
+21475	25296	CDS
+			gene	S_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00043
+			product	Spike glycoprotein
+25305	26132	CDS
+			gene	3a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00044
+			product	Protein 3a
+26435	27103	CDS
+			gene	M_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00045
+			product	Membrane protein
+27114	27299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00046
+			product	hypothetical protein
+27306	27671	CDS
+			gene	7a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00047
+			product	Protein 7a
+27668	27799	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00048
+			product	hypothetical protein
+27806	28171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00049
+			product	hypothetical protein
+28186	29445	CDS
+			gene	N_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00050
+			product	Nucleoprotein
+29752	29597	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00051
+			product	hypothetical protein
+29639	29681	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00052
+			product	s2m
+			score	54.4
+>Feature GWHACAT01000001
+229	13446	CDS
+			gene	1a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00053
+			product	Replicase polyprotein 1a
+13432	13513	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00054
+			product	Corona_FSE
+			score	81.6
+13731	21518	CDS
+			gene	rep_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00055
+			product	Replicase polyprotein 1ab
+21526	25347	CDS
+			gene	S_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00056
+			product	Spike glycoprotein
+25356	26183	CDS
+			gene	3a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00057
+			product	Protein 3a
+26486	27154	CDS
+			gene	M_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00058
+			product	Membrane protein
+27165	27350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00059
+			product	hypothetical protein
+27357	27722	CDS
+			gene	7a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00060
+			product	Protein 7a
+27719	27850	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00061
+			product	hypothetical protein
+27857	28222	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00062
+			product	hypothetical protein
+28237	29496	CDS
+			gene	N_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00063
+			product	Nucleoprotein
+29803	29648	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00064
+			product	hypothetical protein
+29690	29732	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00065
+			product	s2m
+			score	54.4
+>Feature GWHACAU01000001
+229	13446	CDS
+			gene	1a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00066
+			product	Replicase polyprotein 1a
+13432	13513	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00067
+			product	Corona_FSE
+			score	81.6
+13731	21518	CDS
+			gene	rep_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00068
+			product	Replicase polyprotein 1ab
+21526	25347	CDS
+			gene	S_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00069
+			product	Spike glycoprotein
+25356	26183	CDS
+			gene	3a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00070
+			product	Protein 3a
+26486	27154	CDS
+			gene	M_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00071
+			product	Membrane protein
+27165	27350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00072
+			product	hypothetical protein
+27357	27722	CDS
+			gene	7a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00073
+			product	Protein 7a
+27719	27850	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00074
+			product	hypothetical protein
+27857	28222	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00075
+			product	hypothetical protein
+28237	29496	CDS
+			gene	N_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00076
+			product	Nucleoprotein
+29803	29648	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00077
+			product	hypothetical protein
+29690	29732	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00078
+			product	s2m
+			score	54.4
+>Feature GWHACAV01000001
+178	13395	CDS
+			gene	1a_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00079
+			product	Replicase polyprotein 1a
+13381	13462	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00080
+			product	Corona_FSE
+			score	81.6
+13680	21467	CDS
+			gene	rep_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00081
+			product	Replicase polyprotein 1ab
+21475	25296	CDS
+			gene	S_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00082
+			product	Spike glycoprotein
+25305	26132	CDS
+			gene	3a_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00083
+			product	Protein 3a
+26435	27103	CDS
+			gene	M_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00084
+			product	Membrane protein
+27114	27299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00085
+			product	hypothetical protein
+27306	27671	CDS
+			gene	7a_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00086
+			product	Protein 7a
+27668	27799	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00087
+			product	hypothetical protein
+27806	28171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00088
+			product	hypothetical protein
+28186	29445	CDS
+			gene	N_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00089
+			product	Nucleoprotein
+29752	29597	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00090
+			product	hypothetical protein
+29639	29681	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00091
+			product	s2m
+			score	54.4
+>Feature GWHACAW01000001
+178	13395	CDS
+			gene	1a_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00092
+			product	Replicase polyprotein 1a
+13381	13462	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00093
+			product	Corona_FSE
+			score	81.6
+13680	21467	CDS
+			gene	rep_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00094
+			product	Replicase polyprotein 1ab
+21475	25296	CDS
+			gene	S_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00095
+			product	Spike glycoprotein
+25305	26132	CDS
+			gene	3a_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00096
+			product	Protein 3a
+26435	27103	CDS
+			gene	M_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00097
+			product	Membrane protein
+27114	27299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00098
+			product	hypothetical protein
+27306	27671	CDS
+			gene	7a_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00099
+			product	Protein 7a
+27668	27799	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00100
+			product	hypothetical protein
+27806	28171	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00101
+			product	hypothetical protein
+28186	29445	CDS
+			gene	N_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00102
+			product	Nucleoprotein
+29752	29597	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00103
+			product	hypothetical protein
+29639	29681	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00104
+			product	s2m
+			score	54.4
+>Feature GWHACAX01000001
+261	13478	CDS
+			gene	1a_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00105
+			product	Replicase polyprotein 1a
+13464	13545	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00106
+			product	Corona_FSE
+			score	81.6
+13763	21550	CDS
+			gene	rep_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00107
+			product	Replicase polyprotein 1ab
+21558	25379	CDS
+			gene	S_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00108
+			product	Spike glycoprotein
+25388	26215	CDS
+			gene	3a_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00109
+			product	Protein 3a
+26518	27186	CDS
+			gene	M_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00110
+			product	Membrane protein
+27197	27382	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00111
+			product	hypothetical protein
+27389	27754	CDS
+			gene	7a_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00112
+			product	Protein 7a
+27751	27882	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00113
+			product	hypothetical protein
+27889	28254	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00114
+			product	hypothetical protein
+28269	29528	CDS
+			gene	N_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00115
+			product	Nucleoprotein
+29835	29680	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00116
+			product	hypothetical protein
+29722	29764	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00117
+			product	s2m
+			score	54.4
+>Feature GWHACAY01000001
+258	13475	CDS
+			gene	1a_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00118
+			product	Replicase polyprotein 1a
+13461	13542	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00119
+			product	Corona_FSE
+			score	81.6
+13760	21547	CDS
+			gene	rep_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00120
+			product	Replicase polyprotein 1ab
+21555	25376	CDS
+			gene	S_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00121
+			product	Spike glycoprotein
+25385	26212	CDS
+			gene	3a_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00122
+			product	Protein 3a
+26515	27183	CDS
+			gene	M_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00123
+			product	Membrane protein
+27194	27379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00124
+			product	hypothetical protein
+27386	27751	CDS
+			gene	7a_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00125
+			product	Protein 7a
+27748	27879	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00126
+			product	hypothetical protein
+27886	28251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00127
+			product	hypothetical protein
+28266	29525	CDS
+			gene	N_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00128
+			product	Nucleoprotein
+29719	29761	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00129
+			product	s2m
+			score	54.4
+>Feature GWHACAZ01000001
+246	13463	CDS
+			gene	1a_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00130
+			product	Replicase polyprotein 1a
+13449	13530	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00131
+			product	Corona_FSE
+			score	81.6
+13748	21535	CDS
+			gene	rep_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00132
+			product	Replicase polyprotein 1ab
+21543	25364	CDS
+			gene	S_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00133
+			product	Spike glycoprotein
+25373	26200	CDS
+			gene	3a_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00134
+			product	Protein 3a
+26503	27171	CDS
+			gene	M_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00135
+			product	Membrane protein
+27182	27367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00136
+			product	hypothetical protein
+27374	27739	CDS
+			gene	7a_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00137
+			product	Protein 7a
+27736	27867	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00138
+			product	hypothetical protein
+27874	28239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00139
+			product	hypothetical protein
+28254	29513	CDS
+			gene	N_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00140
+			product	Nucleoprotein
+29707	29749	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00141
+			product	s2m
+			score	54.4
+>Feature GWHACBA01000001
+258	13475	CDS
+			gene	1a_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00142
+			product	Replicase polyprotein 1a
+13461	13542	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00143
+			product	Corona_FSE
+			score	81.6
+13760	21547	CDS
+			gene	rep_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00144
+			product	Replicase polyprotein 1ab
+21555	25376	CDS
+			gene	S_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00145
+			product	Spike glycoprotein
+25385	26212	CDS
+			gene	3a_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00146
+			product	Protein 3a
+26515	27183	CDS
+			gene	M_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00147
+			product	Membrane protein
+27194	27379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00148
+			product	hypothetical protein
+27386	27751	CDS
+			gene	7a_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00149
+			product	Protein 7a
+27748	27879	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00150
+			product	hypothetical protein
+27886	28251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00151
+			product	hypothetical protein
+28266	29525	CDS
+			gene	N_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00152
+			product	Nucleoprotein
+29832	29677	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00153
+			product	hypothetical protein
+29719	29761	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00154
+			product	s2m
+			score	54.4
+>Feature GWHACBB01000001
+261	13478	CDS
+			gene	1a_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00155
+			product	Replicase polyprotein 1a
+13464	13545	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00156
+			product	Corona_FSE
+			score	81.6
+13763	21550	CDS
+			gene	rep_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00157
+			product	Replicase polyprotein 1ab
+21558	25379	CDS
+			gene	S_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00158
+			product	Spike glycoprotein
+25388	26215	CDS
+			gene	3a_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00159
+			product	Protein 3a
+26518	27186	CDS
+			gene	M_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00160
+			product	Membrane protein
+27197	27382	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00161
+			product	hypothetical protein
+27389	27754	CDS
+			gene	7a_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00162
+			product	Protein 7a
+27751	27882	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00163
+			product	hypothetical protein
+27889	28254	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00164
+			product	hypothetical protein
+28269	29528	CDS
+			gene	N_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00165
+			product	Nucleoprotein
+29835	29680	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00166
+			product	hypothetical protein
+29722	29764	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00167
+			product	s2m
+			score	54.4
+>Feature GWHACBD01000001
+258	13475	CDS
+			gene	1a_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00168
+			product	Replicase polyprotein 1a
+13461	13542	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00169
+			product	Corona_FSE
+			score	81.6
+13760	21547	CDS
+			gene	rep_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00170
+			product	Replicase polyprotein 1ab
+21555	25376	CDS
+			gene	S_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00171
+			product	Spike glycoprotein
+25385	26212	CDS
+			gene	3a_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00172
+			product	Protein 3a
+26515	27183	CDS
+			gene	M_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00173
+			product	Membrane protein
+27194	27379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00174
+			product	hypothetical protein
+27386	27751	CDS
+			gene	7a_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00175
+			product	Protein 7a
+27748	27879	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00176
+			product	hypothetical protein
+27886	28251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00177
+			product	hypothetical protein
+28266	29525	CDS
+			gene	N_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00178
+			product	Nucleoprotein
+29832	29677	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00179
+			product	hypothetical protein
+29719	29761	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00180
+			product	s2m
+			score	54.4
+>Feature GWHACDE01000001
+252	13469	CDS
+			gene	1a_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00181
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00182
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00183
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00184
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00185
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00186
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00187
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00188
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00189
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00190
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_15
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00191
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00192
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00193
+			product	s2m
+			score	54.4
+>Feature GWHACDF01000001
+252	13469	CDS
+			gene	1a_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00194
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00195
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00196
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00197
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00198
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00199
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00200
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00201
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00202
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00203
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_16
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00204
+			product	Nucleoprotein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00205
+			product	s2m
+			score	54.4
+>Feature GWHACDG01000001
+252	13469	CDS
+			gene	1a_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00206
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00207
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00208
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00209
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00210
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00211
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00212
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00213
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00214
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00215
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_17
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00216
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00217
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00218
+			product	s2m
+			score	54.4
+>Feature GWHACDH01000001
+252	13469	CDS
+			gene	1a_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00219
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00220
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00221
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00222
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00223
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00224
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00225
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00226
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00227
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00228
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_18
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00229
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00230
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00231
+			product	s2m
+			score	54.4
+>Feature GWHACDI01000001
+252	13469	CDS
+			gene	1a_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00232
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00233
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00234
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00235
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00236
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00237
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00238
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00239
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00240
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00241
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_19
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00242
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00243
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00244
+			product	s2m
+			score	54.4
+>Feature GWHACDJ01000001
+252	13469	CDS
+			gene	1a_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00245
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00246
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00247
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00248
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00249
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00250
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00251
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00252
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00253
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00254
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_20
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00255
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00256
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00257
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IVDC-HB-01/2019
+266	13483	CDS
+			gene	1a_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00258
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00259
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00260
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00261
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00262
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00263
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00264
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00265
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00266
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00267
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_21
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00268
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00269
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00270
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IVDC-HB-04/2020
+266	13483	CDS
+			gene	1a_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00271
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00272
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00273
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00274
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00275
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00276
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00277
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00278
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00279
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00280
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_22
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00281
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00282
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00283
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IVDC-HB-05/2019
+266	13483	CDS
+			gene	1a_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00284
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00285
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00286
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00287
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00288
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00289
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00290
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00291
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00292
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00293
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_23
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00294
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00295
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00296
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IPBCAMS-WH-01/2019
+266	13483	CDS
+			gene	1a_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00297
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00298
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00299
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00300
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00301
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00302
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00303
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00304
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00305
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00306
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_24
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00307
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00308
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00309
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WIV02/2019
+233	13450	CDS
+			gene	1a_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00310
+			product	Replicase polyprotein 1a
+13436	13517	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00311
+			product	Corona_FSE
+			score	81.6
+13735	21522	CDS
+			gene	rep_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00312
+			product	Replicase polyprotein 1ab
+21530	25351	CDS
+			gene	S_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00313
+			product	Spike glycoprotein
+25360	26187	CDS
+			gene	3a_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00314
+			product	Protein 3a
+26490	27158	CDS
+			gene	M_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00315
+			product	Membrane protein
+27169	27354	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00316
+			product	hypothetical protein
+27361	27726	CDS
+			gene	7a_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00317
+			product	Protein 7a
+27723	27854	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00318
+			product	hypothetical protein
+27861	28226	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00319
+			product	hypothetical protein
+28241	29500	CDS
+			gene	N_25
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00320
+			product	Nucleoprotein
+29807	29652	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00321
+			product	hypothetical protein
+29694	29736	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00322
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WIV05/2019
+254	13471	CDS
+			gene	1a_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00323
+			product	Replicase polyprotein 1a
+13457	13538	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00324
+			product	Corona_FSE
+			score	81.6
+13756	21543	CDS
+			gene	rep_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00325
+			product	Replicase polyprotein 1ab
+21551	25372	CDS
+			gene	S_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00326
+			product	Spike glycoprotein
+25381	26208	CDS
+			gene	3a_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00327
+			product	Protein 3a
+26511	27179	CDS
+			gene	M_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00328
+			product	Membrane protein
+27190	27375	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00329
+			product	hypothetical protein
+27382	27747	CDS
+			gene	7a_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00330
+			product	Protein 7a
+27744	27875	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00331
+			product	hypothetical protein
+27882	28247	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00332
+			product	hypothetical protein
+28262	29521	CDS
+			gene	N_26
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00333
+			product	Nucleoprotein
+29828	29673	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00334
+			product	hypothetical protein
+29715	29757	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00335
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WIV06/2019
+252	13469	CDS
+			gene	1a_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00336
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00337
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00338
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00339
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00340
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00341
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00342
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00343
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00344
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00345
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_27
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00346
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00347
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00348
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WIV07/2019
+253	13470	CDS
+			gene	1a_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00349
+			product	Replicase polyprotein 1a
+13456	13537	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00350
+			product	Corona_FSE
+			score	81.6
+13755	21542	CDS
+			gene	rep_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00351
+			product	Replicase polyprotein 1ab
+21550	25371	CDS
+			gene	S_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00352
+			product	Spike glycoprotein
+25380	26207	CDS
+			gene	3a_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00353
+			product	Protein 3a
+26510	27178	CDS
+			gene	M_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00354
+			product	Membrane protein
+27189	27374	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00355
+			product	hypothetical protein
+27381	27746	CDS
+			gene	7a_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00356
+			product	Protein 7a
+27743	27874	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00357
+			product	hypothetical protein
+27881	28246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00358
+			product	hypothetical protein
+28261	29520	CDS
+			gene	N_28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00359
+			product	Nucleoprotein
+29827	29672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00360
+			product	hypothetical protein
+29714	29756	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00361
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-01/2019
+255	13472	CDS
+			gene	1a_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00362
+			product	Replicase polyprotein 1a
+13458	13539	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00363
+			product	Corona_FSE
+			score	81.6
+13757	21544	CDS
+			gene	rep_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00364
+			product	Replicase polyprotein 1ab
+21552	25373	CDS
+			gene	S_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00365
+			product	Spike glycoprotein
+25382	26209	CDS
+			gene	3a_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00366
+			product	Protein 3a
+26512	27180	CDS
+			gene	M_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00367
+			product	Membrane protein
+27191	27376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00368
+			product	hypothetical protein
+27383	27748	CDS
+			gene	7a_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00369
+			product	Protein 7a
+27745	27876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00370
+			product	hypothetical protein
+27883	28248	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00371
+			product	hypothetical protein
+28263	29522	CDS
+			gene	N_29
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00372
+			product	Nucleoprotein
+29829	29674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00373
+			product	hypothetical protein
+29716	29758	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00374
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IPBCAMS-WH-05/2020
+266	13483	CDS
+			gene	1a_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00375
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00376
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00377
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00378
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00379
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00380
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00381
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00382
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00383
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00384
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_30
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00385
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00386
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00387
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IPBCAMS-WH-04/2019
+266	13483	CDS
+			gene	1a_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00388
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00389
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00390
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00391
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00392
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00393
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00394
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00395
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00396
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00397
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_31
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00398
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00399
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00400
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IPBCAMS-WH-03/2019
+266	13483	CDS
+			gene	1a_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00401
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00402
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00403
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00404
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00405
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00406
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00407
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00408
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00409
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00410
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_32
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00411
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00412
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00413
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IPBCAMS-WH-02/2019
+266	13483	CDS
+			gene	1a_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00414
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00415
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00416
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00417
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00418
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00419
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00420
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00421
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00422
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00423
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_33
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00424
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00425
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00426
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WHU01/2020
+265	13482	CDS
+			gene	1a_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00427
+			product	Replicase polyprotein 1a
+13468	13549	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00428
+			product	Corona_FSE
+			score	81.6
+13767	21554	CDS
+			gene	rep_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00429
+			product	Replicase polyprotein 1ab
+21562	25383	CDS
+			gene	S_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00430
+			product	Spike glycoprotein
+25392	26219	CDS
+			gene	3a_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00431
+			product	Protein 3a
+26522	27190	CDS
+			gene	M_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00432
+			product	Membrane protein
+27201	27386	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00433
+			product	hypothetical protein
+27393	27758	CDS
+			gene	7a_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00434
+			product	Protein 7a
+27755	27886	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00435
+			product	hypothetical protein
+27893	28258	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00436
+			product	hypothetical protein
+28273	29532	CDS
+			gene	N_34
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00437
+			product	Nucleoprotein
+29839	29684	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00438
+			product	hypothetical protein
+29726	29768	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00439
+			product	s2m
+			score	54.4
+>Feature hCoV-19/env/Wuhan/IVDC-HBF13-20/2020
+266	13483	CDS
+			gene	1a_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00440
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00441
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00442
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00443
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00444
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00445
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00446
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00447
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00448
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00449
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_35
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00450
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00451
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00452
+			product	s2m
+			score	54.4
+>Feature hCoV-19/env/Wuhan/IVDC-HBF13-21/2020
+266	13483	CDS
+			gene	1a_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00453
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00454
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00455
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00456
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00457
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00458
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00459
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00460
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00461
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00462
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_36
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00463
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00464
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00465
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/WH05/2020
+11707	13458	CDS
+			gene	1a_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00466
+			product	Replicase polyprotein 1a
+13444	13525	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00467
+			product	Corona_FSE
+			score	49.7
+13743	21530	CDS
+			gene	rep_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00468
+			product	Replicase polyprotein 1ab
+21538	25359	CDS
+			gene	S_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00469
+			product	Spike glycoprotein
+25368	26195	CDS
+			gene	3a_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00470
+			product	Protein 3a
+26747	27166	CDS
+			gene	M_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00471
+			product	Membrane protein
+27369	27734	CDS
+			gene	7a_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00472
+			product	Protein 7a
+27869	28234	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00473
+			product	hypothetical protein
+>Feature hCoV-19/Wuhan/HBCDC-HB-02/2019
+255	13472	CDS
+			gene	1a_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00474
+			product	Replicase polyprotein 1a
+13458	13539	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00475
+			product	Corona_FSE
+			score	81.6
+13757	21544	CDS
+			gene	rep_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00476
+			product	Replicase polyprotein 1ab
+21552	25373	CDS
+			gene	S_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00477
+			product	Spike glycoprotein
+25382	26209	CDS
+			gene	3a_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00478
+			product	Protein 3a
+26512	27180	CDS
+			gene	M_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00479
+			product	Membrane protein
+27191	27376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00480
+			product	hypothetical protein
+27383	27748	CDS
+			gene	7a_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00481
+			product	Protein 7a
+27745	27876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00482
+			product	hypothetical protein
+27883	28248	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00483
+			product	hypothetical protein
+28263	29522	CDS
+			gene	N_37
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00484
+			product	Nucleoprotein
+29829	29674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00485
+			product	hypothetical protein
+29716	29758	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00486
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-03/2019
+255	13472	CDS
+			gene	1a_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00487
+			product	Replicase polyprotein 1a
+13458	13539	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00488
+			product	Corona_FSE
+			score	81.6
+13757	21544	CDS
+			gene	rep_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00489
+			product	Replicase polyprotein 1ab
+21552	25373	CDS
+			gene	S_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00490
+			product	Spike glycoprotein
+25382	26209	CDS
+			gene	3a_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00491
+			product	Protein 3a
+26512	27180	CDS
+			gene	M_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00492
+			product	Membrane protein
+27191	27376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00493
+			product	hypothetical protein
+27383	27748	CDS
+			gene	7a_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00494
+			product	Protein 7a
+27745	27876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00495
+			product	hypothetical protein
+27883	28248	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00496
+			product	hypothetical protein
+28263	29522	CDS
+			gene	N_38
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00497
+			product	Nucleoprotein
+29829	29674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00498
+			product	hypothetical protein
+29716	29758	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00499
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-04/2019
+223	4176	CDS
+			gene	1a_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00500
+			product	Replicase polyprotein 1a
+4362	9191	CDS
+			gene	1a_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00501
+			product	Replicase polyprotein 1a
+9268	12825	CDS
+			gene	1a_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00502
+			product	Replicase polyprotein 1a
+12811	12892	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00503
+			product	Corona_FSE
+			score	81.6
+13110	20897	CDS
+			gene	rep_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00504
+			product	Replicase polyprotein 1ab
+20905	24726	CDS
+			gene	S_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00505
+			product	Spike glycoprotein
+24735	25562	CDS
+			gene	3a_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00506
+			product	Protein 3a
+25865	26533	CDS
+			gene	M_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00507
+			product	Membrane protein
+26544	26729	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00508
+			product	hypothetical protein
+26736	27101	CDS
+			gene	7a_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00509
+			product	Protein 7a
+27098	27229	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00510
+			product	hypothetical protein
+27236	27601	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00511
+			product	hypothetical protein
+27616	28875	CDS
+			gene	N_39
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00512
+			product	Nucleoprotein
+29182	29027	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00513
+			product	hypothetical protein
+29069	29111	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00514
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-02/2020
+253	13470	CDS
+			gene	1a_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00515
+			product	Replicase polyprotein 1a
+13456	13537	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00516
+			product	Corona_FSE
+			score	81.6
+13755	21542	CDS
+			gene	rep_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00517
+			product	Replicase polyprotein 1ab
+21550	25371	CDS
+			gene	S_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00518
+			product	Spike glycoprotein
+25380	26207	CDS
+			gene	3a_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00519
+			product	Protein 3a
+26510	27178	CDS
+			gene	M_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00520
+			product	Membrane protein
+27189	27374	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00521
+			product	hypothetical protein
+27381	27746	CDS
+			gene	7a_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00522
+			product	Protein 7a
+27743	27874	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00523
+			product	hypothetical protein
+27881	28246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00524
+			product	hypothetical protein
+28261	29520	CDS
+			gene	N_40
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00525
+			product	Nucleoprotein
+29827	29672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00526
+			product	hypothetical protein
+29714	29756	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00527
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-03/2020
+255	13472	CDS
+			gene	1a_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00528
+			product	Replicase polyprotein 1a
+13458	13539	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00529
+			product	Corona_FSE
+			score	81.6
+13757	21544	CDS
+			gene	rep_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00530
+			product	Replicase polyprotein 1ab
+21552	25373	CDS
+			gene	S_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00531
+			product	Spike glycoprotein
+25382	26209	CDS
+			gene	3a_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00532
+			product	Protein 3a
+26512	27180	CDS
+			gene	M_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00533
+			product	Membrane protein
+27191	27376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00534
+			product	hypothetical protein
+27383	27748	CDS
+			gene	7a_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00535
+			product	Protein 7a
+27745	27876	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00536
+			product	hypothetical protein
+27883	28248	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00537
+			product	hypothetical protein
+28263	29522	CDS
+			gene	N_41
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00538
+			product	Nucleoprotein
+29829	29674	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00539
+			product	hypothetical protein
+29716	29758	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00540
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-04/2020
+252	13469	CDS
+			gene	1a_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00541
+			product	Replicase polyprotein 1a
+13455	13536	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00542
+			product	Corona_FSE
+			score	81.6
+13754	21541	CDS
+			gene	rep_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00543
+			product	Replicase polyprotein 1ab
+21549	25370	CDS
+			gene	S_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00544
+			product	Spike glycoprotein
+25379	26206	CDS
+			gene	3a_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00545
+			product	Protein 3a
+26509	27177	CDS
+			gene	M_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00546
+			product	Membrane protein
+27188	27373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00547
+			product	hypothetical protein
+27380	27745	CDS
+			gene	7a_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00548
+			product	Protein 7a
+27742	27873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00549
+			product	hypothetical protein
+27880	28245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00550
+			product	hypothetical protein
+28260	29519	CDS
+			gene	N_42
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00551
+			product	Nucleoprotein
+29826	29671	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00552
+			product	hypothetical protein
+29713	29755	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00553
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/HBCDC-HB-05/2020
+250	13467	CDS
+			gene	1a_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00554
+			product	Replicase polyprotein 1a
+13453	13534	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00555
+			product	Corona_FSE
+			score	81.6
+13752	21539	CDS
+			gene	rep_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00556
+			product	Replicase polyprotein 1ab
+21547	25368	CDS
+			gene	S_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00557
+			product	Spike glycoprotein
+25377	26204	CDS
+			gene	3a_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00558
+			product	Protein 3a
+26507	27175	CDS
+			gene	M_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00559
+			product	Membrane protein
+27186	27371	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00560
+			product	hypothetical protein
+27378	27743	CDS
+			gene	7a_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00561
+			product	Protein 7a
+27740	27871	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00562
+			product	hypothetical protein
+27878	28243	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00563
+			product	hypothetical protein
+28258	29517	CDS
+			gene	N_43
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00564
+			product	Nucleoprotein
+29711	29753	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00565
+			product	s2m
+			score	48.7
+>Feature hCoV-19/Wuhan/HBCDC-HB-06/2020
+251	13468	CDS
+			gene	1a_47
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00566
+			product	Replicase polyprotein 1a
+13454	13535	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00567
+			product	Corona_FSE
+			score	81.6
+13753	21540	CDS
+			gene	rep_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00568
+			product	Replicase polyprotein 1ab
+21548	25369	CDS
+			gene	S_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00569
+			product	Spike glycoprotein
+25378	26205	CDS
+			gene	3a_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00570
+			product	Protein 3a
+26508	27176	CDS
+			gene	M_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00571
+			product	Membrane protein
+27187	27372	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00572
+			product	hypothetical protein
+27379	27744	CDS
+			gene	7a_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00573
+			product	Protein 7a
+27741	27872	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00574
+			product	hypothetical protein
+27879	28244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00575
+			product	hypothetical protein
+28259	29518	CDS
+			gene	N_44
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00576
+			product	Nucleoprotein
+29825	29670	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00577
+			product	hypothetical protein
+29712	29754	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00578
+			product	s2m
+			score	54.4
+>Feature hCoV-19/Wuhan/IVDC-HB-GX02/2019
+266	13483	CDS
+			gene	1a_48
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	NMICGJMG_00579
+			product	Replicase polyprotein 1a
+13469	13550	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00580
+			product	Corona_FSE
+			score	81.6
+13768	21555	CDS
+			gene	rep_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	NMICGJMG_00581
+			product	Replicase polyprotein 1ab
+21563	25384	CDS
+			gene	S_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	NMICGJMG_00582
+			product	Spike glycoprotein
+25393	26220	CDS
+			gene	3a_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	NMICGJMG_00583
+			product	Protein 3a
+26523	27191	CDS
+			gene	M_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	NMICGJMG_00584
+			product	Membrane protein
+27202	27387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00585
+			product	hypothetical protein
+27394	27759	CDS
+			gene	7a_46
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	NMICGJMG_00586
+			product	Protein 7a
+27756	27887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00587
+			product	hypothetical protein
+27894	28259	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00588
+			product	hypothetical protein
+28274	29533	CDS
+			gene	N_45
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	NMICGJMG_00589
+			product	Nucleoprotein
+29840	29685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	NMICGJMG_00590
+			product	hypothetical protein
+29727	29769	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	NMICGJMG_00591
+			product	s2m
+			score	54.4

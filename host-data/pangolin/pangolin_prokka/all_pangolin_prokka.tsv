@@ -1,0 +1,96 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CGIJCJNJ_00001	CDS	13194	1a_1			Replicase polyprotein 1a
+CGIJCJNJ_00002	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00003	CDS	7788	rep_1			Replicase polyprotein 1ab
+CGIJCJNJ_00004	CDS	3804	S_1			Spike glycoprotein
+CGIJCJNJ_00005	CDS	828	3a_1			Protein 3a
+CGIJCJNJ_00006	CDS	228	E_1			Envelope small membrane protein
+CGIJCJNJ_00007	CDS	669	M_1			Membrane protein
+CGIJCJNJ_00008	CDS	186				hypothetical protein
+CGIJCJNJ_00009	CDS	366	7a_1			Protein 7a
+CGIJCJNJ_00010	CDS	366				hypothetical protein
+CGIJCJNJ_00011	CDS	1254	N_1			Nucleoprotein
+CGIJCJNJ_00012	misc_RNA	43				s2m
+CGIJCJNJ_00013	CDS	13194	1a_2			Replicase polyprotein 1a
+CGIJCJNJ_00014	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00015	CDS	7788	rep_2			Replicase polyprotein 1ab
+CGIJCJNJ_00016	CDS	3798	S_2			Spike glycoprotein
+CGIJCJNJ_00017	CDS	828	3a_2			Protein 3a
+CGIJCJNJ_00018	CDS	228	E_2			Envelope small membrane protein
+CGIJCJNJ_00019	CDS	669	M_2			Membrane protein
+CGIJCJNJ_00020	CDS	186				hypothetical protein
+CGIJCJNJ_00021	CDS	366	7a_2			Protein 7a
+CGIJCJNJ_00022	CDS	132				hypothetical protein
+CGIJCJNJ_00023	CDS	1254	N_2			Nucleoprotein
+CGIJCJNJ_00024	CDS	117				hypothetical protein
+CGIJCJNJ_00025	misc_RNA	33				s2m
+CGIJCJNJ_00026	CDS	13194	1a_3			Replicase polyprotein 1a
+CGIJCJNJ_00027	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00028	CDS	7788	rep_3			Replicase polyprotein 1ab
+CGIJCJNJ_00029	CDS	3804	S_3			Spike glycoprotein
+CGIJCJNJ_00030	CDS	828	3a_3			Protein 3a
+CGIJCJNJ_00031	CDS	228	E_3			Envelope small membrane protein
+CGIJCJNJ_00032	CDS	669	M_3			Membrane protein
+CGIJCJNJ_00033	CDS	186				hypothetical protein
+CGIJCJNJ_00034	CDS	366	7a_3			Protein 7a
+CGIJCJNJ_00035	CDS	132				hypothetical protein
+CGIJCJNJ_00036	CDS	366				hypothetical protein
+CGIJCJNJ_00037	CDS	1254	N_3			Nucleoprotein
+CGIJCJNJ_00038	CDS	117				hypothetical protein
+CGIJCJNJ_00039	misc_RNA	43				s2m
+CGIJCJNJ_00040	CDS	13194	1a_4			Replicase polyprotein 1a
+CGIJCJNJ_00041	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00042	CDS	7788	rep_4			Replicase polyprotein 1ab
+CGIJCJNJ_00043	CDS	3804	S_4			Spike glycoprotein
+CGIJCJNJ_00044	CDS	828	3a_4			Protein 3a
+CGIJCJNJ_00045	CDS	228	E_4			Envelope small membrane protein
+CGIJCJNJ_00046	CDS	669	M_4			Membrane protein
+CGIJCJNJ_00047	CDS	186				hypothetical protein
+CGIJCJNJ_00048	CDS	366	7a_4			Protein 7a
+CGIJCJNJ_00049	CDS	366				hypothetical protein
+CGIJCJNJ_00050	CDS	1254	N_4			Nucleoprotein
+CGIJCJNJ_00051	CDS	117				hypothetical protein
+CGIJCJNJ_00052	misc_RNA	43				s2m
+CGIJCJNJ_00053	CDS	13194	1a_5			Replicase polyprotein 1a
+CGIJCJNJ_00054	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00055	CDS	7788	rep_5			Replicase polyprotein 1ab
+CGIJCJNJ_00056	CDS	3810	S_5			Spike glycoprotein
+CGIJCJNJ_00057	CDS	828	3a_5			Protein 3a
+CGIJCJNJ_00058	CDS	228	E_5			Envelope small membrane protein
+CGIJCJNJ_00059	CDS	669	M_5			Membrane protein
+CGIJCJNJ_00060	CDS	186				hypothetical protein
+CGIJCJNJ_00061	CDS	366	7a_5			Protein 7a
+CGIJCJNJ_00062	CDS	366				hypothetical protein
+CGIJCJNJ_00063	CDS	1254	N_5			Nucleoprotein
+CGIJCJNJ_00064	CDS	117				hypothetical protein
+CGIJCJNJ_00065	misc_RNA	43				s2m
+CGIJCJNJ_00066	CDS	330	1a_6			Replicase polyprotein 1a
+CGIJCJNJ_00067	CDS	2241	1a_7			Replicase polyprotein 1a
+CGIJCJNJ_00068	CDS	702	1a_8			Replicase polyprotein 1a
+CGIJCJNJ_00069	CDS	1548	1a_9			Replicase polyprotein 1a
+CGIJCJNJ_00070	CDS	1476	1a_10			Replicase polyprotein 1a
+CGIJCJNJ_00071	CDS	1755	1a_11			Replicase polyprotein 1a
+CGIJCJNJ_00072	CDS	648	1a_12			Replicase polyprotein 1a
+CGIJCJNJ_00073	CDS	1113	1a_13			Replicase polyprotein 1a
+CGIJCJNJ_00074	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00075	CDS	1341	rep_6			Replicase polyprotein 1ab
+CGIJCJNJ_00076	CDS	390	rep_7			Replicase polyprotein 1ab
+CGIJCJNJ_00077	CDS	2166	rep_8			Replicase polyprotein 1ab
+CGIJCJNJ_00078	CDS	507	rep_9			Replicase polyprotein 1ab
+CGIJCJNJ_00079	CDS	1161	S_6			Spike glycoprotein
+CGIJCJNJ_00080	CDS	456	3a_6			Protein 3a
+CGIJCJNJ_00081	CDS	228	E_6			Envelope small membrane protein
+CGIJCJNJ_00082	CDS	1254	N_6			Nucleoprotein
+CGIJCJNJ_00083	CDS	117				hypothetical protein
+CGIJCJNJ_00084	misc_RNA	43				s2m
+CGIJCJNJ_00085	CDS	156				hypothetical protein
+CGIJCJNJ_00086	CDS	2175	1a_14			Replicase polyprotein 1a
+CGIJCJNJ_00087	misc_RNA	82				Corona_FSE
+CGIJCJNJ_00088	CDS	1626	rep_10			Replicase polyprotein 1ab
+CGIJCJNJ_00089	CDS	459	3a_7			Protein 3a
+CGIJCJNJ_00090	CDS	228	E_7			Envelope small membrane protein
+CGIJCJNJ_00091	CDS	669	M_6			Membrane protein
+CGIJCJNJ_00092	CDS	186				hypothetical protein
+CGIJCJNJ_00093	CDS	366	7a_6			Protein 7a
+CGIJCJNJ_00094	CDS	366				hypothetical protein
+CGIJCJNJ_00095	CDS	1260	N_7			Nucleoprotein

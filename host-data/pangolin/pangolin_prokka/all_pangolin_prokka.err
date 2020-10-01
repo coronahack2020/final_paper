@@ -1,0 +1,621 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:82 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all same)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all same)
+DISC_FEATURE_COUNT:CDS: 82 present
+DISC_FEATURE_COUNT:misc_RNA: 13 present
+DISC_COUNT_NUCLEOTIDES:7 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:95 features have inconsistent gene locations.
+OVERLAPPING_CDS:6 coding regions overlap another coding region with a similar or identical name.
+RNA_CDS_OVERLAP:7 coding regions overlap RNA features
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:7 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:7 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:7 bioseqs are missing GenomeAssembly structured comments
+TEST_LOW_QUALITY_REGION:2 sequences contains low quality region
+TEST_UNUSUAL_MISC_RNA:13 unexpected misc_RNA features found.  misc_RNAs are unusual in a genome, consider using ncRNA, misc_binding, or misc_feature as appropriate.
+MOLTYPE_NOT_MRNA:7 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:7 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:7 sequences do not include structured comments.
+MISSING_PROJECT:89 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+DISC_GAPS:2 sequences contain gaps
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::82 proteins have invalid IDs.
+pangolin_prokka/all_pangolin_prokka:MT040333_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040333_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040333_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040333_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040333_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040333_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040333_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040333_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040333_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040333_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040334_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040334_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040334_3 (length 1265)
+pangolin_prokka/all_pangolin_prokka:MT040334_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040334_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040334_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040334_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040334_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040334_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040334_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040334_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040335_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040335_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040335_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040335_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040335_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040335_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040335_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040335_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040335_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040335_10 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040335_11 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040335_12 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040336_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040336_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040336_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040336_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040336_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040336_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040336_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040336_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040336_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040336_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040336_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072864_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT072864_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT072864_3 (length 1269)
+pangolin_prokka/all_pangolin_prokka:MT072864_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT072864_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT072864_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT072864_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT072864_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT072864_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT072864_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT072864_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_1 (length 109)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_2 (length 746)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_3 (length 233)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_4 (length 515)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_5 (length 491)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_6 (length 584)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_7 (length 215)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_8 (length 370)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_9 (length 446)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_10 (length 129)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_11 (length 721)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_12 (length 168)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_13 (length 386)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_14 (length 151)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_15 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_16 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_17 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_1 (length 51)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_2 (length 724)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_3 (length 541)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_4 (length 152)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_10 (length 419)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::7 sources have 'strain' for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::7 sources have 'Genus species' for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 82 present
+DiscRep_ALL:DISC_FEATURE_COUNT::misc_RNA: 13 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::7 nucleotide Bioseqs are present
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::95 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040333:267-13460	CGIJCJNJ_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT040333:13745-21532	CGIJCJNJ_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT040333:21540-25343	CGIJCJNJ_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT040333:25353-26180	CGIJCJNJ_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT040333:26205-26432	CGIJCJNJ_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT040333:26480-27148	CGIJCJNJ_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040333:27159-27344	CGIJCJNJ_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT040333:27351-27716	CGIJCJNJ_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040333:27850-28215	CGIJCJNJ_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT040333:28229-29482	CGIJCJNJ_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040333:13446-13527	CGIJCJNJ_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040333:29676-29718	CGIJCJNJ_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040334:267-13460	CGIJCJNJ_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT040334:13745-21532	CGIJCJNJ_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT040334:21540-25337	CGIJCJNJ_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT040334:25347-26174	CGIJCJNJ_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT040334:26199-26426	CGIJCJNJ_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT040334:26474-27142	CGIJCJNJ_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040334:27153-27338	CGIJCJNJ_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT040334:27345-27710	CGIJCJNJ_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040334:27707-27838	CGIJCJNJ_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT040334:28224-29477	CGIJCJNJ_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040334:29502-29618	CGIJCJNJ_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040334:13446-13527	CGIJCJNJ_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040334:29676-29708	CGIJCJNJ_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040335:267-13460	CGIJCJNJ_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT040335:13745-21532	CGIJCJNJ_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT040335:21540-25343	CGIJCJNJ_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT040335:25353-26180	CGIJCJNJ_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT040335:26205-26432	CGIJCJNJ_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT040335:26480-27148	CGIJCJNJ_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040335:27159-27344	CGIJCJNJ_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT040335:27351-27716	CGIJCJNJ_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040335:27713-27844	CGIJCJNJ_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040335:27851-28216	CGIJCJNJ_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT040335:28230-29483	CGIJCJNJ_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040335:29508-29624	CGIJCJNJ_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040335:13446-13527	CGIJCJNJ_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040335:29677-29719	CGIJCJNJ_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040336:267-13460	CGIJCJNJ_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT040336:13745-21532	CGIJCJNJ_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT040336:21540-25343	CGIJCJNJ_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT040336:25353-26180	CGIJCJNJ_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT040336:26205-26432	CGIJCJNJ_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT040336:26480-27148	CGIJCJNJ_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040336:27159-27344	CGIJCJNJ_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT040336:27351-27716	CGIJCJNJ_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040336:27847-28212	CGIJCJNJ_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT040336:28226-29479	CGIJCJNJ_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT040336:29504-29620	CGIJCJNJ_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040336:13446-13527	CGIJCJNJ_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040336:29673-29715	CGIJCJNJ_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072864:249-13442	CGIJCJNJ_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072864:13727-21514	CGIJCJNJ_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT072864:21522-25331	CGIJCJNJ_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT072864:25341-26168	CGIJCJNJ_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT072864:26193-26420	CGIJCJNJ_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT072864:26468-27136	CGIJCJNJ_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT072864:27147-27332	CGIJCJNJ_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT072864:27339-27704	CGIJCJNJ_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT072864:27839-28204	CGIJCJNJ_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT072864:28218-29471	CGIJCJNJ_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT072864:29496-29612	CGIJCJNJ_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072864:13428-13509	CGIJCJNJ_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT072864:29665-29707	CGIJCJNJ_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:1200-1529	CGIJCJNJ_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:1477-3717	CGIJCJNJ_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:3794-4495	CGIJCJNJ_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:4557-6104	CGIJCJNJ_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:7988-9463	CGIJCJNJ_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:9882-11636	CGIJCJNJ_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:11689-12336	CGIJCJNJ_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:12329-13441	CGIJCJNJ_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:15094-16434	CGIJCJNJ_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:17928-18317	CGIJCJNJ_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:18289-20454	CGIJCJNJ_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:21017-21523	CGIJCJNJ_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Spike glycoprotein	MT072865.1:21531-22691	CGIJCJNJ_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT072865.1:25717-26172	CGIJCJNJ_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT072865.1:26197-26424	CGIJCJNJ_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT072865.1:28225-29478	CGIJCJNJ_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT072865.1:29503-29619	CGIJCJNJ_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072865.1:13427-13508	CGIJCJNJ_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT072865.1:29672-29714	CGIJCJNJ_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT084071.1:c1785-1630	CGIJCJNJ_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT084071.1:9467-11641	CGIJCJNJ_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT084071.1:18072-19697	CGIJCJNJ_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 3a	MT084071.1:23240-23698	CGIJCJNJ_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Envelope small membrane protein	MT084071.1:23723-23950	CGIJCJNJ_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Membrane protein	MT084071.1:24001-24669	CGIJCJNJ_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT084071.1:24680-24865	CGIJCJNJ_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Protein 7a	MT084071.1:24872-25237	CGIJCJNJ_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	hypothetical protein	MT084071.1:25372-25737	CGIJCJNJ_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:CDS	Nucleoprotein	MT084071.1:25752-27011	CGIJCJNJ_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT084071.1:11627-11708	CGIJCJNJ_00087
+
+DiscRep_ALL:OVERLAPPING_CDS::6 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::6 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:1200-1529	CGIJCJNJ_00066
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:1477-3717	CGIJCJNJ_00067
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:11689-12336	CGIJCJNJ_00072
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:12329-13441	CGIJCJNJ_00073
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:17928-18317	CGIJCJNJ_00076
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1ab	MT072865.1:18289-20454	CGIJCJNJ_00077
+
+DiscRep_ALL:RNA_CDS_OVERLAP::7 coding regions overlap RNA features
+DiscRep_SUB:RNA_CDS_OVERLAP::7 coding regions overlap RNAs (no containment)
+DiscRep_SUB:RNA_CDS_OVERLAP::7 coding regions overlap RNAs on the same strand (no containment)
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040333:267-13460	CGIJCJNJ_00001
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040333:13446-13527	CGIJCJNJ_00002
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040334:267-13460	CGIJCJNJ_00013
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040334:13446-13527	CGIJCJNJ_00014
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040335:267-13460	CGIJCJNJ_00026
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040335:13446-13527	CGIJCJNJ_00027
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT040336:267-13460	CGIJCJNJ_00040
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040336:13446-13527	CGIJCJNJ_00041
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072864:249-13442	CGIJCJNJ_00053
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072864:13428-13509	CGIJCJNJ_00054
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT072865.1:12329-13441	CGIJCJNJ_00073
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072865.1:13427-13508	CGIJCJNJ_00074
+pangolin_prokka/all_pangolin_prokka:CDS	Replicase polyprotein 1a	MT084071.1:9467-11641	CGIJCJNJ_00086
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT084071.1:11627-11708	CGIJCJNJ_00087
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::7 comment descriptors were found (all same)
+pangolin_prokka/all_pangolin_prokka:MT040333:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT040334:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT040335:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT040336:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT072864:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT072865.1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+pangolin_prokka/all_pangolin_prokka:MT084071.1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::7 protein sequences are shorter than 50 aa.
+pangolin_prokka/all_pangolin_prokka:MT040334_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040334_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040335_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040335_12 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040336_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072864_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_17 (length 38)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::7 bioseqs are missing GenomeAssembly structured comments
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:TEST_LOW_QUALITY_REGION::2 sequences contains low quality region
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:TEST_UNUSUAL_MISC_RNA::13 unexpected misc_RNA features found.  misc_RNAs are unusual in a genome, consider using ncRNA, misc_binding, or misc_feature as appropriate.
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040333:13446-13527	CGIJCJNJ_00002
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040333:29676-29718	CGIJCJNJ_00012
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040334:13446-13527	CGIJCJNJ_00014
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040334:29676-29708	CGIJCJNJ_00025
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040335:13446-13527	CGIJCJNJ_00027
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040335:29677-29719	CGIJCJNJ_00039
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT040336:13446-13527	CGIJCJNJ_00041
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT040336:29673-29715	CGIJCJNJ_00052
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072864:13428-13509	CGIJCJNJ_00054
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT072864:29665-29707	CGIJCJNJ_00065
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT072865.1:13427-13508	CGIJCJNJ_00074
+pangolin_prokka/all_pangolin_prokka:RNA	s2m	MT072865.1:29672-29714	CGIJCJNJ_00084
+pangolin_prokka/all_pangolin_prokka:RNA	Corona_FSE	MT084071.1:11627-11708	CGIJCJNJ_00087
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::7 molecule types are not set as mRNA.
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::7 technique are not set as TSA
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::7 sequences do not include structured comments.
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:MISSING_PROJECT::89 sequences do not include project.
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040333_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040333_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040333_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040333_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040333_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040333_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040333_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040333_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040333_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040333_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040334_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040334_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040334_3 (length 1265)
+pangolin_prokka/all_pangolin_prokka:MT040334_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040334_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040334_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040334_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040334_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040334_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040334_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040334_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040335_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040335_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040335_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040335_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040335_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040335_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040335_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040335_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040335_9 (length 43)
+pangolin_prokka/all_pangolin_prokka:MT040335_10 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040335_11 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040335_12 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT040336_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT040336_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT040336_3 (length 1267)
+pangolin_prokka/all_pangolin_prokka:MT040336_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT040336_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT040336_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT040336_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT040336_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040336_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT040336_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT040336_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072864_1 (length 4397)
+pangolin_prokka/all_pangolin_prokka:MT072864_2 (length 2595)
+pangolin_prokka/all_pangolin_prokka:MT072864_3 (length 1269)
+pangolin_prokka/all_pangolin_prokka:MT072864_4 (length 275)
+pangolin_prokka/all_pangolin_prokka:MT072864_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT072864_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT072864_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT072864_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT072864_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT072864_10 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT072864_11 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_1 (length 109)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_2 (length 746)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_3 (length 233)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_4 (length 515)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_5 (length 491)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_6 (length 584)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_7 (length 215)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_8 (length 370)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_9 (length 446)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_10 (length 129)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_11 (length 721)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_12 (length 168)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_13 (length 386)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_14 (length 151)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_15 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_16 (length 417)
+pangolin_prokka/all_pangolin_prokka:MT072865.1_17 (length 38)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_1 (length 51)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_2 (length 724)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_3 (length 541)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_4 (length 152)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_5 (length 75)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_6 (length 222)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_7 (length 61)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_8 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_9 (length 121)
+pangolin_prokka/all_pangolin_prokka:MT084071.1_10 (length 419)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::7 Molinfos are missing field technique
+pangolin_prokka/all_pangolin_prokka:MT040333 (length 29805)
+pangolin_prokka/all_pangolin_prokka:MT040334 (length 29801)
+pangolin_prokka/all_pangolin_prokka:MT040335 (length 29806)
+pangolin_prokka/all_pangolin_prokka:MT040336 (length 29802)
+pangolin_prokka/all_pangolin_prokka:MT072864 (length 29795, 10 other)
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+
+DiscRep_ALL:DISC_GAPS::2 sequences contain gaps
+pangolin_prokka/all_pangolin_prokka:MT072865.1 (length 29801, 60 other, 2381 gap)
+pangolin_prokka/all_pangolin_prokka:MT084071.1 (length 27213, 64 other, 1808 gap)
+

@@ -1,0 +1,539 @@
+>Feature MT040333
+267	13460	CDS
+			gene	1a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00001
+			product	Replicase polyprotein 1a
+13446	13527	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00002
+			product	Corona_FSE
+			score	78.8
+13745	21532	CDS
+			gene	rep_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00003
+			product	Replicase polyprotein 1ab
+21540	25343	CDS
+			gene	S_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00004
+			product	Spike glycoprotein
+25353	26180	CDS
+			gene	3a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00005
+			product	Protein 3a
+26205	26432	CDS
+			gene	E_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00006
+			product	Envelope small membrane protein
+26480	27148	CDS
+			gene	M_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00007
+			product	Membrane protein
+27159	27344	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00008
+			product	hypothetical protein
+27351	27716	CDS
+			gene	7a_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00009
+			product	Protein 7a
+27850	28215	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00010
+			product	hypothetical protein
+28229	29482	CDS
+			gene	N_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00011
+			product	Nucleoprotein
+29676	29718	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00012
+			product	s2m
+			score	64.5
+>Feature MT040334
+267	13460	CDS
+			gene	1a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00013
+			product	Replicase polyprotein 1a
+13446	13527	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00014
+			product	Corona_FSE
+			score	78.8
+13745	21532	CDS
+			gene	rep_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00015
+			product	Replicase polyprotein 1ab
+21540	25337	CDS
+			gene	S_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00016
+			product	Spike glycoprotein
+25347	26174	CDS
+			gene	3a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00017
+			product	Protein 3a
+26199	26426	CDS
+			gene	E_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00018
+			product	Envelope small membrane protein
+26474	27142	CDS
+			gene	M_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00019
+			product	Membrane protein
+27153	27338	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00020
+			product	hypothetical protein
+27345	27710	CDS
+			gene	7a_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00021
+			product	Protein 7a
+27707	27838	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00022
+			product	hypothetical protein
+28224	29477	CDS
+			gene	N_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00023
+			product	Nucleoprotein
+29502	29618	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00024
+			product	hypothetical protein
+29676	29708	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00025
+			product	s2m
+			score	50.0
+>Feature MT040335
+267	13460	CDS
+			gene	1a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00026
+			product	Replicase polyprotein 1a
+13446	13527	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00027
+			product	Corona_FSE
+			score	78.8
+13745	21532	CDS
+			gene	rep_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00028
+			product	Replicase polyprotein 1ab
+21540	25343	CDS
+			gene	S_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00029
+			product	Spike glycoprotein
+25353	26180	CDS
+			gene	3a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00030
+			product	Protein 3a
+26205	26432	CDS
+			gene	E_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00031
+			product	Envelope small membrane protein
+26480	27148	CDS
+			gene	M_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00032
+			product	Membrane protein
+27159	27344	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00033
+			product	hypothetical protein
+27351	27716	CDS
+			gene	7a_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00034
+			product	Protein 7a
+27713	27844	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00035
+			product	hypothetical protein
+27851	28216	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00036
+			product	hypothetical protein
+28230	29483	CDS
+			gene	N_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00037
+			product	Nucleoprotein
+29508	29624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00038
+			product	hypothetical protein
+29677	29719	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00039
+			product	s2m
+			score	64.5
+>Feature MT040336
+267	13460	CDS
+			gene	1a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00040
+			product	Replicase polyprotein 1a
+13446	13527	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00041
+			product	Corona_FSE
+			score	78.8
+13745	21532	CDS
+			gene	rep_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00042
+			product	Replicase polyprotein 1ab
+21540	25343	CDS
+			gene	S_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00043
+			product	Spike glycoprotein
+25353	26180	CDS
+			gene	3a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00044
+			product	Protein 3a
+26205	26432	CDS
+			gene	E_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00045
+			product	Envelope small membrane protein
+26480	27148	CDS
+			gene	M_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00046
+			product	Membrane protein
+27159	27344	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00047
+			product	hypothetical protein
+27351	27716	CDS
+			gene	7a_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00048
+			product	Protein 7a
+27847	28212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00049
+			product	hypothetical protein
+28226	29479	CDS
+			gene	N_4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00050
+			product	Nucleoprotein
+29504	29620	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00051
+			product	hypothetical protein
+29673	29715	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00052
+			product	s2m
+			score	64.5
+>Feature MT072864
+249	13442	CDS
+			gene	1a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00053
+			product	Replicase polyprotein 1a
+13428	13509	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00054
+			product	Corona_FSE
+			score	78.8
+13727	21514	CDS
+			gene	rep_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00055
+			product	Replicase polyprotein 1ab
+21522	25331	CDS
+			gene	S_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00056
+			product	Spike glycoprotein
+25341	26168	CDS
+			gene	3a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00057
+			product	Protein 3a
+26193	26420	CDS
+			gene	E_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00058
+			product	Envelope small membrane protein
+26468	27136	CDS
+			gene	M_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00059
+			product	Membrane protein
+27147	27332	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00060
+			product	hypothetical protein
+27339	27704	CDS
+			gene	7a_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00061
+			product	Protein 7a
+27839	28204	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00062
+			product	hypothetical protein
+28218	29471	CDS
+			gene	N_5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00063
+			product	Nucleoprotein
+29496	29612	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00064
+			product	hypothetical protein
+29665	29707	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00065
+			product	s2m
+			score	64.5
+>Feature MT072865.1
+1200	1529	CDS
+			gene	1a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00066
+			product	Replicase polyprotein 1a
+1477	3717	CDS
+			gene	1a_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00067
+			product	Replicase polyprotein 1a
+3794	4495	CDS
+			gene	1a_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00068
+			product	Replicase polyprotein 1a
+4557	6104	CDS
+			gene	1a_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00069
+			product	Replicase polyprotein 1a
+7988	9463	CDS
+			gene	1a_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00070
+			product	Replicase polyprotein 1a
+9882	11636	CDS
+			gene	1a_11
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00071
+			product	Replicase polyprotein 1a
+11689	12336	CDS
+			gene	1a_12
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00072
+			product	Replicase polyprotein 1a
+12329	13441	CDS
+			gene	1a_13
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00073
+			product	Replicase polyprotein 1a
+13427	13508	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00074
+			product	Corona_FSE
+			score	78.8
+15094	16434	CDS
+			gene	rep_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00075
+			product	Replicase polyprotein 1ab
+17928	18317	CDS
+			gene	rep_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00076
+			product	Replicase polyprotein 1ab
+18289	20454	CDS
+			gene	rep_8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00077
+			product	Replicase polyprotein 1ab
+21017	21523	CDS
+			gene	rep_9
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00078
+			product	Replicase polyprotein 1ab
+21531	22691	CDS
+			gene	S_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59594
+			locus_tag	CGIJCJNJ_00079
+			product	Spike glycoprotein
+25717	26172	CDS
+			gene	3a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00080
+			product	Protein 3a
+26197	26424	CDS
+			gene	E_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00081
+			product	Envelope small membrane protein
+28225	29478	CDS
+			gene	N_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00082
+			product	Nucleoprotein
+29503	29619	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00083
+			product	hypothetical protein
+29672	29714	misc_RNA
+			accession	RF00164
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00084
+			product	s2m
+			score	64.5
+>Feature MT084071.1
+1785	1630	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00085
+			product	hypothetical protein
+9467	11641	CDS
+			gene	1a_14
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6U8
+			locus_tag	CGIJCJNJ_00086
+			product	Replicase polyprotein 1a
+11627	11708	misc_RNA
+			accession	RF00507
+			inference	COORDINATES:profile:Infernal:001001
+			locus_tag	CGIJCJNJ_00087
+			product	Corona_FSE
+			score	82.1
+18072	19697	CDS
+			gene	rep_10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6X7
+			locus_tag	CGIJCJNJ_00088
+			product	Replicase polyprotein 1ab
+23240	23698	CDS
+			gene	3a_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59632
+			locus_tag	CGIJCJNJ_00089
+			product	Protein 3a
+23723	23950	CDS
+			gene	E_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59637
+			locus_tag	CGIJCJNJ_00090
+			product	Envelope small membrane protein
+24001	24669	CDS
+			gene	M_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59596
+			locus_tag	CGIJCJNJ_00091
+			product	Membrane protein
+24680	24865	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00092
+			product	hypothetical protein
+24872	25237	CDS
+			gene	7a_6
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59635
+			locus_tag	CGIJCJNJ_00093
+			product	Protein 7a
+25372	25737	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGIJCJNJ_00094
+			product	hypothetical protein
+25752	27011	CDS
+			gene	N_7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59595
+			locus_tag	CGIJCJNJ_00095
+			product	Nucleoprotein

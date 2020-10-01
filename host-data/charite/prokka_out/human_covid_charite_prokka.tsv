@@ -1,0 +1,2991 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EBIIEENH_00001	gene	13218	1a_1			
+EBIIEENH_00001	CDS	13218	1a_1			Replicase polyprotein 1a
+EBIIEENH_00002	gene	82				
+EBIIEENH_00002	misc_RNA	82				Corona_FSE
+EBIIEENH_00003	gene	7788	rep_1			
+EBIIEENH_00003	CDS	7788	rep_1			Replicase polyprotein 1ab
+EBIIEENH_00004	gene	3822	S_1			
+EBIIEENH_00004	CDS	3822	S_1			Spike glycoprotein
+EBIIEENH_00005	gene	828	3a_1			
+EBIIEENH_00005	CDS	828	3a_1			Protein 3a
+EBIIEENH_00006	gene	669	M_1			
+EBIIEENH_00006	CDS	669	M_1			Membrane protein
+EBIIEENH_00007	gene	186				
+EBIIEENH_00007	CDS	186				hypothetical protein
+EBIIEENH_00008	gene	366	7a_1			
+EBIIEENH_00008	CDS	366	7a_1			Protein 7a
+EBIIEENH_00009	gene	132				
+EBIIEENH_00009	CDS	132				hypothetical protein
+EBIIEENH_00010	gene	366				
+EBIIEENH_00010	CDS	366				hypothetical protein
+EBIIEENH_00011	gene	1260	N_1			
+EBIIEENH_00011	CDS	1260	N_1			Nucleoprotein
+EBIIEENH_00012	gene	156				
+EBIIEENH_00012	CDS	156				hypothetical protein
+EBIIEENH_00013	gene	43				
+EBIIEENH_00013	misc_RNA	43				s2m
+EBIIEENH_00014	gene	13218	1a_2			
+EBIIEENH_00014	CDS	13218	1a_2			Replicase polyprotein 1a
+EBIIEENH_00015	gene	82				
+EBIIEENH_00015	misc_RNA	82				Corona_FSE
+EBIIEENH_00016	gene	7788	rep_2			
+EBIIEENH_00016	CDS	7788	rep_2			Replicase polyprotein 1ab
+EBIIEENH_00017	gene	3822	S_2			
+EBIIEENH_00017	CDS	3822	S_2			Spike glycoprotein
+EBIIEENH_00018	gene	828	3a_2			
+EBIIEENH_00018	CDS	828	3a_2			Protein 3a
+EBIIEENH_00019	gene	669	M_2			
+EBIIEENH_00019	CDS	669	M_2			Membrane protein
+EBIIEENH_00020	gene	186				
+EBIIEENH_00020	CDS	186				hypothetical protein
+EBIIEENH_00021	gene	366	7a_2			
+EBIIEENH_00021	CDS	366	7a_2			Protein 7a
+EBIIEENH_00022	gene	132				
+EBIIEENH_00022	CDS	132				hypothetical protein
+EBIIEENH_00023	gene	366				
+EBIIEENH_00023	CDS	366				hypothetical protein
+EBIIEENH_00024	gene	1260	N_2			
+EBIIEENH_00024	CDS	1260	N_2			Nucleoprotein
+EBIIEENH_00025	gene	156				
+EBIIEENH_00025	CDS	156				hypothetical protein
+EBIIEENH_00026	gene	43				
+EBIIEENH_00026	misc_RNA	43				s2m
+EBIIEENH_00027	gene	13218	1a_3			
+EBIIEENH_00027	CDS	13218	1a_3			Replicase polyprotein 1a
+EBIIEENH_00028	gene	82				
+EBIIEENH_00028	misc_RNA	82				Corona_FSE
+EBIIEENH_00029	gene	7788	rep_3			
+EBIIEENH_00029	CDS	7788	rep_3			Replicase polyprotein 1ab
+EBIIEENH_00030	gene	3822	S_3			
+EBIIEENH_00030	CDS	3822	S_3			Spike glycoprotein
+EBIIEENH_00031	gene	828	3a_3			
+EBIIEENH_00031	CDS	828	3a_3			Protein 3a
+EBIIEENH_00032	gene	669	M_3			
+EBIIEENH_00032	CDS	669	M_3			Membrane protein
+EBIIEENH_00033	gene	186				
+EBIIEENH_00033	CDS	186				hypothetical protein
+EBIIEENH_00034	gene	366	7a_3			
+EBIIEENH_00034	CDS	366	7a_3			Protein 7a
+EBIIEENH_00035	gene	132				
+EBIIEENH_00035	CDS	132				hypothetical protein
+EBIIEENH_00036	gene	366				
+EBIIEENH_00036	CDS	366				hypothetical protein
+EBIIEENH_00037	gene	1260	N_3			
+EBIIEENH_00037	CDS	1260	N_3			Nucleoprotein
+EBIIEENH_00038	gene	156				
+EBIIEENH_00038	CDS	156				hypothetical protein
+EBIIEENH_00039	gene	43				
+EBIIEENH_00039	misc_RNA	43				s2m
+EBIIEENH_00040	gene	13218	1a_4			
+EBIIEENH_00040	CDS	13218	1a_4			Replicase polyprotein 1a
+EBIIEENH_00041	gene	82				
+EBIIEENH_00041	misc_RNA	82				Corona_FSE
+EBIIEENH_00042	gene	7788	rep_4			
+EBIIEENH_00042	CDS	7788	rep_4			Replicase polyprotein 1ab
+EBIIEENH_00043	gene	3822	S_4			
+EBIIEENH_00043	CDS	3822	S_4			Spike glycoprotein
+EBIIEENH_00044	gene	828	3a_4			
+EBIIEENH_00044	CDS	828	3a_4			Protein 3a
+EBIIEENH_00045	gene	669	M_4			
+EBIIEENH_00045	CDS	669	M_4			Membrane protein
+EBIIEENH_00046	gene	186				
+EBIIEENH_00046	CDS	186				hypothetical protein
+EBIIEENH_00047	gene	366	7a_4			
+EBIIEENH_00047	CDS	366	7a_4			Protein 7a
+EBIIEENH_00048	gene	132				
+EBIIEENH_00048	CDS	132				hypothetical protein
+EBIIEENH_00049	gene	366				
+EBIIEENH_00049	CDS	366				hypothetical protein
+EBIIEENH_00050	gene	1260	N_4			
+EBIIEENH_00050	CDS	1260	N_4			Nucleoprotein
+EBIIEENH_00051	gene	156				
+EBIIEENH_00051	CDS	156				hypothetical protein
+EBIIEENH_00052	gene	43				
+EBIIEENH_00052	misc_RNA	43				s2m
+EBIIEENH_00053	gene	13218	1a_5			
+EBIIEENH_00053	CDS	13218	1a_5			Replicase polyprotein 1a
+EBIIEENH_00054	gene	82				
+EBIIEENH_00054	misc_RNA	82				Corona_FSE
+EBIIEENH_00055	gene	7788	rep_5			
+EBIIEENH_00055	CDS	7788	rep_5			Replicase polyprotein 1ab
+EBIIEENH_00056	gene	3822	S_5			
+EBIIEENH_00056	CDS	3822	S_5			Spike glycoprotein
+EBIIEENH_00057	gene	828	3a_5			
+EBIIEENH_00057	CDS	828	3a_5			Protein 3a
+EBIIEENH_00058	gene	669	M_5			
+EBIIEENH_00058	CDS	669	M_5			Membrane protein
+EBIIEENH_00059	gene	186				
+EBIIEENH_00059	CDS	186				hypothetical protein
+EBIIEENH_00060	gene	366	7a_5			
+EBIIEENH_00060	CDS	366	7a_5			Protein 7a
+EBIIEENH_00061	gene	132				
+EBIIEENH_00061	CDS	132				hypothetical protein
+EBIIEENH_00062	gene	366				
+EBIIEENH_00062	CDS	366				hypothetical protein
+EBIIEENH_00063	gene	1260	N_5			
+EBIIEENH_00063	CDS	1260	N_5			Nucleoprotein
+EBIIEENH_00064	gene	156				
+EBIIEENH_00064	CDS	156				hypothetical protein
+EBIIEENH_00065	gene	43				
+EBIIEENH_00065	misc_RNA	43				s2m
+EBIIEENH_00066	gene	13218	1a_6			
+EBIIEENH_00066	CDS	13218	1a_6			Replicase polyprotein 1a
+EBIIEENH_00067	gene	82				
+EBIIEENH_00067	misc_RNA	82				Corona_FSE
+EBIIEENH_00068	gene	7788	rep_6			
+EBIIEENH_00068	CDS	7788	rep_6			Replicase polyprotein 1ab
+EBIIEENH_00069	gene	3822	S_6			
+EBIIEENH_00069	CDS	3822	S_6			Spike glycoprotein
+EBIIEENH_00070	gene	828	3a_6			
+EBIIEENH_00070	CDS	828	3a_6			Protein 3a
+EBIIEENH_00071	gene	669	M_6			
+EBIIEENH_00071	CDS	669	M_6			Membrane protein
+EBIIEENH_00072	gene	186				
+EBIIEENH_00072	CDS	186				hypothetical protein
+EBIIEENH_00073	gene	366	7a_6			
+EBIIEENH_00073	CDS	366	7a_6			Protein 7a
+EBIIEENH_00074	gene	132				
+EBIIEENH_00074	CDS	132				hypothetical protein
+EBIIEENH_00075	gene	366				
+EBIIEENH_00075	CDS	366				hypothetical protein
+EBIIEENH_00076	gene	1260	N_6			
+EBIIEENH_00076	CDS	1260	N_6			Nucleoprotein
+EBIIEENH_00077	gene	156				
+EBIIEENH_00077	CDS	156				hypothetical protein
+EBIIEENH_00078	gene	43				
+EBIIEENH_00078	misc_RNA	43				s2m
+EBIIEENH_00079	gene	13218	1a_7			
+EBIIEENH_00079	CDS	13218	1a_7			Replicase polyprotein 1a
+EBIIEENH_00080	gene	82				
+EBIIEENH_00080	misc_RNA	82				Corona_FSE
+EBIIEENH_00081	gene	7788	rep_7			
+EBIIEENH_00081	CDS	7788	rep_7			Replicase polyprotein 1ab
+EBIIEENH_00082	gene	3822	S_7			
+EBIIEENH_00082	CDS	3822	S_7			Spike glycoprotein
+EBIIEENH_00083	gene	828	3a_7			
+EBIIEENH_00083	CDS	828	3a_7			Protein 3a
+EBIIEENH_00084	gene	669	M_7			
+EBIIEENH_00084	CDS	669	M_7			Membrane protein
+EBIIEENH_00085	gene	186				
+EBIIEENH_00085	CDS	186				hypothetical protein
+EBIIEENH_00086	gene	366	7a_7			
+EBIIEENH_00086	CDS	366	7a_7			Protein 7a
+EBIIEENH_00087	gene	132				
+EBIIEENH_00087	CDS	132				hypothetical protein
+EBIIEENH_00088	gene	366				
+EBIIEENH_00088	CDS	366				hypothetical protein
+EBIIEENH_00089	gene	1260	N_7			
+EBIIEENH_00089	CDS	1260	N_7			Nucleoprotein
+EBIIEENH_00090	gene	43				
+EBIIEENH_00090	misc_RNA	43				s2m
+EBIIEENH_00091	gene	13218	1a_8			
+EBIIEENH_00091	CDS	13218	1a_8			Replicase polyprotein 1a
+EBIIEENH_00092	gene	82				
+EBIIEENH_00092	misc_RNA	82				Corona_FSE
+EBIIEENH_00093	gene	7788	rep_8			
+EBIIEENH_00093	CDS	7788	rep_8			Replicase polyprotein 1ab
+EBIIEENH_00094	gene	3822	S_8			
+EBIIEENH_00094	CDS	3822	S_8			Spike glycoprotein
+EBIIEENH_00095	gene	828	3a_8			
+EBIIEENH_00095	CDS	828	3a_8			Protein 3a
+EBIIEENH_00096	gene	669	M_8			
+EBIIEENH_00096	CDS	669	M_8			Membrane protein
+EBIIEENH_00097	gene	186				
+EBIIEENH_00097	CDS	186				hypothetical protein
+EBIIEENH_00098	gene	366	7a_8			
+EBIIEENH_00098	CDS	366	7a_8			Protein 7a
+EBIIEENH_00099	gene	132				
+EBIIEENH_00099	CDS	132				hypothetical protein
+EBIIEENH_00100	gene	366				
+EBIIEENH_00100	CDS	366				hypothetical protein
+EBIIEENH_00101	gene	1260	N_8			
+EBIIEENH_00101	CDS	1260	N_8			Nucleoprotein
+EBIIEENH_00102	gene	43				
+EBIIEENH_00102	misc_RNA	43				s2m
+EBIIEENH_00103	gene	13218	1a_9			
+EBIIEENH_00103	CDS	13218	1a_9			Replicase polyprotein 1a
+EBIIEENH_00104	gene	82				
+EBIIEENH_00104	misc_RNA	82				Corona_FSE
+EBIIEENH_00105	gene	7788	rep_9			
+EBIIEENH_00105	CDS	7788	rep_9			Replicase polyprotein 1ab
+EBIIEENH_00106	gene	3822	S_9			
+EBIIEENH_00106	CDS	3822	S_9			Spike glycoprotein
+EBIIEENH_00107	gene	828	3a_9			
+EBIIEENH_00107	CDS	828	3a_9			Protein 3a
+EBIIEENH_00108	gene	669	M_9			
+EBIIEENH_00108	CDS	669	M_9			Membrane protein
+EBIIEENH_00109	gene	186				
+EBIIEENH_00109	CDS	186				hypothetical protein
+EBIIEENH_00110	gene	366	7a_9			
+EBIIEENH_00110	CDS	366	7a_9			Protein 7a
+EBIIEENH_00111	gene	132				
+EBIIEENH_00111	CDS	132				hypothetical protein
+EBIIEENH_00112	gene	366				
+EBIIEENH_00112	CDS	366				hypothetical protein
+EBIIEENH_00113	gene	1260	N_9			
+EBIIEENH_00113	CDS	1260	N_9			Nucleoprotein
+EBIIEENH_00114	gene	43				
+EBIIEENH_00114	misc_RNA	43				s2m
+EBIIEENH_00115	gene	13218	1a_10			
+EBIIEENH_00115	CDS	13218	1a_10			Replicase polyprotein 1a
+EBIIEENH_00116	gene	82				
+EBIIEENH_00116	misc_RNA	82				Corona_FSE
+EBIIEENH_00117	gene	7788	rep_10			
+EBIIEENH_00117	CDS	7788	rep_10			Replicase polyprotein 1ab
+EBIIEENH_00118	gene	3822	S_10			
+EBIIEENH_00118	CDS	3822	S_10			Spike glycoprotein
+EBIIEENH_00119	gene	828	3a_10			
+EBIIEENH_00119	CDS	828	3a_10			Protein 3a
+EBIIEENH_00120	gene	669	M_10			
+EBIIEENH_00120	CDS	669	M_10			Membrane protein
+EBIIEENH_00121	gene	186				
+EBIIEENH_00121	CDS	186				hypothetical protein
+EBIIEENH_00122	gene	366	7a_10			
+EBIIEENH_00122	CDS	366	7a_10			Protein 7a
+EBIIEENH_00123	gene	132				
+EBIIEENH_00123	CDS	132				hypothetical protein
+EBIIEENH_00124	gene	366				
+EBIIEENH_00124	CDS	366				hypothetical protein
+EBIIEENH_00125	gene	1260	N_10			
+EBIIEENH_00125	CDS	1260	N_10			Nucleoprotein
+EBIIEENH_00126	gene	43				
+EBIIEENH_00126	misc_RNA	43				s2m
+EBIIEENH_00127	gene	13218	1a_11			
+EBIIEENH_00127	CDS	13218	1a_11			Replicase polyprotein 1a
+EBIIEENH_00128	gene	82				
+EBIIEENH_00128	misc_RNA	82				Corona_FSE
+EBIIEENH_00129	gene	7788	rep_11			
+EBIIEENH_00129	CDS	7788	rep_11			Replicase polyprotein 1ab
+EBIIEENH_00130	gene	3822	S_11			
+EBIIEENH_00130	CDS	3822	S_11			Spike glycoprotein
+EBIIEENH_00131	gene	828	3a_11			
+EBIIEENH_00131	CDS	828	3a_11			Protein 3a
+EBIIEENH_00132	gene	669	M_11			
+EBIIEENH_00132	CDS	669	M_11			Membrane protein
+EBIIEENH_00133	gene	186				
+EBIIEENH_00133	CDS	186				hypothetical protein
+EBIIEENH_00134	gene	366	7a_11			
+EBIIEENH_00134	CDS	366	7a_11			Protein 7a
+EBIIEENH_00135	gene	132				
+EBIIEENH_00135	CDS	132				hypothetical protein
+EBIIEENH_00136	gene	366				
+EBIIEENH_00136	CDS	366				hypothetical protein
+EBIIEENH_00137	gene	1260	N_11			
+EBIIEENH_00137	CDS	1260	N_11			Nucleoprotein
+EBIIEENH_00138	gene	43				
+EBIIEENH_00138	misc_RNA	43				s2m
+EBIIEENH_00139	gene	13218	1a_12			
+EBIIEENH_00139	CDS	13218	1a_12			Replicase polyprotein 1a
+EBIIEENH_00140	gene	82				
+EBIIEENH_00140	misc_RNA	82				Corona_FSE
+EBIIEENH_00141	gene	7788	rep_12			
+EBIIEENH_00141	CDS	7788	rep_12			Replicase polyprotein 1ab
+EBIIEENH_00142	gene	3822	S_12			
+EBIIEENH_00142	CDS	3822	S_12			Spike glycoprotein
+EBIIEENH_00143	gene	828	3a_12			
+EBIIEENH_00143	CDS	828	3a_12			Protein 3a
+EBIIEENH_00144	gene	669	M_12			
+EBIIEENH_00144	CDS	669	M_12			Membrane protein
+EBIIEENH_00145	gene	186				
+EBIIEENH_00145	CDS	186				hypothetical protein
+EBIIEENH_00146	gene	366	7a_12			
+EBIIEENH_00146	CDS	366	7a_12			Protein 7a
+EBIIEENH_00147	gene	132				
+EBIIEENH_00147	CDS	132				hypothetical protein
+EBIIEENH_00148	gene	366				
+EBIIEENH_00148	CDS	366				hypothetical protein
+EBIIEENH_00149	gene	1260	N_12			
+EBIIEENH_00149	CDS	1260	N_12			Nucleoprotein
+EBIIEENH_00150	gene	156				
+EBIIEENH_00150	CDS	156				hypothetical protein
+EBIIEENH_00151	gene	43				
+EBIIEENH_00151	misc_RNA	43				s2m
+EBIIEENH_00152	gene	13218	1a_13			
+EBIIEENH_00152	CDS	13218	1a_13			Replicase polyprotein 1a
+EBIIEENH_00153	gene	82				
+EBIIEENH_00153	misc_RNA	82				Corona_FSE
+EBIIEENH_00154	gene	7788	rep_13			
+EBIIEENH_00154	CDS	7788	rep_13			Replicase polyprotein 1ab
+EBIIEENH_00155	gene	3822	S_13			
+EBIIEENH_00155	CDS	3822	S_13			Spike glycoprotein
+EBIIEENH_00156	gene	828	3a_13			
+EBIIEENH_00156	CDS	828	3a_13			Protein 3a
+EBIIEENH_00157	gene	669	M_13			
+EBIIEENH_00157	CDS	669	M_13			Membrane protein
+EBIIEENH_00158	gene	186				
+EBIIEENH_00158	CDS	186				hypothetical protein
+EBIIEENH_00159	gene	366	7a_13			
+EBIIEENH_00159	CDS	366	7a_13			Protein 7a
+EBIIEENH_00160	gene	132				
+EBIIEENH_00160	CDS	132				hypothetical protein
+EBIIEENH_00161	gene	366				
+EBIIEENH_00161	CDS	366				hypothetical protein
+EBIIEENH_00162	gene	1260	N_13			
+EBIIEENH_00162	CDS	1260	N_13			Nucleoprotein
+EBIIEENH_00163	gene	43				
+EBIIEENH_00163	misc_RNA	43				s2m
+EBIIEENH_00164	gene	13218	1a_14			
+EBIIEENH_00164	CDS	13218	1a_14			Replicase polyprotein 1a
+EBIIEENH_00165	gene	82				
+EBIIEENH_00165	misc_RNA	82				Corona_FSE
+EBIIEENH_00166	gene	7788	rep_14			
+EBIIEENH_00166	CDS	7788	rep_14			Replicase polyprotein 1ab
+EBIIEENH_00167	gene	3822	S_14			
+EBIIEENH_00167	CDS	3822	S_14			Spike glycoprotein
+EBIIEENH_00168	gene	828	3a_14			
+EBIIEENH_00168	CDS	828	3a_14			Protein 3a
+EBIIEENH_00169	gene	669	M_14			
+EBIIEENH_00169	CDS	669	M_14			Membrane protein
+EBIIEENH_00170	gene	186				
+EBIIEENH_00170	CDS	186				hypothetical protein
+EBIIEENH_00171	gene	366	7a_14			
+EBIIEENH_00171	CDS	366	7a_14			Protein 7a
+EBIIEENH_00172	gene	132				
+EBIIEENH_00172	CDS	132				hypothetical protein
+EBIIEENH_00173	gene	366				
+EBIIEENH_00173	CDS	366				hypothetical protein
+EBIIEENH_00174	gene	1260	N_14			
+EBIIEENH_00174	CDS	1260	N_14			Nucleoprotein
+EBIIEENH_00175	gene	43				
+EBIIEENH_00175	misc_RNA	43				s2m
+EBIIEENH_00176	gene	13218	1a_15			
+EBIIEENH_00176	CDS	13218	1a_15			Replicase polyprotein 1a
+EBIIEENH_00177	gene	82				
+EBIIEENH_00177	misc_RNA	82				Corona_FSE
+EBIIEENH_00178	gene	7788	rep_15			
+EBIIEENH_00178	CDS	7788	rep_15			Replicase polyprotein 1ab
+EBIIEENH_00179	gene	3822	S_15			
+EBIIEENH_00179	CDS	3822	S_15			Spike glycoprotein
+EBIIEENH_00180	gene	828	3a_15			
+EBIIEENH_00180	CDS	828	3a_15			Protein 3a
+EBIIEENH_00181	gene	669	M_15			
+EBIIEENH_00181	CDS	669	M_15			Membrane protein
+EBIIEENH_00182	gene	186				
+EBIIEENH_00182	CDS	186				hypothetical protein
+EBIIEENH_00183	gene	366	7a_15			
+EBIIEENH_00183	CDS	366	7a_15			Protein 7a
+EBIIEENH_00184	gene	132				
+EBIIEENH_00184	CDS	132				hypothetical protein
+EBIIEENH_00185	gene	366				
+EBIIEENH_00185	CDS	366				hypothetical protein
+EBIIEENH_00186	gene	1260	N_15			
+EBIIEENH_00186	CDS	1260	N_15			Nucleoprotein
+EBIIEENH_00187	gene	43				
+EBIIEENH_00187	misc_RNA	43				s2m
+EBIIEENH_00188	gene	13218	1a_16			
+EBIIEENH_00188	CDS	13218	1a_16			Replicase polyprotein 1a
+EBIIEENH_00189	gene	82				
+EBIIEENH_00189	misc_RNA	82				Corona_FSE
+EBIIEENH_00190	gene	7788	rep_16			
+EBIIEENH_00190	CDS	7788	rep_16			Replicase polyprotein 1ab
+EBIIEENH_00191	gene	3822	S_16			
+EBIIEENH_00191	CDS	3822	S_16			Spike glycoprotein
+EBIIEENH_00192	gene	828	3a_16			
+EBIIEENH_00192	CDS	828	3a_16			Protein 3a
+EBIIEENH_00193	gene	669	M_16			
+EBIIEENH_00193	CDS	669	M_16			Membrane protein
+EBIIEENH_00194	gene	186				
+EBIIEENH_00194	CDS	186				hypothetical protein
+EBIIEENH_00195	gene	366	7a_16			
+EBIIEENH_00195	CDS	366	7a_16			Protein 7a
+EBIIEENH_00196	gene	132				
+EBIIEENH_00196	CDS	132				hypothetical protein
+EBIIEENH_00197	gene	366				
+EBIIEENH_00197	CDS	366				hypothetical protein
+EBIIEENH_00198	gene	1260	N_16			
+EBIIEENH_00198	CDS	1260	N_16			Nucleoprotein
+EBIIEENH_00199	gene	156				
+EBIIEENH_00199	CDS	156				hypothetical protein
+EBIIEENH_00200	gene	43				
+EBIIEENH_00200	misc_RNA	43				s2m
+EBIIEENH_00201	gene	13218	1a_17			
+EBIIEENH_00201	CDS	13218	1a_17			Replicase polyprotein 1a
+EBIIEENH_00202	gene	82				
+EBIIEENH_00202	misc_RNA	82				Corona_FSE
+EBIIEENH_00203	gene	7788	rep_17			
+EBIIEENH_00203	CDS	7788	rep_17			Replicase polyprotein 1ab
+EBIIEENH_00204	gene	3822	S_17			
+EBIIEENH_00204	CDS	3822	S_17			Spike glycoprotein
+EBIIEENH_00205	gene	828	3a_17			
+EBIIEENH_00205	CDS	828	3a_17			Protein 3a
+EBIIEENH_00206	gene	669	M_17			
+EBIIEENH_00206	CDS	669	M_17			Membrane protein
+EBIIEENH_00207	gene	186				
+EBIIEENH_00207	CDS	186				hypothetical protein
+EBIIEENH_00208	gene	366	7a_17			
+EBIIEENH_00208	CDS	366	7a_17			Protein 7a
+EBIIEENH_00209	gene	132				
+EBIIEENH_00209	CDS	132				hypothetical protein
+EBIIEENH_00210	gene	366				
+EBIIEENH_00210	CDS	366				hypothetical protein
+EBIIEENH_00211	gene	1260	N_17			
+EBIIEENH_00211	CDS	1260	N_17			Nucleoprotein
+EBIIEENH_00212	gene	156				
+EBIIEENH_00212	CDS	156				hypothetical protein
+EBIIEENH_00213	gene	43				
+EBIIEENH_00213	misc_RNA	43				s2m
+EBIIEENH_00214	gene	13218	1a_18			
+EBIIEENH_00214	CDS	13218	1a_18			Replicase polyprotein 1a
+EBIIEENH_00215	gene	82				
+EBIIEENH_00215	misc_RNA	82				Corona_FSE
+EBIIEENH_00216	gene	7788	rep_18			
+EBIIEENH_00216	CDS	7788	rep_18			Replicase polyprotein 1ab
+EBIIEENH_00217	gene	3822	S_18			
+EBIIEENH_00217	CDS	3822	S_18			Spike glycoprotein
+EBIIEENH_00218	gene	828	3a_18			
+EBIIEENH_00218	CDS	828	3a_18			Protein 3a
+EBIIEENH_00219	gene	669	M_18			
+EBIIEENH_00219	CDS	669	M_18			Membrane protein
+EBIIEENH_00220	gene	186				
+EBIIEENH_00220	CDS	186				hypothetical protein
+EBIIEENH_00221	gene	366	7a_18			
+EBIIEENH_00221	CDS	366	7a_18			Protein 7a
+EBIIEENH_00222	gene	132				
+EBIIEENH_00222	CDS	132				hypothetical protein
+EBIIEENH_00223	gene	366				
+EBIIEENH_00223	CDS	366				hypothetical protein
+EBIIEENH_00224	gene	1260	N_18			
+EBIIEENH_00224	CDS	1260	N_18			Nucleoprotein
+EBIIEENH_00225	gene	156				
+EBIIEENH_00225	CDS	156				hypothetical protein
+EBIIEENH_00226	gene	43				
+EBIIEENH_00226	misc_RNA	43				s2m
+EBIIEENH_00227	gene	13218	1a_19			
+EBIIEENH_00227	CDS	13218	1a_19			Replicase polyprotein 1a
+EBIIEENH_00228	gene	82				
+EBIIEENH_00228	misc_RNA	82				Corona_FSE
+EBIIEENH_00229	gene	7788	rep_19			
+EBIIEENH_00229	CDS	7788	rep_19			Replicase polyprotein 1ab
+EBIIEENH_00230	gene	3822	S_19			
+EBIIEENH_00230	CDS	3822	S_19			Spike glycoprotein
+EBIIEENH_00231	gene	828	3a_19			
+EBIIEENH_00231	CDS	828	3a_19			Protein 3a
+EBIIEENH_00232	gene	669	M_19			
+EBIIEENH_00232	CDS	669	M_19			Membrane protein
+EBIIEENH_00233	gene	186				
+EBIIEENH_00233	CDS	186				hypothetical protein
+EBIIEENH_00234	gene	366	7a_19			
+EBIIEENH_00234	CDS	366	7a_19			Protein 7a
+EBIIEENH_00235	gene	132				
+EBIIEENH_00235	CDS	132				hypothetical protein
+EBIIEENH_00236	gene	366				
+EBIIEENH_00236	CDS	366				hypothetical protein
+EBIIEENH_00237	gene	1260	N_19			
+EBIIEENH_00237	CDS	1260	N_19			Nucleoprotein
+EBIIEENH_00238	gene	156				
+EBIIEENH_00238	CDS	156				hypothetical protein
+EBIIEENH_00239	gene	43				
+EBIIEENH_00239	misc_RNA	43				s2m
+EBIIEENH_00240	gene	13218	1a_20			
+EBIIEENH_00240	CDS	13218	1a_20			Replicase polyprotein 1a
+EBIIEENH_00241	gene	82				
+EBIIEENH_00241	misc_RNA	82				Corona_FSE
+EBIIEENH_00242	gene	7788	rep_20			
+EBIIEENH_00242	CDS	7788	rep_20			Replicase polyprotein 1ab
+EBIIEENH_00243	gene	3822	S_20			
+EBIIEENH_00243	CDS	3822	S_20			Spike glycoprotein
+EBIIEENH_00244	gene	828	3a_20			
+EBIIEENH_00244	CDS	828	3a_20			Protein 3a
+EBIIEENH_00245	gene	669	M_20			
+EBIIEENH_00245	CDS	669	M_20			Membrane protein
+EBIIEENH_00246	gene	186				
+EBIIEENH_00246	CDS	186				hypothetical protein
+EBIIEENH_00247	gene	366	7a_20			
+EBIIEENH_00247	CDS	366	7a_20			Protein 7a
+EBIIEENH_00248	gene	132				
+EBIIEENH_00248	CDS	132				hypothetical protein
+EBIIEENH_00249	gene	366				
+EBIIEENH_00249	CDS	366				hypothetical protein
+EBIIEENH_00250	gene	1260	N_20			
+EBIIEENH_00250	CDS	1260	N_20			Nucleoprotein
+EBIIEENH_00251	gene	156				
+EBIIEENH_00251	CDS	156				hypothetical protein
+EBIIEENH_00252	gene	43				
+EBIIEENH_00252	misc_RNA	43				s2m
+EBIIEENH_00253	gene	4026	1a_21			
+EBIIEENH_00253	CDS	4026	1a_21			Replicase polyprotein 1a
+EBIIEENH_00254	gene	82				
+EBIIEENH_00254	misc_RNA	82				Corona_FSE
+EBIIEENH_00255	gene	7788	rep_21			
+EBIIEENH_00255	CDS	7788	rep_21			Replicase polyprotein 1ab
+EBIIEENH_00256	gene	3822	S_21			
+EBIIEENH_00256	CDS	3822	S_21			Spike glycoprotein
+EBIIEENH_00257	gene	828	3a_21			
+EBIIEENH_00257	CDS	828	3a_21			Protein 3a
+EBIIEENH_00258	gene	669	M_21			
+EBIIEENH_00258	CDS	669	M_21			Membrane protein
+EBIIEENH_00259	gene	186				
+EBIIEENH_00259	CDS	186				hypothetical protein
+EBIIEENH_00260	gene	366	7a_21			
+EBIIEENH_00260	CDS	366	7a_21			Protein 7a
+EBIIEENH_00261	gene	132				
+EBIIEENH_00261	CDS	132				hypothetical protein
+EBIIEENH_00262	gene	366				
+EBIIEENH_00262	CDS	366				hypothetical protein
+EBIIEENH_00263	gene	1260	N_21			
+EBIIEENH_00263	CDS	1260	N_21			Nucleoprotein
+EBIIEENH_00264	gene	156				
+EBIIEENH_00264	CDS	156				hypothetical protein
+EBIIEENH_00265	gene	43				
+EBIIEENH_00265	misc_RNA	43				s2m
+EBIIEENH_00266	gene	13218	1a_22			
+EBIIEENH_00266	CDS	13218	1a_22			Replicase polyprotein 1a
+EBIIEENH_00267	gene	82				
+EBIIEENH_00267	misc_RNA	82				Corona_FSE
+EBIIEENH_00268	gene	7788	rep_22			
+EBIIEENH_00268	CDS	7788	rep_22			Replicase polyprotein 1ab
+EBIIEENH_00269	gene	3822	S_22			
+EBIIEENH_00269	CDS	3822	S_22			Spike glycoprotein
+EBIIEENH_00270	gene	828	3a_22			
+EBIIEENH_00270	CDS	828	3a_22			Protein 3a
+EBIIEENH_00271	gene	669	M_22			
+EBIIEENH_00271	CDS	669	M_22			Membrane protein
+EBIIEENH_00272	gene	186				
+EBIIEENH_00272	CDS	186				hypothetical protein
+EBIIEENH_00273	gene	366	7a_22			
+EBIIEENH_00273	CDS	366	7a_22			Protein 7a
+EBIIEENH_00274	gene	132				
+EBIIEENH_00274	CDS	132				hypothetical protein
+EBIIEENH_00275	gene	366				
+EBIIEENH_00275	CDS	366				hypothetical protein
+EBIIEENH_00276	gene	1260	N_22			
+EBIIEENH_00276	CDS	1260	N_22			Nucleoprotein
+EBIIEENH_00277	gene	156				
+EBIIEENH_00277	CDS	156				hypothetical protein
+EBIIEENH_00278	gene	43				
+EBIIEENH_00278	misc_RNA	43				s2m
+EBIIEENH_00279	gene	13218	1a_23			
+EBIIEENH_00279	CDS	13218	1a_23			Replicase polyprotein 1a
+EBIIEENH_00280	gene	82				
+EBIIEENH_00280	misc_RNA	82				Corona_FSE
+EBIIEENH_00281	gene	7788	rep_23			
+EBIIEENH_00281	CDS	7788	rep_23			Replicase polyprotein 1ab
+EBIIEENH_00282	gene	3822	S_23			
+EBIIEENH_00282	CDS	3822	S_23			Spike glycoprotein
+EBIIEENH_00283	gene	828	3a_23			
+EBIIEENH_00283	CDS	828	3a_23			Protein 3a
+EBIIEENH_00284	gene	669	M_23			
+EBIIEENH_00284	CDS	669	M_23			Membrane protein
+EBIIEENH_00285	gene	186				
+EBIIEENH_00285	CDS	186				hypothetical protein
+EBIIEENH_00286	gene	366	7a_23			
+EBIIEENH_00286	CDS	366	7a_23			Protein 7a
+EBIIEENH_00287	gene	132				
+EBIIEENH_00287	CDS	132				hypothetical protein
+EBIIEENH_00288	gene	366				
+EBIIEENH_00288	CDS	366				hypothetical protein
+EBIIEENH_00289	gene	1260	N_23			
+EBIIEENH_00289	CDS	1260	N_23			Nucleoprotein
+EBIIEENH_00290	gene	156				
+EBIIEENH_00290	CDS	156				hypothetical protein
+EBIIEENH_00291	gene	43				
+EBIIEENH_00291	misc_RNA	43				s2m
+EBIIEENH_00292	gene	13218	1a_24			
+EBIIEENH_00292	CDS	13218	1a_24			Replicase polyprotein 1a
+EBIIEENH_00293	gene	82				
+EBIIEENH_00293	misc_RNA	82				Corona_FSE
+EBIIEENH_00294	gene	7788	rep_24			
+EBIIEENH_00294	CDS	7788	rep_24			Replicase polyprotein 1ab
+EBIIEENH_00295	gene	3822	S_24			
+EBIIEENH_00295	CDS	3822	S_24			Spike glycoprotein
+EBIIEENH_00296	gene	828	3a_24			
+EBIIEENH_00296	CDS	828	3a_24			Protein 3a
+EBIIEENH_00297	gene	669	M_24			
+EBIIEENH_00297	CDS	669	M_24			Membrane protein
+EBIIEENH_00298	gene	186				
+EBIIEENH_00298	CDS	186				hypothetical protein
+EBIIEENH_00299	gene	366	7a_24			
+EBIIEENH_00299	CDS	366	7a_24			Protein 7a
+EBIIEENH_00300	gene	132				
+EBIIEENH_00300	CDS	132				hypothetical protein
+EBIIEENH_00301	gene	366				
+EBIIEENH_00301	CDS	366				hypothetical protein
+EBIIEENH_00302	gene	1260	N_24			
+EBIIEENH_00302	CDS	1260	N_24			Nucleoprotein
+EBIIEENH_00303	gene	156				
+EBIIEENH_00303	CDS	156				hypothetical protein
+EBIIEENH_00304	gene	43				
+EBIIEENH_00304	misc_RNA	43				s2m
+EBIIEENH_00305	gene	13218	1a_25			
+EBIIEENH_00305	CDS	13218	1a_25			Replicase polyprotein 1a
+EBIIEENH_00306	gene	82				
+EBIIEENH_00306	misc_RNA	82				Corona_FSE
+EBIIEENH_00307	gene	7788	rep_25			
+EBIIEENH_00307	CDS	7788	rep_25			Replicase polyprotein 1ab
+EBIIEENH_00308	gene	3822	S_25			
+EBIIEENH_00308	CDS	3822	S_25			Spike glycoprotein
+EBIIEENH_00309	gene	828	3a_25			
+EBIIEENH_00309	CDS	828	3a_25			Protein 3a
+EBIIEENH_00310	gene	669	M_25			
+EBIIEENH_00310	CDS	669	M_25			Membrane protein
+EBIIEENH_00311	gene	186				
+EBIIEENH_00311	CDS	186				hypothetical protein
+EBIIEENH_00312	gene	366	7a_25			
+EBIIEENH_00312	CDS	366	7a_25			Protein 7a
+EBIIEENH_00313	gene	132				
+EBIIEENH_00313	CDS	132				hypothetical protein
+EBIIEENH_00314	gene	366				
+EBIIEENH_00314	CDS	366				hypothetical protein
+EBIIEENH_00315	gene	1260	N_25			
+EBIIEENH_00315	CDS	1260	N_25			Nucleoprotein
+EBIIEENH_00316	gene	156				
+EBIIEENH_00316	CDS	156				hypothetical protein
+EBIIEENH_00317	gene	43				
+EBIIEENH_00317	misc_RNA	43				s2m
+EBIIEENH_00318	gene	13218	1a_26			
+EBIIEENH_00318	CDS	13218	1a_26			Replicase polyprotein 1a
+EBIIEENH_00319	gene	82				
+EBIIEENH_00319	misc_RNA	82				Corona_FSE
+EBIIEENH_00320	gene	7788	rep_26			
+EBIIEENH_00320	CDS	7788	rep_26			Replicase polyprotein 1ab
+EBIIEENH_00321	gene	3822	S_26			
+EBIIEENH_00321	CDS	3822	S_26			Spike glycoprotein
+EBIIEENH_00322	gene	828	3a_26			
+EBIIEENH_00322	CDS	828	3a_26			Protein 3a
+EBIIEENH_00323	gene	669	M_26			
+EBIIEENH_00323	CDS	669	M_26			Membrane protein
+EBIIEENH_00324	gene	186				
+EBIIEENH_00324	CDS	186				hypothetical protein
+EBIIEENH_00325	gene	366	7a_26			
+EBIIEENH_00325	CDS	366	7a_26			Protein 7a
+EBIIEENH_00326	gene	132				
+EBIIEENH_00326	CDS	132				hypothetical protein
+EBIIEENH_00327	gene	366				
+EBIIEENH_00327	CDS	366				hypothetical protein
+EBIIEENH_00328	gene	1260	N_26			
+EBIIEENH_00328	CDS	1260	N_26			Nucleoprotein
+EBIIEENH_00329	gene	156				
+EBIIEENH_00329	CDS	156				hypothetical protein
+EBIIEENH_00330	gene	43				
+EBIIEENH_00330	misc_RNA	43				s2m
+EBIIEENH_00331	gene	13218	1a_27			
+EBIIEENH_00331	CDS	13218	1a_27			Replicase polyprotein 1a
+EBIIEENH_00332	gene	82				
+EBIIEENH_00332	misc_RNA	82				Corona_FSE
+EBIIEENH_00333	gene	7788	rep_27			
+EBIIEENH_00333	CDS	7788	rep_27			Replicase polyprotein 1ab
+EBIIEENH_00334	gene	3822	S_27			
+EBIIEENH_00334	CDS	3822	S_27			Spike glycoprotein
+EBIIEENH_00335	gene	828	3a_27			
+EBIIEENH_00335	CDS	828	3a_27			Protein 3a
+EBIIEENH_00336	gene	669	M_27			
+EBIIEENH_00336	CDS	669	M_27			Membrane protein
+EBIIEENH_00337	gene	186				
+EBIIEENH_00337	CDS	186				hypothetical protein
+EBIIEENH_00338	gene	366	7a_27			
+EBIIEENH_00338	CDS	366	7a_27			Protein 7a
+EBIIEENH_00339	gene	132				
+EBIIEENH_00339	CDS	132				hypothetical protein
+EBIIEENH_00340	gene	366				
+EBIIEENH_00340	CDS	366				hypothetical protein
+EBIIEENH_00341	gene	1260	N_27			
+EBIIEENH_00341	CDS	1260	N_27			Nucleoprotein
+EBIIEENH_00342	gene	156				
+EBIIEENH_00342	CDS	156				hypothetical protein
+EBIIEENH_00343	gene	43				
+EBIIEENH_00343	misc_RNA	43				s2m
+EBIIEENH_00344	gene	13218	1a_28			
+EBIIEENH_00344	CDS	13218	1a_28			Replicase polyprotein 1a
+EBIIEENH_00345	gene	82				
+EBIIEENH_00345	misc_RNA	82				Corona_FSE
+EBIIEENH_00346	gene	7788	rep_28			
+EBIIEENH_00346	CDS	7788	rep_28			Replicase polyprotein 1ab
+EBIIEENH_00347	gene	3822	S_28			
+EBIIEENH_00347	CDS	3822	S_28			Spike glycoprotein
+EBIIEENH_00348	gene	828	3a_28			
+EBIIEENH_00348	CDS	828	3a_28			Protein 3a
+EBIIEENH_00349	gene	669	M_28			
+EBIIEENH_00349	CDS	669	M_28			Membrane protein
+EBIIEENH_00350	gene	186				
+EBIIEENH_00350	CDS	186				hypothetical protein
+EBIIEENH_00351	gene	366	7a_28			
+EBIIEENH_00351	CDS	366	7a_28			Protein 7a
+EBIIEENH_00352	gene	132				
+EBIIEENH_00352	CDS	132				hypothetical protein
+EBIIEENH_00353	gene	366				
+EBIIEENH_00353	CDS	366				hypothetical protein
+EBIIEENH_00354	gene	1260	N_28			
+EBIIEENH_00354	CDS	1260	N_28			Nucleoprotein
+EBIIEENH_00355	gene	156				
+EBIIEENH_00355	CDS	156				hypothetical protein
+EBIIEENH_00356	gene	43				
+EBIIEENH_00356	misc_RNA	43				s2m
+EBIIEENH_00357	gene	11466	1a_29			
+EBIIEENH_00357	CDS	11466	1a_29			Replicase polyprotein 1a
+EBIIEENH_00358	gene	82				
+EBIIEENH_00358	misc_RNA	82				Corona_FSE
+EBIIEENH_00359	gene	2016	rep_29			
+EBIIEENH_00359	CDS	2016	rep_29			Replicase polyprotein 1ab
+EBIIEENH_00360	gene	3822	S_29			
+EBIIEENH_00360	CDS	3822	S_29			Spike glycoprotein
+EBIIEENH_00361	gene	828	3a_29			
+EBIIEENH_00361	CDS	828	3a_29			Protein 3a
+EBIIEENH_00362	gene	669	M_29			
+EBIIEENH_00362	CDS	669	M_29			Membrane protein
+EBIIEENH_00363	gene	186				
+EBIIEENH_00363	CDS	186				hypothetical protein
+EBIIEENH_00364	gene	366	7a_29			
+EBIIEENH_00364	CDS	366	7a_29			Protein 7a
+EBIIEENH_00365	gene	132				
+EBIIEENH_00365	CDS	132				hypothetical protein
+EBIIEENH_00366	gene	366				
+EBIIEENH_00366	CDS	366				hypothetical protein
+EBIIEENH_00367	gene	1260	N_29			
+EBIIEENH_00367	CDS	1260	N_29			Nucleoprotein
+EBIIEENH_00368	gene	156				
+EBIIEENH_00368	CDS	156				hypothetical protein
+EBIIEENH_00369	gene	43				
+EBIIEENH_00369	misc_RNA	43				s2m
+EBIIEENH_00370	gene	13218	1a_30			
+EBIIEENH_00370	CDS	13218	1a_30			Replicase polyprotein 1a
+EBIIEENH_00371	gene	82				
+EBIIEENH_00371	misc_RNA	82				Corona_FSE
+EBIIEENH_00372	gene	7788	rep_30			
+EBIIEENH_00372	CDS	7788	rep_30			Replicase polyprotein 1ab
+EBIIEENH_00373	gene	3822	S_30			
+EBIIEENH_00373	CDS	3822	S_30			Spike glycoprotein
+EBIIEENH_00374	gene	828	3a_30			
+EBIIEENH_00374	CDS	828	3a_30			Protein 3a
+EBIIEENH_00375	gene	669	M_30			
+EBIIEENH_00375	CDS	669	M_30			Membrane protein
+EBIIEENH_00376	gene	186				
+EBIIEENH_00376	CDS	186				hypothetical protein
+EBIIEENH_00377	gene	366	7a_30			
+EBIIEENH_00377	CDS	366	7a_30			Protein 7a
+EBIIEENH_00378	gene	132				
+EBIIEENH_00378	CDS	132				hypothetical protein
+EBIIEENH_00379	gene	366				
+EBIIEENH_00379	CDS	366				hypothetical protein
+EBIIEENH_00380	gene	1260	N_30			
+EBIIEENH_00380	CDS	1260	N_30			Nucleoprotein
+EBIIEENH_00381	gene	156				
+EBIIEENH_00381	CDS	156				hypothetical protein
+EBIIEENH_00382	gene	43				
+EBIIEENH_00382	misc_RNA	43				s2m
+EBIIEENH_00383	gene	13218	1a_31			
+EBIIEENH_00383	CDS	13218	1a_31			Replicase polyprotein 1a
+EBIIEENH_00384	gene	82				
+EBIIEENH_00384	misc_RNA	82				Corona_FSE
+EBIIEENH_00385	gene	7788	rep_31			
+EBIIEENH_00385	CDS	7788	rep_31			Replicase polyprotein 1ab
+EBIIEENH_00386	gene	3822	S_31			
+EBIIEENH_00386	CDS	3822	S_31			Spike glycoprotein
+EBIIEENH_00387	gene	828	3a_31			
+EBIIEENH_00387	CDS	828	3a_31			Protein 3a
+EBIIEENH_00388	gene	669	M_31			
+EBIIEENH_00388	CDS	669	M_31			Membrane protein
+EBIIEENH_00389	gene	186				
+EBIIEENH_00389	CDS	186				hypothetical protein
+EBIIEENH_00390	gene	366	7a_31			
+EBIIEENH_00390	CDS	366	7a_31			Protein 7a
+EBIIEENH_00391	gene	132				
+EBIIEENH_00391	CDS	132				hypothetical protein
+EBIIEENH_00392	gene	366				
+EBIIEENH_00392	CDS	366				hypothetical protein
+EBIIEENH_00393	gene	1260	N_31			
+EBIIEENH_00393	CDS	1260	N_31			Nucleoprotein
+EBIIEENH_00394	gene	156				
+EBIIEENH_00394	CDS	156				hypothetical protein
+EBIIEENH_00395	gene	43				
+EBIIEENH_00395	misc_RNA	43				s2m
+EBIIEENH_00396	gene	13218	1a_32			
+EBIIEENH_00396	CDS	13218	1a_32			Replicase polyprotein 1a
+EBIIEENH_00397	gene	82				
+EBIIEENH_00397	misc_RNA	82				Corona_FSE
+EBIIEENH_00398	gene	7788	rep_32			
+EBIIEENH_00398	CDS	7788	rep_32			Replicase polyprotein 1ab
+EBIIEENH_00399	gene	3822	S_32			
+EBIIEENH_00399	CDS	3822	S_32			Spike glycoprotein
+EBIIEENH_00400	gene	828	3a_32			
+EBIIEENH_00400	CDS	828	3a_32			Protein 3a
+EBIIEENH_00401	gene	669	M_32			
+EBIIEENH_00401	CDS	669	M_32			Membrane protein
+EBIIEENH_00402	gene	186				
+EBIIEENH_00402	CDS	186				hypothetical protein
+EBIIEENH_00403	gene	366	7a_32			
+EBIIEENH_00403	CDS	366	7a_32			Protein 7a
+EBIIEENH_00404	gene	132				
+EBIIEENH_00404	CDS	132				hypothetical protein
+EBIIEENH_00405	gene	366				
+EBIIEENH_00405	CDS	366				hypothetical protein
+EBIIEENH_00406	gene	1260	N_32			
+EBIIEENH_00406	CDS	1260	N_32			Nucleoprotein
+EBIIEENH_00407	gene	156				
+EBIIEENH_00407	CDS	156				hypothetical protein
+EBIIEENH_00408	gene	43				
+EBIIEENH_00408	misc_RNA	43				s2m
+EBIIEENH_00409	gene	13218	1a_33			
+EBIIEENH_00409	CDS	13218	1a_33			Replicase polyprotein 1a
+EBIIEENH_00410	gene	82				
+EBIIEENH_00410	misc_RNA	82				Corona_FSE
+EBIIEENH_00411	gene	7788	rep_33			
+EBIIEENH_00411	CDS	7788	rep_33			Replicase polyprotein 1ab
+EBIIEENH_00412	gene	3822	S_33			
+EBIIEENH_00412	CDS	3822	S_33			Spike glycoprotein
+EBIIEENH_00413	gene	828	3a_33			
+EBIIEENH_00413	CDS	828	3a_33			Protein 3a
+EBIIEENH_00414	gene	669	M_33			
+EBIIEENH_00414	CDS	669	M_33			Membrane protein
+EBIIEENH_00415	gene	186				
+EBIIEENH_00415	CDS	186				hypothetical protein
+EBIIEENH_00416	gene	366	7a_33			
+EBIIEENH_00416	CDS	366	7a_33			Protein 7a
+EBIIEENH_00417	gene	132				
+EBIIEENH_00417	CDS	132				hypothetical protein
+EBIIEENH_00418	gene	366				
+EBIIEENH_00418	CDS	366				hypothetical protein
+EBIIEENH_00419	gene	1260	N_33			
+EBIIEENH_00419	CDS	1260	N_33			Nucleoprotein
+EBIIEENH_00420	gene	156				
+EBIIEENH_00420	CDS	156				hypothetical protein
+EBIIEENH_00421	gene	43				
+EBIIEENH_00421	misc_RNA	43				s2m
+EBIIEENH_00422	gene	13218	1a_34			
+EBIIEENH_00422	CDS	13218	1a_34			Replicase polyprotein 1a
+EBIIEENH_00423	gene	82				
+EBIIEENH_00423	misc_RNA	82				Corona_FSE
+EBIIEENH_00424	gene	7788	rep_34			
+EBIIEENH_00424	CDS	7788	rep_34			Replicase polyprotein 1ab
+EBIIEENH_00425	gene	3822	S_34			
+EBIIEENH_00425	CDS	3822	S_34			Spike glycoprotein
+EBIIEENH_00426	gene	828	3a_34			
+EBIIEENH_00426	CDS	828	3a_34			Protein 3a
+EBIIEENH_00427	gene	669	M_34			
+EBIIEENH_00427	CDS	669	M_34			Membrane protein
+EBIIEENH_00428	gene	186				
+EBIIEENH_00428	CDS	186				hypothetical protein
+EBIIEENH_00429	gene	366	7a_34			
+EBIIEENH_00429	CDS	366	7a_34			Protein 7a
+EBIIEENH_00430	gene	132				
+EBIIEENH_00430	CDS	132				hypothetical protein
+EBIIEENH_00431	gene	366				
+EBIIEENH_00431	CDS	366				hypothetical protein
+EBIIEENH_00432	gene	1260	N_34			
+EBIIEENH_00432	CDS	1260	N_34			Nucleoprotein
+EBIIEENH_00433	gene	156				
+EBIIEENH_00433	CDS	156				hypothetical protein
+EBIIEENH_00434	gene	43				
+EBIIEENH_00434	misc_RNA	43				s2m
+EBIIEENH_00435	gene	13218	1a_35			
+EBIIEENH_00435	CDS	13218	1a_35			Replicase polyprotein 1a
+EBIIEENH_00436	gene	82				
+EBIIEENH_00436	misc_RNA	82				Corona_FSE
+EBIIEENH_00437	gene	7788	rep_35			
+EBIIEENH_00437	CDS	7788	rep_35			Replicase polyprotein 1ab
+EBIIEENH_00438	gene	3822	S_35			
+EBIIEENH_00438	CDS	3822	S_35			Spike glycoprotein
+EBIIEENH_00439	gene	828	3a_35			
+EBIIEENH_00439	CDS	828	3a_35			Protein 3a
+EBIIEENH_00440	gene	669	M_35			
+EBIIEENH_00440	CDS	669	M_35			Membrane protein
+EBIIEENH_00441	gene	186				
+EBIIEENH_00441	CDS	186				hypothetical protein
+EBIIEENH_00442	gene	366	7a_35			
+EBIIEENH_00442	CDS	366	7a_35			Protein 7a
+EBIIEENH_00443	gene	132				
+EBIIEENH_00443	CDS	132				hypothetical protein
+EBIIEENH_00444	gene	366				
+EBIIEENH_00444	CDS	366				hypothetical protein
+EBIIEENH_00445	gene	1260	N_35			
+EBIIEENH_00445	CDS	1260	N_35			Nucleoprotein
+EBIIEENH_00446	gene	43				
+EBIIEENH_00446	misc_RNA	43				s2m
+EBIIEENH_00447	gene	11028	1a_36			
+EBIIEENH_00447	CDS	11028	1a_36			Replicase polyprotein 1a
+EBIIEENH_00448	gene	82				
+EBIIEENH_00448	misc_RNA	82				Corona_FSE
+EBIIEENH_00449	gene	2904	rep_36			
+EBIIEENH_00449	CDS	2904	rep_36			Replicase polyprotein 1ab
+EBIIEENH_00450	gene	468	rep_37			
+EBIIEENH_00450	CDS	468	rep_37			Replicase polyprotein 1ab
+EBIIEENH_00451	gene	2796	rep_38			
+EBIIEENH_00451	CDS	2796	rep_38			Replicase polyprotein 1ab
+EBIIEENH_00452	gene	3822	S_36			
+EBIIEENH_00452	CDS	3822	S_36			Spike glycoprotein
+EBIIEENH_00453	gene	828	3a_36			
+EBIIEENH_00453	CDS	828	3a_36			Protein 3a
+EBIIEENH_00454	gene	669	M_36			
+EBIIEENH_00454	CDS	669	M_36			Membrane protein
+EBIIEENH_00455	gene	186				
+EBIIEENH_00455	CDS	186				hypothetical protein
+EBIIEENH_00456	gene	366	7a_36			
+EBIIEENH_00456	CDS	366	7a_36			Protein 7a
+EBIIEENH_00457	gene	132				
+EBIIEENH_00457	CDS	132				hypothetical protein
+EBIIEENH_00458	gene	366				
+EBIIEENH_00458	CDS	366				hypothetical protein
+EBIIEENH_00459	gene	156				
+EBIIEENH_00459	CDS	156				hypothetical protein
+EBIIEENH_00460	gene	43				
+EBIIEENH_00460	misc_RNA	43				s2m
+EBIIEENH_00461	gene	13218	1a_37			
+EBIIEENH_00461	CDS	13218	1a_37			Replicase polyprotein 1a
+EBIIEENH_00462	gene	82				
+EBIIEENH_00462	misc_RNA	82				Corona_FSE
+EBIIEENH_00463	gene	7788	rep_39			
+EBIIEENH_00463	CDS	7788	rep_39			Replicase polyprotein 1ab
+EBIIEENH_00464	gene	3822	S_37			
+EBIIEENH_00464	CDS	3822	S_37			Spike glycoprotein
+EBIIEENH_00465	gene	828	3a_37			
+EBIIEENH_00465	CDS	828	3a_37			Protein 3a
+EBIIEENH_00466	gene	669	M_37			
+EBIIEENH_00466	CDS	669	M_37			Membrane protein
+EBIIEENH_00467	gene	186				
+EBIIEENH_00467	CDS	186				hypothetical protein
+EBIIEENH_00468	gene	366	7a_37			
+EBIIEENH_00468	CDS	366	7a_37			Protein 7a
+EBIIEENH_00469	gene	132				
+EBIIEENH_00469	CDS	132				hypothetical protein
+EBIIEENH_00470	gene	366				
+EBIIEENH_00470	CDS	366				hypothetical protein
+EBIIEENH_00471	gene	1260	N_36			
+EBIIEENH_00471	CDS	1260	N_36			Nucleoprotein
+EBIIEENH_00472	gene	156				
+EBIIEENH_00472	CDS	156				hypothetical protein
+EBIIEENH_00473	gene	43				
+EBIIEENH_00473	misc_RNA	43				s2m
+EBIIEENH_00474	gene	13218	1a_38			
+EBIIEENH_00474	CDS	13218	1a_38			Replicase polyprotein 1a
+EBIIEENH_00475	gene	82				
+EBIIEENH_00475	misc_RNA	82				Corona_FSE
+EBIIEENH_00476	gene	7788	rep_40			
+EBIIEENH_00476	CDS	7788	rep_40			Replicase polyprotein 1ab
+EBIIEENH_00477	gene	3822	S_38			
+EBIIEENH_00477	CDS	3822	S_38			Spike glycoprotein
+EBIIEENH_00478	gene	828	3a_38			
+EBIIEENH_00478	CDS	828	3a_38			Protein 3a
+EBIIEENH_00479	gene	669	M_38			
+EBIIEENH_00479	CDS	669	M_38			Membrane protein
+EBIIEENH_00480	gene	186				
+EBIIEENH_00480	CDS	186				hypothetical protein
+EBIIEENH_00481	gene	366	7a_38			
+EBIIEENH_00481	CDS	366	7a_38			Protein 7a
+EBIIEENH_00482	gene	132				
+EBIIEENH_00482	CDS	132				hypothetical protein
+EBIIEENH_00483	gene	366				
+EBIIEENH_00483	CDS	366				hypothetical protein
+EBIIEENH_00484	gene	1260	N_37			
+EBIIEENH_00484	CDS	1260	N_37			Nucleoprotein
+EBIIEENH_00485	gene	156				
+EBIIEENH_00485	CDS	156				hypothetical protein
+EBIIEENH_00486	gene	43				
+EBIIEENH_00486	misc_RNA	43				s2m
+EBIIEENH_00487	gene	13218	1a_39			
+EBIIEENH_00487	CDS	13218	1a_39			Replicase polyprotein 1a
+EBIIEENH_00488	gene	82				
+EBIIEENH_00488	misc_RNA	82				Corona_FSE
+EBIIEENH_00489	gene	7788	rep_41			
+EBIIEENH_00489	CDS	7788	rep_41			Replicase polyprotein 1ab
+EBIIEENH_00490	gene	3822	S_39			
+EBIIEENH_00490	CDS	3822	S_39			Spike glycoprotein
+EBIIEENH_00491	gene	828	3a_39			
+EBIIEENH_00491	CDS	828	3a_39			Protein 3a
+EBIIEENH_00492	gene	669	M_39			
+EBIIEENH_00492	CDS	669	M_39			Membrane protein
+EBIIEENH_00493	gene	186				
+EBIIEENH_00493	CDS	186				hypothetical protein
+EBIIEENH_00494	gene	366	7a_39			
+EBIIEENH_00494	CDS	366	7a_39			Protein 7a
+EBIIEENH_00495	gene	132				
+EBIIEENH_00495	CDS	132				hypothetical protein
+EBIIEENH_00496	gene	366				
+EBIIEENH_00496	CDS	366				hypothetical protein
+EBIIEENH_00497	gene	1260	N_38			
+EBIIEENH_00497	CDS	1260	N_38			Nucleoprotein
+EBIIEENH_00498	gene	156				
+EBIIEENH_00498	CDS	156				hypothetical protein
+EBIIEENH_00499	gene	43				
+EBIIEENH_00499	misc_RNA	43				s2m
+EBIIEENH_00500	gene	13218	1a_40			
+EBIIEENH_00500	CDS	13218	1a_40			Replicase polyprotein 1a
+EBIIEENH_00501	gene	82				
+EBIIEENH_00501	misc_RNA	82				Corona_FSE
+EBIIEENH_00502	gene	7788	rep_42			
+EBIIEENH_00502	CDS	7788	rep_42			Replicase polyprotein 1ab
+EBIIEENH_00503	gene	3822	S_40			
+EBIIEENH_00503	CDS	3822	S_40			Spike glycoprotein
+EBIIEENH_00504	gene	828	3a_40			
+EBIIEENH_00504	CDS	828	3a_40			Protein 3a
+EBIIEENH_00505	gene	669	M_40			
+EBIIEENH_00505	CDS	669	M_40			Membrane protein
+EBIIEENH_00506	gene	186				
+EBIIEENH_00506	CDS	186				hypothetical protein
+EBIIEENH_00507	gene	366	7a_40			
+EBIIEENH_00507	CDS	366	7a_40			Protein 7a
+EBIIEENH_00508	gene	132				
+EBIIEENH_00508	CDS	132				hypothetical protein
+EBIIEENH_00509	gene	366				
+EBIIEENH_00509	CDS	366				hypothetical protein
+EBIIEENH_00510	gene	1260	N_39			
+EBIIEENH_00510	CDS	1260	N_39			Nucleoprotein
+EBIIEENH_00511	gene	156				
+EBIIEENH_00511	CDS	156				hypothetical protein
+EBIIEENH_00512	gene	43				
+EBIIEENH_00512	misc_RNA	43				s2m
+EBIIEENH_00513	gene	4026	1a_41			
+EBIIEENH_00513	CDS	4026	1a_41			Replicase polyprotein 1a
+EBIIEENH_00514	gene	82				
+EBIIEENH_00514	misc_RNA	82				Corona_FSE
+EBIIEENH_00515	gene	7788	rep_43			
+EBIIEENH_00515	CDS	7788	rep_43			Replicase polyprotein 1ab
+EBIIEENH_00516	gene	1734	S_41			
+EBIIEENH_00516	CDS	1734	S_41			Spike glycoprotein
+EBIIEENH_00517	gene	828	3a_41			
+EBIIEENH_00517	CDS	828	3a_41			Protein 3a
+EBIIEENH_00518	gene	669	M_41			
+EBIIEENH_00518	CDS	669	M_41			Membrane protein
+EBIIEENH_00519	gene	186				
+EBIIEENH_00519	CDS	186				hypothetical protein
+EBIIEENH_00520	gene	366	7a_41			
+EBIIEENH_00520	CDS	366	7a_41			Protein 7a
+EBIIEENH_00521	gene	366				
+EBIIEENH_00521	CDS	366				hypothetical protein
+EBIIEENH_00522	gene	1260	N_40			
+EBIIEENH_00522	CDS	1260	N_40			Nucleoprotein
+EBIIEENH_00523	gene	43				
+EBIIEENH_00523	misc_RNA	43				s2m
+EBIIEENH_00524	gene	13218	1a_42			
+EBIIEENH_00524	CDS	13218	1a_42			Replicase polyprotein 1a
+EBIIEENH_00525	gene	82				
+EBIIEENH_00525	misc_RNA	82				Corona_FSE
+EBIIEENH_00526	gene	7788	rep_44			
+EBIIEENH_00526	CDS	7788	rep_44			Replicase polyprotein 1ab
+EBIIEENH_00527	gene	3822	S_42			
+EBIIEENH_00527	CDS	3822	S_42			Spike glycoprotein
+EBIIEENH_00528	gene	828	3a_42			
+EBIIEENH_00528	CDS	828	3a_42			Protein 3a
+EBIIEENH_00529	gene	669	M_42			
+EBIIEENH_00529	CDS	669	M_42			Membrane protein
+EBIIEENH_00530	gene	186				
+EBIIEENH_00530	CDS	186				hypothetical protein
+EBIIEENH_00531	gene	366	7a_42			
+EBIIEENH_00531	CDS	366	7a_42			Protein 7a
+EBIIEENH_00532	gene	132				
+EBIIEENH_00532	CDS	132				hypothetical protein
+EBIIEENH_00533	gene	366				
+EBIIEENH_00533	CDS	366				hypothetical protein
+EBIIEENH_00534	gene	1260	N_41			
+EBIIEENH_00534	CDS	1260	N_41			Nucleoprotein
+EBIIEENH_00535	gene	156				
+EBIIEENH_00535	CDS	156				hypothetical protein
+EBIIEENH_00536	gene	43				
+EBIIEENH_00536	misc_RNA	43				s2m
+EBIIEENH_00537	gene	13218	1a_43			
+EBIIEENH_00537	CDS	13218	1a_43			Replicase polyprotein 1a
+EBIIEENH_00538	gene	82				
+EBIIEENH_00538	misc_RNA	82				Corona_FSE
+EBIIEENH_00539	gene	7788	rep_45			
+EBIIEENH_00539	CDS	7788	rep_45			Replicase polyprotein 1ab
+EBIIEENH_00540	gene	3822	S_43			
+EBIIEENH_00540	CDS	3822	S_43			Spike glycoprotein
+EBIIEENH_00541	gene	828	3a_43			
+EBIIEENH_00541	CDS	828	3a_43			Protein 3a
+EBIIEENH_00542	gene	669	M_43			
+EBIIEENH_00542	CDS	669	M_43			Membrane protein
+EBIIEENH_00543	gene	186				
+EBIIEENH_00543	CDS	186				hypothetical protein
+EBIIEENH_00544	gene	366	7a_43			
+EBIIEENH_00544	CDS	366	7a_43			Protein 7a
+EBIIEENH_00545	gene	132				
+EBIIEENH_00545	CDS	132				hypothetical protein
+EBIIEENH_00546	gene	366				
+EBIIEENH_00546	CDS	366				hypothetical protein
+EBIIEENH_00547	gene	1260	N_42			
+EBIIEENH_00547	CDS	1260	N_42			Nucleoprotein
+EBIIEENH_00548	gene	156				
+EBIIEENH_00548	CDS	156				hypothetical protein
+EBIIEENH_00549	gene	43				
+EBIIEENH_00549	misc_RNA	43				s2m
+EBIIEENH_00550	gene	13218	1a_44			
+EBIIEENH_00550	CDS	13218	1a_44			Replicase polyprotein 1a
+EBIIEENH_00551	gene	82				
+EBIIEENH_00551	misc_RNA	82				Corona_FSE
+EBIIEENH_00552	gene	7788	rep_46			
+EBIIEENH_00552	CDS	7788	rep_46			Replicase polyprotein 1ab
+EBIIEENH_00553	gene	3822	S_44			
+EBIIEENH_00553	CDS	3822	S_44			Spike glycoprotein
+EBIIEENH_00554	gene	828	3a_44			
+EBIIEENH_00554	CDS	828	3a_44			Protein 3a
+EBIIEENH_00555	gene	669	M_44			
+EBIIEENH_00555	CDS	669	M_44			Membrane protein
+EBIIEENH_00556	gene	186				
+EBIIEENH_00556	CDS	186				hypothetical protein
+EBIIEENH_00557	gene	366	7a_44			
+EBIIEENH_00557	CDS	366	7a_44			Protein 7a
+EBIIEENH_00558	gene	132				
+EBIIEENH_00558	CDS	132				hypothetical protein
+EBIIEENH_00559	gene	366				
+EBIIEENH_00559	CDS	366				hypothetical protein
+EBIIEENH_00560	gene	1260	N_43			
+EBIIEENH_00560	CDS	1260	N_43			Nucleoprotein
+EBIIEENH_00561	gene	156				
+EBIIEENH_00561	CDS	156				hypothetical protein
+EBIIEENH_00562	gene	43				
+EBIIEENH_00562	misc_RNA	43				s2m
+EBIIEENH_00563	gene	13218	1a_45			
+EBIIEENH_00563	CDS	13218	1a_45			Replicase polyprotein 1a
+EBIIEENH_00564	gene	82				
+EBIIEENH_00564	misc_RNA	82				Corona_FSE
+EBIIEENH_00565	gene	7788	rep_47			
+EBIIEENH_00565	CDS	7788	rep_47			Replicase polyprotein 1ab
+EBIIEENH_00566	gene	3822	S_45			
+EBIIEENH_00566	CDS	3822	S_45			Spike glycoprotein
+EBIIEENH_00567	gene	828	3a_45			
+EBIIEENH_00567	CDS	828	3a_45			Protein 3a
+EBIIEENH_00568	gene	669	M_45			
+EBIIEENH_00568	CDS	669	M_45			Membrane protein
+EBIIEENH_00569	gene	186				
+EBIIEENH_00569	CDS	186				hypothetical protein
+EBIIEENH_00570	gene	366	7a_45			
+EBIIEENH_00570	CDS	366	7a_45			Protein 7a
+EBIIEENH_00571	gene	132				
+EBIIEENH_00571	CDS	132				hypothetical protein
+EBIIEENH_00572	gene	366				
+EBIIEENH_00572	CDS	366				hypothetical protein
+EBIIEENH_00573	gene	1260	N_44			
+EBIIEENH_00573	CDS	1260	N_44			Nucleoprotein
+EBIIEENH_00574	gene	156				
+EBIIEENH_00574	CDS	156				hypothetical protein
+EBIIEENH_00575	gene	43				
+EBIIEENH_00575	misc_RNA	43				s2m
+EBIIEENH_00576	gene	13218	1a_46			
+EBIIEENH_00576	CDS	13218	1a_46			Replicase polyprotein 1a
+EBIIEENH_00577	gene	82				
+EBIIEENH_00577	misc_RNA	82				Corona_FSE
+EBIIEENH_00578	gene	7788	rep_48			
+EBIIEENH_00578	CDS	7788	rep_48			Replicase polyprotein 1ab
+EBIIEENH_00579	gene	3822	S_46			
+EBIIEENH_00579	CDS	3822	S_46			Spike glycoprotein
+EBIIEENH_00580	gene	828	3a_46			
+EBIIEENH_00580	CDS	828	3a_46			Protein 3a
+EBIIEENH_00581	gene	669	M_46			
+EBIIEENH_00581	CDS	669	M_46			Membrane protein
+EBIIEENH_00582	gene	186				
+EBIIEENH_00582	CDS	186				hypothetical protein
+EBIIEENH_00583	gene	366	7a_46			
+EBIIEENH_00583	CDS	366	7a_46			Protein 7a
+EBIIEENH_00584	gene	132				
+EBIIEENH_00584	CDS	132				hypothetical protein
+EBIIEENH_00585	gene	366				
+EBIIEENH_00585	CDS	366				hypothetical protein
+EBIIEENH_00586	gene	1260	N_45			
+EBIIEENH_00586	CDS	1260	N_45			Nucleoprotein
+EBIIEENH_00587	gene	156				
+EBIIEENH_00587	CDS	156				hypothetical protein
+EBIIEENH_00588	gene	43				
+EBIIEENH_00588	misc_RNA	43				s2m
+EBIIEENH_00589	gene	13218	1a_47			
+EBIIEENH_00589	CDS	13218	1a_47			Replicase polyprotein 1a
+EBIIEENH_00590	gene	82				
+EBIIEENH_00590	misc_RNA	82				Corona_FSE
+EBIIEENH_00591	gene	7788	rep_49			
+EBIIEENH_00591	CDS	7788	rep_49			Replicase polyprotein 1ab
+EBIIEENH_00592	gene	3822	S_47			
+EBIIEENH_00592	CDS	3822	S_47			Spike glycoprotein
+EBIIEENH_00593	gene	828	3a_47			
+EBIIEENH_00593	CDS	828	3a_47			Protein 3a
+EBIIEENH_00594	gene	669	M_47			
+EBIIEENH_00594	CDS	669	M_47			Membrane protein
+EBIIEENH_00595	gene	186				
+EBIIEENH_00595	CDS	186				hypothetical protein
+EBIIEENH_00596	gene	366	7a_47			
+EBIIEENH_00596	CDS	366	7a_47			Protein 7a
+EBIIEENH_00597	gene	132				
+EBIIEENH_00597	CDS	132				hypothetical protein
+EBIIEENH_00598	gene	366				
+EBIIEENH_00598	CDS	366				hypothetical protein
+EBIIEENH_00599	gene	1260	N_46			
+EBIIEENH_00599	CDS	1260	N_46			Nucleoprotein
+EBIIEENH_00600	gene	156				
+EBIIEENH_00600	CDS	156				hypothetical protein
+EBIIEENH_00601	gene	43				
+EBIIEENH_00601	misc_RNA	43				s2m
+EBIIEENH_00602	gene	13218	1a_48			
+EBIIEENH_00602	CDS	13218	1a_48			Replicase polyprotein 1a
+EBIIEENH_00603	gene	82				
+EBIIEENH_00603	misc_RNA	82				Corona_FSE
+EBIIEENH_00604	gene	7788	rep_50			
+EBIIEENH_00604	CDS	7788	rep_50			Replicase polyprotein 1ab
+EBIIEENH_00605	gene	3822	S_48			
+EBIIEENH_00605	CDS	3822	S_48			Spike glycoprotein
+EBIIEENH_00606	gene	828	3a_48			
+EBIIEENH_00606	CDS	828	3a_48			Protein 3a
+EBIIEENH_00607	gene	669	M_48			
+EBIIEENH_00607	CDS	669	M_48			Membrane protein
+EBIIEENH_00608	gene	186				
+EBIIEENH_00608	CDS	186				hypothetical protein
+EBIIEENH_00609	gene	366	7a_48			
+EBIIEENH_00609	CDS	366	7a_48			Protein 7a
+EBIIEENH_00610	gene	132				
+EBIIEENH_00610	CDS	132				hypothetical protein
+EBIIEENH_00611	gene	366				
+EBIIEENH_00611	CDS	366				hypothetical protein
+EBIIEENH_00612	gene	1260	N_47			
+EBIIEENH_00612	CDS	1260	N_47			Nucleoprotein
+EBIIEENH_00613	gene	156				
+EBIIEENH_00613	CDS	156				hypothetical protein
+EBIIEENH_00614	gene	43				
+EBIIEENH_00614	misc_RNA	43				s2m
+EBIIEENH_00615	gene	13218	1a_49			
+EBIIEENH_00615	CDS	13218	1a_49			Replicase polyprotein 1a
+EBIIEENH_00616	gene	82				
+EBIIEENH_00616	misc_RNA	82				Corona_FSE
+EBIIEENH_00617	gene	7788	rep_51			
+EBIIEENH_00617	CDS	7788	rep_51			Replicase polyprotein 1ab
+EBIIEENH_00618	gene	3822	S_49			
+EBIIEENH_00618	CDS	3822	S_49			Spike glycoprotein
+EBIIEENH_00619	gene	828	3a_49			
+EBIIEENH_00619	CDS	828	3a_49			Protein 3a
+EBIIEENH_00620	gene	669	M_49			
+EBIIEENH_00620	CDS	669	M_49			Membrane protein
+EBIIEENH_00621	gene	186				
+EBIIEENH_00621	CDS	186				hypothetical protein
+EBIIEENH_00622	gene	366	7a_49			
+EBIIEENH_00622	CDS	366	7a_49			Protein 7a
+EBIIEENH_00623	gene	132				
+EBIIEENH_00623	CDS	132				hypothetical protein
+EBIIEENH_00624	gene	366				
+EBIIEENH_00624	CDS	366				hypothetical protein
+EBIIEENH_00625	gene	1260	N_48			
+EBIIEENH_00625	CDS	1260	N_48			Nucleoprotein
+EBIIEENH_00626	gene	156				
+EBIIEENH_00626	CDS	156				hypothetical protein
+EBIIEENH_00627	gene	43				
+EBIIEENH_00627	misc_RNA	43				s2m
+EBIIEENH_00628	gene	13218	1a_50			
+EBIIEENH_00628	CDS	13218	1a_50			Replicase polyprotein 1a
+EBIIEENH_00629	gene	82				
+EBIIEENH_00629	misc_RNA	82				Corona_FSE
+EBIIEENH_00630	gene	7788	rep_52			
+EBIIEENH_00630	CDS	7788	rep_52			Replicase polyprotein 1ab
+EBIIEENH_00631	gene	3822	S_50			
+EBIIEENH_00631	CDS	3822	S_50			Spike glycoprotein
+EBIIEENH_00632	gene	828	3a_50			
+EBIIEENH_00632	CDS	828	3a_50			Protein 3a
+EBIIEENH_00633	gene	669	M_50			
+EBIIEENH_00633	CDS	669	M_50			Membrane protein
+EBIIEENH_00634	gene	186				
+EBIIEENH_00634	CDS	186				hypothetical protein
+EBIIEENH_00635	gene	366	7a_50			
+EBIIEENH_00635	CDS	366	7a_50			Protein 7a
+EBIIEENH_00636	gene	132				
+EBIIEENH_00636	CDS	132				hypothetical protein
+EBIIEENH_00637	gene	366				
+EBIIEENH_00637	CDS	366				hypothetical protein
+EBIIEENH_00638	gene	1260	N_49			
+EBIIEENH_00638	CDS	1260	N_49			Nucleoprotein
+EBIIEENH_00639	gene	156				
+EBIIEENH_00639	CDS	156				hypothetical protein
+EBIIEENH_00640	gene	43				
+EBIIEENH_00640	misc_RNA	43				s2m
+EBIIEENH_00641	gene	13218	1a_51			
+EBIIEENH_00641	CDS	13218	1a_51			Replicase polyprotein 1a
+EBIIEENH_00642	gene	82				
+EBIIEENH_00642	misc_RNA	82				Corona_FSE
+EBIIEENH_00643	gene	7788	rep_53			
+EBIIEENH_00643	CDS	7788	rep_53			Replicase polyprotein 1ab
+EBIIEENH_00644	gene	3822	S_51			
+EBIIEENH_00644	CDS	3822	S_51			Spike glycoprotein
+EBIIEENH_00645	gene	828	3a_51			
+EBIIEENH_00645	CDS	828	3a_51			Protein 3a
+EBIIEENH_00646	gene	669	M_51			
+EBIIEENH_00646	CDS	669	M_51			Membrane protein
+EBIIEENH_00647	gene	186				
+EBIIEENH_00647	CDS	186				hypothetical protein
+EBIIEENH_00648	gene	366	7a_51			
+EBIIEENH_00648	CDS	366	7a_51			Protein 7a
+EBIIEENH_00649	gene	132				
+EBIIEENH_00649	CDS	132				hypothetical protein
+EBIIEENH_00650	gene	366				
+EBIIEENH_00650	CDS	366				hypothetical protein
+EBIIEENH_00651	gene	1260	N_50			
+EBIIEENH_00651	CDS	1260	N_50			Nucleoprotein
+EBIIEENH_00652	gene	156				
+EBIIEENH_00652	CDS	156				hypothetical protein
+EBIIEENH_00653	gene	43				
+EBIIEENH_00653	misc_RNA	43				s2m
+EBIIEENH_00654	gene	13218	1a_52			
+EBIIEENH_00654	CDS	13218	1a_52			Replicase polyprotein 1a
+EBIIEENH_00655	gene	82				
+EBIIEENH_00655	misc_RNA	82				Corona_FSE
+EBIIEENH_00656	gene	7788	rep_54			
+EBIIEENH_00656	CDS	7788	rep_54			Replicase polyprotein 1ab
+EBIIEENH_00657	gene	3822	S_52			
+EBIIEENH_00657	CDS	3822	S_52			Spike glycoprotein
+EBIIEENH_00658	gene	828	3a_52			
+EBIIEENH_00658	CDS	828	3a_52			Protein 3a
+EBIIEENH_00659	gene	669	M_52			
+EBIIEENH_00659	CDS	669	M_52			Membrane protein
+EBIIEENH_00660	gene	186				
+EBIIEENH_00660	CDS	186				hypothetical protein
+EBIIEENH_00661	gene	366	7a_52			
+EBIIEENH_00661	CDS	366	7a_52			Protein 7a
+EBIIEENH_00662	gene	132				
+EBIIEENH_00662	CDS	132				hypothetical protein
+EBIIEENH_00663	gene	366				
+EBIIEENH_00663	CDS	366				hypothetical protein
+EBIIEENH_00664	gene	1260	N_51			
+EBIIEENH_00664	CDS	1260	N_51			Nucleoprotein
+EBIIEENH_00665	gene	156				
+EBIIEENH_00665	CDS	156				hypothetical protein
+EBIIEENH_00666	gene	43				
+EBIIEENH_00666	misc_RNA	43				s2m
+EBIIEENH_00667	gene	13218	1a_53			
+EBIIEENH_00667	CDS	13218	1a_53			Replicase polyprotein 1a
+EBIIEENH_00668	gene	82				
+EBIIEENH_00668	misc_RNA	82				Corona_FSE
+EBIIEENH_00669	gene	7788	rep_55			
+EBIIEENH_00669	CDS	7788	rep_55			Replicase polyprotein 1ab
+EBIIEENH_00670	gene	3822	S_53			
+EBIIEENH_00670	CDS	3822	S_53			Spike glycoprotein
+EBIIEENH_00671	gene	828	3a_53			
+EBIIEENH_00671	CDS	828	3a_53			Protein 3a
+EBIIEENH_00672	gene	669	M_53			
+EBIIEENH_00672	CDS	669	M_53			Membrane protein
+EBIIEENH_00673	gene	186				
+EBIIEENH_00673	CDS	186				hypothetical protein
+EBIIEENH_00674	gene	366	7a_53			
+EBIIEENH_00674	CDS	366	7a_53			Protein 7a
+EBIIEENH_00675	gene	132				
+EBIIEENH_00675	CDS	132				hypothetical protein
+EBIIEENH_00676	gene	366				
+EBIIEENH_00676	CDS	366				hypothetical protein
+EBIIEENH_00677	gene	1260	N_52			
+EBIIEENH_00677	CDS	1260	N_52			Nucleoprotein
+EBIIEENH_00678	gene	156				
+EBIIEENH_00678	CDS	156				hypothetical protein
+EBIIEENH_00679	gene	43				
+EBIIEENH_00679	misc_RNA	43				s2m
+EBIIEENH_00680	gene	13218	1a_54			
+EBIIEENH_00680	CDS	13218	1a_54			Replicase polyprotein 1a
+EBIIEENH_00681	gene	82				
+EBIIEENH_00681	misc_RNA	82				Corona_FSE
+EBIIEENH_00682	gene	7788	rep_56			
+EBIIEENH_00682	CDS	7788	rep_56			Replicase polyprotein 1ab
+EBIIEENH_00683	gene	3822	S_54			
+EBIIEENH_00683	CDS	3822	S_54			Spike glycoprotein
+EBIIEENH_00684	gene	828	3a_54			
+EBIIEENH_00684	CDS	828	3a_54			Protein 3a
+EBIIEENH_00685	gene	669	M_54			
+EBIIEENH_00685	CDS	669	M_54			Membrane protein
+EBIIEENH_00686	gene	186				
+EBIIEENH_00686	CDS	186				hypothetical protein
+EBIIEENH_00687	gene	366	7a_54			
+EBIIEENH_00687	CDS	366	7a_54			Protein 7a
+EBIIEENH_00688	gene	132				
+EBIIEENH_00688	CDS	132				hypothetical protein
+EBIIEENH_00689	gene	366				
+EBIIEENH_00689	CDS	366				hypothetical protein
+EBIIEENH_00690	gene	1260	N_53			
+EBIIEENH_00690	CDS	1260	N_53			Nucleoprotein
+EBIIEENH_00691	gene	156				
+EBIIEENH_00691	CDS	156				hypothetical protein
+EBIIEENH_00692	gene	43				
+EBIIEENH_00692	misc_RNA	43				s2m
+EBIIEENH_00693	gene	13218	1a_55			
+EBIIEENH_00693	CDS	13218	1a_55			Replicase polyprotein 1a
+EBIIEENH_00694	gene	82				
+EBIIEENH_00694	misc_RNA	82				Corona_FSE
+EBIIEENH_00695	gene	7788	rep_57			
+EBIIEENH_00695	CDS	7788	rep_57			Replicase polyprotein 1ab
+EBIIEENH_00696	gene	3822	S_55			
+EBIIEENH_00696	CDS	3822	S_55			Spike glycoprotein
+EBIIEENH_00697	gene	828	3a_55			
+EBIIEENH_00697	CDS	828	3a_55			Protein 3a
+EBIIEENH_00698	gene	669	M_55			
+EBIIEENH_00698	CDS	669	M_55			Membrane protein
+EBIIEENH_00699	gene	186				
+EBIIEENH_00699	CDS	186				hypothetical protein
+EBIIEENH_00700	gene	366	7a_55			
+EBIIEENH_00700	CDS	366	7a_55			Protein 7a
+EBIIEENH_00701	gene	132				
+EBIIEENH_00701	CDS	132				hypothetical protein
+EBIIEENH_00702	gene	366				
+EBIIEENH_00702	CDS	366				hypothetical protein
+EBIIEENH_00703	gene	1260	N_54			
+EBIIEENH_00703	CDS	1260	N_54			Nucleoprotein
+EBIIEENH_00704	gene	156				
+EBIIEENH_00704	CDS	156				hypothetical protein
+EBIIEENH_00705	gene	43				
+EBIIEENH_00705	misc_RNA	43				s2m
+EBIIEENH_00706	gene	13218	1a_56			
+EBIIEENH_00706	CDS	13218	1a_56			Replicase polyprotein 1a
+EBIIEENH_00707	gene	82				
+EBIIEENH_00707	misc_RNA	82				Corona_FSE
+EBIIEENH_00708	gene	7788	rep_58			
+EBIIEENH_00708	CDS	7788	rep_58			Replicase polyprotein 1ab
+EBIIEENH_00709	gene	3822	S_56			
+EBIIEENH_00709	CDS	3822	S_56			Spike glycoprotein
+EBIIEENH_00710	gene	828	3a_56			
+EBIIEENH_00710	CDS	828	3a_56			Protein 3a
+EBIIEENH_00711	gene	669	M_56			
+EBIIEENH_00711	CDS	669	M_56			Membrane protein
+EBIIEENH_00712	gene	186				
+EBIIEENH_00712	CDS	186				hypothetical protein
+EBIIEENH_00713	gene	366	7a_56			
+EBIIEENH_00713	CDS	366	7a_56			Protein 7a
+EBIIEENH_00714	gene	132				
+EBIIEENH_00714	CDS	132				hypothetical protein
+EBIIEENH_00715	gene	366				
+EBIIEENH_00715	CDS	366				hypothetical protein
+EBIIEENH_00716	gene	1260	N_55			
+EBIIEENH_00716	CDS	1260	N_55			Nucleoprotein
+EBIIEENH_00717	gene	156				
+EBIIEENH_00717	CDS	156				hypothetical protein
+EBIIEENH_00718	gene	43				
+EBIIEENH_00718	misc_RNA	43				s2m
+EBIIEENH_00719	gene	13218	1a_57			
+EBIIEENH_00719	CDS	13218	1a_57			Replicase polyprotein 1a
+EBIIEENH_00720	gene	82				
+EBIIEENH_00720	misc_RNA	82				Corona_FSE
+EBIIEENH_00721	gene	7788	rep_59			
+EBIIEENH_00721	CDS	7788	rep_59			Replicase polyprotein 1ab
+EBIIEENH_00722	gene	3822	S_57			
+EBIIEENH_00722	CDS	3822	S_57			Spike glycoprotein
+EBIIEENH_00723	gene	828	3a_57			
+EBIIEENH_00723	CDS	828	3a_57			Protein 3a
+EBIIEENH_00724	gene	669	M_57			
+EBIIEENH_00724	CDS	669	M_57			Membrane protein
+EBIIEENH_00725	gene	186				
+EBIIEENH_00725	CDS	186				hypothetical protein
+EBIIEENH_00726	gene	366	7a_57			
+EBIIEENH_00726	CDS	366	7a_57			Protein 7a
+EBIIEENH_00727	gene	132				
+EBIIEENH_00727	CDS	132				hypothetical protein
+EBIIEENH_00728	gene	366				
+EBIIEENH_00728	CDS	366				hypothetical protein
+EBIIEENH_00729	gene	1260	N_56			
+EBIIEENH_00729	CDS	1260	N_56			Nucleoprotein
+EBIIEENH_00730	gene	156				
+EBIIEENH_00730	CDS	156				hypothetical protein
+EBIIEENH_00731	gene	43				
+EBIIEENH_00731	misc_RNA	43				s2m
+EBIIEENH_00732	gene	13218	1a_58			
+EBIIEENH_00732	CDS	13218	1a_58			Replicase polyprotein 1a
+EBIIEENH_00733	gene	82				
+EBIIEENH_00733	misc_RNA	82				Corona_FSE
+EBIIEENH_00734	gene	7788	rep_60			
+EBIIEENH_00734	CDS	7788	rep_60			Replicase polyprotein 1ab
+EBIIEENH_00735	gene	3822	S_58			
+EBIIEENH_00735	CDS	3822	S_58			Spike glycoprotein
+EBIIEENH_00736	gene	828	3a_58			
+EBIIEENH_00736	CDS	828	3a_58			Protein 3a
+EBIIEENH_00737	gene	669	M_58			
+EBIIEENH_00737	CDS	669	M_58			Membrane protein
+EBIIEENH_00738	gene	186				
+EBIIEENH_00738	CDS	186				hypothetical protein
+EBIIEENH_00739	gene	366	7a_58			
+EBIIEENH_00739	CDS	366	7a_58			Protein 7a
+EBIIEENH_00740	gene	132				
+EBIIEENH_00740	CDS	132				hypothetical protein
+EBIIEENH_00741	gene	366				
+EBIIEENH_00741	CDS	366				hypothetical protein
+EBIIEENH_00742	gene	1260	N_57			
+EBIIEENH_00742	CDS	1260	N_57			Nucleoprotein
+EBIIEENH_00743	gene	156				
+EBIIEENH_00743	CDS	156				hypothetical protein
+EBIIEENH_00744	gene	43				
+EBIIEENH_00744	misc_RNA	43				s2m
+EBIIEENH_00745	gene	13218	1a_59			
+EBIIEENH_00745	CDS	13218	1a_59			Replicase polyprotein 1a
+EBIIEENH_00746	gene	82				
+EBIIEENH_00746	misc_RNA	82				Corona_FSE
+EBIIEENH_00747	gene	7788	rep_61			
+EBIIEENH_00747	CDS	7788	rep_61			Replicase polyprotein 1ab
+EBIIEENH_00748	gene	3822	S_59			
+EBIIEENH_00748	CDS	3822	S_59			Spike glycoprotein
+EBIIEENH_00749	gene	828	3a_59			
+EBIIEENH_00749	CDS	828	3a_59			Protein 3a
+EBIIEENH_00750	gene	669	M_59			
+EBIIEENH_00750	CDS	669	M_59			Membrane protein
+EBIIEENH_00751	gene	186				
+EBIIEENH_00751	CDS	186				hypothetical protein
+EBIIEENH_00752	gene	366	7a_59			
+EBIIEENH_00752	CDS	366	7a_59			Protein 7a
+EBIIEENH_00753	gene	132				
+EBIIEENH_00753	CDS	132				hypothetical protein
+EBIIEENH_00754	gene	366				
+EBIIEENH_00754	CDS	366				hypothetical protein
+EBIIEENH_00755	gene	1260	N_58			
+EBIIEENH_00755	CDS	1260	N_58			Nucleoprotein
+EBIIEENH_00756	gene	156				
+EBIIEENH_00756	CDS	156				hypothetical protein
+EBIIEENH_00757	gene	43				
+EBIIEENH_00757	misc_RNA	43				s2m
+EBIIEENH_00758	gene	13218	1a_60			
+EBIIEENH_00758	CDS	13218	1a_60			Replicase polyprotein 1a
+EBIIEENH_00759	gene	82				
+EBIIEENH_00759	misc_RNA	82				Corona_FSE
+EBIIEENH_00760	gene	7788	rep_62			
+EBIIEENH_00760	CDS	7788	rep_62			Replicase polyprotein 1ab
+EBIIEENH_00761	gene	3822	S_60			
+EBIIEENH_00761	CDS	3822	S_60			Spike glycoprotein
+EBIIEENH_00762	gene	828	3a_60			
+EBIIEENH_00762	CDS	828	3a_60			Protein 3a
+EBIIEENH_00763	gene	669	M_60			
+EBIIEENH_00763	CDS	669	M_60			Membrane protein
+EBIIEENH_00764	gene	186				
+EBIIEENH_00764	CDS	186				hypothetical protein
+EBIIEENH_00765	gene	366	7a_60			
+EBIIEENH_00765	CDS	366	7a_60			Protein 7a
+EBIIEENH_00766	gene	132				
+EBIIEENH_00766	CDS	132				hypothetical protein
+EBIIEENH_00767	gene	366				
+EBIIEENH_00767	CDS	366				hypothetical protein
+EBIIEENH_00768	gene	1260	N_59			
+EBIIEENH_00768	CDS	1260	N_59			Nucleoprotein
+EBIIEENH_00769	gene	156				
+EBIIEENH_00769	CDS	156				hypothetical protein
+EBIIEENH_00770	gene	43				
+EBIIEENH_00770	misc_RNA	43				s2m
+EBIIEENH_00771	gene	13218	1a_61			
+EBIIEENH_00771	CDS	13218	1a_61			Replicase polyprotein 1a
+EBIIEENH_00772	gene	82				
+EBIIEENH_00772	misc_RNA	82				Corona_FSE
+EBIIEENH_00773	gene	7788	rep_63			
+EBIIEENH_00773	CDS	7788	rep_63			Replicase polyprotein 1ab
+EBIIEENH_00774	gene	3822	S_61			
+EBIIEENH_00774	CDS	3822	S_61			Spike glycoprotein
+EBIIEENH_00775	gene	828	3a_61			
+EBIIEENH_00775	CDS	828	3a_61			Protein 3a
+EBIIEENH_00776	gene	669	M_61			
+EBIIEENH_00776	CDS	669	M_61			Membrane protein
+EBIIEENH_00777	gene	186				
+EBIIEENH_00777	CDS	186				hypothetical protein
+EBIIEENH_00778	gene	366	7a_61			
+EBIIEENH_00778	CDS	366	7a_61			Protein 7a
+EBIIEENH_00779	gene	132				
+EBIIEENH_00779	CDS	132				hypothetical protein
+EBIIEENH_00780	gene	366				
+EBIIEENH_00780	CDS	366				hypothetical protein
+EBIIEENH_00781	gene	1260	N_60			
+EBIIEENH_00781	CDS	1260	N_60			Nucleoprotein
+EBIIEENH_00782	gene	156				
+EBIIEENH_00782	CDS	156				hypothetical protein
+EBIIEENH_00783	gene	43				
+EBIIEENH_00783	misc_RNA	43				s2m
+EBIIEENH_00784	gene	13218	1a_62			
+EBIIEENH_00784	CDS	13218	1a_62			Replicase polyprotein 1a
+EBIIEENH_00785	gene	82				
+EBIIEENH_00785	misc_RNA	82				Corona_FSE
+EBIIEENH_00786	gene	7788	rep_64			
+EBIIEENH_00786	CDS	7788	rep_64			Replicase polyprotein 1ab
+EBIIEENH_00787	gene	3822	S_62			
+EBIIEENH_00787	CDS	3822	S_62			Spike glycoprotein
+EBIIEENH_00788	gene	828	3a_62			
+EBIIEENH_00788	CDS	828	3a_62			Protein 3a
+EBIIEENH_00789	gene	669	M_62			
+EBIIEENH_00789	CDS	669	M_62			Membrane protein
+EBIIEENH_00790	gene	186				
+EBIIEENH_00790	CDS	186				hypothetical protein
+EBIIEENH_00791	gene	366	7a_62			
+EBIIEENH_00791	CDS	366	7a_62			Protein 7a
+EBIIEENH_00792	gene	132				
+EBIIEENH_00792	CDS	132				hypothetical protein
+EBIIEENH_00793	gene	366				
+EBIIEENH_00793	CDS	366				hypothetical protein
+EBIIEENH_00794	gene	1260	N_61			
+EBIIEENH_00794	CDS	1260	N_61			Nucleoprotein
+EBIIEENH_00795	gene	156				
+EBIIEENH_00795	CDS	156				hypothetical protein
+EBIIEENH_00796	gene	43				
+EBIIEENH_00796	misc_RNA	43				s2m
+EBIIEENH_00797	gene	13218	1a_63			
+EBIIEENH_00797	CDS	13218	1a_63			Replicase polyprotein 1a
+EBIIEENH_00798	gene	82				
+EBIIEENH_00798	misc_RNA	82				Corona_FSE
+EBIIEENH_00799	gene	7788	rep_65			
+EBIIEENH_00799	CDS	7788	rep_65			Replicase polyprotein 1ab
+EBIIEENH_00800	gene	3822	S_63			
+EBIIEENH_00800	CDS	3822	S_63			Spike glycoprotein
+EBIIEENH_00801	gene	828	3a_63			
+EBIIEENH_00801	CDS	828	3a_63			Protein 3a
+EBIIEENH_00802	gene	669	M_63			
+EBIIEENH_00802	CDS	669	M_63			Membrane protein
+EBIIEENH_00803	gene	186				
+EBIIEENH_00803	CDS	186				hypothetical protein
+EBIIEENH_00804	gene	366	7a_63			
+EBIIEENH_00804	CDS	366	7a_63			Protein 7a
+EBIIEENH_00805	gene	132				
+EBIIEENH_00805	CDS	132				hypothetical protein
+EBIIEENH_00806	gene	366				
+EBIIEENH_00806	CDS	366				hypothetical protein
+EBIIEENH_00807	gene	1260	N_62			
+EBIIEENH_00807	CDS	1260	N_62			Nucleoprotein
+EBIIEENH_00808	gene	156				
+EBIIEENH_00808	CDS	156				hypothetical protein
+EBIIEENH_00809	gene	43				
+EBIIEENH_00809	misc_RNA	43				s2m
+EBIIEENH_00810	gene	13218	1a_64			
+EBIIEENH_00810	CDS	13218	1a_64			Replicase polyprotein 1a
+EBIIEENH_00811	gene	82				
+EBIIEENH_00811	misc_RNA	82				Corona_FSE
+EBIIEENH_00812	gene	7788	rep_66			
+EBIIEENH_00812	CDS	7788	rep_66			Replicase polyprotein 1ab
+EBIIEENH_00813	gene	3822	S_64			
+EBIIEENH_00813	CDS	3822	S_64			Spike glycoprotein
+EBIIEENH_00814	gene	828	3a_64			
+EBIIEENH_00814	CDS	828	3a_64			Protein 3a
+EBIIEENH_00815	gene	669	M_64			
+EBIIEENH_00815	CDS	669	M_64			Membrane protein
+EBIIEENH_00816	gene	186				
+EBIIEENH_00816	CDS	186				hypothetical protein
+EBIIEENH_00817	gene	366	7a_64			
+EBIIEENH_00817	CDS	366	7a_64			Protein 7a
+EBIIEENH_00818	gene	132				
+EBIIEENH_00818	CDS	132				hypothetical protein
+EBIIEENH_00819	gene	366				
+EBIIEENH_00819	CDS	366				hypothetical protein
+EBIIEENH_00820	gene	1260	N_63			
+EBIIEENH_00820	CDS	1260	N_63			Nucleoprotein
+EBIIEENH_00821	gene	156				
+EBIIEENH_00821	CDS	156				hypothetical protein
+EBIIEENH_00822	gene	43				
+EBIIEENH_00822	misc_RNA	43				s2m
+EBIIEENH_00823	gene	13218	1a_65			
+EBIIEENH_00823	CDS	13218	1a_65			Replicase polyprotein 1a
+EBIIEENH_00824	gene	82				
+EBIIEENH_00824	misc_RNA	82				Corona_FSE
+EBIIEENH_00825	gene	7788	rep_67			
+EBIIEENH_00825	CDS	7788	rep_67			Replicase polyprotein 1ab
+EBIIEENH_00826	gene	3822	S_65			
+EBIIEENH_00826	CDS	3822	S_65			Spike glycoprotein
+EBIIEENH_00827	gene	828	3a_65			
+EBIIEENH_00827	CDS	828	3a_65			Protein 3a
+EBIIEENH_00828	gene	669	M_65			
+EBIIEENH_00828	CDS	669	M_65			Membrane protein
+EBIIEENH_00829	gene	186				
+EBIIEENH_00829	CDS	186				hypothetical protein
+EBIIEENH_00830	gene	366	7a_65			
+EBIIEENH_00830	CDS	366	7a_65			Protein 7a
+EBIIEENH_00831	gene	132				
+EBIIEENH_00831	CDS	132				hypothetical protein
+EBIIEENH_00832	gene	366				
+EBIIEENH_00832	CDS	366				hypothetical protein
+EBIIEENH_00833	gene	1260	N_64			
+EBIIEENH_00833	CDS	1260	N_64			Nucleoprotein
+EBIIEENH_00834	gene	156				
+EBIIEENH_00834	CDS	156				hypothetical protein
+EBIIEENH_00835	gene	43				
+EBIIEENH_00835	misc_RNA	43				s2m
+EBIIEENH_00836	gene	4026	1a_66			
+EBIIEENH_00836	CDS	4026	1a_66			Replicase polyprotein 1a
+EBIIEENH_00837	gene	82				
+EBIIEENH_00837	misc_RNA	82				Corona_FSE
+EBIIEENH_00838	gene	7788	rep_68			
+EBIIEENH_00838	CDS	7788	rep_68			Replicase polyprotein 1ab
+EBIIEENH_00839	gene	3822	S_66			
+EBIIEENH_00839	CDS	3822	S_66			Spike glycoprotein
+EBIIEENH_00840	gene	828	3a_66			
+EBIIEENH_00840	CDS	828	3a_66			Protein 3a
+EBIIEENH_00841	gene	669	M_66			
+EBIIEENH_00841	CDS	669	M_66			Membrane protein
+EBIIEENH_00842	gene	186				
+EBIIEENH_00842	CDS	186				hypothetical protein
+EBIIEENH_00843	gene	366	7a_66			
+EBIIEENH_00843	CDS	366	7a_66			Protein 7a
+EBIIEENH_00844	gene	132				
+EBIIEENH_00844	CDS	132				hypothetical protein
+EBIIEENH_00845	gene	366				
+EBIIEENH_00845	CDS	366				hypothetical protein
+EBIIEENH_00846	gene	1260	N_65			
+EBIIEENH_00846	CDS	1260	N_65			Nucleoprotein
+EBIIEENH_00847	gene	156				
+EBIIEENH_00847	CDS	156				hypothetical protein
+EBIIEENH_00848	gene	43				
+EBIIEENH_00848	misc_RNA	43				s2m
+EBIIEENH_00849	gene	13218	1a_67			
+EBIIEENH_00849	CDS	13218	1a_67			Replicase polyprotein 1a
+EBIIEENH_00850	gene	82				
+EBIIEENH_00850	misc_RNA	82				Corona_FSE
+EBIIEENH_00851	gene	7788	rep_69			
+EBIIEENH_00851	CDS	7788	rep_69			Replicase polyprotein 1ab
+EBIIEENH_00852	gene	3822	S_67			
+EBIIEENH_00852	CDS	3822	S_67			Spike glycoprotein
+EBIIEENH_00853	gene	828	3a_67			
+EBIIEENH_00853	CDS	828	3a_67			Protein 3a
+EBIIEENH_00854	gene	669	M_67			
+EBIIEENH_00854	CDS	669	M_67			Membrane protein
+EBIIEENH_00855	gene	186				
+EBIIEENH_00855	CDS	186				hypothetical protein
+EBIIEENH_00856	gene	366	7a_67			
+EBIIEENH_00856	CDS	366	7a_67			Protein 7a
+EBIIEENH_00857	gene	132				
+EBIIEENH_00857	CDS	132				hypothetical protein
+EBIIEENH_00858	gene	366				
+EBIIEENH_00858	CDS	366				hypothetical protein
+EBIIEENH_00859	gene	1260	N_66			
+EBIIEENH_00859	CDS	1260	N_66			Nucleoprotein
+EBIIEENH_00860	gene	156				
+EBIIEENH_00860	CDS	156				hypothetical protein
+EBIIEENH_00861	gene	43				
+EBIIEENH_00861	misc_RNA	43				s2m
+EBIIEENH_00862	gene	13218	1a_68			
+EBIIEENH_00862	CDS	13218	1a_68			Replicase polyprotein 1a
+EBIIEENH_00863	gene	82				
+EBIIEENH_00863	misc_RNA	82				Corona_FSE
+EBIIEENH_00864	gene	7788	rep_70			
+EBIIEENH_00864	CDS	7788	rep_70			Replicase polyprotein 1ab
+EBIIEENH_00865	gene	3822	S_68			
+EBIIEENH_00865	CDS	3822	S_68			Spike glycoprotein
+EBIIEENH_00866	gene	828	3a_68			
+EBIIEENH_00866	CDS	828	3a_68			Protein 3a
+EBIIEENH_00867	gene	669	M_68			
+EBIIEENH_00867	CDS	669	M_68			Membrane protein
+EBIIEENH_00868	gene	186				
+EBIIEENH_00868	CDS	186				hypothetical protein
+EBIIEENH_00869	gene	366	7a_68			
+EBIIEENH_00869	CDS	366	7a_68			Protein 7a
+EBIIEENH_00870	gene	132				
+EBIIEENH_00870	CDS	132				hypothetical protein
+EBIIEENH_00871	gene	366				
+EBIIEENH_00871	CDS	366				hypothetical protein
+EBIIEENH_00872	gene	1260	N_67			
+EBIIEENH_00872	CDS	1260	N_67			Nucleoprotein
+EBIIEENH_00873	gene	156				
+EBIIEENH_00873	CDS	156				hypothetical protein
+EBIIEENH_00874	gene	43				
+EBIIEENH_00874	misc_RNA	43				s2m
+EBIIEENH_00875	gene	13218	1a_69			
+EBIIEENH_00875	CDS	13218	1a_69			Replicase polyprotein 1a
+EBIIEENH_00876	gene	82				
+EBIIEENH_00876	misc_RNA	82				Corona_FSE
+EBIIEENH_00877	gene	7788	rep_71			
+EBIIEENH_00877	CDS	7788	rep_71			Replicase polyprotein 1ab
+EBIIEENH_00878	gene	3822	S_69			
+EBIIEENH_00878	CDS	3822	S_69			Spike glycoprotein
+EBIIEENH_00879	gene	828	3a_69			
+EBIIEENH_00879	CDS	828	3a_69			Protein 3a
+EBIIEENH_00880	gene	669	M_69			
+EBIIEENH_00880	CDS	669	M_69			Membrane protein
+EBIIEENH_00881	gene	186				
+EBIIEENH_00881	CDS	186				hypothetical protein
+EBIIEENH_00882	gene	366	7a_69			
+EBIIEENH_00882	CDS	366	7a_69			Protein 7a
+EBIIEENH_00883	gene	132				
+EBIIEENH_00883	CDS	132				hypothetical protein
+EBIIEENH_00884	gene	366				
+EBIIEENH_00884	CDS	366				hypothetical protein
+EBIIEENH_00885	gene	1260	N_68			
+EBIIEENH_00885	CDS	1260	N_68			Nucleoprotein
+EBIIEENH_00886	gene	156				
+EBIIEENH_00886	CDS	156				hypothetical protein
+EBIIEENH_00887	gene	43				
+EBIIEENH_00887	misc_RNA	43				s2m
+EBIIEENH_00888	gene	13218	1a_70			
+EBIIEENH_00888	CDS	13218	1a_70			Replicase polyprotein 1a
+EBIIEENH_00889	gene	82				
+EBIIEENH_00889	misc_RNA	82				Corona_FSE
+EBIIEENH_00890	gene	7788	rep_72			
+EBIIEENH_00890	CDS	7788	rep_72			Replicase polyprotein 1ab
+EBIIEENH_00891	gene	3822	S_70			
+EBIIEENH_00891	CDS	3822	S_70			Spike glycoprotein
+EBIIEENH_00892	gene	828	3a_70			
+EBIIEENH_00892	CDS	828	3a_70			Protein 3a
+EBIIEENH_00893	gene	669	M_70			
+EBIIEENH_00893	CDS	669	M_70			Membrane protein
+EBIIEENH_00894	gene	186				
+EBIIEENH_00894	CDS	186				hypothetical protein
+EBIIEENH_00895	gene	366	7a_70			
+EBIIEENH_00895	CDS	366	7a_70			Protein 7a
+EBIIEENH_00896	gene	132				
+EBIIEENH_00896	CDS	132				hypothetical protein
+EBIIEENH_00897	gene	366				
+EBIIEENH_00897	CDS	366				hypothetical protein
+EBIIEENH_00898	gene	1260	N_69			
+EBIIEENH_00898	CDS	1260	N_69			Nucleoprotein
+EBIIEENH_00899	gene	156				
+EBIIEENH_00899	CDS	156				hypothetical protein
+EBIIEENH_00900	gene	43				
+EBIIEENH_00900	misc_RNA	43				s2m
+EBIIEENH_00901	gene	13218	1a_71			
+EBIIEENH_00901	CDS	13218	1a_71			Replicase polyprotein 1a
+EBIIEENH_00902	gene	82				
+EBIIEENH_00902	misc_RNA	82				Corona_FSE
+EBIIEENH_00903	gene	7788	rep_73			
+EBIIEENH_00903	CDS	7788	rep_73			Replicase polyprotein 1ab
+EBIIEENH_00904	gene	3822	S_71			
+EBIIEENH_00904	CDS	3822	S_71			Spike glycoprotein
+EBIIEENH_00905	gene	828	3a_71			
+EBIIEENH_00905	CDS	828	3a_71			Protein 3a
+EBIIEENH_00906	gene	669	M_71			
+EBIIEENH_00906	CDS	669	M_71			Membrane protein
+EBIIEENH_00907	gene	186				
+EBIIEENH_00907	CDS	186				hypothetical protein
+EBIIEENH_00908	gene	366	7a_71			
+EBIIEENH_00908	CDS	366	7a_71			Protein 7a
+EBIIEENH_00909	gene	132				
+EBIIEENH_00909	CDS	132				hypothetical protein
+EBIIEENH_00910	gene	366				
+EBIIEENH_00910	CDS	366				hypothetical protein
+EBIIEENH_00911	gene	1260	N_70			
+EBIIEENH_00911	CDS	1260	N_70			Nucleoprotein
+EBIIEENH_00912	gene	156				
+EBIIEENH_00912	CDS	156				hypothetical protein
+EBIIEENH_00913	gene	43				
+EBIIEENH_00913	misc_RNA	43				s2m
+EBIIEENH_00914	gene	13218	1a_72			
+EBIIEENH_00914	CDS	13218	1a_72			Replicase polyprotein 1a
+EBIIEENH_00915	gene	82				
+EBIIEENH_00915	misc_RNA	82				Corona_FSE
+EBIIEENH_00916	gene	7788	rep_74			
+EBIIEENH_00916	CDS	7788	rep_74			Replicase polyprotein 1ab
+EBIIEENH_00917	gene	3822	S_72			
+EBIIEENH_00917	CDS	3822	S_72			Spike glycoprotein
+EBIIEENH_00918	gene	828	3a_72			
+EBIIEENH_00918	CDS	828	3a_72			Protein 3a
+EBIIEENH_00919	gene	669	M_72			
+EBIIEENH_00919	CDS	669	M_72			Membrane protein
+EBIIEENH_00920	gene	186				
+EBIIEENH_00920	CDS	186				hypothetical protein
+EBIIEENH_00921	gene	366	7a_72			
+EBIIEENH_00921	CDS	366	7a_72			Protein 7a
+EBIIEENH_00922	gene	132				
+EBIIEENH_00922	CDS	132				hypothetical protein
+EBIIEENH_00923	gene	366				
+EBIIEENH_00923	CDS	366				hypothetical protein
+EBIIEENH_00924	gene	1260	N_71			
+EBIIEENH_00924	CDS	1260	N_71			Nucleoprotein
+EBIIEENH_00925	gene	156				
+EBIIEENH_00925	CDS	156				hypothetical protein
+EBIIEENH_00926	gene	43				
+EBIIEENH_00926	misc_RNA	43				s2m
+EBIIEENH_00927	gene	13218	1a_73			
+EBIIEENH_00927	CDS	13218	1a_73			Replicase polyprotein 1a
+EBIIEENH_00928	gene	82				
+EBIIEENH_00928	misc_RNA	82				Corona_FSE
+EBIIEENH_00929	gene	7788	rep_75			
+EBIIEENH_00929	CDS	7788	rep_75			Replicase polyprotein 1ab
+EBIIEENH_00930	gene	3822	S_73			
+EBIIEENH_00930	CDS	3822	S_73			Spike glycoprotein
+EBIIEENH_00931	gene	828	3a_73			
+EBIIEENH_00931	CDS	828	3a_73			Protein 3a
+EBIIEENH_00932	gene	669	M_73			
+EBIIEENH_00932	CDS	669	M_73			Membrane protein
+EBIIEENH_00933	gene	186				
+EBIIEENH_00933	CDS	186				hypothetical protein
+EBIIEENH_00934	gene	366	7a_73			
+EBIIEENH_00934	CDS	366	7a_73			Protein 7a
+EBIIEENH_00935	gene	132				
+EBIIEENH_00935	CDS	132				hypothetical protein
+EBIIEENH_00936	gene	366				
+EBIIEENH_00936	CDS	366				hypothetical protein
+EBIIEENH_00937	gene	1260	N_72			
+EBIIEENH_00937	CDS	1260	N_72			Nucleoprotein
+EBIIEENH_00938	gene	156				
+EBIIEENH_00938	CDS	156				hypothetical protein
+EBIIEENH_00939	gene	43				
+EBIIEENH_00939	misc_RNA	43				s2m
+EBIIEENH_00940	gene	13218	1a_74			
+EBIIEENH_00940	CDS	13218	1a_74			Replicase polyprotein 1a
+EBIIEENH_00941	gene	82				
+EBIIEENH_00941	misc_RNA	82				Corona_FSE
+EBIIEENH_00942	gene	7788	rep_76			
+EBIIEENH_00942	CDS	7788	rep_76			Replicase polyprotein 1ab
+EBIIEENH_00943	gene	3822	S_74			
+EBIIEENH_00943	CDS	3822	S_74			Spike glycoprotein
+EBIIEENH_00944	gene	828	3a_74			
+EBIIEENH_00944	CDS	828	3a_74			Protein 3a
+EBIIEENH_00945	gene	669	M_74			
+EBIIEENH_00945	CDS	669	M_74			Membrane protein
+EBIIEENH_00946	gene	186				
+EBIIEENH_00946	CDS	186				hypothetical protein
+EBIIEENH_00947	gene	366	7a_74			
+EBIIEENH_00947	CDS	366	7a_74			Protein 7a
+EBIIEENH_00948	gene	132				
+EBIIEENH_00948	CDS	132				hypothetical protein
+EBIIEENH_00949	gene	366				
+EBIIEENH_00949	CDS	366				hypothetical protein
+EBIIEENH_00950	gene	1260	N_73			
+EBIIEENH_00950	CDS	1260	N_73			Nucleoprotein
+EBIIEENH_00951	gene	156				
+EBIIEENH_00951	CDS	156				hypothetical protein
+EBIIEENH_00952	gene	43				
+EBIIEENH_00952	misc_RNA	43				s2m
+EBIIEENH_00953	gene	13218	1a_75			
+EBIIEENH_00953	CDS	13218	1a_75			Replicase polyprotein 1a
+EBIIEENH_00954	gene	82				
+EBIIEENH_00954	misc_RNA	82				Corona_FSE
+EBIIEENH_00955	gene	7788	rep_77			
+EBIIEENH_00955	CDS	7788	rep_77			Replicase polyprotein 1ab
+EBIIEENH_00956	gene	3822	S_75			
+EBIIEENH_00956	CDS	3822	S_75			Spike glycoprotein
+EBIIEENH_00957	gene	828	3a_75			
+EBIIEENH_00957	CDS	828	3a_75			Protein 3a
+EBIIEENH_00958	gene	669	M_75			
+EBIIEENH_00958	CDS	669	M_75			Membrane protein
+EBIIEENH_00959	gene	186				
+EBIIEENH_00959	CDS	186				hypothetical protein
+EBIIEENH_00960	gene	366	7a_75			
+EBIIEENH_00960	CDS	366	7a_75			Protein 7a
+EBIIEENH_00961	gene	132				
+EBIIEENH_00961	CDS	132				hypothetical protein
+EBIIEENH_00962	gene	366				
+EBIIEENH_00962	CDS	366				hypothetical protein
+EBIIEENH_00963	gene	1260	N_74			
+EBIIEENH_00963	CDS	1260	N_74			Nucleoprotein
+EBIIEENH_00964	gene	156				
+EBIIEENH_00964	CDS	156				hypothetical protein
+EBIIEENH_00965	gene	43				
+EBIIEENH_00965	misc_RNA	43				s2m
+EBIIEENH_00966	gene	13218	1a_76			
+EBIIEENH_00966	CDS	13218	1a_76			Replicase polyprotein 1a
+EBIIEENH_00967	gene	82				
+EBIIEENH_00967	misc_RNA	82				Corona_FSE
+EBIIEENH_00968	gene	7788	rep_78			
+EBIIEENH_00968	CDS	7788	rep_78			Replicase polyprotein 1ab
+EBIIEENH_00969	gene	3822	S_76			
+EBIIEENH_00969	CDS	3822	S_76			Spike glycoprotein
+EBIIEENH_00970	gene	828	3a_76			
+EBIIEENH_00970	CDS	828	3a_76			Protein 3a
+EBIIEENH_00971	gene	669	M_76			
+EBIIEENH_00971	CDS	669	M_76			Membrane protein
+EBIIEENH_00972	gene	186				
+EBIIEENH_00972	CDS	186				hypothetical protein
+EBIIEENH_00973	gene	366	7a_76			
+EBIIEENH_00973	CDS	366	7a_76			Protein 7a
+EBIIEENH_00974	gene	132				
+EBIIEENH_00974	CDS	132				hypothetical protein
+EBIIEENH_00975	gene	366				
+EBIIEENH_00975	CDS	366				hypothetical protein
+EBIIEENH_00976	gene	1260	N_75			
+EBIIEENH_00976	CDS	1260	N_75			Nucleoprotein
+EBIIEENH_00977	gene	156				
+EBIIEENH_00977	CDS	156				hypothetical protein
+EBIIEENH_00978	gene	43				
+EBIIEENH_00978	misc_RNA	43				s2m
+EBIIEENH_00979	gene	13218	1a_77			
+EBIIEENH_00979	CDS	13218	1a_77			Replicase polyprotein 1a
+EBIIEENH_00980	gene	82				
+EBIIEENH_00980	misc_RNA	82				Corona_FSE
+EBIIEENH_00981	gene	7788	rep_79			
+EBIIEENH_00981	CDS	7788	rep_79			Replicase polyprotein 1ab
+EBIIEENH_00982	gene	3822	S_77			
+EBIIEENH_00982	CDS	3822	S_77			Spike glycoprotein
+EBIIEENH_00983	gene	828	3a_77			
+EBIIEENH_00983	CDS	828	3a_77			Protein 3a
+EBIIEENH_00984	gene	669	M_77			
+EBIIEENH_00984	CDS	669	M_77			Membrane protein
+EBIIEENH_00985	gene	186				
+EBIIEENH_00985	CDS	186				hypothetical protein
+EBIIEENH_00986	gene	366	7a_77			
+EBIIEENH_00986	CDS	366	7a_77			Protein 7a
+EBIIEENH_00987	gene	132				
+EBIIEENH_00987	CDS	132				hypothetical protein
+EBIIEENH_00988	gene	366				
+EBIIEENH_00988	CDS	366				hypothetical protein
+EBIIEENH_00989	gene	1260	N_76			
+EBIIEENH_00989	CDS	1260	N_76			Nucleoprotein
+EBIIEENH_00990	gene	156				
+EBIIEENH_00990	CDS	156				hypothetical protein
+EBIIEENH_00991	gene	43				
+EBIIEENH_00991	misc_RNA	43				s2m
+EBIIEENH_00992	gene	13218	1a_78			
+EBIIEENH_00992	CDS	13218	1a_78			Replicase polyprotein 1a
+EBIIEENH_00993	gene	82				
+EBIIEENH_00993	misc_RNA	82				Corona_FSE
+EBIIEENH_00994	gene	7788	rep_80			
+EBIIEENH_00994	CDS	7788	rep_80			Replicase polyprotein 1ab
+EBIIEENH_00995	gene	3822	S_78			
+EBIIEENH_00995	CDS	3822	S_78			Spike glycoprotein
+EBIIEENH_00996	gene	828	3a_78			
+EBIIEENH_00996	CDS	828	3a_78			Protein 3a
+EBIIEENH_00997	gene	669	M_78			
+EBIIEENH_00997	CDS	669	M_78			Membrane protein
+EBIIEENH_00998	gene	186				
+EBIIEENH_00998	CDS	186				hypothetical protein
+EBIIEENH_00999	gene	366	7a_78			
+EBIIEENH_00999	CDS	366	7a_78			Protein 7a
+EBIIEENH_01000	gene	132				
+EBIIEENH_01000	CDS	132				hypothetical protein
+EBIIEENH_01001	gene	366				
+EBIIEENH_01001	CDS	366				hypothetical protein
+EBIIEENH_01002	gene	1260	N_77			
+EBIIEENH_01002	CDS	1260	N_77			Nucleoprotein
+EBIIEENH_01003	gene	156				
+EBIIEENH_01003	CDS	156				hypothetical protein
+EBIIEENH_01004	gene	43				
+EBIIEENH_01004	misc_RNA	43				s2m
+EBIIEENH_01005	gene	13218	1a_79			
+EBIIEENH_01005	CDS	13218	1a_79			Replicase polyprotein 1a
+EBIIEENH_01006	gene	82				
+EBIIEENH_01006	misc_RNA	82				Corona_FSE
+EBIIEENH_01007	gene	7788	rep_81			
+EBIIEENH_01007	CDS	7788	rep_81			Replicase polyprotein 1ab
+EBIIEENH_01008	gene	3822	S_79			
+EBIIEENH_01008	CDS	3822	S_79			Spike glycoprotein
+EBIIEENH_01009	gene	828	3a_79			
+EBIIEENH_01009	CDS	828	3a_79			Protein 3a
+EBIIEENH_01010	gene	669	M_79			
+EBIIEENH_01010	CDS	669	M_79			Membrane protein
+EBIIEENH_01011	gene	186				
+EBIIEENH_01011	CDS	186				hypothetical protein
+EBIIEENH_01012	gene	366	7a_79			
+EBIIEENH_01012	CDS	366	7a_79			Protein 7a
+EBIIEENH_01013	gene	132				
+EBIIEENH_01013	CDS	132				hypothetical protein
+EBIIEENH_01014	gene	366				
+EBIIEENH_01014	CDS	366				hypothetical protein
+EBIIEENH_01015	gene	1260	N_78			
+EBIIEENH_01015	CDS	1260	N_78			Nucleoprotein
+EBIIEENH_01016	gene	156				
+EBIIEENH_01016	CDS	156				hypothetical protein
+EBIIEENH_01017	gene	43				
+EBIIEENH_01017	misc_RNA	43				s2m
+EBIIEENH_01018	gene	13218	1a_80			
+EBIIEENH_01018	CDS	13218	1a_80			Replicase polyprotein 1a
+EBIIEENH_01019	gene	82				
+EBIIEENH_01019	misc_RNA	82				Corona_FSE
+EBIIEENH_01020	gene	7788	rep_82			
+EBIIEENH_01020	CDS	7788	rep_82			Replicase polyprotein 1ab
+EBIIEENH_01021	gene	3822	S_80			
+EBIIEENH_01021	CDS	3822	S_80			Spike glycoprotein
+EBIIEENH_01022	gene	828	3a_80			
+EBIIEENH_01022	CDS	828	3a_80			Protein 3a
+EBIIEENH_01023	gene	669	M_80			
+EBIIEENH_01023	CDS	669	M_80			Membrane protein
+EBIIEENH_01024	gene	186				
+EBIIEENH_01024	CDS	186				hypothetical protein
+EBIIEENH_01025	gene	366	7a_80			
+EBIIEENH_01025	CDS	366	7a_80			Protein 7a
+EBIIEENH_01026	gene	132				
+EBIIEENH_01026	CDS	132				hypothetical protein
+EBIIEENH_01027	gene	366				
+EBIIEENH_01027	CDS	366				hypothetical protein
+EBIIEENH_01028	gene	1260	N_79			
+EBIIEENH_01028	CDS	1260	N_79			Nucleoprotein
+EBIIEENH_01029	gene	156				
+EBIIEENH_01029	CDS	156				hypothetical protein
+EBIIEENH_01030	gene	43				
+EBIIEENH_01030	misc_RNA	43				s2m
+EBIIEENH_01031	gene	13218	1a_81			
+EBIIEENH_01031	CDS	13218	1a_81			Replicase polyprotein 1a
+EBIIEENH_01032	gene	82				
+EBIIEENH_01032	misc_RNA	82				Corona_FSE
+EBIIEENH_01033	gene	7788	rep_83			
+EBIIEENH_01033	CDS	7788	rep_83			Replicase polyprotein 1ab
+EBIIEENH_01034	gene	3822	S_81			
+EBIIEENH_01034	CDS	3822	S_81			Spike glycoprotein
+EBIIEENH_01035	gene	828	3a_81			
+EBIIEENH_01035	CDS	828	3a_81			Protein 3a
+EBIIEENH_01036	gene	669	M_81			
+EBIIEENH_01036	CDS	669	M_81			Membrane protein
+EBIIEENH_01037	gene	186				
+EBIIEENH_01037	CDS	186				hypothetical protein
+EBIIEENH_01038	gene	366	7a_81			
+EBIIEENH_01038	CDS	366	7a_81			Protein 7a
+EBIIEENH_01039	gene	132				
+EBIIEENH_01039	CDS	132				hypothetical protein
+EBIIEENH_01040	gene	366				
+EBIIEENH_01040	CDS	366				hypothetical protein
+EBIIEENH_01041	gene	1260	N_80			
+EBIIEENH_01041	CDS	1260	N_80			Nucleoprotein
+EBIIEENH_01042	gene	156				
+EBIIEENH_01042	CDS	156				hypothetical protein
+EBIIEENH_01043	gene	43				
+EBIIEENH_01043	misc_RNA	43				s2m
+EBIIEENH_01044	gene	1635	1a_82			
+EBIIEENH_01044	CDS	1635	1a_82			Replicase polyprotein 1a
+EBIIEENH_01045	gene	82				
+EBIIEENH_01045	misc_RNA	82				Corona_FSE
+EBIIEENH_01046	gene	3915	rep_84			
+EBIIEENH_01046	CDS	3915	rep_84			Replicase polyprotein 1ab
+EBIIEENH_01047	gene	3822	S_82			
+EBIIEENH_01047	CDS	3822	S_82			Spike glycoprotein
+EBIIEENH_01048	gene	828	3a_82			
+EBIIEENH_01048	CDS	828	3a_82			Protein 3a
+EBIIEENH_01049	gene	669	M_82			
+EBIIEENH_01049	CDS	669	M_82			Membrane protein
+EBIIEENH_01050	gene	186				
+EBIIEENH_01050	CDS	186				hypothetical protein
+EBIIEENH_01051	gene	366	7a_82			
+EBIIEENH_01051	CDS	366	7a_82			Protein 7a
+EBIIEENH_01052	gene	132				
+EBIIEENH_01052	CDS	132				hypothetical protein
+EBIIEENH_01053	gene	366				
+EBIIEENH_01053	CDS	366				hypothetical protein
+EBIIEENH_01054	gene	1260	N_81			
+EBIIEENH_01054	CDS	1260	N_81			Nucleoprotein
+EBIIEENH_01055	gene	156				
+EBIIEENH_01055	CDS	156				hypothetical protein
+EBIIEENH_01056	gene	43				
+EBIIEENH_01056	misc_RNA	43				s2m
+EBIIEENH_01057	gene	13218	1a_83			
+EBIIEENH_01057	CDS	13218	1a_83			Replicase polyprotein 1a
+EBIIEENH_01058	gene	82				
+EBIIEENH_01058	misc_RNA	82				Corona_FSE
+EBIIEENH_01059	gene	7788	rep_85			
+EBIIEENH_01059	CDS	7788	rep_85			Replicase polyprotein 1ab
+EBIIEENH_01060	gene	3822	S_83			
+EBIIEENH_01060	CDS	3822	S_83			Spike glycoprotein
+EBIIEENH_01061	gene	828	3a_83			
+EBIIEENH_01061	CDS	828	3a_83			Protein 3a
+EBIIEENH_01062	gene	669	M_83			
+EBIIEENH_01062	CDS	669	M_83			Membrane protein
+EBIIEENH_01063	gene	186				
+EBIIEENH_01063	CDS	186				hypothetical protein
+EBIIEENH_01064	gene	366	7a_83			
+EBIIEENH_01064	CDS	366	7a_83			Protein 7a
+EBIIEENH_01065	gene	132				
+EBIIEENH_01065	CDS	132				hypothetical protein
+EBIIEENH_01066	gene	366				
+EBIIEENH_01066	CDS	366				hypothetical protein
+EBIIEENH_01067	gene	1260	N_82			
+EBIIEENH_01067	CDS	1260	N_82			Nucleoprotein
+EBIIEENH_01068	gene	156				
+EBIIEENH_01068	CDS	156				hypothetical protein
+EBIIEENH_01069	gene	43				
+EBIIEENH_01069	misc_RNA	43				s2m
+EBIIEENH_01070	gene	13218	1a_84			
+EBIIEENH_01070	CDS	13218	1a_84			Replicase polyprotein 1a
+EBIIEENH_01071	gene	82				
+EBIIEENH_01071	misc_RNA	82				Corona_FSE
+EBIIEENH_01072	gene	7788	rep_86			
+EBIIEENH_01072	CDS	7788	rep_86			Replicase polyprotein 1ab
+EBIIEENH_01073	gene	3822	S_84			
+EBIIEENH_01073	CDS	3822	S_84			Spike glycoprotein
+EBIIEENH_01074	gene	828	3a_84			
+EBIIEENH_01074	CDS	828	3a_84			Protein 3a
+EBIIEENH_01075	gene	669	M_84			
+EBIIEENH_01075	CDS	669	M_84			Membrane protein
+EBIIEENH_01076	gene	186				
+EBIIEENH_01076	CDS	186				hypothetical protein
+EBIIEENH_01077	gene	366	7a_84			
+EBIIEENH_01077	CDS	366	7a_84			Protein 7a
+EBIIEENH_01078	gene	132				
+EBIIEENH_01078	CDS	132				hypothetical protein
+EBIIEENH_01079	gene	366				
+EBIIEENH_01079	CDS	366				hypothetical protein
+EBIIEENH_01080	gene	1260	N_83			
+EBIIEENH_01080	CDS	1260	N_83			Nucleoprotein
+EBIIEENH_01081	gene	156				
+EBIIEENH_01081	CDS	156				hypothetical protein
+EBIIEENH_01082	gene	43				
+EBIIEENH_01082	misc_RNA	43				s2m
+EBIIEENH_01083	gene	13218	1a_85			
+EBIIEENH_01083	CDS	13218	1a_85			Replicase polyprotein 1a
+EBIIEENH_01084	gene	82				
+EBIIEENH_01084	misc_RNA	82				Corona_FSE
+EBIIEENH_01085	gene	7788	rep_87			
+EBIIEENH_01085	CDS	7788	rep_87			Replicase polyprotein 1ab
+EBIIEENH_01086	gene	3822	S_85			
+EBIIEENH_01086	CDS	3822	S_85			Spike glycoprotein
+EBIIEENH_01087	gene	828	3a_85			
+EBIIEENH_01087	CDS	828	3a_85			Protein 3a
+EBIIEENH_01088	gene	669	M_85			
+EBIIEENH_01088	CDS	669	M_85			Membrane protein
+EBIIEENH_01089	gene	186				
+EBIIEENH_01089	CDS	186				hypothetical protein
+EBIIEENH_01090	gene	366	7a_85			
+EBIIEENH_01090	CDS	366	7a_85			Protein 7a
+EBIIEENH_01091	gene	132				
+EBIIEENH_01091	CDS	132				hypothetical protein
+EBIIEENH_01092	gene	366				
+EBIIEENH_01092	CDS	366				hypothetical protein
+EBIIEENH_01093	gene	1260	N_84			
+EBIIEENH_01093	CDS	1260	N_84			Nucleoprotein
+EBIIEENH_01094	gene	156				
+EBIIEENH_01094	CDS	156				hypothetical protein
+EBIIEENH_01095	gene	43				
+EBIIEENH_01095	misc_RNA	43				s2m
+EBIIEENH_01096	gene	13218	1a_86			
+EBIIEENH_01096	CDS	13218	1a_86			Replicase polyprotein 1a
+EBIIEENH_01097	gene	82				
+EBIIEENH_01097	misc_RNA	82				Corona_FSE
+EBIIEENH_01098	gene	7788	rep_88			
+EBIIEENH_01098	CDS	7788	rep_88			Replicase polyprotein 1ab
+EBIIEENH_01099	gene	3822	S_86			
+EBIIEENH_01099	CDS	3822	S_86			Spike glycoprotein
+EBIIEENH_01100	gene	828	3a_86			
+EBIIEENH_01100	CDS	828	3a_86			Protein 3a
+EBIIEENH_01101	gene	669	M_86			
+EBIIEENH_01101	CDS	669	M_86			Membrane protein
+EBIIEENH_01102	gene	186				
+EBIIEENH_01102	CDS	186				hypothetical protein
+EBIIEENH_01103	gene	366	7a_86			
+EBIIEENH_01103	CDS	366	7a_86			Protein 7a
+EBIIEENH_01104	gene	132				
+EBIIEENH_01104	CDS	132				hypothetical protein
+EBIIEENH_01105	gene	366				
+EBIIEENH_01105	CDS	366				hypothetical protein
+EBIIEENH_01106	gene	1260	N_85			
+EBIIEENH_01106	CDS	1260	N_85			Nucleoprotein
+EBIIEENH_01107	gene	156				
+EBIIEENH_01107	CDS	156				hypothetical protein
+EBIIEENH_01108	gene	43				
+EBIIEENH_01108	misc_RNA	43				s2m
+EBIIEENH_01109	gene	13218	1a_87			
+EBIIEENH_01109	CDS	13218	1a_87			Replicase polyprotein 1a
+EBIIEENH_01110	gene	82				
+EBIIEENH_01110	misc_RNA	82				Corona_FSE
+EBIIEENH_01111	gene	7788	rep_89			
+EBIIEENH_01111	CDS	7788	rep_89			Replicase polyprotein 1ab
+EBIIEENH_01112	gene	3822	S_87			
+EBIIEENH_01112	CDS	3822	S_87			Spike glycoprotein
+EBIIEENH_01113	gene	828	3a_87			
+EBIIEENH_01113	CDS	828	3a_87			Protein 3a
+EBIIEENH_01114	gene	669	M_87			
+EBIIEENH_01114	CDS	669	M_87			Membrane protein
+EBIIEENH_01115	gene	186				
+EBIIEENH_01115	CDS	186				hypothetical protein
+EBIIEENH_01116	gene	366	7a_87			
+EBIIEENH_01116	CDS	366	7a_87			Protein 7a
+EBIIEENH_01117	gene	132				
+EBIIEENH_01117	CDS	132				hypothetical protein
+EBIIEENH_01118	gene	366				
+EBIIEENH_01118	CDS	366				hypothetical protein
+EBIIEENH_01119	gene	1260	N_86			
+EBIIEENH_01119	CDS	1260	N_86			Nucleoprotein
+EBIIEENH_01120	gene	156				
+EBIIEENH_01120	CDS	156				hypothetical protein
+EBIIEENH_01121	gene	43				
+EBIIEENH_01121	misc_RNA	43				s2m
+EBIIEENH_01122	gene	8025	1a_88			
+EBIIEENH_01122	CDS	8025	1a_88			Replicase polyprotein 1a
+EBIIEENH_01123	gene	82				
+EBIIEENH_01123	misc_RNA	82				Corona_FSE
+EBIIEENH_01124	gene	7788	rep_90			
+EBIIEENH_01124	CDS	7788	rep_90			Replicase polyprotein 1ab
+EBIIEENH_01125	gene	3822	S_88			
+EBIIEENH_01125	CDS	3822	S_88			Spike glycoprotein
+EBIIEENH_01126	gene	828	3a_88			
+EBIIEENH_01126	CDS	828	3a_88			Protein 3a
+EBIIEENH_01127	gene	669	M_88			
+EBIIEENH_01127	CDS	669	M_88			Membrane protein
+EBIIEENH_01128	gene	366	7a_88			
+EBIIEENH_01128	CDS	366	7a_88			Protein 7a
+EBIIEENH_01129	gene	366				
+EBIIEENH_01129	CDS	366				hypothetical protein
+EBIIEENH_01130	gene	1260	N_87			
+EBIIEENH_01130	CDS	1260	N_87			Nucleoprotein
+EBIIEENH_01131	gene	156				
+EBIIEENH_01131	CDS	156				hypothetical protein
+EBIIEENH_01132	gene	43				
+EBIIEENH_01132	misc_RNA	43				s2m
+EBIIEENH_01133	gene	13218	1a_89			
+EBIIEENH_01133	CDS	13218	1a_89			Replicase polyprotein 1a
+EBIIEENH_01134	gene	82				
+EBIIEENH_01134	misc_RNA	82				Corona_FSE
+EBIIEENH_01135	gene	7788	rep_91			
+EBIIEENH_01135	CDS	7788	rep_91			Replicase polyprotein 1ab
+EBIIEENH_01136	gene	3822	S_89			
+EBIIEENH_01136	CDS	3822	S_89			Spike glycoprotein
+EBIIEENH_01137	gene	828	3a_89			
+EBIIEENH_01137	CDS	828	3a_89			Protein 3a
+EBIIEENH_01138	gene	669	M_89			
+EBIIEENH_01138	CDS	669	M_89			Membrane protein
+EBIIEENH_01139	gene	186				
+EBIIEENH_01139	CDS	186				hypothetical protein
+EBIIEENH_01140	gene	366	7a_89			
+EBIIEENH_01140	CDS	366	7a_89			Protein 7a
+EBIIEENH_01141	gene	132				
+EBIIEENH_01141	CDS	132				hypothetical protein
+EBIIEENH_01142	gene	366				
+EBIIEENH_01142	CDS	366				hypothetical protein
+EBIIEENH_01143	gene	1260	N_88			
+EBIIEENH_01143	CDS	1260	N_88			Nucleoprotein
+EBIIEENH_01144	gene	156				
+EBIIEENH_01144	CDS	156				hypothetical protein
+EBIIEENH_01145	gene	43				
+EBIIEENH_01145	misc_RNA	43				s2m
+EBIIEENH_01146	gene	13218	1a_90			
+EBIIEENH_01146	CDS	13218	1a_90			Replicase polyprotein 1a
+EBIIEENH_01147	gene	82				
+EBIIEENH_01147	misc_RNA	82				Corona_FSE
+EBIIEENH_01148	gene	7788	rep_92			
+EBIIEENH_01148	CDS	7788	rep_92			Replicase polyprotein 1ab
+EBIIEENH_01149	gene	3822	S_90			
+EBIIEENH_01149	CDS	3822	S_90			Spike glycoprotein
+EBIIEENH_01150	gene	828	3a_90			
+EBIIEENH_01150	CDS	828	3a_90			Protein 3a
+EBIIEENH_01151	gene	669	M_90			
+EBIIEENH_01151	CDS	669	M_90			Membrane protein
+EBIIEENH_01152	gene	186				
+EBIIEENH_01152	CDS	186				hypothetical protein
+EBIIEENH_01153	gene	366	7a_90			
+EBIIEENH_01153	CDS	366	7a_90			Protein 7a
+EBIIEENH_01154	gene	132				
+EBIIEENH_01154	CDS	132				hypothetical protein
+EBIIEENH_01155	gene	366				
+EBIIEENH_01155	CDS	366				hypothetical protein
+EBIIEENH_01156	gene	1260	N_89			
+EBIIEENH_01156	CDS	1260	N_89			Nucleoprotein
+EBIIEENH_01157	gene	156				
+EBIIEENH_01157	CDS	156				hypothetical protein
+EBIIEENH_01158	gene	43				
+EBIIEENH_01158	misc_RNA	43				s2m
+EBIIEENH_01159	gene	13218	1a_91			
+EBIIEENH_01159	CDS	13218	1a_91			Replicase polyprotein 1a
+EBIIEENH_01160	gene	82				
+EBIIEENH_01160	misc_RNA	82				Corona_FSE
+EBIIEENH_01161	gene	7788	rep_93			
+EBIIEENH_01161	CDS	7788	rep_93			Replicase polyprotein 1ab
+EBIIEENH_01162	gene	3822	S_91			
+EBIIEENH_01162	CDS	3822	S_91			Spike glycoprotein
+EBIIEENH_01163	gene	828	3a_91			
+EBIIEENH_01163	CDS	828	3a_91			Protein 3a
+EBIIEENH_01164	gene	669	M_91			
+EBIIEENH_01164	CDS	669	M_91			Membrane protein
+EBIIEENH_01165	gene	186				
+EBIIEENH_01165	CDS	186				hypothetical protein
+EBIIEENH_01166	gene	366	7a_91			
+EBIIEENH_01166	CDS	366	7a_91			Protein 7a
+EBIIEENH_01167	gene	132				
+EBIIEENH_01167	CDS	132				hypothetical protein
+EBIIEENH_01168	gene	366				
+EBIIEENH_01168	CDS	366				hypothetical protein
+EBIIEENH_01169	gene	1260	N_90			
+EBIIEENH_01169	CDS	1260	N_90			Nucleoprotein
+EBIIEENH_01170	gene	156				
+EBIIEENH_01170	CDS	156				hypothetical protein
+EBIIEENH_01171	gene	43				
+EBIIEENH_01171	misc_RNA	43				s2m
+EBIIEENH_01172	gene	13218	1a_92			
+EBIIEENH_01172	CDS	13218	1a_92			Replicase polyprotein 1a
+EBIIEENH_01173	gene	82				
+EBIIEENH_01173	misc_RNA	82				Corona_FSE
+EBIIEENH_01174	gene	7788	rep_94			
+EBIIEENH_01174	CDS	7788	rep_94			Replicase polyprotein 1ab
+EBIIEENH_01175	gene	3822	S_92			
+EBIIEENH_01175	CDS	3822	S_92			Spike glycoprotein
+EBIIEENH_01176	gene	828	3a_92			
+EBIIEENH_01176	CDS	828	3a_92			Protein 3a
+EBIIEENH_01177	gene	669	M_92			
+EBIIEENH_01177	CDS	669	M_92			Membrane protein
+EBIIEENH_01178	gene	186				
+EBIIEENH_01178	CDS	186				hypothetical protein
+EBIIEENH_01179	gene	366	7a_92			
+EBIIEENH_01179	CDS	366	7a_92			Protein 7a
+EBIIEENH_01180	gene	132				
+EBIIEENH_01180	CDS	132				hypothetical protein
+EBIIEENH_01181	gene	366				
+EBIIEENH_01181	CDS	366				hypothetical protein
+EBIIEENH_01182	gene	1260	N_91			
+EBIIEENH_01182	CDS	1260	N_91			Nucleoprotein
+EBIIEENH_01183	gene	156				
+EBIIEENH_01183	CDS	156				hypothetical protein
+EBIIEENH_01184	gene	43				
+EBIIEENH_01184	misc_RNA	43				s2m
+EBIIEENH_01185	gene	13218	1a_93			
+EBIIEENH_01185	CDS	13218	1a_93			Replicase polyprotein 1a
+EBIIEENH_01186	gene	82				
+EBIIEENH_01186	misc_RNA	82				Corona_FSE
+EBIIEENH_01187	gene	7788	rep_95			
+EBIIEENH_01187	CDS	7788	rep_95			Replicase polyprotein 1ab
+EBIIEENH_01188	gene	3822	S_93			
+EBIIEENH_01188	CDS	3822	S_93			Spike glycoprotein
+EBIIEENH_01189	gene	828	3a_93			
+EBIIEENH_01189	CDS	828	3a_93			Protein 3a
+EBIIEENH_01190	gene	669	M_93			
+EBIIEENH_01190	CDS	669	M_93			Membrane protein
+EBIIEENH_01191	gene	186				
+EBIIEENH_01191	CDS	186				hypothetical protein
+EBIIEENH_01192	gene	366	7a_93			
+EBIIEENH_01192	CDS	366	7a_93			Protein 7a
+EBIIEENH_01193	gene	132				
+EBIIEENH_01193	CDS	132				hypothetical protein
+EBIIEENH_01194	gene	366				
+EBIIEENH_01194	CDS	366				hypothetical protein
+EBIIEENH_01195	gene	1260	N_92			
+EBIIEENH_01195	CDS	1260	N_92			Nucleoprotein
+EBIIEENH_01196	gene	156				
+EBIIEENH_01196	CDS	156				hypothetical protein
+EBIIEENH_01197	gene	43				
+EBIIEENH_01197	misc_RNA	43				s2m
+EBIIEENH_01198	gene	13218	1a_94			
+EBIIEENH_01198	CDS	13218	1a_94			Replicase polyprotein 1a
+EBIIEENH_01199	gene	82				
+EBIIEENH_01199	misc_RNA	82				Corona_FSE
+EBIIEENH_01200	gene	7788	rep_96			
+EBIIEENH_01200	CDS	7788	rep_96			Replicase polyprotein 1ab
+EBIIEENH_01201	gene	3822	S_94			
+EBIIEENH_01201	CDS	3822	S_94			Spike glycoprotein
+EBIIEENH_01202	gene	828	3a_94			
+EBIIEENH_01202	CDS	828	3a_94			Protein 3a
+EBIIEENH_01203	gene	669	M_94			
+EBIIEENH_01203	CDS	669	M_94			Membrane protein
+EBIIEENH_01204	gene	186				
+EBIIEENH_01204	CDS	186				hypothetical protein
+EBIIEENH_01205	gene	366	7a_94			
+EBIIEENH_01205	CDS	366	7a_94			Protein 7a
+EBIIEENH_01206	gene	132				
+EBIIEENH_01206	CDS	132				hypothetical protein
+EBIIEENH_01207	gene	366				
+EBIIEENH_01207	CDS	366				hypothetical protein
+EBIIEENH_01208	gene	1260	N_93			
+EBIIEENH_01208	CDS	1260	N_93			Nucleoprotein
+EBIIEENH_01209	gene	156				
+EBIIEENH_01209	CDS	156				hypothetical protein
+EBIIEENH_01210	gene	43				
+EBIIEENH_01210	misc_RNA	43				s2m
+EBIIEENH_01211	gene	13218	1a_95			
+EBIIEENH_01211	CDS	13218	1a_95			Replicase polyprotein 1a
+EBIIEENH_01212	gene	82				
+EBIIEENH_01212	misc_RNA	82				Corona_FSE
+EBIIEENH_01213	gene	7788	rep_97			
+EBIIEENH_01213	CDS	7788	rep_97			Replicase polyprotein 1ab
+EBIIEENH_01214	gene	3822	S_95			
+EBIIEENH_01214	CDS	3822	S_95			Spike glycoprotein
+EBIIEENH_01215	gene	828	3a_95			
+EBIIEENH_01215	CDS	828	3a_95			Protein 3a
+EBIIEENH_01216	gene	669	M_95			
+EBIIEENH_01216	CDS	669	M_95			Membrane protein
+EBIIEENH_01217	gene	186				
+EBIIEENH_01217	CDS	186				hypothetical protein
+EBIIEENH_01218	gene	366	7a_95			
+EBIIEENH_01218	CDS	366	7a_95			Protein 7a
+EBIIEENH_01219	gene	132				
+EBIIEENH_01219	CDS	132				hypothetical protein
+EBIIEENH_01220	gene	366				
+EBIIEENH_01220	CDS	366				hypothetical protein
+EBIIEENH_01221	gene	1260	N_94			
+EBIIEENH_01221	CDS	1260	N_94			Nucleoprotein
+EBIIEENH_01222	gene	156				
+EBIIEENH_01222	CDS	156				hypothetical protein
+EBIIEENH_01223	gene	43				
+EBIIEENH_01223	misc_RNA	43				s2m
+EBIIEENH_01224	gene	3654	1a_96			
+EBIIEENH_01224	CDS	3654	1a_96			Replicase polyprotein 1a
+EBIIEENH_01225	gene	82				
+EBIIEENH_01225	misc_RNA	82				Corona_FSE
+EBIIEENH_01226	gene	1125	rep_98			
+EBIIEENH_01226	CDS	1125	rep_98			Replicase polyprotein 1ab
+EBIIEENH_01227	gene	3822	S_96			
+EBIIEENH_01227	CDS	3822	S_96			Spike glycoprotein
+EBIIEENH_01228	gene	828	3a_96			
+EBIIEENH_01228	CDS	828	3a_96			Protein 3a
+EBIIEENH_01229	gene	669	M_96			
+EBIIEENH_01229	CDS	669	M_96			Membrane protein
+EBIIEENH_01230	gene	186				
+EBIIEENH_01230	CDS	186				hypothetical protein
+EBIIEENH_01231	gene	366	7a_96			
+EBIIEENH_01231	CDS	366	7a_96			Protein 7a
+EBIIEENH_01232	gene	132				
+EBIIEENH_01232	CDS	132				hypothetical protein
+EBIIEENH_01233	gene	366				
+EBIIEENH_01233	CDS	366				hypothetical protein
+EBIIEENH_01234	gene	1260	N_95			
+EBIIEENH_01234	CDS	1260	N_95			Nucleoprotein
+EBIIEENH_01235	gene	1881	1a_97			
+EBIIEENH_01235	CDS	1881	1a_97			Replicase polyprotein 1a
+EBIIEENH_01236	gene	82				
+EBIIEENH_01236	misc_RNA	82				Corona_FSE
+EBIIEENH_01237	gene	7788	rep_99			
+EBIIEENH_01237	CDS	7788	rep_99			Replicase polyprotein 1ab
+EBIIEENH_01238	gene	3822	S_97			
+EBIIEENH_01238	CDS	3822	S_97			Spike glycoprotein
+EBIIEENH_01239	gene	669	M_97			
+EBIIEENH_01239	CDS	669	M_97			Membrane protein
+EBIIEENH_01240	gene	186				
+EBIIEENH_01240	CDS	186				hypothetical protein
+EBIIEENH_01241	gene	366	7a_97			
+EBIIEENH_01241	CDS	366	7a_97			Protein 7a
+EBIIEENH_01242	gene	132				
+EBIIEENH_01242	CDS	132				hypothetical protein
+EBIIEENH_01243	gene	960	N_96			
+EBIIEENH_01243	CDS	960	N_96			Nucleoprotein
+EBIIEENH_01244	gene	156				
+EBIIEENH_01244	CDS	156				hypothetical protein
+EBIIEENH_01245	gene	43				
+EBIIEENH_01245	misc_RNA	43				s2m
+EBIIEENH_01246	gene	13218	1a_98			
+EBIIEENH_01246	CDS	13218	1a_98			Replicase polyprotein 1a
+EBIIEENH_01247	gene	82				
+EBIIEENH_01247	misc_RNA	82				Corona_FSE
+EBIIEENH_01248	gene	7788	rep_100			
+EBIIEENH_01248	CDS	7788	rep_100			Replicase polyprotein 1ab
+EBIIEENH_01249	gene	3822	S_98			
+EBIIEENH_01249	CDS	3822	S_98			Spike glycoprotein
+EBIIEENH_01250	gene	828	3a_97			
+EBIIEENH_01250	CDS	828	3a_97			Protein 3a
+EBIIEENH_01251	gene	669	M_98			
+EBIIEENH_01251	CDS	669	M_98			Membrane protein
+EBIIEENH_01252	gene	186				
+EBIIEENH_01252	CDS	186				hypothetical protein
+EBIIEENH_01253	gene	366	7a_98			
+EBIIEENH_01253	CDS	366	7a_98			Protein 7a
+EBIIEENH_01254	gene	132				
+EBIIEENH_01254	CDS	132				hypothetical protein
+EBIIEENH_01255	gene	1260	N_97			
+EBIIEENH_01255	CDS	1260	N_97			Nucleoprotein
+EBIIEENH_01256	gene	156				
+EBIIEENH_01256	CDS	156				hypothetical protein
+EBIIEENH_01257	gene	43				
+EBIIEENH_01257	misc_RNA	43				s2m
+EBIIEENH_01258	gene	13215	1a_99			
+EBIIEENH_01258	CDS	13215	1a_99			Replicase polyprotein 1a
+EBIIEENH_01259	gene	82				
+EBIIEENH_01259	misc_RNA	82				Corona_FSE
+EBIIEENH_01260	gene	7788	rep_101			
+EBIIEENH_01260	CDS	7788	rep_101			Replicase polyprotein 1ab
+EBIIEENH_01261	gene	3822	S_99			
+EBIIEENH_01261	CDS	3822	S_99			Spike glycoprotein
+EBIIEENH_01262	gene	828	3a_98			
+EBIIEENH_01262	CDS	828	3a_98			Protein 3a
+EBIIEENH_01263	gene	669	M_99			
+EBIIEENH_01263	CDS	669	M_99			Membrane protein
+EBIIEENH_01264	gene	186				
+EBIIEENH_01264	CDS	186				hypothetical protein
+EBIIEENH_01265	gene	366	7a_99			
+EBIIEENH_01265	CDS	366	7a_99			Protein 7a
+EBIIEENH_01266	gene	132				
+EBIIEENH_01266	CDS	132				hypothetical protein
+EBIIEENH_01267	gene	366				
+EBIIEENH_01267	CDS	366				hypothetical protein
+EBIIEENH_01268	gene	1260	N_98			
+EBIIEENH_01268	CDS	1260	N_98			Nucleoprotein
+EBIIEENH_01269	gene	156				
+EBIIEENH_01269	CDS	156				hypothetical protein
+EBIIEENH_01270	gene	43				
+EBIIEENH_01270	misc_RNA	43				s2m
+EBIIEENH_01271	gene	13218	1a_100			
+EBIIEENH_01271	CDS	13218	1a_100			Replicase polyprotein 1a
+EBIIEENH_01272	gene	82				
+EBIIEENH_01272	misc_RNA	82				Corona_FSE
+EBIIEENH_01273	gene	7788	rep_102			
+EBIIEENH_01273	CDS	7788	rep_102			Replicase polyprotein 1ab
+EBIIEENH_01274	gene	3822	S_100			
+EBIIEENH_01274	CDS	3822	S_100			Spike glycoprotein
+EBIIEENH_01275	gene	828	3a_99			
+EBIIEENH_01275	CDS	828	3a_99			Protein 3a
+EBIIEENH_01276	gene	669	M_100			
+EBIIEENH_01276	CDS	669	M_100			Membrane protein
+EBIIEENH_01277	gene	186				
+EBIIEENH_01277	CDS	186				hypothetical protein
+EBIIEENH_01278	gene	366	7a_100			
+EBIIEENH_01278	CDS	366	7a_100			Protein 7a
+EBIIEENH_01279	gene	132				
+EBIIEENH_01279	CDS	132				hypothetical protein
+EBIIEENH_01280	gene	366				
+EBIIEENH_01280	CDS	366				hypothetical protein
+EBIIEENH_01281	gene	1260	N_99			
+EBIIEENH_01281	CDS	1260	N_99			Nucleoprotein
+EBIIEENH_01282	gene	156				
+EBIIEENH_01282	CDS	156				hypothetical protein
+EBIIEENH_01283	gene	43				
+EBIIEENH_01283	misc_RNA	43				s2m
+EBIIEENH_01284	gene	13218	1a_101			
+EBIIEENH_01284	CDS	13218	1a_101			Replicase polyprotein 1a
+EBIIEENH_01285	gene	82				
+EBIIEENH_01285	misc_RNA	82				Corona_FSE
+EBIIEENH_01286	gene	7788	rep_103			
+EBIIEENH_01286	CDS	7788	rep_103			Replicase polyprotein 1ab
+EBIIEENH_01287	gene	3822	S_101			
+EBIIEENH_01287	CDS	3822	S_101			Spike glycoprotein
+EBIIEENH_01288	gene	828	3a_100			
+EBIIEENH_01288	CDS	828	3a_100			Protein 3a
+EBIIEENH_01289	gene	669	M_101			
+EBIIEENH_01289	CDS	669	M_101			Membrane protein
+EBIIEENH_01290	gene	186				
+EBIIEENH_01290	CDS	186				hypothetical protein
+EBIIEENH_01291	gene	366	7a_101			
+EBIIEENH_01291	CDS	366	7a_101			Protein 7a
+EBIIEENH_01292	gene	132				
+EBIIEENH_01292	CDS	132				hypothetical protein
+EBIIEENH_01293	gene	366				
+EBIIEENH_01293	CDS	366				hypothetical protein
+EBIIEENH_01294	gene	1260	N_100			
+EBIIEENH_01294	CDS	1260	N_100			Nucleoprotein
+EBIIEENH_01295	gene	156				
+EBIIEENH_01295	CDS	156				hypothetical protein
+EBIIEENH_01296	gene	43				
+EBIIEENH_01296	misc_RNA	43				s2m
+EBIIEENH_01297	gene	10800	1a_102			
+EBIIEENH_01297	CDS	10800	1a_102			Replicase polyprotein 1a
+EBIIEENH_01298	gene	82				
+EBIIEENH_01298	misc_RNA	82				Corona_FSE
+EBIIEENH_01299	gene	7788	rep_104			
+EBIIEENH_01299	CDS	7788	rep_104			Replicase polyprotein 1ab
+EBIIEENH_01300	gene	3822	S_102			
+EBIIEENH_01300	CDS	3822	S_102			Spike glycoprotein
+EBIIEENH_01301	gene	828	3a_101			
+EBIIEENH_01301	CDS	828	3a_101			Protein 3a
+EBIIEENH_01302	gene	669	M_102			
+EBIIEENH_01302	CDS	669	M_102			Membrane protein
+EBIIEENH_01303	gene	186				
+EBIIEENH_01303	CDS	186				hypothetical protein
+EBIIEENH_01304	gene	366	7a_102			
+EBIIEENH_01304	CDS	366	7a_102			Protein 7a
+EBIIEENH_01305	gene	132				
+EBIIEENH_01305	CDS	132				hypothetical protein
+EBIIEENH_01306	gene	960	N_101			
+EBIIEENH_01306	CDS	960	N_101			Nucleoprotein
+EBIIEENH_01307	gene	156				
+EBIIEENH_01307	CDS	156				hypothetical protein
+EBIIEENH_01308	gene	43				
+EBIIEENH_01308	misc_RNA	43				s2m
+EBIIEENH_01309	gene	13218	1a_103			
+EBIIEENH_01309	CDS	13218	1a_103			Replicase polyprotein 1a
+EBIIEENH_01310	gene	82				
+EBIIEENH_01310	misc_RNA	82				Corona_FSE
+EBIIEENH_01311	gene	7788	rep_105			
+EBIIEENH_01311	CDS	7788	rep_105			Replicase polyprotein 1ab
+EBIIEENH_01312	gene	3822	S_103			
+EBIIEENH_01312	CDS	3822	S_103			Spike glycoprotein
+EBIIEENH_01313	gene	828	3a_102			
+EBIIEENH_01313	CDS	828	3a_102			Protein 3a
+EBIIEENH_01314	gene	669	M_103			
+EBIIEENH_01314	CDS	669	M_103			Membrane protein
+EBIIEENH_01315	gene	186				
+EBIIEENH_01315	CDS	186				hypothetical protein
+EBIIEENH_01316	gene	366	7a_103			
+EBIIEENH_01316	CDS	366	7a_103			Protein 7a
+EBIIEENH_01317	gene	132				
+EBIIEENH_01317	CDS	132				hypothetical protein
+EBIIEENH_01318	gene	366				
+EBIIEENH_01318	CDS	366				hypothetical protein
+EBIIEENH_01319	gene	1260	N_102			
+EBIIEENH_01319	CDS	1260	N_102			Nucleoprotein
+EBIIEENH_01320	gene	156				
+EBIIEENH_01320	CDS	156				hypothetical protein
+EBIIEENH_01321	gene	43				
+EBIIEENH_01321	misc_RNA	43				s2m
+EBIIEENH_01322	gene	13218	1a_104			
+EBIIEENH_01322	CDS	13218	1a_104			Replicase polyprotein 1a
+EBIIEENH_01323	gene	82				
+EBIIEENH_01323	misc_RNA	82				Corona_FSE
+EBIIEENH_01324	gene	7788	rep_106			
+EBIIEENH_01324	CDS	7788	rep_106			Replicase polyprotein 1ab
+EBIIEENH_01325	gene	3822	S_104			
+EBIIEENH_01325	CDS	3822	S_104			Spike glycoprotein
+EBIIEENH_01326	gene	828	3a_103			
+EBIIEENH_01326	CDS	828	3a_103			Protein 3a
+EBIIEENH_01327	gene	669	M_104			
+EBIIEENH_01327	CDS	669	M_104			Membrane protein
+EBIIEENH_01328	gene	186				
+EBIIEENH_01328	CDS	186				hypothetical protein
+EBIIEENH_01329	gene	366	7a_104			
+EBIIEENH_01329	CDS	366	7a_104			Protein 7a
+EBIIEENH_01330	gene	132				
+EBIIEENH_01330	CDS	132				hypothetical protein
+EBIIEENH_01331	gene	366				
+EBIIEENH_01331	CDS	366				hypothetical protein
+EBIIEENH_01332	gene	1260	N_103			
+EBIIEENH_01332	CDS	1260	N_103			Nucleoprotein
+EBIIEENH_01333	gene	141				
+EBIIEENH_01333	CDS	141				hypothetical protein
+EBIIEENH_01334	gene	43				
+EBIIEENH_01334	misc_RNA	43				s2m
+EBIIEENH_01335	gene	13218	1a_105			
+EBIIEENH_01335	CDS	13218	1a_105			Replicase polyprotein 1a
+EBIIEENH_01336	gene	82				
+EBIIEENH_01336	misc_RNA	82				Corona_FSE
+EBIIEENH_01337	gene	507	rep_107			
+EBIIEENH_01337	CDS	507	rep_107			Replicase polyprotein 1ab
+EBIIEENH_01338	gene	3822	S_105			
+EBIIEENH_01338	CDS	3822	S_105			Spike glycoprotein
+EBIIEENH_01339	gene	828	3a_104			
+EBIIEENH_01339	CDS	828	3a_104			Protein 3a
+EBIIEENH_01340	gene	669	M_105			
+EBIIEENH_01340	CDS	669	M_105			Membrane protein
+EBIIEENH_01341	gene	186				
+EBIIEENH_01341	CDS	186				hypothetical protein
+EBIIEENH_01342	gene	366	7a_105			
+EBIIEENH_01342	CDS	366	7a_105			Protein 7a
+EBIIEENH_01343	gene	132				
+EBIIEENH_01343	CDS	132				hypothetical protein
+EBIIEENH_01344	gene	960	N_104			
+EBIIEENH_01344	CDS	960	N_104			Nucleoprotein
+EBIIEENH_01345	gene	156				
+EBIIEENH_01345	CDS	156				hypothetical protein
+EBIIEENH_01346	gene	43				
+EBIIEENH_01346	misc_RNA	43				s2m
+EBIIEENH_01347	gene	3654	1a_106			
+EBIIEENH_01347	CDS	3654	1a_106			Replicase polyprotein 1a
+EBIIEENH_01348	gene	82				
+EBIIEENH_01348	misc_RNA	82				Corona_FSE
+EBIIEENH_01349	gene	7833	rep_108			
+EBIIEENH_01349	CDS	7833	rep_108			Replicase polyprotein 1ab
+EBIIEENH_01350	gene	3822	S_106			
+EBIIEENH_01350	CDS	3822	S_106			Spike glycoprotein
+EBIIEENH_01351	gene	828	3a_105			
+EBIIEENH_01351	CDS	828	3a_105			Protein 3a
+EBIIEENH_01352	gene	186				
+EBIIEENH_01352	CDS	186				hypothetical protein
+EBIIEENH_01353	gene	366	7a_106			
+EBIIEENH_01353	CDS	366	7a_106			Protein 7a
+EBIIEENH_01354	gene	132				
+EBIIEENH_01354	CDS	132				hypothetical protein
+EBIIEENH_01355	gene	366				
+EBIIEENH_01355	CDS	366				hypothetical protein
+EBIIEENH_01356	gene	1260	N_105			
+EBIIEENH_01356	CDS	1260	N_105			Nucleoprotein
+EBIIEENH_01357	gene	156				
+EBIIEENH_01357	CDS	156				hypothetical protein
+EBIIEENH_01358	gene	43				
+EBIIEENH_01358	misc_RNA	43				s2m
+EBIIEENH_01359	gene	13218	1a_107			
+EBIIEENH_01359	CDS	13218	1a_107			Replicase polyprotein 1a
+EBIIEENH_01360	gene	82				
+EBIIEENH_01360	misc_RNA	82				Corona_FSE
+EBIIEENH_01361	gene	7788	rep_109			
+EBIIEENH_01361	CDS	7788	rep_109			Replicase polyprotein 1ab
+EBIIEENH_01362	gene	3822	S_107			
+EBIIEENH_01362	CDS	3822	S_107			Spike glycoprotein
+EBIIEENH_01363	gene	828	3a_106			
+EBIIEENH_01363	CDS	828	3a_106			Protein 3a
+EBIIEENH_01364	gene	669	M_106			
+EBIIEENH_01364	CDS	669	M_106			Membrane protein
+EBIIEENH_01365	gene	186				
+EBIIEENH_01365	CDS	186				hypothetical protein
+EBIIEENH_01366	gene	366	7a_107			
+EBIIEENH_01366	CDS	366	7a_107			Protein 7a
+EBIIEENH_01367	gene	132				
+EBIIEENH_01367	CDS	132				hypothetical protein
+EBIIEENH_01368	gene	366				
+EBIIEENH_01368	CDS	366				hypothetical protein
+EBIIEENH_01369	gene	1260	N_106			
+EBIIEENH_01369	CDS	1260	N_106			Nucleoprotein
+EBIIEENH_01370	gene	156				
+EBIIEENH_01370	CDS	156				hypothetical protein
+EBIIEENH_01371	gene	43				
+EBIIEENH_01371	misc_RNA	43				s2m
+EBIIEENH_01372	gene	13218	1a_108			
+EBIIEENH_01372	CDS	13218	1a_108			Replicase polyprotein 1a
+EBIIEENH_01373	gene	82				
+EBIIEENH_01373	misc_RNA	82				Corona_FSE
+EBIIEENH_01374	gene	7788	rep_110			
+EBIIEENH_01374	CDS	7788	rep_110			Replicase polyprotein 1ab
+EBIIEENH_01375	gene	3822	S_108			
+EBIIEENH_01375	CDS	3822	S_108			Spike glycoprotein
+EBIIEENH_01376	gene	828	3a_107			
+EBIIEENH_01376	CDS	828	3a_107			Protein 3a
+EBIIEENH_01377	gene	669	M_107			
+EBIIEENH_01377	CDS	669	M_107			Membrane protein
+EBIIEENH_01378	gene	186				
+EBIIEENH_01378	CDS	186				hypothetical protein
+EBIIEENH_01379	gene	366	7a_108			
+EBIIEENH_01379	CDS	366	7a_108			Protein 7a
+EBIIEENH_01380	gene	132				
+EBIIEENH_01380	CDS	132				hypothetical protein
+EBIIEENH_01381	gene	366				
+EBIIEENH_01381	CDS	366				hypothetical protein
+EBIIEENH_01382	gene	1260	N_107			
+EBIIEENH_01382	CDS	1260	N_107			Nucleoprotein
+EBIIEENH_01383	gene	156				
+EBIIEENH_01383	CDS	156				hypothetical protein
+EBIIEENH_01384	gene	43				
+EBIIEENH_01384	misc_RNA	43				s2m
+EBIIEENH_01385	gene	13218	1a_109			
+EBIIEENH_01385	CDS	13218	1a_109			Replicase polyprotein 1a
+EBIIEENH_01386	gene	82				
+EBIIEENH_01386	misc_RNA	82				Corona_FSE
+EBIIEENH_01387	gene	7788	rep_111			
+EBIIEENH_01387	CDS	7788	rep_111			Replicase polyprotein 1ab
+EBIIEENH_01388	gene	3822	S_109			
+EBIIEENH_01388	CDS	3822	S_109			Spike glycoprotein
+EBIIEENH_01389	gene	828	3a_108			
+EBIIEENH_01389	CDS	828	3a_108			Protein 3a
+EBIIEENH_01390	gene	669	M_108			
+EBIIEENH_01390	CDS	669	M_108			Membrane protein
+EBIIEENH_01391	gene	186				
+EBIIEENH_01391	CDS	186				hypothetical protein
+EBIIEENH_01392	gene	366	7a_109			
+EBIIEENH_01392	CDS	366	7a_109			Protein 7a
+EBIIEENH_01393	gene	132				
+EBIIEENH_01393	CDS	132				hypothetical protein
+EBIIEENH_01394	gene	366				
+EBIIEENH_01394	CDS	366				hypothetical protein
+EBIIEENH_01395	gene	1260	N_108			
+EBIIEENH_01395	CDS	1260	N_108			Nucleoprotein
+EBIIEENH_01396	gene	156				
+EBIIEENH_01396	CDS	156				hypothetical protein
+EBIIEENH_01397	gene	43				
+EBIIEENH_01397	misc_RNA	43				s2m
+EBIIEENH_01398	gene	1881	1a_110			
+EBIIEENH_01398	CDS	1881	1a_110			Replicase polyprotein 1a
+EBIIEENH_01399	gene	82				
+EBIIEENH_01399	misc_RNA	82				Corona_FSE
+EBIIEENH_01400	gene	7788	rep_112			
+EBIIEENH_01400	CDS	7788	rep_112			Replicase polyprotein 1ab
+EBIIEENH_01401	gene	3822	S_110			
+EBIIEENH_01401	CDS	3822	S_110			Spike glycoprotein
+EBIIEENH_01402	gene	828	3a_109			
+EBIIEENH_01402	CDS	828	3a_109			Protein 3a
+EBIIEENH_01403	gene	669	M_109			
+EBIIEENH_01403	CDS	669	M_109			Membrane protein
+EBIIEENH_01404	gene	186				
+EBIIEENH_01404	CDS	186				hypothetical protein
+EBIIEENH_01405	gene	366	7a_110			
+EBIIEENH_01405	CDS	366	7a_110			Protein 7a
+EBIIEENH_01406	gene	132				
+EBIIEENH_01406	CDS	132				hypothetical protein
+EBIIEENH_01407	gene	960	N_109			
+EBIIEENH_01407	CDS	960	N_109			Nucleoprotein
+EBIIEENH_01408	gene	156				
+EBIIEENH_01408	CDS	156				hypothetical protein
+EBIIEENH_01409	gene	43				
+EBIIEENH_01409	misc_RNA	43				s2m
+EBIIEENH_01410	gene	13218	1a_111			
+EBIIEENH_01410	CDS	13218	1a_111			Replicase polyprotein 1a
+EBIIEENH_01411	gene	82				
+EBIIEENH_01411	misc_RNA	82				Corona_FSE
+EBIIEENH_01412	gene	7788	rep_113			
+EBIIEENH_01412	CDS	7788	rep_113			Replicase polyprotein 1ab
+EBIIEENH_01413	gene	3822	S_111			
+EBIIEENH_01413	CDS	3822	S_111			Spike glycoprotein
+EBIIEENH_01414	gene	828	3a_110			
+EBIIEENH_01414	CDS	828	3a_110			Protein 3a
+EBIIEENH_01415	gene	669	M_110			
+EBIIEENH_01415	CDS	669	M_110			Membrane protein
+EBIIEENH_01416	gene	186				
+EBIIEENH_01416	CDS	186				hypothetical protein
+EBIIEENH_01417	gene	366	7a_111			
+EBIIEENH_01417	CDS	366	7a_111			Protein 7a
+EBIIEENH_01418	gene	132				
+EBIIEENH_01418	CDS	132				hypothetical protein
+EBIIEENH_01419	gene	960	N_110			
+EBIIEENH_01419	CDS	960	N_110			Nucleoprotein
+EBIIEENH_01420	gene	156				
+EBIIEENH_01420	CDS	156				hypothetical protein
+EBIIEENH_01421	gene	43				
+EBIIEENH_01421	misc_RNA	43				s2m
+EBIIEENH_01422	gene	2256	1a_112			
+EBIIEENH_01422	CDS	2256	1a_112			Replicase polyprotein 1a
+EBIIEENH_01423	gene	82				
+EBIIEENH_01423	misc_RNA	82				Corona_FSE
+EBIIEENH_01424	gene	1125	rep_114			
+EBIIEENH_01424	CDS	1125	rep_114			Replicase polyprotein 1ab
+EBIIEENH_01425	gene	3822	S_112			
+EBIIEENH_01425	CDS	3822	S_112			Spike glycoprotein
+EBIIEENH_01426	gene	828	3a_111			
+EBIIEENH_01426	CDS	828	3a_111			Protein 3a
+EBIIEENH_01427	gene	669	M_111			
+EBIIEENH_01427	CDS	669	M_111			Membrane protein
+EBIIEENH_01428	gene	186				
+EBIIEENH_01428	CDS	186				hypothetical protein
+EBIIEENH_01429	gene	366	7a_112			
+EBIIEENH_01429	CDS	366	7a_112			Protein 7a
+EBIIEENH_01430	gene	132				
+EBIIEENH_01430	CDS	132				hypothetical protein
+EBIIEENH_01431	gene	366				
+EBIIEENH_01431	CDS	366				hypothetical protein
+EBIIEENH_01432	gene	1260	N_111			
+EBIIEENH_01432	CDS	1260	N_111			Nucleoprotein
+EBIIEENH_01433	gene	13218	1a_113			
+EBIIEENH_01433	CDS	13218	1a_113			Replicase polyprotein 1a
+EBIIEENH_01434	gene	82				
+EBIIEENH_01434	misc_RNA	82				Corona_FSE
+EBIIEENH_01435	gene	7788	rep_115			
+EBIIEENH_01435	CDS	7788	rep_115			Replicase polyprotein 1ab
+EBIIEENH_01436	gene	3822	S_113			
+EBIIEENH_01436	CDS	3822	S_113			Spike glycoprotein
+EBIIEENH_01437	gene	828	3a_112			
+EBIIEENH_01437	CDS	828	3a_112			Protein 3a
+EBIIEENH_01438	gene	669	M_112			
+EBIIEENH_01438	CDS	669	M_112			Membrane protein
+EBIIEENH_01439	gene	186				
+EBIIEENH_01439	CDS	186				hypothetical protein
+EBIIEENH_01440	gene	366	7a_113			
+EBIIEENH_01440	CDS	366	7a_113			Protein 7a
+EBIIEENH_01441	gene	132				
+EBIIEENH_01441	CDS	132				hypothetical protein
+EBIIEENH_01442	gene	366				
+EBIIEENH_01442	CDS	366				hypothetical protein
+EBIIEENH_01443	gene	1260	N_112			
+EBIIEENH_01443	CDS	1260	N_112			Nucleoprotein
+EBIIEENH_01444	gene	156				
+EBIIEENH_01444	CDS	156				hypothetical protein
+EBIIEENH_01445	gene	43				
+EBIIEENH_01445	misc_RNA	43				s2m
+EBIIEENH_01446	gene	13218	1a_114			
+EBIIEENH_01446	CDS	13218	1a_114			Replicase polyprotein 1a
+EBIIEENH_01447	gene	82				
+EBIIEENH_01447	misc_RNA	82				Corona_FSE
+EBIIEENH_01448	gene	7788	rep_116			
+EBIIEENH_01448	CDS	7788	rep_116			Replicase polyprotein 1ab
+EBIIEENH_01449	gene	3822	S_114			
+EBIIEENH_01449	CDS	3822	S_114			Spike glycoprotein
+EBIIEENH_01450	gene	828	3a_113			
+EBIIEENH_01450	CDS	828	3a_113			Protein 3a
+EBIIEENH_01451	gene	669	M_113			
+EBIIEENH_01451	CDS	669	M_113			Membrane protein
+EBIIEENH_01452	gene	186				
+EBIIEENH_01452	CDS	186				hypothetical protein
+EBIIEENH_01453	gene	366	7a_114			
+EBIIEENH_01453	CDS	366	7a_114			Protein 7a
+EBIIEENH_01454	gene	132				
+EBIIEENH_01454	CDS	132				hypothetical protein
+EBIIEENH_01455	gene	366				
+EBIIEENH_01455	CDS	366				hypothetical protein
+EBIIEENH_01456	gene	1260	N_113			
+EBIIEENH_01456	CDS	1260	N_113			Nucleoprotein
+EBIIEENH_01457	gene	156				
+EBIIEENH_01457	CDS	156				hypothetical protein
+EBIIEENH_01458	gene	43				
+EBIIEENH_01458	misc_RNA	43				s2m
+EBIIEENH_01459	gene	13218	1a_115			
+EBIIEENH_01459	CDS	13218	1a_115			Replicase polyprotein 1a
+EBIIEENH_01460	gene	82				
+EBIIEENH_01460	misc_RNA	82				Corona_FSE
+EBIIEENH_01461	gene	7788	rep_117			
+EBIIEENH_01461	CDS	7788	rep_117			Replicase polyprotein 1ab
+EBIIEENH_01462	gene	3822	S_115			
+EBIIEENH_01462	CDS	3822	S_115			Spike glycoprotein
+EBIIEENH_01463	gene	828	3a_114			
+EBIIEENH_01463	CDS	828	3a_114			Protein 3a
+EBIIEENH_01464	gene	669	M_114			
+EBIIEENH_01464	CDS	669	M_114			Membrane protein
+EBIIEENH_01465	gene	186				
+EBIIEENH_01465	CDS	186				hypothetical protein
+EBIIEENH_01466	gene	366	7a_115			
+EBIIEENH_01466	CDS	366	7a_115			Protein 7a
+EBIIEENH_01467	gene	132				
+EBIIEENH_01467	CDS	132				hypothetical protein
+EBIIEENH_01468	gene	366				
+EBIIEENH_01468	CDS	366				hypothetical protein
+EBIIEENH_01469	gene	1260	N_114			
+EBIIEENH_01469	CDS	1260	N_114			Nucleoprotein
+EBIIEENH_01470	gene	156				
+EBIIEENH_01470	CDS	156				hypothetical protein
+EBIIEENH_01471	gene	43				
+EBIIEENH_01471	misc_RNA	43				s2m
+EBIIEENH_01472	gene	13218	1a_116			
+EBIIEENH_01472	CDS	13218	1a_116			Replicase polyprotein 1a
+EBIIEENH_01473	gene	82				
+EBIIEENH_01473	misc_RNA	82				Corona_FSE
+EBIIEENH_01474	gene	7788	rep_118			
+EBIIEENH_01474	CDS	7788	rep_118			Replicase polyprotein 1ab
+EBIIEENH_01475	gene	3822	S_116			
+EBIIEENH_01475	CDS	3822	S_116			Spike glycoprotein
+EBIIEENH_01476	gene	828	3a_115			
+EBIIEENH_01476	CDS	828	3a_115			Protein 3a
+EBIIEENH_01477	gene	669	M_115			
+EBIIEENH_01477	CDS	669	M_115			Membrane protein
+EBIIEENH_01478	gene	186				
+EBIIEENH_01478	CDS	186				hypothetical protein
+EBIIEENH_01479	gene	366	7a_116			
+EBIIEENH_01479	CDS	366	7a_116			Protein 7a
+EBIIEENH_01480	gene	132				
+EBIIEENH_01480	CDS	132				hypothetical protein
+EBIIEENH_01481	gene	366				
+EBIIEENH_01481	CDS	366				hypothetical protein
+EBIIEENH_01482	gene	1260	N_115			
+EBIIEENH_01482	CDS	1260	N_115			Nucleoprotein
+EBIIEENH_01483	gene	43				
+EBIIEENH_01483	misc_RNA	43				s2m
+EBIIEENH_01484	gene	13218	1a_117			
+EBIIEENH_01484	CDS	13218	1a_117			Replicase polyprotein 1a
+EBIIEENH_01485	gene	82				
+EBIIEENH_01485	misc_RNA	82				Corona_FSE
+EBIIEENH_01486	gene	7788	rep_119			
+EBIIEENH_01486	CDS	7788	rep_119			Replicase polyprotein 1ab
+EBIIEENH_01487	gene	3822	S_117			
+EBIIEENH_01487	CDS	3822	S_117			Spike glycoprotein
+EBIIEENH_01488	gene	828	3a_116			
+EBIIEENH_01488	CDS	828	3a_116			Protein 3a
+EBIIEENH_01489	gene	669	M_116			
+EBIIEENH_01489	CDS	669	M_116			Membrane protein
+EBIIEENH_01490	gene	186				
+EBIIEENH_01490	CDS	186				hypothetical protein
+EBIIEENH_01491	gene	366	7a_117			
+EBIIEENH_01491	CDS	366	7a_117			Protein 7a
+EBIIEENH_01492	gene	132				
+EBIIEENH_01492	CDS	132				hypothetical protein
+EBIIEENH_01493	gene	366				
+EBIIEENH_01493	CDS	366				hypothetical protein
+EBIIEENH_01494	gene	1260	N_116			
+EBIIEENH_01494	CDS	1260	N_116			Nucleoprotein
+EBIIEENH_01495	gene	43				
+EBIIEENH_01495	misc_RNA	43				s2m

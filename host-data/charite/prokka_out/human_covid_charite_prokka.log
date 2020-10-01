@@ -1,0 +1,355 @@
+[13:32:36] This is prokka 1.14.6
+[13:32:36] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[13:32:36] Homepage is https://github.com/tseemann/prokka
+[13:32:36] Local time is Sun May 10 13:32:36 2020
+[13:32:36] You are nick
+[13:32:36] Operating system is linux
+[13:32:36] You have BioPerl 1.7.7
+[13:32:36] System has 8 cores.
+[13:32:36] Will use maximum of 8 cores.
+[13:32:36] Annotating as >>> Viruses <<<
+[13:32:36] Generating locus_tag from 'charite-SARS-CoV-2.fasta' contents.
+[13:32:36] Setting --locustag EBIIEENH from MD5 eb22ee71b0a6951f57e5f97b7a5f00a3
+[13:32:36] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[13:32:36] Creating new output folder: prokka_out
+[13:32:36] Running: mkdir -p prokka_out
+[13:32:36] Using filename prefix: human_covid_charite_prokka.XXX
+[13:32:36] Setting HMMER_NCPU=1
+[13:32:36] Writing log to: prokka_out/human_covid_charite_prokka.log
+[13:32:36] Command: /home/nick/Software/prokka/bin/prokka charite-SARS-CoV-2.fasta --outdir prokka_out --kingdom Virus --rfam --cdsrnaolap --prefix human_covid_charite_prokka --compliant
+[13:32:36] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux
+[13:32:36] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux/../common
+[13:32:36] Appending to PATH: /home/nick/Software/prokka/bin
+[13:32:36] Looking for 'aragorn' - found /home/nick/Software/prokka/bin/../binaries/linux/aragorn
+[13:32:36] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[13:32:36] Looking for 'blastp' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/blastp
+[13:32:36] Determined blastp version is 002010 from 'blastp: 2.10.0+'
+[13:32:36] Looking for 'cmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/cmpress
+[13:32:36] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:32:36] Looking for 'cmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/cmscan
+[13:32:36] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[13:32:36] Looking for 'egrep' - found /bin/egrep
+[13:32:36] Looking for 'find' - found /usr/bin/find
+[13:32:36] Looking for 'grep' - found /bin/grep
+[13:32:36] Looking for 'hmmpress' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmpress
+[13:32:36] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:32:36] Looking for 'hmmscan' - found /home/nick/Software/prokka/bin/../binaries/linux/hmmscan
+[13:32:36] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[13:32:36] Looking for 'java' - found /usr/bin/java
+[13:32:36] Looking for 'makeblastdb' - found /home/nick/Software/ncbi-blast-2.10.0+/bin/makeblastdb
+[13:32:36] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.0+'
+[13:32:36] Looking for 'minced' - found /home/nick/Software/prokka/bin/../binaries/linux/../common/minced
+[13:32:36] Determined minced version is 002000 from 'minced 0.2.0'
+[13:32:36] Looking for 'parallel' - found /usr/bin/parallel
+[13:32:36] Determined parallel version is 20161222 from 'GNU parallel 20161222'
+[13:32:36] Looking for 'prodigal' - found /usr/bin/prodigal
+[13:32:36] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[13:32:36] Looking for 'prokka-genbank_to_fasta_db' - found /home/nick/Software/prokka/bin/prokka-genbank_to_fasta_db
+[13:32:36] Looking for 'sed' - found /bin/sed
+[13:32:36] Looking for 'tbl2asn' - found /home/nick/Software/prokka/bin/../binaries/linux/tbl2asn
+[13:32:36] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[13:32:36] Using genetic code table 1.
+[13:32:36] Loading and checking input file: charite-SARS-CoV-2.fasta
+[13:32:37] Changing illegal '|' to '_' in sequence name: EPI_ISL_412912|Europe-Germany-Baden-Wuerttemberg-unknown|2020-02-25
+[13:32:37] Changing illegal '|' to '_' in sequence name: EPI_ISL_406862|Europe-Germany-Bavaria-Munich|2020-01-28
+[13:32:37] Wrote 117 contigs totalling 3492276 bp.
+[13:32:37] Predicting tRNAs and tmRNAs
+[13:32:37] Running: aragorn -l -gc1  -w prokka_out\/human_covid_charite_prokka\.fna
+[13:32:38] Found 0 tRNAs
+[13:32:38] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[13:32:38] Scanning for ncRNAs... please be patient.
+[13:32:38] Running: cmscan -Z 6.984552 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 8 --tblout /dev/stdout -o /dev/null --noali /home/nick/Software/prokka/db/cm/Viruses prokka_out\/human_covid_charite_prokka\.fna
+[13:32:43] 1 ncRNA 1 gnl|Prokka|EBIIEENH_1 1..82
+[13:32:43] 2 ncRNA 2 gnl|Prokka|EBIIEENH_1 1..43
+[13:32:43] 3 ncRNA 1 gnl|Prokka|EBIIEENH_2 1..82
+[13:32:43] 4 ncRNA 2 gnl|Prokka|EBIIEENH_2 1..43
+[13:32:43] 5 ncRNA 1 gnl|Prokka|EBIIEENH_3 1..82
+[13:32:43] 6 ncRNA 2 gnl|Prokka|EBIIEENH_3 1..43
+[13:32:43] 7 ncRNA 1 gnl|Prokka|EBIIEENH_4 1..82
+[13:32:43] 8 ncRNA 2 gnl|Prokka|EBIIEENH_4 1..43
+[13:32:43] 9 ncRNA 1 gnl|Prokka|EBIIEENH_5 1..82
+[13:32:43] 10 ncRNA 2 gnl|Prokka|EBIIEENH_5 1..43
+[13:32:43] 11 ncRNA 1 gnl|Prokka|EBIIEENH_6 1..82
+[13:32:43] 12 ncRNA 2 gnl|Prokka|EBIIEENH_6 1..43
+[13:32:43] 13 ncRNA 1 gnl|Prokka|EBIIEENH_7 1..82
+[13:32:49] 14 ncRNA 2 gnl|Prokka|EBIIEENH_7 1..43
+[13:32:49] 15 ncRNA 1 gnl|Prokka|EBIIEENH_8 1..82
+[13:32:49] 16 ncRNA 2 gnl|Prokka|EBIIEENH_8 1..43
+[13:32:49] 17 ncRNA 1 gnl|Prokka|EBIIEENH_9 1..82
+[13:32:49] 18 ncRNA 2 gnl|Prokka|EBIIEENH_9 1..43
+[13:32:49] 19 ncRNA 1 gnl|Prokka|EBIIEENH_10 1..82
+[13:32:49] 20 ncRNA 2 gnl|Prokka|EBIIEENH_10 1..43
+[13:32:49] 21 ncRNA 1 gnl|Prokka|EBIIEENH_11 1..82
+[13:32:49] 22 ncRNA 2 gnl|Prokka|EBIIEENH_11 1..43
+[13:32:49] 23 ncRNA 1 gnl|Prokka|EBIIEENH_12 1..82
+[13:32:49] 24 ncRNA 2 gnl|Prokka|EBIIEENH_12 1..43
+[13:32:49] 25 ncRNA 1 gnl|Prokka|EBIIEENH_13 1..82
+[13:32:49] 26 ncRNA 2 gnl|Prokka|EBIIEENH_13 1..43
+[13:32:49] 27 ncRNA 1 gnl|Prokka|EBIIEENH_14 1..82
+[13:32:49] 28 ncRNA 2 gnl|Prokka|EBIIEENH_14 1..43
+[13:32:49] 29 ncRNA 1 gnl|Prokka|EBIIEENH_15 1..82
+[13:32:55] 30 ncRNA 2 gnl|Prokka|EBIIEENH_15 1..43
+[13:32:55] 31 ncRNA 1 gnl|Prokka|EBIIEENH_16 1..82
+[13:32:55] 32 ncRNA 2 gnl|Prokka|EBIIEENH_16 1..43
+[13:32:55] 33 ncRNA 1 gnl|Prokka|EBIIEENH_17 1..82
+[13:32:55] 34 ncRNA 2 gnl|Prokka|EBIIEENH_17 1..43
+[13:32:55] 35 ncRNA 1 gnl|Prokka|EBIIEENH_18 1..82
+[13:32:55] 36 ncRNA 2 gnl|Prokka|EBIIEENH_18 1..43
+[13:32:55] 37 ncRNA 1 gnl|Prokka|EBIIEENH_19 1..82
+[13:32:55] 38 ncRNA 2 gnl|Prokka|EBIIEENH_19 1..43
+[13:32:55] 39 ncRNA 1 gnl|Prokka|EBIIEENH_20 1..82
+[13:32:55] 40 ncRNA 2 gnl|Prokka|EBIIEENH_20 1..43
+[13:32:55] 41 ncRNA 1 gnl|Prokka|EBIIEENH_21 1..82
+[13:32:55] 42 ncRNA 2 gnl|Prokka|EBIIEENH_21 1..43
+[13:32:55] 43 ncRNA 1 gnl|Prokka|EBIIEENH_22 1..82
+[13:32:55] 44 ncRNA 2 gnl|Prokka|EBIIEENH_22 1..43
+[13:32:55] 45 ncRNA 1 gnl|Prokka|EBIIEENH_23 1..82
+[13:33:01] 46 ncRNA 2 gnl|Prokka|EBIIEENH_23 1..43
+[13:33:01] 47 ncRNA 1 gnl|Prokka|EBIIEENH_24 1..82
+[13:33:01] 48 ncRNA 2 gnl|Prokka|EBIIEENH_24 1..43
+[13:33:01] 49 ncRNA 1 gnl|Prokka|EBIIEENH_25 1..82
+[13:33:01] 50 ncRNA 2 gnl|Prokka|EBIIEENH_25 1..43
+[13:33:01] 51 ncRNA 1 gnl|Prokka|EBIIEENH_26 1..82
+[13:33:01] 52 ncRNA 2 gnl|Prokka|EBIIEENH_26 1..43
+[13:33:01] 53 ncRNA 1 gnl|Prokka|EBIIEENH_27 1..82
+[13:33:01] 54 ncRNA 2 gnl|Prokka|EBIIEENH_27 1..43
+[13:33:01] 55 ncRNA 1 gnl|Prokka|EBIIEENH_28 1..82
+[13:33:01] 56 ncRNA 2 gnl|Prokka|EBIIEENH_28 1..43
+[13:33:01] 57 ncRNA 1 gnl|Prokka|EBIIEENH_29 1..82
+[13:33:01] 58 ncRNA 2 gnl|Prokka|EBIIEENH_29 1..43
+[13:33:01] 59 ncRNA 1 gnl|Prokka|EBIIEENH_30 1..82
+[13:33:01] 60 ncRNA 2 gnl|Prokka|EBIIEENH_30 1..43
+[13:33:01] 61 ncRNA 1 gnl|Prokka|EBIIEENH_31 1..82
+[13:33:07] 62 ncRNA 2 gnl|Prokka|EBIIEENH_31 1..43
+[13:33:07] 63 ncRNA 1 gnl|Prokka|EBIIEENH_32 1..82
+[13:33:07] 64 ncRNA 2 gnl|Prokka|EBIIEENH_32 1..43
+[13:33:07] 65 ncRNA 1 gnl|Prokka|EBIIEENH_33 1..82
+[13:33:07] 66 ncRNA 2 gnl|Prokka|EBIIEENH_33 1..43
+[13:33:07] 67 ncRNA 1 gnl|Prokka|EBIIEENH_34 1..82
+[13:33:07] 68 ncRNA 2 gnl|Prokka|EBIIEENH_34 1..43
+[13:33:07] 69 ncRNA 1 gnl|Prokka|EBIIEENH_35 1..82
+[13:33:07] 70 ncRNA 2 gnl|Prokka|EBIIEENH_35 1..43
+[13:33:07] 71 ncRNA 1 gnl|Prokka|EBIIEENH_36 1..82
+[13:33:07] 72 ncRNA 2 gnl|Prokka|EBIIEENH_36 1..43
+[13:33:07] 73 ncRNA 1 gnl|Prokka|EBIIEENH_37 1..82
+[13:33:07] 74 ncRNA 2 gnl|Prokka|EBIIEENH_37 1..43
+[13:33:07] 75 ncRNA 1 gnl|Prokka|EBIIEENH_38 1..82
+[13:33:07] 76 ncRNA 2 gnl|Prokka|EBIIEENH_38 1..43
+[13:33:13] 77 ncRNA 1 gnl|Prokka|EBIIEENH_39 1..82
+[13:33:13] 78 ncRNA 2 gnl|Prokka|EBIIEENH_39 1..43
+[13:33:13] 79 ncRNA 1 gnl|Prokka|EBIIEENH_40 1..82
+[13:33:13] 80 ncRNA 2 gnl|Prokka|EBIIEENH_40 1..43
+[13:33:13] 81 ncRNA 1 gnl|Prokka|EBIIEENH_41 1..82
+[13:33:13] 82 ncRNA 2 gnl|Prokka|EBIIEENH_41 1..43
+[13:33:13] 83 ncRNA 1 gnl|Prokka|EBIIEENH_42 1..82
+[13:33:13] 84 ncRNA 2 gnl|Prokka|EBIIEENH_42 1..43
+[13:33:13] 85 ncRNA 1 gnl|Prokka|EBIIEENH_43 1..82
+[13:33:13] 86 ncRNA 2 gnl|Prokka|EBIIEENH_43 1..43
+[13:33:13] 87 ncRNA 1 gnl|Prokka|EBIIEENH_44 1..82
+[13:33:13] 88 ncRNA 2 gnl|Prokka|EBIIEENH_44 1..43
+[13:33:13] 89 ncRNA 1 gnl|Prokka|EBIIEENH_45 1..82
+[13:33:13] 90 ncRNA 2 gnl|Prokka|EBIIEENH_45 1..43
+[13:33:13] 91 ncRNA 1 gnl|Prokka|EBIIEENH_46 1..82
+[13:33:13] 92 ncRNA 2 gnl|Prokka|EBIIEENH_46 1..43
+[13:33:18] 93 ncRNA 1 gnl|Prokka|EBIIEENH_47 1..82
+[13:33:18] 94 ncRNA 2 gnl|Prokka|EBIIEENH_47 1..43
+[13:33:18] 95 ncRNA 1 gnl|Prokka|EBIIEENH_48 1..82
+[13:33:18] 96 ncRNA 2 gnl|Prokka|EBIIEENH_48 1..43
+[13:33:18] 97 ncRNA 1 gnl|Prokka|EBIIEENH_49 1..82
+[13:33:18] 98 ncRNA 2 gnl|Prokka|EBIIEENH_49 1..43
+[13:33:18] 99 ncRNA 1 gnl|Prokka|EBIIEENH_50 1..82
+[13:33:18] 100 ncRNA 2 gnl|Prokka|EBIIEENH_50 1..43
+[13:33:18] 101 ncRNA 1 gnl|Prokka|EBIIEENH_51 1..82
+[13:33:18] 102 ncRNA 2 gnl|Prokka|EBIIEENH_51 1..43
+[13:33:18] 103 ncRNA 1 gnl|Prokka|EBIIEENH_52 1..82
+[13:33:18] 104 ncRNA 2 gnl|Prokka|EBIIEENH_52 1..43
+[13:33:18] 105 ncRNA 1 gnl|Prokka|EBIIEENH_53 1..82
+[13:33:18] 106 ncRNA 2 gnl|Prokka|EBIIEENH_53 1..43
+[13:33:18] 107 ncRNA 1 gnl|Prokka|EBIIEENH_54 1..82
+[13:33:18] 108 ncRNA 2 gnl|Prokka|EBIIEENH_54 1..43
+[13:33:24] 109 ncRNA 1 gnl|Prokka|EBIIEENH_55 1..82
+[13:33:24] 110 ncRNA 2 gnl|Prokka|EBIIEENH_55 1..43
+[13:33:24] 111 ncRNA 1 gnl|Prokka|EBIIEENH_56 1..82
+[13:33:24] 112 ncRNA 2 gnl|Prokka|EBIIEENH_56 1..43
+[13:33:24] 113 ncRNA 1 gnl|Prokka|EBIIEENH_57 1..82
+[13:33:24] 114 ncRNA 2 gnl|Prokka|EBIIEENH_57 1..43
+[13:33:24] 115 ncRNA 1 gnl|Prokka|EBIIEENH_58 1..82
+[13:33:24] 116 ncRNA 2 gnl|Prokka|EBIIEENH_58 1..43
+[13:33:24] 117 ncRNA 1 gnl|Prokka|EBIIEENH_59 1..82
+[13:33:24] 118 ncRNA 2 gnl|Prokka|EBIIEENH_59 1..43
+[13:33:24] 119 ncRNA 1 gnl|Prokka|EBIIEENH_60 1..82
+[13:33:24] 120 ncRNA 2 gnl|Prokka|EBIIEENH_60 1..43
+[13:33:24] 121 ncRNA 1 gnl|Prokka|EBIIEENH_61 1..82
+[13:33:24] 122 ncRNA 2 gnl|Prokka|EBIIEENH_61 1..43
+[13:33:24] 123 ncRNA 1 gnl|Prokka|EBIIEENH_62 1..82
+[13:33:24] 124 ncRNA 2 gnl|Prokka|EBIIEENH_62 1..43
+[13:33:28] 125 ncRNA 1 gnl|Prokka|EBIIEENH_63 1..82
+[13:33:28] 126 ncRNA 2 gnl|Prokka|EBIIEENH_63 1..43
+[13:33:28] 127 ncRNA 1 gnl|Prokka|EBIIEENH_64 1..82
+[13:33:28] 128 ncRNA 2 gnl|Prokka|EBIIEENH_64 1..43
+[13:33:28] 129 ncRNA 1 gnl|Prokka|EBIIEENH_65 1..82
+[13:33:28] 130 ncRNA 2 gnl|Prokka|EBIIEENH_65 1..43
+[13:33:28] 131 ncRNA 1 gnl|Prokka|EBIIEENH_66 1..43
+[13:33:28] 132 ncRNA 2 gnl|Prokka|EBIIEENH_66 1..82
+[13:33:28] 133 ncRNA 1 gnl|Prokka|EBIIEENH_67 1..82
+[13:33:28] 134 ncRNA 2 gnl|Prokka|EBIIEENH_67 1..43
+[13:33:28] 135 ncRNA 1 gnl|Prokka|EBIIEENH_68 1..82
+[13:33:28] 136 ncRNA 2 gnl|Prokka|EBIIEENH_68 1..43
+[13:33:28] 137 ncRNA 1 gnl|Prokka|EBIIEENH_69 1..82
+[13:33:28] 138 ncRNA 2 gnl|Prokka|EBIIEENH_69 1..43
+[13:33:28] 139 ncRNA 1 gnl|Prokka|EBIIEENH_70 1..82
+[13:33:35] 140 ncRNA 2 gnl|Prokka|EBIIEENH_70 1..43
+[13:33:35] 141 ncRNA 1 gnl|Prokka|EBIIEENH_71 1..82
+[13:33:35] 142 ncRNA 2 gnl|Prokka|EBIIEENH_71 1..43
+[13:33:35] 143 ncRNA 1 gnl|Prokka|EBIIEENH_72 1..82
+[13:33:35] 144 ncRNA 2 gnl|Prokka|EBIIEENH_72 1..43
+[13:33:35] 145 ncRNA 1 gnl|Prokka|EBIIEENH_73 1..82
+[13:33:35] 146 ncRNA 2 gnl|Prokka|EBIIEENH_73 1..43
+[13:33:35] 147 ncRNA 1 gnl|Prokka|EBIIEENH_74 1..82
+[13:33:35] 148 ncRNA 2 gnl|Prokka|EBIIEENH_74 1..43
+[13:33:35] 149 ncRNA 1 gnl|Prokka|EBIIEENH_75 1..82
+[13:33:35] 150 ncRNA 2 gnl|Prokka|EBIIEENH_75 1..43
+[13:33:35] 151 ncRNA 1 gnl|Prokka|EBIIEENH_76 1..82
+[13:33:35] 152 ncRNA 2 gnl|Prokka|EBIIEENH_76 1..43
+[13:33:35] 153 ncRNA 1 gnl|Prokka|EBIIEENH_77 1..82
+[13:33:35] 154 ncRNA 2 gnl|Prokka|EBIIEENH_77 1..43
+[13:33:35] 155 ncRNA 1 gnl|Prokka|EBIIEENH_78 1..82
+[13:33:40] 156 ncRNA 2 gnl|Prokka|EBIIEENH_78 1..43
+[13:33:40] 157 ncRNA 1 gnl|Prokka|EBIIEENH_79 1..82
+[13:33:40] 158 ncRNA 2 gnl|Prokka|EBIIEENH_79 1..43
+[13:33:40] 159 ncRNA 1 gnl|Prokka|EBIIEENH_80 1..82
+[13:33:40] 160 ncRNA 2 gnl|Prokka|EBIIEENH_80 1..43
+[13:33:40] 161 ncRNA 1 gnl|Prokka|EBIIEENH_81 1..82
+[13:33:40] 162 ncRNA 2 gnl|Prokka|EBIIEENH_81 1..43
+[13:33:40] 163 ncRNA 1 gnl|Prokka|EBIIEENH_82 1..82
+[13:33:40] 164 ncRNA 2 gnl|Prokka|EBIIEENH_82 1..43
+[13:33:40] 165 ncRNA 1 gnl|Prokka|EBIIEENH_83 1..82
+[13:33:40] 166 ncRNA 2 gnl|Prokka|EBIIEENH_83 1..43
+[13:33:40] 167 ncRNA 1 gnl|Prokka|EBIIEENH_84 1..82
+[13:33:40] 168 ncRNA 2 gnl|Prokka|EBIIEENH_84 1..43
+[13:33:40] 169 ncRNA 1 gnl|Prokka|EBIIEENH_85 1..82
+[13:33:40] 170 ncRNA 2 gnl|Prokka|EBIIEENH_85 1..43
+[13:33:40] 171 ncRNA 1 gnl|Prokka|EBIIEENH_86 1..82
+[13:33:46] 172 ncRNA 2 gnl|Prokka|EBIIEENH_86 1..43
+[13:33:46] 173 ncRNA 1 gnl|Prokka|EBIIEENH_87 1..82
+[13:33:46] 174 ncRNA 2 gnl|Prokka|EBIIEENH_87 1..43
+[13:33:46] 175 ncRNA 1 gnl|Prokka|EBIIEENH_88 1..82
+[13:33:46] 176 ncRNA 2 gnl|Prokka|EBIIEENH_88 1..43
+[13:33:46] 177 ncRNA 1 gnl|Prokka|EBIIEENH_89 1..82
+[13:33:46] 178 ncRNA 2 gnl|Prokka|EBIIEENH_89 1..43
+[13:33:46] 179 ncRNA 1 gnl|Prokka|EBIIEENH_90 1..82
+[13:33:46] 180 ncRNA 2 gnl|Prokka|EBIIEENH_90 1..43
+[13:33:46] 181 ncRNA 1 gnl|Prokka|EBIIEENH_91 1..82
+[13:33:46] 182 ncRNA 2 gnl|Prokka|EBIIEENH_91 1..43
+[13:33:46] 183 ncRNA 1 gnl|Prokka|EBIIEENH_92 1..82
+[13:33:46] 184 ncRNA 2 gnl|Prokka|EBIIEENH_92 1..43
+[13:33:46] 185 ncRNA 1 gnl|Prokka|EBIIEENH_93 1..82
+[13:33:46] 186 ncRNA 2 gnl|Prokka|EBIIEENH_93 1..43
+[13:33:52] 187 ncRNA 1 gnl|Prokka|EBIIEENH_94 1..82
+[13:33:52] 188 ncRNA 2 gnl|Prokka|EBIIEENH_94 1..43
+[13:33:52] 189 ncRNA 1 gnl|Prokka|EBIIEENH_95 1..82
+[13:33:52] 190 ncRNA 2 gnl|Prokka|EBIIEENH_95 1..43
+[13:33:52] 191 ncRNA 1 gnl|Prokka|EBIIEENH_96 1..82
+[13:33:52] 192 ncRNA 1 gnl|Prokka|EBIIEENH_97 1..82
+[13:33:52] 193 ncRNA 2 gnl|Prokka|EBIIEENH_97 1..43
+[13:33:52] 194 ncRNA 1 gnl|Prokka|EBIIEENH_98 1..82
+[13:33:52] 195 ncRNA 2 gnl|Prokka|EBIIEENH_98 1..43
+[13:33:52] 196 ncRNA 1 gnl|Prokka|EBIIEENH_99 1..82
+[13:33:52] 197 ncRNA 2 gnl|Prokka|EBIIEENH_99 1..43
+[13:33:52] 198 ncRNA 1 gnl|Prokka|EBIIEENH_100 1..82
+[13:33:52] 199 ncRNA 2 gnl|Prokka|EBIIEENH_100 1..43
+[13:33:52] 200 ncRNA 1 gnl|Prokka|EBIIEENH_101 1..82
+[13:33:52] 201 ncRNA 2 gnl|Prokka|EBIIEENH_101 1..43
+[13:33:52] 202 ncRNA 1 gnl|Prokka|EBIIEENH_102 1..82
+[13:33:58] 203 ncRNA 2 gnl|Prokka|EBIIEENH_102 1..43
+[13:33:58] 204 ncRNA 1 gnl|Prokka|EBIIEENH_103 1..82
+[13:33:58] 205 ncRNA 2 gnl|Prokka|EBIIEENH_103 1..43
+[13:33:58] 206 ncRNA 1 gnl|Prokka|EBIIEENH_104 1..82
+[13:33:58] 207 ncRNA 2 gnl|Prokka|EBIIEENH_104 1..43
+[13:33:58] 208 ncRNA 1 gnl|Prokka|EBIIEENH_105 1..82
+[13:33:58] 209 ncRNA 2 gnl|Prokka|EBIIEENH_105 1..43
+[13:33:58] 210 ncRNA 1 gnl|Prokka|EBIIEENH_106 1..82
+[13:33:58] 211 ncRNA 2 gnl|Prokka|EBIIEENH_106 1..43
+[13:33:58] 212 ncRNA 1 gnl|Prokka|EBIIEENH_107 1..82
+[13:33:58] 213 ncRNA 2 gnl|Prokka|EBIIEENH_107 1..43
+[13:33:58] 214 ncRNA 1 gnl|Prokka|EBIIEENH_108 1..82
+[13:33:58] 215 ncRNA 2 gnl|Prokka|EBIIEENH_108 1..43
+[13:33:58] 216 ncRNA 1 gnl|Prokka|EBIIEENH_109 1..82
+[13:33:58] 217 ncRNA 2 gnl|Prokka|EBIIEENH_109 1..43
+[13:33:58] 218 ncRNA 1 gnl|Prokka|EBIIEENH_110 1..82
+[13:34:03] 219 ncRNA 2 gnl|Prokka|EBIIEENH_110 1..43
+[13:34:03] 220 ncRNA 1 gnl|Prokka|EBIIEENH_111 1..82
+[13:34:03] 221 ncRNA 2 gnl|Prokka|EBIIEENH_111 1..43
+[13:34:03] 222 ncRNA 1 gnl|Prokka|EBIIEENH_112 1..82
+[13:34:03] 223 ncRNA 1 gnl|Prokka|EBIIEENH_113 1..82
+[13:34:03] 224 ncRNA 2 gnl|Prokka|EBIIEENH_113 1..43
+[13:34:03] 225 ncRNA 1 gnl|Prokka|EBIIEENH_114 1..82
+[13:34:03] 226 ncRNA 2 gnl|Prokka|EBIIEENH_114 1..43
+[13:34:03] 227 ncRNA 1 gnl|Prokka|EBIIEENH_115 1..82
+[13:34:03] 228 ncRNA 2 gnl|Prokka|EBIIEENH_115 1..43
+[13:34:03] 229 ncRNA 1 gnl|Prokka|EBIIEENH_116 1..82
+[13:34:03] 230 ncRNA 2 gnl|Prokka|EBIIEENH_116 1..43
+[13:34:03] 231 ncRNA 1 gnl|Prokka|EBIIEENH_117 1..82
+[13:34:03] 232 ncRNA 2 gnl|Prokka|EBIIEENH_117 1..43
+[13:34:03] Found 232 ncRNAs.
+[13:34:03] Total of 0 tRNA + rRNA features
+[13:34:03] Searching for CRISPR repeats
+[13:34:03] Found 0 CRISPRs
+[13:34:03] Predicting coding sequences
+[13:34:03] Contigs total 3492276 bp, so using single mode
+[13:34:03] Running: prodigal -i prokka_out\/human_covid_charite_prokka\.fna -c -m -g 1 -p single -f sco -q
+[13:34:07] Found 1263 CDS
+[13:34:07] Connecting features back to sequences
+[13:34:07] Not using genus-specific database. Try --usegenus to enable it.
+[13:34:07] Annotating CDS, please be patient.
+[13:34:07] Will use 8 CPUs for similarity searching.
+[13:34:08] There are still 1263 unannotated CDS left (started with 1263)
+[13:34:08] Will use blast to search against /home/nick/Software/prokka/db/kingdom/Viruses/sprot with 8 CPUs
+[13:34:08] Running: cat prokka_out\/human_covid_charite_prokka\.sprot\.tmp\.5261\.faa | parallel --gnu --plain -j 8 --block 67530 --recstart '>' --pipe blastp -query - -db /home/nick/Software/prokka/db/kingdom/Viruses/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_out\/human_covid_charite_prokka\.sprot\.tmp\.5261\.blast 2> /dev/null
+[13:34:35] Deleting unwanted file: prokka_out/human_covid_charite_prokka.sprot.tmp.5261.faa
+[13:34:35] Deleting unwanted file: prokka_out/human_covid_charite_prokka.sprot.tmp.5261.blast
+[13:34:35] Labelling remaining 445 proteins as 'hypothetical protein'
+[13:34:35] Possible /pseudo 'Replicase polyprotein 1ab' at gnl|Prokka|EBIIEENH_36 position 18089
+[13:34:35] Possible /pseudo 'Replicase polyprotein 1ab' at gnl|Prokka|EBIIEENH_36 position 18666
+[13:34:35] Found 7 unique /gene codes.
+[13:34:35] Fixed 119 duplicate /gene - rep_1 rep_2 rep_3 rep_4 rep_5 rep_6 rep_7 rep_8 rep_9 rep_10 rep_11 rep_12 rep_13 rep_14 rep_15 rep_16 rep_17 rep_18 rep_19 rep_20 rep_21 rep_22 rep_23 rep_24 rep_25 rep_26 rep_27 rep_28 rep_29 rep_30 rep_31 rep_32 rep_33 rep_34 rep_35 rep_36 rep_37 rep_38 rep_39 rep_40 rep_41 rep_42 rep_43 rep_44 rep_45 rep_46 rep_47 rep_48 rep_49 rep_50 rep_51 rep_52 rep_53 rep_54 rep_55 rep_56 rep_57 rep_58 rep_59 rep_60 rep_61 rep_62 rep_63 rep_64 rep_65 rep_66 rep_67 rep_68 rep_69 rep_70 rep_71 rep_72 rep_73 rep_74 rep_75 rep_76 rep_77 rep_78 rep_79 rep_80 rep_81 rep_82 rep_83 rep_84 rep_85 rep_86 rep_87 rep_88 rep_89 rep_90 rep_91 rep_92 rep_93 rep_94 rep_95 rep_96 rep_97 rep_98 rep_99 rep_100 rep_101 rep_102 rep_103 rep_104 rep_105 rep_106 rep_107 rep_108 rep_109 rep_110 rep_111 rep_112 rep_113 rep_114 rep_115 rep_116 rep_117 rep_118 rep_119
+[13:34:35] Fixed 116 duplicate /gene - 3a_1 3a_2 3a_3 3a_4 3a_5 3a_6 3a_7 3a_8 3a_9 3a_10 3a_11 3a_12 3a_13 3a_14 3a_15 3a_16 3a_17 3a_18 3a_19 3a_20 3a_21 3a_22 3a_23 3a_24 3a_25 3a_26 3a_27 3a_28 3a_29 3a_30 3a_31 3a_32 3a_33 3a_34 3a_35 3a_36 3a_37 3a_38 3a_39 3a_40 3a_41 3a_42 3a_43 3a_44 3a_45 3a_46 3a_47 3a_48 3a_49 3a_50 3a_51 3a_52 3a_53 3a_54 3a_55 3a_56 3a_57 3a_58 3a_59 3a_60 3a_61 3a_62 3a_63 3a_64 3a_65 3a_66 3a_67 3a_68 3a_69 3a_70 3a_71 3a_72 3a_73 3a_74 3a_75 3a_76 3a_77 3a_78 3a_79 3a_80 3a_81 3a_82 3a_83 3a_84 3a_85 3a_86 3a_87 3a_88 3a_89 3a_90 3a_91 3a_92 3a_93 3a_94 3a_95 3a_96 3a_97 3a_98 3a_99 3a_100 3a_101 3a_102 3a_103 3a_104 3a_105 3a_106 3a_107 3a_108 3a_109 3a_110 3a_111 3a_112 3a_113 3a_114 3a_115 3a_116
+[13:34:35] Fixed 117 duplicate /gene - 1a_1 1a_2 1a_3 1a_4 1a_5 1a_6 1a_7 1a_8 1a_9 1a_10 1a_11 1a_12 1a_13 1a_14 1a_15 1a_16 1a_17 1a_18 1a_19 1a_20 1a_21 1a_22 1a_23 1a_24 1a_25 1a_26 1a_27 1a_28 1a_29 1a_30 1a_31 1a_32 1a_33 1a_34 1a_35 1a_36 1a_37 1a_38 1a_39 1a_40 1a_41 1a_42 1a_43 1a_44 1a_45 1a_46 1a_47 1a_48 1a_49 1a_50 1a_51 1a_52 1a_53 1a_54 1a_55 1a_56 1a_57 1a_58 1a_59 1a_60 1a_61 1a_62 1a_63 1a_64 1a_65 1a_66 1a_67 1a_68 1a_69 1a_70 1a_71 1a_72 1a_73 1a_74 1a_75 1a_76 1a_77 1a_78 1a_79 1a_80 1a_81 1a_82 1a_83 1a_84 1a_85 1a_86 1a_87 1a_88 1a_89 1a_90 1a_91 1a_92 1a_93 1a_94 1a_95 1a_96 1a_97 1a_98 1a_99 1a_100 1a_101 1a_102 1a_103 1a_104 1a_105 1a_106 1a_107 1a_108 1a_109 1a_110 1a_111 1a_112 1a_113 1a_114 1a_115 1a_116 1a_117
+[13:34:35] Fixed 117 duplicate /gene - S_1 S_2 S_3 S_4 S_5 S_6 S_7 S_8 S_9 S_10 S_11 S_12 S_13 S_14 S_15 S_16 S_17 S_18 S_19 S_20 S_21 S_22 S_23 S_24 S_25 S_26 S_27 S_28 S_29 S_30 S_31 S_32 S_33 S_34 S_35 S_36 S_37 S_38 S_39 S_40 S_41 S_42 S_43 S_44 S_45 S_46 S_47 S_48 S_49 S_50 S_51 S_52 S_53 S_54 S_55 S_56 S_57 S_58 S_59 S_60 S_61 S_62 S_63 S_64 S_65 S_66 S_67 S_68 S_69 S_70 S_71 S_72 S_73 S_74 S_75 S_76 S_77 S_78 S_79 S_80 S_81 S_82 S_83 S_84 S_85 S_86 S_87 S_88 S_89 S_90 S_91 S_92 S_93 S_94 S_95 S_96 S_97 S_98 S_99 S_100 S_101 S_102 S_103 S_104 S_105 S_106 S_107 S_108 S_109 S_110 S_111 S_112 S_113 S_114 S_115 S_116 S_117
+[13:34:35] Fixed 117 duplicate /gene - 7a_1 7a_2 7a_3 7a_4 7a_5 7a_6 7a_7 7a_8 7a_9 7a_10 7a_11 7a_12 7a_13 7a_14 7a_15 7a_16 7a_17 7a_18 7a_19 7a_20 7a_21 7a_22 7a_23 7a_24 7a_25 7a_26 7a_27 7a_28 7a_29 7a_30 7a_31 7a_32 7a_33 7a_34 7a_35 7a_36 7a_37 7a_38 7a_39 7a_40 7a_41 7a_42 7a_43 7a_44 7a_45 7a_46 7a_47 7a_48 7a_49 7a_50 7a_51 7a_52 7a_53 7a_54 7a_55 7a_56 7a_57 7a_58 7a_59 7a_60 7a_61 7a_62 7a_63 7a_64 7a_65 7a_66 7a_67 7a_68 7a_69 7a_70 7a_71 7a_72 7a_73 7a_74 7a_75 7a_76 7a_77 7a_78 7a_79 7a_80 7a_81 7a_82 7a_83 7a_84 7a_85 7a_86 7a_87 7a_88 7a_89 7a_90 7a_91 7a_92 7a_93 7a_94 7a_95 7a_96 7a_97 7a_98 7a_99 7a_100 7a_101 7a_102 7a_103 7a_104 7a_105 7a_106 7a_107 7a_108 7a_109 7a_110 7a_111 7a_112 7a_113 7a_114 7a_115 7a_116 7a_117
+[13:34:35] Fixed 116 duplicate /gene - N_1 N_2 N_3 N_4 N_5 N_6 N_7 N_8 N_9 N_10 N_11 N_12 N_13 N_14 N_15 N_16 N_17 N_18 N_19 N_20 N_21 N_22 N_23 N_24 N_25 N_26 N_27 N_28 N_29 N_30 N_31 N_32 N_33 N_34 N_35 N_36 N_37 N_38 N_39 N_40 N_41 N_42 N_43 N_44 N_45 N_46 N_47 N_48 N_49 N_50 N_51 N_52 N_53 N_54 N_55 N_56 N_57 N_58 N_59 N_60 N_61 N_62 N_63 N_64 N_65 N_66 N_67 N_68 N_69 N_70 N_71 N_72 N_73 N_74 N_75 N_76 N_77 N_78 N_79 N_80 N_81 N_82 N_83 N_84 N_85 N_86 N_87 N_88 N_89 N_90 N_91 N_92 N_93 N_94 N_95 N_96 N_97 N_98 N_99 N_100 N_101 N_102 N_103 N_104 N_105 N_106 N_107 N_108 N_109 N_110 N_111 N_112 N_113 N_114 N_115 N_116
+[13:34:35] Fixed 116 duplicate /gene - M_1 M_2 M_3 M_4 M_5 M_6 M_7 M_8 M_9 M_10 M_11 M_12 M_13 M_14 M_15 M_16 M_17 M_18 M_19 M_20 M_21 M_22 M_23 M_24 M_25 M_26 M_27 M_28 M_29 M_30 M_31 M_32 M_33 M_34 M_35 M_36 M_37 M_38 M_39 M_40 M_41 M_42 M_43 M_44 M_45 M_46 M_47 M_48 M_49 M_50 M_51 M_52 M_53 M_54 M_55 M_56 M_57 M_58 M_59 M_60 M_61 M_62 M_63 M_64 M_65 M_66 M_67 M_68 M_69 M_70 M_71 M_72 M_73 M_74 M_75 M_76 M_77 M_78 M_79 M_80 M_81 M_82 M_83 M_84 M_85 M_86 M_87 M_88 M_89 M_90 M_91 M_92 M_93 M_94 M_95 M_96 M_97 M_98 M_99 M_100 M_101 M_102 M_103 M_104 M_105 M_106 M_107 M_108 M_109 M_110 M_111 M_112 M_113 M_114 M_115 M_116
+[13:34:35] Fixed 7 colliding /gene names.
+[13:34:35] Adding /locus_tag identifiers
+[13:34:35] Assigned 1495 locus_tags to CDS and RNA features.
+[13:34:35] Writing outputs to prokka_out/
+[13:34:38] Generating annotation statistics file
+[13:34:38] Generating Genbank and Sequin files
+[13:34:38] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_out\/human_covid_charite_prokka\.err -i prokka_out\/human_covid_charite_prokka\.fsa 2> /dev/null
+[13:34:41] Deleting unwanted file: prokka_out/errorsummary.val
+[13:34:41] Deleting unwanted file: prokka_out/human_covid_charite_prokka.dr
+[13:34:41] Deleting unwanted file: prokka_out/human_covid_charite_prokka.fixedproducts
+[13:34:41] Deleting unwanted file: prokka_out/human_covid_charite_prokka.ecn
+[13:34:41] Deleting unwanted file: prokka_out/human_covid_charite_prokka.val
+[13:34:41] Repairing broken .GBK output that tbl2asn produces...
+[13:34:41] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_out\/human_covid_charite_prokka\.gbf > prokka_out\/human_covid_charite_prokka\.gbk
+[13:34:41] Deleting unwanted file: prokka_out/human_covid_charite_prokka.gbf
+[13:34:41] Output files:
+[13:34:41] prokka_out/human_covid_charite_prokka.err
+[13:34:41] prokka_out/human_covid_charite_prokka.faa
+[13:34:41] prokka_out/human_covid_charite_prokka.ffn
+[13:34:41] prokka_out/human_covid_charite_prokka.fna
+[13:34:41] prokka_out/human_covid_charite_prokka.fsa
+[13:34:41] prokka_out/human_covid_charite_prokka.gbk
+[13:34:41] prokka_out/human_covid_charite_prokka.gff
+[13:34:41] prokka_out/human_covid_charite_prokka.log
+[13:34:41] prokka_out/human_covid_charite_prokka.sqn
+[13:34:41] prokka_out/human_covid_charite_prokka.tbl
+[13:34:41] prokka_out/human_covid_charite_prokka.tsv
+[13:34:41] prokka_out/human_covid_charite_prokka.txt
+[13:34:41] Annotation finished successfully.
+[13:34:41] Walltime used: 2.08 minutes
+[13:34:41] If you use this result please cite the Prokka paper:
+[13:34:41] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[13:34:41] Type 'prokka --citation' for more details.
+[13:34:41] Share and enjoy!

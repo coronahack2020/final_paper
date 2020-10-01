@@ -1,0 +1,592 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NMICGJMG_00001	CDS	13218	1a_1			Replicase polyprotein 1a
+NMICGJMG_00002	misc_RNA	82				Corona_FSE
+NMICGJMG_00003	CDS	7788	rep_1			Replicase polyprotein 1ab
+NMICGJMG_00004	CDS	3822	S_1			Spike glycoprotein
+NMICGJMG_00005	CDS	828	3a_1			Protein 3a
+NMICGJMG_00006	CDS	669	M_1			Membrane protein
+NMICGJMG_00007	CDS	186				hypothetical protein
+NMICGJMG_00008	CDS	366	7a_1			Protein 7a
+NMICGJMG_00009	CDS	132				hypothetical protein
+NMICGJMG_00010	CDS	366				hypothetical protein
+NMICGJMG_00011	CDS	1260	N_1			Nucleoprotein
+NMICGJMG_00012	CDS	156				hypothetical protein
+NMICGJMG_00013	misc_RNA	43				s2m
+NMICGJMG_00014	CDS	13218	1a_2			Replicase polyprotein 1a
+NMICGJMG_00015	misc_RNA	82				Corona_FSE
+NMICGJMG_00016	CDS	7788	rep_2			Replicase polyprotein 1ab
+NMICGJMG_00017	CDS	3822	S_2			Spike glycoprotein
+NMICGJMG_00018	CDS	828	3a_2			Protein 3a
+NMICGJMG_00019	CDS	669	M_2			Membrane protein
+NMICGJMG_00020	CDS	186				hypothetical protein
+NMICGJMG_00021	CDS	366	7a_2			Protein 7a
+NMICGJMG_00022	CDS	132				hypothetical protein
+NMICGJMG_00023	CDS	366				hypothetical protein
+NMICGJMG_00024	CDS	1260	N_2			Nucleoprotein
+NMICGJMG_00025	CDS	156				hypothetical protein
+NMICGJMG_00026	misc_RNA	43				s2m
+NMICGJMG_00027	CDS	13218	1a_3			Replicase polyprotein 1a
+NMICGJMG_00028	misc_RNA	82				Corona_FSE
+NMICGJMG_00029	CDS	7788	rep_3			Replicase polyprotein 1ab
+NMICGJMG_00030	CDS	3822	S_3			Spike glycoprotein
+NMICGJMG_00031	CDS	828	3a_3			Protein 3a
+NMICGJMG_00032	CDS	669	M_3			Membrane protein
+NMICGJMG_00033	CDS	186				hypothetical protein
+NMICGJMG_00034	CDS	366	7a_3			Protein 7a
+NMICGJMG_00035	CDS	132				hypothetical protein
+NMICGJMG_00036	CDS	366				hypothetical protein
+NMICGJMG_00037	CDS	1260	N_3			Nucleoprotein
+NMICGJMG_00038	CDS	156				hypothetical protein
+NMICGJMG_00039	misc_RNA	43				s2m
+NMICGJMG_00040	CDS	13218	1a_4			Replicase polyprotein 1a
+NMICGJMG_00041	misc_RNA	82				Corona_FSE
+NMICGJMG_00042	CDS	7788	rep_4			Replicase polyprotein 1ab
+NMICGJMG_00043	CDS	3822	S_4			Spike glycoprotein
+NMICGJMG_00044	CDS	828	3a_4			Protein 3a
+NMICGJMG_00045	CDS	669	M_4			Membrane protein
+NMICGJMG_00046	CDS	186				hypothetical protein
+NMICGJMG_00047	CDS	366	7a_4			Protein 7a
+NMICGJMG_00048	CDS	132				hypothetical protein
+NMICGJMG_00049	CDS	366				hypothetical protein
+NMICGJMG_00050	CDS	1260	N_4			Nucleoprotein
+NMICGJMG_00051	CDS	156				hypothetical protein
+NMICGJMG_00052	misc_RNA	43				s2m
+NMICGJMG_00053	CDS	13218	1a_5			Replicase polyprotein 1a
+NMICGJMG_00054	misc_RNA	82				Corona_FSE
+NMICGJMG_00055	CDS	7788	rep_5			Replicase polyprotein 1ab
+NMICGJMG_00056	CDS	3822	S_5			Spike glycoprotein
+NMICGJMG_00057	CDS	828	3a_5			Protein 3a
+NMICGJMG_00058	CDS	669	M_5			Membrane protein
+NMICGJMG_00059	CDS	186				hypothetical protein
+NMICGJMG_00060	CDS	366	7a_5			Protein 7a
+NMICGJMG_00061	CDS	132				hypothetical protein
+NMICGJMG_00062	CDS	366				hypothetical protein
+NMICGJMG_00063	CDS	1260	N_5			Nucleoprotein
+NMICGJMG_00064	CDS	156				hypothetical protein
+NMICGJMG_00065	misc_RNA	43				s2m
+NMICGJMG_00066	CDS	13218	1a_6			Replicase polyprotein 1a
+NMICGJMG_00067	misc_RNA	82				Corona_FSE
+NMICGJMG_00068	CDS	7788	rep_6			Replicase polyprotein 1ab
+NMICGJMG_00069	CDS	3822	S_6			Spike glycoprotein
+NMICGJMG_00070	CDS	828	3a_6			Protein 3a
+NMICGJMG_00071	CDS	669	M_6			Membrane protein
+NMICGJMG_00072	CDS	186				hypothetical protein
+NMICGJMG_00073	CDS	366	7a_6			Protein 7a
+NMICGJMG_00074	CDS	132				hypothetical protein
+NMICGJMG_00075	CDS	366				hypothetical protein
+NMICGJMG_00076	CDS	1260	N_6			Nucleoprotein
+NMICGJMG_00077	CDS	156				hypothetical protein
+NMICGJMG_00078	misc_RNA	43				s2m
+NMICGJMG_00079	CDS	13218	1a_7			Replicase polyprotein 1a
+NMICGJMG_00080	misc_RNA	82				Corona_FSE
+NMICGJMG_00081	CDS	7788	rep_7			Replicase polyprotein 1ab
+NMICGJMG_00082	CDS	3822	S_7			Spike glycoprotein
+NMICGJMG_00083	CDS	828	3a_7			Protein 3a
+NMICGJMG_00084	CDS	669	M_7			Membrane protein
+NMICGJMG_00085	CDS	186				hypothetical protein
+NMICGJMG_00086	CDS	366	7a_7			Protein 7a
+NMICGJMG_00087	CDS	132				hypothetical protein
+NMICGJMG_00088	CDS	366				hypothetical protein
+NMICGJMG_00089	CDS	1260	N_7			Nucleoprotein
+NMICGJMG_00090	CDS	156				hypothetical protein
+NMICGJMG_00091	misc_RNA	43				s2m
+NMICGJMG_00092	CDS	13218	1a_8			Replicase polyprotein 1a
+NMICGJMG_00093	misc_RNA	82				Corona_FSE
+NMICGJMG_00094	CDS	7788	rep_8			Replicase polyprotein 1ab
+NMICGJMG_00095	CDS	3822	S_8			Spike glycoprotein
+NMICGJMG_00096	CDS	828	3a_8			Protein 3a
+NMICGJMG_00097	CDS	669	M_8			Membrane protein
+NMICGJMG_00098	CDS	186				hypothetical protein
+NMICGJMG_00099	CDS	366	7a_8			Protein 7a
+NMICGJMG_00100	CDS	132				hypothetical protein
+NMICGJMG_00101	CDS	366				hypothetical protein
+NMICGJMG_00102	CDS	1260	N_8			Nucleoprotein
+NMICGJMG_00103	CDS	156				hypothetical protein
+NMICGJMG_00104	misc_RNA	43				s2m
+NMICGJMG_00105	CDS	13218	1a_9			Replicase polyprotein 1a
+NMICGJMG_00106	misc_RNA	82				Corona_FSE
+NMICGJMG_00107	CDS	7788	rep_9			Replicase polyprotein 1ab
+NMICGJMG_00108	CDS	3822	S_9			Spike glycoprotein
+NMICGJMG_00109	CDS	828	3a_9			Protein 3a
+NMICGJMG_00110	CDS	669	M_9			Membrane protein
+NMICGJMG_00111	CDS	186				hypothetical protein
+NMICGJMG_00112	CDS	366	7a_9			Protein 7a
+NMICGJMG_00113	CDS	132				hypothetical protein
+NMICGJMG_00114	CDS	366				hypothetical protein
+NMICGJMG_00115	CDS	1260	N_9			Nucleoprotein
+NMICGJMG_00116	CDS	156				hypothetical protein
+NMICGJMG_00117	misc_RNA	43				s2m
+NMICGJMG_00118	CDS	13218	1a_10			Replicase polyprotein 1a
+NMICGJMG_00119	misc_RNA	82				Corona_FSE
+NMICGJMG_00120	CDS	7788	rep_10			Replicase polyprotein 1ab
+NMICGJMG_00121	CDS	3822	S_10			Spike glycoprotein
+NMICGJMG_00122	CDS	828	3a_10			Protein 3a
+NMICGJMG_00123	CDS	669	M_10			Membrane protein
+NMICGJMG_00124	CDS	186				hypothetical protein
+NMICGJMG_00125	CDS	366	7a_10			Protein 7a
+NMICGJMG_00126	CDS	132				hypothetical protein
+NMICGJMG_00127	CDS	366				hypothetical protein
+NMICGJMG_00128	CDS	1260	N_10			Nucleoprotein
+NMICGJMG_00129	misc_RNA	43				s2m
+NMICGJMG_00130	CDS	13218	1a_11			Replicase polyprotein 1a
+NMICGJMG_00131	misc_RNA	82				Corona_FSE
+NMICGJMG_00132	CDS	7788	rep_11			Replicase polyprotein 1ab
+NMICGJMG_00133	CDS	3822	S_11			Spike glycoprotein
+NMICGJMG_00134	CDS	828	3a_11			Protein 3a
+NMICGJMG_00135	CDS	669	M_11			Membrane protein
+NMICGJMG_00136	CDS	186				hypothetical protein
+NMICGJMG_00137	CDS	366	7a_11			Protein 7a
+NMICGJMG_00138	CDS	132				hypothetical protein
+NMICGJMG_00139	CDS	366				hypothetical protein
+NMICGJMG_00140	CDS	1260	N_11			Nucleoprotein
+NMICGJMG_00141	misc_RNA	43				s2m
+NMICGJMG_00142	CDS	13218	1a_12			Replicase polyprotein 1a
+NMICGJMG_00143	misc_RNA	82				Corona_FSE
+NMICGJMG_00144	CDS	7788	rep_12			Replicase polyprotein 1ab
+NMICGJMG_00145	CDS	3822	S_12			Spike glycoprotein
+NMICGJMG_00146	CDS	828	3a_12			Protein 3a
+NMICGJMG_00147	CDS	669	M_12			Membrane protein
+NMICGJMG_00148	CDS	186				hypothetical protein
+NMICGJMG_00149	CDS	366	7a_12			Protein 7a
+NMICGJMG_00150	CDS	132				hypothetical protein
+NMICGJMG_00151	CDS	366				hypothetical protein
+NMICGJMG_00152	CDS	1260	N_12			Nucleoprotein
+NMICGJMG_00153	CDS	156				hypothetical protein
+NMICGJMG_00154	misc_RNA	43				s2m
+NMICGJMG_00155	CDS	13218	1a_13			Replicase polyprotein 1a
+NMICGJMG_00156	misc_RNA	82				Corona_FSE
+NMICGJMG_00157	CDS	7788	rep_13			Replicase polyprotein 1ab
+NMICGJMG_00158	CDS	3822	S_13			Spike glycoprotein
+NMICGJMG_00159	CDS	828	3a_13			Protein 3a
+NMICGJMG_00160	CDS	669	M_13			Membrane protein
+NMICGJMG_00161	CDS	186				hypothetical protein
+NMICGJMG_00162	CDS	366	7a_13			Protein 7a
+NMICGJMG_00163	CDS	132				hypothetical protein
+NMICGJMG_00164	CDS	366				hypothetical protein
+NMICGJMG_00165	CDS	1260	N_13			Nucleoprotein
+NMICGJMG_00166	CDS	156				hypothetical protein
+NMICGJMG_00167	misc_RNA	43				s2m
+NMICGJMG_00168	CDS	13218	1a_14			Replicase polyprotein 1a
+NMICGJMG_00169	misc_RNA	82				Corona_FSE
+NMICGJMG_00170	CDS	7788	rep_14			Replicase polyprotein 1ab
+NMICGJMG_00171	CDS	3822	S_14			Spike glycoprotein
+NMICGJMG_00172	CDS	828	3a_14			Protein 3a
+NMICGJMG_00173	CDS	669	M_14			Membrane protein
+NMICGJMG_00174	CDS	186				hypothetical protein
+NMICGJMG_00175	CDS	366	7a_14			Protein 7a
+NMICGJMG_00176	CDS	132				hypothetical protein
+NMICGJMG_00177	CDS	366				hypothetical protein
+NMICGJMG_00178	CDS	1260	N_14			Nucleoprotein
+NMICGJMG_00179	CDS	156				hypothetical protein
+NMICGJMG_00180	misc_RNA	43				s2m
+NMICGJMG_00181	CDS	13218	1a_15			Replicase polyprotein 1a
+NMICGJMG_00182	misc_RNA	82				Corona_FSE
+NMICGJMG_00183	CDS	7788	rep_15			Replicase polyprotein 1ab
+NMICGJMG_00184	CDS	3822	S_15			Spike glycoprotein
+NMICGJMG_00185	CDS	828	3a_15			Protein 3a
+NMICGJMG_00186	CDS	669	M_15			Membrane protein
+NMICGJMG_00187	CDS	186				hypothetical protein
+NMICGJMG_00188	CDS	366	7a_15			Protein 7a
+NMICGJMG_00189	CDS	132				hypothetical protein
+NMICGJMG_00190	CDS	366				hypothetical protein
+NMICGJMG_00191	CDS	1260	N_15			Nucleoprotein
+NMICGJMG_00192	CDS	156				hypothetical protein
+NMICGJMG_00193	misc_RNA	43				s2m
+NMICGJMG_00194	CDS	13218	1a_16			Replicase polyprotein 1a
+NMICGJMG_00195	misc_RNA	82				Corona_FSE
+NMICGJMG_00196	CDS	7788	rep_16			Replicase polyprotein 1ab
+NMICGJMG_00197	CDS	3822	S_16			Spike glycoprotein
+NMICGJMG_00198	CDS	828	3a_16			Protein 3a
+NMICGJMG_00199	CDS	669	M_16			Membrane protein
+NMICGJMG_00200	CDS	186				hypothetical protein
+NMICGJMG_00201	CDS	366	7a_16			Protein 7a
+NMICGJMG_00202	CDS	132				hypothetical protein
+NMICGJMG_00203	CDS	366				hypothetical protein
+NMICGJMG_00204	CDS	1260	N_16			Nucleoprotein
+NMICGJMG_00205	misc_RNA	43				s2m
+NMICGJMG_00206	CDS	13218	1a_17			Replicase polyprotein 1a
+NMICGJMG_00207	misc_RNA	82				Corona_FSE
+NMICGJMG_00208	CDS	7788	rep_17			Replicase polyprotein 1ab
+NMICGJMG_00209	CDS	3822	S_17			Spike glycoprotein
+NMICGJMG_00210	CDS	828	3a_17			Protein 3a
+NMICGJMG_00211	CDS	669	M_17			Membrane protein
+NMICGJMG_00212	CDS	186				hypothetical protein
+NMICGJMG_00213	CDS	366	7a_17			Protein 7a
+NMICGJMG_00214	CDS	132				hypothetical protein
+NMICGJMG_00215	CDS	366				hypothetical protein
+NMICGJMG_00216	CDS	1260	N_17			Nucleoprotein
+NMICGJMG_00217	CDS	156				hypothetical protein
+NMICGJMG_00218	misc_RNA	43				s2m
+NMICGJMG_00219	CDS	13218	1a_18			Replicase polyprotein 1a
+NMICGJMG_00220	misc_RNA	82				Corona_FSE
+NMICGJMG_00221	CDS	7788	rep_18			Replicase polyprotein 1ab
+NMICGJMG_00222	CDS	3822	S_18			Spike glycoprotein
+NMICGJMG_00223	CDS	828	3a_18			Protein 3a
+NMICGJMG_00224	CDS	669	M_18			Membrane protein
+NMICGJMG_00225	CDS	186				hypothetical protein
+NMICGJMG_00226	CDS	366	7a_18			Protein 7a
+NMICGJMG_00227	CDS	132				hypothetical protein
+NMICGJMG_00228	CDS	366				hypothetical protein
+NMICGJMG_00229	CDS	1260	N_18			Nucleoprotein
+NMICGJMG_00230	CDS	156				hypothetical protein
+NMICGJMG_00231	misc_RNA	43				s2m
+NMICGJMG_00232	CDS	13218	1a_19			Replicase polyprotein 1a
+NMICGJMG_00233	misc_RNA	82				Corona_FSE
+NMICGJMG_00234	CDS	7788	rep_19			Replicase polyprotein 1ab
+NMICGJMG_00235	CDS	3822	S_19			Spike glycoprotein
+NMICGJMG_00236	CDS	828	3a_19			Protein 3a
+NMICGJMG_00237	CDS	669	M_19			Membrane protein
+NMICGJMG_00238	CDS	186				hypothetical protein
+NMICGJMG_00239	CDS	366	7a_19			Protein 7a
+NMICGJMG_00240	CDS	132				hypothetical protein
+NMICGJMG_00241	CDS	366				hypothetical protein
+NMICGJMG_00242	CDS	1260	N_19			Nucleoprotein
+NMICGJMG_00243	CDS	156				hypothetical protein
+NMICGJMG_00244	misc_RNA	43				s2m
+NMICGJMG_00245	CDS	13218	1a_20			Replicase polyprotein 1a
+NMICGJMG_00246	misc_RNA	82				Corona_FSE
+NMICGJMG_00247	CDS	7788	rep_20			Replicase polyprotein 1ab
+NMICGJMG_00248	CDS	3822	S_20			Spike glycoprotein
+NMICGJMG_00249	CDS	828	3a_20			Protein 3a
+NMICGJMG_00250	CDS	669	M_20			Membrane protein
+NMICGJMG_00251	CDS	186				hypothetical protein
+NMICGJMG_00252	CDS	366	7a_20			Protein 7a
+NMICGJMG_00253	CDS	132				hypothetical protein
+NMICGJMG_00254	CDS	366				hypothetical protein
+NMICGJMG_00255	CDS	1260	N_20			Nucleoprotein
+NMICGJMG_00256	CDS	156				hypothetical protein
+NMICGJMG_00257	misc_RNA	43				s2m
+NMICGJMG_00258	CDS	13218	1a_21			Replicase polyprotein 1a
+NMICGJMG_00259	misc_RNA	82				Corona_FSE
+NMICGJMG_00260	CDS	7788	rep_21			Replicase polyprotein 1ab
+NMICGJMG_00261	CDS	3822	S_21			Spike glycoprotein
+NMICGJMG_00262	CDS	828	3a_21			Protein 3a
+NMICGJMG_00263	CDS	669	M_21			Membrane protein
+NMICGJMG_00264	CDS	186				hypothetical protein
+NMICGJMG_00265	CDS	366	7a_21			Protein 7a
+NMICGJMG_00266	CDS	132				hypothetical protein
+NMICGJMG_00267	CDS	366				hypothetical protein
+NMICGJMG_00268	CDS	1260	N_21			Nucleoprotein
+NMICGJMG_00269	CDS	156				hypothetical protein
+NMICGJMG_00270	misc_RNA	43				s2m
+NMICGJMG_00271	CDS	13218	1a_22			Replicase polyprotein 1a
+NMICGJMG_00272	misc_RNA	82				Corona_FSE
+NMICGJMG_00273	CDS	7788	rep_22			Replicase polyprotein 1ab
+NMICGJMG_00274	CDS	3822	S_22			Spike glycoprotein
+NMICGJMG_00275	CDS	828	3a_22			Protein 3a
+NMICGJMG_00276	CDS	669	M_22			Membrane protein
+NMICGJMG_00277	CDS	186				hypothetical protein
+NMICGJMG_00278	CDS	366	7a_22			Protein 7a
+NMICGJMG_00279	CDS	132				hypothetical protein
+NMICGJMG_00280	CDS	366				hypothetical protein
+NMICGJMG_00281	CDS	1260	N_22			Nucleoprotein
+NMICGJMG_00282	CDS	156				hypothetical protein
+NMICGJMG_00283	misc_RNA	43				s2m
+NMICGJMG_00284	CDS	13218	1a_23			Replicase polyprotein 1a
+NMICGJMG_00285	misc_RNA	82				Corona_FSE
+NMICGJMG_00286	CDS	7788	rep_23			Replicase polyprotein 1ab
+NMICGJMG_00287	CDS	3822	S_23			Spike glycoprotein
+NMICGJMG_00288	CDS	828	3a_23			Protein 3a
+NMICGJMG_00289	CDS	669	M_23			Membrane protein
+NMICGJMG_00290	CDS	186				hypothetical protein
+NMICGJMG_00291	CDS	366	7a_23			Protein 7a
+NMICGJMG_00292	CDS	132				hypothetical protein
+NMICGJMG_00293	CDS	366				hypothetical protein
+NMICGJMG_00294	CDS	1260	N_23			Nucleoprotein
+NMICGJMG_00295	CDS	156				hypothetical protein
+NMICGJMG_00296	misc_RNA	43				s2m
+NMICGJMG_00297	CDS	13218	1a_24			Replicase polyprotein 1a
+NMICGJMG_00298	misc_RNA	82				Corona_FSE
+NMICGJMG_00299	CDS	7788	rep_24			Replicase polyprotein 1ab
+NMICGJMG_00300	CDS	3822	S_24			Spike glycoprotein
+NMICGJMG_00301	CDS	828	3a_24			Protein 3a
+NMICGJMG_00302	CDS	669	M_24			Membrane protein
+NMICGJMG_00303	CDS	186				hypothetical protein
+NMICGJMG_00304	CDS	366	7a_24			Protein 7a
+NMICGJMG_00305	CDS	132				hypothetical protein
+NMICGJMG_00306	CDS	366				hypothetical protein
+NMICGJMG_00307	CDS	1260	N_24			Nucleoprotein
+NMICGJMG_00308	CDS	156				hypothetical protein
+NMICGJMG_00309	misc_RNA	43				s2m
+NMICGJMG_00310	CDS	13218	1a_25			Replicase polyprotein 1a
+NMICGJMG_00311	misc_RNA	82				Corona_FSE
+NMICGJMG_00312	CDS	7788	rep_25			Replicase polyprotein 1ab
+NMICGJMG_00313	CDS	3822	S_25			Spike glycoprotein
+NMICGJMG_00314	CDS	828	3a_25			Protein 3a
+NMICGJMG_00315	CDS	669	M_25			Membrane protein
+NMICGJMG_00316	CDS	186				hypothetical protein
+NMICGJMG_00317	CDS	366	7a_25			Protein 7a
+NMICGJMG_00318	CDS	132				hypothetical protein
+NMICGJMG_00319	CDS	366				hypothetical protein
+NMICGJMG_00320	CDS	1260	N_25			Nucleoprotein
+NMICGJMG_00321	CDS	156				hypothetical protein
+NMICGJMG_00322	misc_RNA	43				s2m
+NMICGJMG_00323	CDS	13218	1a_26			Replicase polyprotein 1a
+NMICGJMG_00324	misc_RNA	82				Corona_FSE
+NMICGJMG_00325	CDS	7788	rep_26			Replicase polyprotein 1ab
+NMICGJMG_00326	CDS	3822	S_26			Spike glycoprotein
+NMICGJMG_00327	CDS	828	3a_26			Protein 3a
+NMICGJMG_00328	CDS	669	M_26			Membrane protein
+NMICGJMG_00329	CDS	186				hypothetical protein
+NMICGJMG_00330	CDS	366	7a_26			Protein 7a
+NMICGJMG_00331	CDS	132				hypothetical protein
+NMICGJMG_00332	CDS	366				hypothetical protein
+NMICGJMG_00333	CDS	1260	N_26			Nucleoprotein
+NMICGJMG_00334	CDS	156				hypothetical protein
+NMICGJMG_00335	misc_RNA	43				s2m
+NMICGJMG_00336	CDS	13218	1a_27			Replicase polyprotein 1a
+NMICGJMG_00337	misc_RNA	82				Corona_FSE
+NMICGJMG_00338	CDS	7788	rep_27			Replicase polyprotein 1ab
+NMICGJMG_00339	CDS	3822	S_27			Spike glycoprotein
+NMICGJMG_00340	CDS	828	3a_27			Protein 3a
+NMICGJMG_00341	CDS	669	M_27			Membrane protein
+NMICGJMG_00342	CDS	186				hypothetical protein
+NMICGJMG_00343	CDS	366	7a_27			Protein 7a
+NMICGJMG_00344	CDS	132				hypothetical protein
+NMICGJMG_00345	CDS	366				hypothetical protein
+NMICGJMG_00346	CDS	1260	N_27			Nucleoprotein
+NMICGJMG_00347	CDS	156				hypothetical protein
+NMICGJMG_00348	misc_RNA	43				s2m
+NMICGJMG_00349	CDS	13218	1a_28			Replicase polyprotein 1a
+NMICGJMG_00350	misc_RNA	82				Corona_FSE
+NMICGJMG_00351	CDS	7788	rep_28			Replicase polyprotein 1ab
+NMICGJMG_00352	CDS	3822	S_28			Spike glycoprotein
+NMICGJMG_00353	CDS	828	3a_28			Protein 3a
+NMICGJMG_00354	CDS	669	M_28			Membrane protein
+NMICGJMG_00355	CDS	186				hypothetical protein
+NMICGJMG_00356	CDS	366	7a_28			Protein 7a
+NMICGJMG_00357	CDS	132				hypothetical protein
+NMICGJMG_00358	CDS	366				hypothetical protein
+NMICGJMG_00359	CDS	1260	N_28			Nucleoprotein
+NMICGJMG_00360	CDS	156				hypothetical protein
+NMICGJMG_00361	misc_RNA	43				s2m
+NMICGJMG_00362	CDS	13218	1a_29			Replicase polyprotein 1a
+NMICGJMG_00363	misc_RNA	82				Corona_FSE
+NMICGJMG_00364	CDS	7788	rep_29			Replicase polyprotein 1ab
+NMICGJMG_00365	CDS	3822	S_29			Spike glycoprotein
+NMICGJMG_00366	CDS	828	3a_29			Protein 3a
+NMICGJMG_00367	CDS	669	M_29			Membrane protein
+NMICGJMG_00368	CDS	186				hypothetical protein
+NMICGJMG_00369	CDS	366	7a_29			Protein 7a
+NMICGJMG_00370	CDS	132				hypothetical protein
+NMICGJMG_00371	CDS	366				hypothetical protein
+NMICGJMG_00372	CDS	1260	N_29			Nucleoprotein
+NMICGJMG_00373	CDS	156				hypothetical protein
+NMICGJMG_00374	misc_RNA	43				s2m
+NMICGJMG_00375	CDS	13218	1a_30			Replicase polyprotein 1a
+NMICGJMG_00376	misc_RNA	82				Corona_FSE
+NMICGJMG_00377	CDS	7788	rep_30			Replicase polyprotein 1ab
+NMICGJMG_00378	CDS	3822	S_30			Spike glycoprotein
+NMICGJMG_00379	CDS	828	3a_30			Protein 3a
+NMICGJMG_00380	CDS	669	M_30			Membrane protein
+NMICGJMG_00381	CDS	186				hypothetical protein
+NMICGJMG_00382	CDS	366	7a_30			Protein 7a
+NMICGJMG_00383	CDS	132				hypothetical protein
+NMICGJMG_00384	CDS	366				hypothetical protein
+NMICGJMG_00385	CDS	1260	N_30			Nucleoprotein
+NMICGJMG_00386	CDS	156				hypothetical protein
+NMICGJMG_00387	misc_RNA	43				s2m
+NMICGJMG_00388	CDS	13218	1a_31			Replicase polyprotein 1a
+NMICGJMG_00389	misc_RNA	82				Corona_FSE
+NMICGJMG_00390	CDS	7788	rep_31			Replicase polyprotein 1ab
+NMICGJMG_00391	CDS	3822	S_31			Spike glycoprotein
+NMICGJMG_00392	CDS	828	3a_31			Protein 3a
+NMICGJMG_00393	CDS	669	M_31			Membrane protein
+NMICGJMG_00394	CDS	186				hypothetical protein
+NMICGJMG_00395	CDS	366	7a_31			Protein 7a
+NMICGJMG_00396	CDS	132				hypothetical protein
+NMICGJMG_00397	CDS	366				hypothetical protein
+NMICGJMG_00398	CDS	1260	N_31			Nucleoprotein
+NMICGJMG_00399	CDS	156				hypothetical protein
+NMICGJMG_00400	misc_RNA	43				s2m
+NMICGJMG_00401	CDS	13218	1a_32			Replicase polyprotein 1a
+NMICGJMG_00402	misc_RNA	82				Corona_FSE
+NMICGJMG_00403	CDS	7788	rep_32			Replicase polyprotein 1ab
+NMICGJMG_00404	CDS	3822	S_32			Spike glycoprotein
+NMICGJMG_00405	CDS	828	3a_32			Protein 3a
+NMICGJMG_00406	CDS	669	M_32			Membrane protein
+NMICGJMG_00407	CDS	186				hypothetical protein
+NMICGJMG_00408	CDS	366	7a_32			Protein 7a
+NMICGJMG_00409	CDS	132				hypothetical protein
+NMICGJMG_00410	CDS	366				hypothetical protein
+NMICGJMG_00411	CDS	1260	N_32			Nucleoprotein
+NMICGJMG_00412	CDS	156				hypothetical protein
+NMICGJMG_00413	misc_RNA	43				s2m
+NMICGJMG_00414	CDS	13218	1a_33			Replicase polyprotein 1a
+NMICGJMG_00415	misc_RNA	82				Corona_FSE
+NMICGJMG_00416	CDS	7788	rep_33			Replicase polyprotein 1ab
+NMICGJMG_00417	CDS	3822	S_33			Spike glycoprotein
+NMICGJMG_00418	CDS	828	3a_33			Protein 3a
+NMICGJMG_00419	CDS	669	M_33			Membrane protein
+NMICGJMG_00420	CDS	186				hypothetical protein
+NMICGJMG_00421	CDS	366	7a_33			Protein 7a
+NMICGJMG_00422	CDS	132				hypothetical protein
+NMICGJMG_00423	CDS	366				hypothetical protein
+NMICGJMG_00424	CDS	1260	N_33			Nucleoprotein
+NMICGJMG_00425	CDS	156				hypothetical protein
+NMICGJMG_00426	misc_RNA	43				s2m
+NMICGJMG_00427	CDS	13218	1a_34			Replicase polyprotein 1a
+NMICGJMG_00428	misc_RNA	82				Corona_FSE
+NMICGJMG_00429	CDS	7788	rep_34			Replicase polyprotein 1ab
+NMICGJMG_00430	CDS	3822	S_34			Spike glycoprotein
+NMICGJMG_00431	CDS	828	3a_34			Protein 3a
+NMICGJMG_00432	CDS	669	M_34			Membrane protein
+NMICGJMG_00433	CDS	186				hypothetical protein
+NMICGJMG_00434	CDS	366	7a_34			Protein 7a
+NMICGJMG_00435	CDS	132				hypothetical protein
+NMICGJMG_00436	CDS	366				hypothetical protein
+NMICGJMG_00437	CDS	1260	N_34			Nucleoprotein
+NMICGJMG_00438	CDS	156				hypothetical protein
+NMICGJMG_00439	misc_RNA	43				s2m
+NMICGJMG_00440	CDS	13218	1a_35			Replicase polyprotein 1a
+NMICGJMG_00441	misc_RNA	82				Corona_FSE
+NMICGJMG_00442	CDS	7788	rep_35			Replicase polyprotein 1ab
+NMICGJMG_00443	CDS	3822	S_35			Spike glycoprotein
+NMICGJMG_00444	CDS	828	3a_35			Protein 3a
+NMICGJMG_00445	CDS	669	M_35			Membrane protein
+NMICGJMG_00446	CDS	186				hypothetical protein
+NMICGJMG_00447	CDS	366	7a_35			Protein 7a
+NMICGJMG_00448	CDS	132				hypothetical protein
+NMICGJMG_00449	CDS	366				hypothetical protein
+NMICGJMG_00450	CDS	1260	N_35			Nucleoprotein
+NMICGJMG_00451	CDS	156				hypothetical protein
+NMICGJMG_00452	misc_RNA	43				s2m
+NMICGJMG_00453	CDS	13218	1a_36			Replicase polyprotein 1a
+NMICGJMG_00454	misc_RNA	82				Corona_FSE
+NMICGJMG_00455	CDS	7788	rep_36			Replicase polyprotein 1ab
+NMICGJMG_00456	CDS	3822	S_36			Spike glycoprotein
+NMICGJMG_00457	CDS	828	3a_36			Protein 3a
+NMICGJMG_00458	CDS	669	M_36			Membrane protein
+NMICGJMG_00459	CDS	186				hypothetical protein
+NMICGJMG_00460	CDS	366	7a_36			Protein 7a
+NMICGJMG_00461	CDS	132				hypothetical protein
+NMICGJMG_00462	CDS	366				hypothetical protein
+NMICGJMG_00463	CDS	1260	N_36			Nucleoprotein
+NMICGJMG_00464	CDS	156				hypothetical protein
+NMICGJMG_00465	misc_RNA	43				s2m
+NMICGJMG_00466	CDS	1752	1a_37			Replicase polyprotein 1a
+NMICGJMG_00467	misc_RNA	82				Corona_FSE
+NMICGJMG_00468	CDS	7788	rep_37			Replicase polyprotein 1ab
+NMICGJMG_00469	CDS	3822	S_37			Spike glycoprotein
+NMICGJMG_00470	CDS	828	3a_37			Protein 3a
+NMICGJMG_00471	CDS	420	M_37			Membrane protein
+NMICGJMG_00472	CDS	366	7a_37			Protein 7a
+NMICGJMG_00473	CDS	366				hypothetical protein
+NMICGJMG_00474	CDS	13218	1a_38			Replicase polyprotein 1a
+NMICGJMG_00475	misc_RNA	82				Corona_FSE
+NMICGJMG_00476	CDS	7788	rep_38			Replicase polyprotein 1ab
+NMICGJMG_00477	CDS	3822	S_38			Spike glycoprotein
+NMICGJMG_00478	CDS	828	3a_38			Protein 3a
+NMICGJMG_00479	CDS	669	M_38			Membrane protein
+NMICGJMG_00480	CDS	186				hypothetical protein
+NMICGJMG_00481	CDS	366	7a_38			Protein 7a
+NMICGJMG_00482	CDS	132				hypothetical protein
+NMICGJMG_00483	CDS	366				hypothetical protein
+NMICGJMG_00484	CDS	1260	N_37			Nucleoprotein
+NMICGJMG_00485	CDS	156				hypothetical protein
+NMICGJMG_00486	misc_RNA	43				s2m
+NMICGJMG_00487	CDS	13218	1a_39			Replicase polyprotein 1a
+NMICGJMG_00488	misc_RNA	82				Corona_FSE
+NMICGJMG_00489	CDS	7788	rep_39			Replicase polyprotein 1ab
+NMICGJMG_00490	CDS	3822	S_39			Spike glycoprotein
+NMICGJMG_00491	CDS	828	3a_39			Protein 3a
+NMICGJMG_00492	CDS	669	M_39			Membrane protein
+NMICGJMG_00493	CDS	186				hypothetical protein
+NMICGJMG_00494	CDS	366	7a_39			Protein 7a
+NMICGJMG_00495	CDS	132				hypothetical protein
+NMICGJMG_00496	CDS	366				hypothetical protein
+NMICGJMG_00497	CDS	1260	N_38			Nucleoprotein
+NMICGJMG_00498	CDS	156				hypothetical protein
+NMICGJMG_00499	misc_RNA	43				s2m
+NMICGJMG_00500	CDS	3954	1a_40			Replicase polyprotein 1a
+NMICGJMG_00501	CDS	4830	1a_41			Replicase polyprotein 1a
+NMICGJMG_00502	CDS	3558	1a_42			Replicase polyprotein 1a
+NMICGJMG_00503	misc_RNA	82				Corona_FSE
+NMICGJMG_00504	CDS	7788	rep_40			Replicase polyprotein 1ab
+NMICGJMG_00505	CDS	3822	S_40			Spike glycoprotein
+NMICGJMG_00506	CDS	828	3a_40			Protein 3a
+NMICGJMG_00507	CDS	669	M_40			Membrane protein
+NMICGJMG_00508	CDS	186				hypothetical protein
+NMICGJMG_00509	CDS	366	7a_40			Protein 7a
+NMICGJMG_00510	CDS	132				hypothetical protein
+NMICGJMG_00511	CDS	366				hypothetical protein
+NMICGJMG_00512	CDS	1260	N_39			Nucleoprotein
+NMICGJMG_00513	CDS	156				hypothetical protein
+NMICGJMG_00514	misc_RNA	43				s2m
+NMICGJMG_00515	CDS	13218	1a_43			Replicase polyprotein 1a
+NMICGJMG_00516	misc_RNA	82				Corona_FSE
+NMICGJMG_00517	CDS	7788	rep_41			Replicase polyprotein 1ab
+NMICGJMG_00518	CDS	3822	S_41			Spike glycoprotein
+NMICGJMG_00519	CDS	828	3a_41			Protein 3a
+NMICGJMG_00520	CDS	669	M_41			Membrane protein
+NMICGJMG_00521	CDS	186				hypothetical protein
+NMICGJMG_00522	CDS	366	7a_41			Protein 7a
+NMICGJMG_00523	CDS	132				hypothetical protein
+NMICGJMG_00524	CDS	366				hypothetical protein
+NMICGJMG_00525	CDS	1260	N_40			Nucleoprotein
+NMICGJMG_00526	CDS	156				hypothetical protein
+NMICGJMG_00527	misc_RNA	43				s2m
+NMICGJMG_00528	CDS	13218	1a_44			Replicase polyprotein 1a
+NMICGJMG_00529	misc_RNA	82				Corona_FSE
+NMICGJMG_00530	CDS	7788	rep_42			Replicase polyprotein 1ab
+NMICGJMG_00531	CDS	3822	S_42			Spike glycoprotein
+NMICGJMG_00532	CDS	828	3a_42			Protein 3a
+NMICGJMG_00533	CDS	669	M_42			Membrane protein
+NMICGJMG_00534	CDS	186				hypothetical protein
+NMICGJMG_00535	CDS	366	7a_42			Protein 7a
+NMICGJMG_00536	CDS	132				hypothetical protein
+NMICGJMG_00537	CDS	366				hypothetical protein
+NMICGJMG_00538	CDS	1260	N_41			Nucleoprotein
+NMICGJMG_00539	CDS	156				hypothetical protein
+NMICGJMG_00540	misc_RNA	43				s2m
+NMICGJMG_00541	CDS	13218	1a_45			Replicase polyprotein 1a
+NMICGJMG_00542	misc_RNA	82				Corona_FSE
+NMICGJMG_00543	CDS	7788	rep_43			Replicase polyprotein 1ab
+NMICGJMG_00544	CDS	3822	S_43			Spike glycoprotein
+NMICGJMG_00545	CDS	828	3a_43			Protein 3a
+NMICGJMG_00546	CDS	669	M_43			Membrane protein
+NMICGJMG_00547	CDS	186				hypothetical protein
+NMICGJMG_00548	CDS	366	7a_43			Protein 7a
+NMICGJMG_00549	CDS	132				hypothetical protein
+NMICGJMG_00550	CDS	366				hypothetical protein
+NMICGJMG_00551	CDS	1260	N_42			Nucleoprotein
+NMICGJMG_00552	CDS	156				hypothetical protein
+NMICGJMG_00553	misc_RNA	43				s2m
+NMICGJMG_00554	CDS	13218	1a_46			Replicase polyprotein 1a
+NMICGJMG_00555	misc_RNA	82				Corona_FSE
+NMICGJMG_00556	CDS	7788	rep_44			Replicase polyprotein 1ab
+NMICGJMG_00557	CDS	3822	S_44			Spike glycoprotein
+NMICGJMG_00558	CDS	828	3a_44			Protein 3a
+NMICGJMG_00559	CDS	669	M_44			Membrane protein
+NMICGJMG_00560	CDS	186				hypothetical protein
+NMICGJMG_00561	CDS	366	7a_44			Protein 7a
+NMICGJMG_00562	CDS	132				hypothetical protein
+NMICGJMG_00563	CDS	366				hypothetical protein
+NMICGJMG_00564	CDS	1260	N_43			Nucleoprotein
+NMICGJMG_00565	misc_RNA	43				s2m
+NMICGJMG_00566	CDS	13218	1a_47			Replicase polyprotein 1a
+NMICGJMG_00567	misc_RNA	82				Corona_FSE
+NMICGJMG_00568	CDS	7788	rep_45			Replicase polyprotein 1ab
+NMICGJMG_00569	CDS	3822	S_45			Spike glycoprotein
+NMICGJMG_00570	CDS	828	3a_45			Protein 3a
+NMICGJMG_00571	CDS	669	M_45			Membrane protein
+NMICGJMG_00572	CDS	186				hypothetical protein
+NMICGJMG_00573	CDS	366	7a_45			Protein 7a
+NMICGJMG_00574	CDS	132				hypothetical protein
+NMICGJMG_00575	CDS	366				hypothetical protein
+NMICGJMG_00576	CDS	1260	N_44			Nucleoprotein
+NMICGJMG_00577	CDS	156				hypothetical protein
+NMICGJMG_00578	misc_RNA	43				s2m
+NMICGJMG_00579	CDS	13218	1a_48			Replicase polyprotein 1a
+NMICGJMG_00580	misc_RNA	82				Corona_FSE
+NMICGJMG_00581	CDS	7788	rep_46			Replicase polyprotein 1ab
+NMICGJMG_00582	CDS	3822	S_46			Spike glycoprotein
+NMICGJMG_00583	CDS	828	3a_46			Protein 3a
+NMICGJMG_00584	CDS	669	M_46			Membrane protein
+NMICGJMG_00585	CDS	186				hypothetical protein
+NMICGJMG_00586	CDS	366	7a_46			Protein 7a
+NMICGJMG_00587	CDS	132				hypothetical protein
+NMICGJMG_00588	CDS	366				hypothetical protein
+NMICGJMG_00589	CDS	1260	N_45			Nucleoprotein
+NMICGJMG_00590	CDS	156				hypothetical protein
+NMICGJMG_00591	misc_RNA	43				s2m

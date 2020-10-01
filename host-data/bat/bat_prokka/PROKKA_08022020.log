@@ -1,0 +1,581 @@
+[15:43:28] This is prokka 1.14.6
+[15:43:28] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:43:28] Homepage is https://github.com/tseemann/prokka
+[15:43:28] Local time is Sun Aug  2 15:43:28 2020
+[15:43:28] You are nick
+[15:43:28] Operating system is linux
+[15:43:28] You have BioPerl 1.7.7
+[15:43:28] System has 8 cores.
+[15:43:28] Will use maximum of 8 cores.
+[15:43:28] Annotating as >>> Viruses <<<
+[15:43:28] Generating locus_tag from 'bat_removed_duplicates.fasta' contents.
+[15:43:28] Setting --locustag ODOLMAEB from MD5 8d856aeb46b9a489ed68ae31b2f7a7f3
+[15:43:28] Creating new output folder: prokka_new
+[15:43:28] Running: mkdir -p prokka_new
+[15:43:28] Using filename prefix: PROKKA_08022020.XXX
+[15:43:28] Setting HMMER_NCPU=1
+[15:43:28] Writing log to: prokka_new/PROKKA_08022020.log
+[15:43:28] Command: /home/nick/Software/prokka/bin/prokka --kingdom virus --outdir prokka_new --cdsrnaolap --rfam bat_removed_duplicates.fasta
+[15:43:28] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux
+[15:43:28] Appending to PATH: /home/nick/Software/prokka/bin/../binaries/linux/../common
+[15:43:28] Appending to PATH: /home/nick/Software/prokka/bin
+[15:43:28] Looking for 'aragorn' - found /home/nick/Software/prokka/bin/../binaries/linux/aragorn
+[15:43:28] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[15:43:28] Looking for 'blastp' - found /usr/bin/blastp
+[15:43:28] Determined blastp version is 002009 from 'blastp: 2.9.0+'
+[15:43:28] Looking for 'cmpress' - found /usr/bin/cmpress
+[15:43:28] Determined cmpress version is 001001 from '# INFERNAL 1.1.3 (Nov 2019)'
+[15:43:28] Looking for 'cmscan' - found /usr/bin/cmscan
+[15:43:28] Determined cmscan version is 001001 from '# INFERNAL 1.1.3 (Nov 2019)'
+[15:43:28] Looking for 'egrep' - found /bin/egrep
+[15:43:28] Looking for 'find' - found /usr/bin/find
+[15:43:28] Looking for 'grep' - found /bin/grep
+[15:43:28] Looking for 'hmmpress' - found /usr/bin/hmmpress
+[15:43:28] Determined hmmpress version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[15:43:28] Looking for 'hmmscan' - found /usr/bin/hmmscan
+[15:43:28] Determined hmmscan version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[15:43:28] Looking for 'java' - found /usr/bin/java
+[15:43:28] Looking for 'makeblastdb' - found /usr/bin/makeblastdb
+[15:43:28] Determined makeblastdb version is 002009 from 'makeblastdb: 2.9.0+'
+[15:43:28] Looking for 'minced' - found /home/nick/Software/prokka/bin/../binaries/linux/../common/minced
+[15:43:28] Determined minced version is 002000 from 'minced 0.2.0'
+[15:43:28] Looking for 'parallel' - found /home/nick/Software/prokka/bin/../binaries/linux/../common/parallel
+[15:43:28] Determined parallel version is 20150122 from 'GNU parallel 20150122'
+[15:43:28] Looking for 'prodigal' - found /usr/bin/prodigal
+[15:43:28] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[15:43:28] Looking for 'prokka-genbank_to_fasta_db' - found /home/nick/Software/prokka/bin/prokka-genbank_to_fasta_db
+[15:43:28] Looking for 'sed' - found /bin/sed
+[15:43:28] Looking for 'tbl2asn' - found /home/nick/Software/prokka/bin/../binaries/linux/tbl2asn
+[15:43:28] Determined tbl2asn version is 025008 from 'tbl2asn 25.8   arguments:'
+[15:43:28] Using genetic code table 1.
+[15:43:28] Loading and checking input file: bat_removed_duplicates.fasta
+[15:43:28] Wrote 215 contigs totalling 6213512 bp.
+[15:43:28] Predicting tRNAs and tmRNAs
+[15:43:28] Running: aragorn -l -gc1  -w prokka_new\/PROKKA_08022020\.fna
+[15:43:30] Found 0 tRNAs
+[15:43:30] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[15:43:30] Scanning for ncRNAs... please be patient.
+[15:43:30] Running: cmscan -Z 12.427024 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 8 --tblout /dev/stdout -o /dev/null --noali /home/nick/Software/prokka/db/cm/Viruses prokka_new\/PROKKA_08022020\.fna
+[15:43:32] 1 ncRNA 1 DQ022305 1..82
+[15:43:32] 2 ncRNA 2 DQ022305 1..43
+[15:43:32] 3 ncRNA 1 DQ071615 1..82
+[15:43:32] 4 ncRNA 2 DQ071615 1..43
+[15:43:32] 5 ncRNA 1 DQ084199 1..82
+[15:43:32] 6 ncRNA 2 DQ084199 1..43
+[15:43:32] 7 ncRNA 1 DQ084200 1..82
+[15:43:32] 8 ncRNA 2 DQ084200 1..43
+[15:43:32] 9 ncRNA 1 DQ412042 1..82
+[15:43:32] 10 ncRNA 2 DQ412042 1..43
+[15:43:32] 11 ncRNA 1 DQ412043 1..82
+[15:43:32] 12 ncRNA 2 DQ412043 1..43
+[15:43:32] 13 ncRNA 1 DQ648794 1..82
+[15:43:32] 14 ncRNA 1 DQ648856 1..82
+[15:43:33] 15 ncRNA 2 DQ648856 1..43
+[15:43:33] 16 ncRNA 1 DQ648857 1..82
+[15:43:33] 17 ncRNA 2 DQ648857 1..43
+[15:43:33] 18 ncRNA 1 EF065505 1..82
+[15:43:33] 19 ncRNA 1 EF065506 1..82
+[15:43:33] 20 ncRNA 1 EF065507 1..82
+[15:43:33] 21 ncRNA 1 EF065508 1..82
+[15:43:33] 22 ncRNA 1 EF065509 1..82
+[15:43:33] 23 ncRNA 2 EF065509 1..61
+[15:43:33] 24 ncRNA 1 EF065510 1..82
+[15:43:33] 25 ncRNA 2 EF065510 1..61
+[15:43:33] 26 ncRNA 1 EF065511 1..82
+[15:43:33] 27 ncRNA 2 EF065511 1..61
+[15:43:33] 28 ncRNA 1 EF065512 1..82
+[15:43:33] 29 ncRNA 2 EF065512 1..61
+[15:43:33] 30 ncRNA 1 EF065513 1..82
+[15:43:34] 31 ncRNA 2 EF065513 1..61
+[15:43:34] 32 ncRNA 1 EF065514 1..82
+[15:43:34] 33 ncRNA 2 EF065514 1..61
+[15:43:34] 34 ncRNA 1 EF065515 1..82
+[15:43:34] 35 ncRNA 2 EF065515 1..61
+[15:43:34] 36 ncRNA 1 EF065516 1..82
+[15:43:34] 37 ncRNA 2 EF065516 1..61
+[15:43:34] 38 ncRNA 1 EF203064 1..82
+[15:43:34] 39 ncRNA 2 EF203064 1..61
+[15:43:34] 40 ncRNA 3 EF203064 1..70
+[15:43:34] 41 ncRNA 1 EF203065 1..82
+[15:43:34] 42 ncRNA 2 EF203065 1..61
+[15:43:34] 43 ncRNA 3 EF203065 1..70
+[15:43:34] 44 ncRNA 1 EF203066 1..82
+[15:43:34] 45 ncRNA 2 EF203066 1..61
+[15:43:34] 46 ncRNA 3 EF203066 1..70
+[15:43:36] 47 ncRNA 1 EF203067 1..82
+[15:43:36] 48 ncRNA 2 EF203067 1..61
+[15:43:36] 49 ncRNA 3 EF203067 1..70
+[15:43:36] 50 ncRNA 1 EU420137 1..82
+[15:43:36] 51 ncRNA 2 EU420137 1..70
+[15:43:36] 52 ncRNA 1 EU420138 1..82
+[15:43:36] 53 ncRNA 2 EU420138 1..70
+[15:43:36] 54 ncRNA 1 EU420139 1..82
+[15:43:36] 55 ncRNA 2 EU420139 1..61
+[15:43:36] 56 ncRNA 3 EU420139 1..70
+[15:43:36] 57 ncRNA 1 FJ588686 1..82
+[15:43:36] 58 ncRNA 2 FJ588686 1..43
+[15:43:36] 59 ncRNA 1 GQ153539 1..82
+[15:43:36] 60 ncRNA 2 GQ153539 1..43
+[15:43:36] 61 ncRNA 1 GQ153540 1..82
+[15:43:36] 62 ncRNA 2 GQ153540 1..43
+[15:43:37] 63 ncRNA 1 GQ153541 1..82
+[15:43:37] 64 ncRNA 2 GQ153541 1..43
+[15:43:37] 65 ncRNA 1 GQ153542 1..82
+[15:43:37] 66 ncRNA 2 GQ153542 1..43
+[15:43:37] 67 ncRNA 1 GQ153543 1..82
+[15:43:37] 68 ncRNA 2 GQ153543 1..43
+[15:43:37] 69 ncRNA 1 GQ153544 1..82
+[15:43:37] 70 ncRNA 2 GQ153544 1..43
+[15:43:37] 71 ncRNA 1 GQ153545 1..82
+[15:43:37] 72 ncRNA 2 GQ153545 1..43
+[15:43:37] 73 ncRNA 1 GQ153546 1..82
+[15:43:37] 74 ncRNA 2 GQ153546 1..43
+[15:43:37] 75 ncRNA 1 GQ153547 1..82
+[15:43:37] 76 ncRNA 2 GQ153547 1..43
+[15:43:37] 77 ncRNA 1 GQ153548 1..82
+[15:43:37] 78 ncRNA 2 GQ153548 1..43
+[15:43:38] 79 ncRNA 1 GU190215 1..82
+[15:43:38] 80 ncRNA 2 GU190215 1..43
+[15:43:38] 81 ncRNA 1 MN996532 1..82
+[15:43:38] 82 ncRNA 2 MN996532 1..43
+[15:43:38] 83 ncRNA 1 HM211098 1..82
+[15:43:38] 84 ncRNA 2 HM211098 1..61
+[15:43:38] 85 ncRNA 1 HM211099 1..82
+[15:43:38] 86 ncRNA 2 HM211099 1..61
+[15:43:38] 87 ncRNA 1 HM211100 1..82
+[15:43:38] 88 ncRNA 2 HM211100 1..61
+[15:43:38] 89 ncRNA 1 HM211101 1..82
+[15:43:38] 90 ncRNA 2 HM211101 1..61
+[15:43:38] 91 ncRNA 1 JQ989266 1..70
+[15:43:38] 92 ncRNA 2 JQ989266 1..82
+[15:43:38] 93 ncRNA 3 JQ989266 1..61
+[15:43:38] 94 ncRNA 1 JQ989267 1..70
+[15:43:39] 95 ncRNA 2 JQ989267 1..82
+[15:43:39] 96 ncRNA 3 JQ989267 1..61
+[15:43:39] 97 ncRNA 1 JQ989268 1..70
+[15:43:39] 98 ncRNA 2 JQ989268 1..82
+[15:43:39] 99 ncRNA 3 JQ989268 1..61
+[15:43:39] 100 ncRNA 1 JQ989269 1..70
+[15:43:39] 101 ncRNA 2 JQ989269 1..82
+[15:43:39] 102 ncRNA 3 JQ989269 1..61
+[15:43:39] 103 ncRNA 1 JQ989270 1..70
+[15:43:39] 104 ncRNA 2 JQ989270 1..82
+[15:43:39] 105 ncRNA 3 JQ989270 1..61
+[15:43:39] 106 ncRNA 1 JQ989271 1..70
+[15:43:39] 107 ncRNA 2 JQ989271 1..82
+[15:43:39] 108 ncRNA 3 JQ989271 1..61
+[15:43:39] 109 ncRNA 1 JQ989272 1..70
+[15:43:39] 110 ncRNA 2 JQ989272 1..82
+[15:43:39] 111 ncRNA 3 JQ989272 1..61
+[15:43:41] 112 ncRNA 1 JQ989273 1..70
+[15:43:41] 113 ncRNA 2 JQ989273 1..82
+[15:43:41] 114 ncRNA 3 JQ989273 1..61
+[15:43:41] 115 ncRNA 1 JX993987 1..82
+[15:43:41] 116 ncRNA 1 JX993988 1..82
+[15:43:41] 117 ncRNA 1 KC881005 1..82
+[15:43:41] 118 ncRNA 2 KC881005 1..43
+[15:43:41] 119 ncRNA 1 KC881006 1..82
+[15:43:41] 120 ncRNA 2 KC881006 1..43
+[15:43:41] 121 ncRNA 1 KF367457 1..82
+[15:43:41] 122 ncRNA 2 KF367457 1..43
+[15:43:41] 123 ncRNA 1 KF430219 1..82
+[15:43:41] 124 ncRNA 2 KF430219 1..61
+[15:43:41] 125 ncRNA 1 KF636752 1..43
+[15:43:41] 126 ncRNA 2 KF636752 1..82
+[15:43:41] 127 ncRNA 1 KJ473795 1..82
+[15:43:42] 128 ncRNA 2 KJ473795 1..70
+[15:43:42] 129 ncRNA 1 KJ473796 1..82
+[15:43:42] 130 ncRNA 2 KJ473796 1..70
+[15:43:42] 131 ncRNA 1 KJ473797 1..82
+[15:43:42] 132 ncRNA 2 KJ473797 1..61
+[15:43:42] 133 ncRNA 3 KJ473797 1..70
+[15:43:42] 134 ncRNA 1 KJ473798 1..82
+[15:43:42] 135 ncRNA 2 KJ473798 1..70
+[15:43:42] 136 ncRNA 3 KJ473798 1..61
+[15:43:42] 137 ncRNA 1 KJ473799 1..82
+[15:43:42] 138 ncRNA 2 KJ473799 1..70
+[15:43:42] 139 ncRNA 3 KJ473799 1..61
+[15:43:42] 140 ncRNA 1 KJ473800 1..82
+[15:43:42] 141 ncRNA 2 KJ473800 1..70
+[15:43:42] 142 ncRNA 3 KJ473800 1..61
+[15:43:42] 143 ncRNA 1 KJ473820 1..82
+[15:43:44] 144 ncRNA 2 KJ473820 1..61
+[15:43:44] 145 ncRNA 1 KJ473822 1..82
+[15:43:44] 146 ncRNA 1 KP886808 1..82
+[15:43:44] 147 ncRNA 2 KP886808 1..43
+[15:43:44] 148 ncRNA 1 KP886809 1..82
+[15:43:44] 149 ncRNA 2 KP886809 1..43
+[15:43:44] 150 ncRNA 1 KU182964 1..82
+[15:43:44] 151 ncRNA 2 KU182964 1..43
+[15:43:44] 152 ncRNA 1 KU182965 1..82
+[15:43:44] 153 ncRNA 1 KU762338 1..82
+[15:43:44] 154 ncRNA 1 KU973692 1..82
+[15:43:44] 155 ncRNA 2 KU973692 1..43
+[15:43:44] 156 ncRNA 1 KX442564 1..82
+[15:43:44] 157 ncRNA 2 KX442564 1..61
+[15:43:44] 158 ncRNA 1 KX442565 1..82
+[15:43:44] 159 ncRNA 2 KX442565 1..61
+[15:43:46] 160 ncRNA 1 KX574227 1..82
+[15:43:46] 161 ncRNA 1 KY073744 1..82
+[15:43:46] 162 ncRNA 2 KY073744 1..61
+[15:43:46] 163 ncRNA 1 KY073745 1..82
+[15:43:46] 164 ncRNA 2 KY073745 1..61
+[15:43:46] 165 ncRNA 1 KY073746 1..82
+[15:43:46] 166 ncRNA 1 KY073747 1..82
+[15:43:46] 167 ncRNA 2 KY073747 1..61
+[15:43:46] 168 ncRNA 1 KY073748 1..82
+[15:43:46] 169 ncRNA 1 KY417142 1..82
+[15:43:46] 170 ncRNA 2 KY417142 1..43
+[15:43:46] 171 ncRNA 1 KY417143 1..82
+[15:43:46] 172 ncRNA 2 KY417143 1..43
+[15:43:46] 173 ncRNA 1 KY417144 1..82
+[15:43:46] 174 ncRNA 2 KY417144 1..43
+[15:43:46] 175 ncRNA 1 KY417145 1..82
+[15:43:48] 176 ncRNA 2 KY417145 1..43
+[15:43:48] 177 ncRNA 1 KY417146 1..82
+[15:43:48] 178 ncRNA 2 KY417146 1..43
+[15:43:48] 179 ncRNA 1 KY417147 1..82
+[15:43:48] 180 ncRNA 2 KY417147 1..43
+[15:43:48] 181 ncRNA 1 KY417148 1..82
+[15:43:48] 182 ncRNA 2 KY417148 1..43
+[15:43:48] 183 ncRNA 1 KY417149 1..82
+[15:43:48] 184 ncRNA 2 KY417149 1..43
+[15:43:48] 185 ncRNA 1 KY417150 1..82
+[15:43:48] 186 ncRNA 2 KY417150 1..43
+[15:43:48] 187 ncRNA 1 KY417151 1..82
+[15:43:48] 188 ncRNA 2 KY417151 1..43
+[15:43:48] 189 ncRNA 1 KY417152 1..82
+[15:43:48] 190 ncRNA 2 KY417152 1..43
+[15:43:48] 191 ncRNA 1 KY770850 1..82
+[15:43:49] 192 ncRNA 2 KY770850 1..61
+[15:43:49] 193 ncRNA 1 KY770851 1..82
+[15:43:49] 194 ncRNA 2 KY770851 1..70
+[15:43:49] 195 ncRNA 3 KY770851 1..61
+[15:43:49] 196 ncRNA 1 KY770858 1..82
+[15:43:49] 197 ncRNA 2 KY770858 1..43
+[15:43:49] 198 ncRNA 1 KY770859 1..82
+[15:43:49] 199 ncRNA 2 KY770859 1..43
+[15:43:49] 200 ncRNA 1 KY770860 1..82
+[15:43:49] 201 ncRNA 2 KY770860 1..43
+[15:43:49] 202 ncRNA 1 KY799179 1..82
+[15:43:49] 203 ncRNA 2 KY799179 1..61
+[15:43:49] 204 ncRNA 1 KY938558 1..82
+[15:43:49] 205 ncRNA 2 KY938558 1..43
+[15:43:49] 206 ncRNA 1 LC469308 1..82
+[15:43:49] 207 ncRNA 1 MF167434 1..82
+[15:43:51] 208 ncRNA 2 MF167434 1..61
+[15:43:51] 209 ncRNA 3 MF167434 1..70
+[15:43:51] 210 ncRNA 1 MF370205 1..82
+[15:43:51] 211 ncRNA 2 MF370205 1..61
+[15:43:51] 212 ncRNA 3 MF370205 1..70
+[15:43:51] 213 ncRNA 1 MG596802 1..82
+[15:43:51] 214 ncRNA 2 MG596802 1..61
+[15:43:51] 215 ncRNA 1 MG596803 1..82
+[15:43:51] 216 ncRNA 2 MG596803 1..61
+[15:43:51] 217 ncRNA 1 MG742313 1..82
+[15:43:51] 218 ncRNA 2 MG742313 1..61
+[15:43:51] 219 ncRNA 3 MG742313 1..70
+[15:43:51] 220 ncRNA 1 MG762674 1..82
+[15:43:51] 221 ncRNA 1 MG772933 1..82
+[15:43:51] 222 ncRNA 2 MG772933 1..43
+[15:43:51] 223 ncRNA 1 MG772934 1..82
+[15:43:52] 224 ncRNA 2 MG772934 1..43
+[15:43:52] 225 ncRNA 1 MG916901 1..82
+[15:43:52] 226 ncRNA 2 MG916901 1..70
+[15:43:52] 227 ncRNA 3 MG916901 1..61
+[15:43:52] 228 ncRNA 1 MG916902 1..82
+[15:43:52] 229 ncRNA 2 MG916902 1..70
+[15:43:52] 230 ncRNA 3 MG916902 1..61
+[15:43:52] 231 ncRNA 1 MG916903 1..82
+[15:43:52] 232 ncRNA 2 MG916903 1..70
+[15:43:52] 233 ncRNA 3 MG916903 1..61
+[15:43:52] 234 ncRNA 1 MG916904 1..70
+[15:43:52] 235 ncRNA 2 MG916904 1..82
+[15:43:52] 236 ncRNA 3 MG916904 1..61
+[15:43:52] 237 ncRNA 1 MH002337 1..82
+[15:43:52] 238 ncRNA 1 MH002338 1..82
+[15:43:52] 239 ncRNA 1 MH002339 1..82
+[15:43:52] 240 ncRNA 1 MH002340 1..82
+[15:43:53] 241 ncRNA 1 MH002341 1..82
+[15:43:53] 242 ncRNA 2 MH002341 1..61
+[15:43:53] 243 ncRNA 1 MH002342 1..82
+[15:43:53] 244 ncRNA 2 MH002342 1..61
+[15:43:53] 245 ncRNA 1 MH539766 1..82
+[15:43:53] 246 ncRNA 2 MH539766 1..61
+[15:43:53] 247 ncRNA 3 MH539766 1..70
+[15:43:53] 248 ncRNA 1 MH697599 1..82
+[15:43:53] 249 ncRNA 2 MH697599 1..61
+[15:43:53] 250 ncRNA 3 MH697599 1..70
+[15:43:53] 251 ncRNA 1 MH938448 1..82
+[15:43:53] 252 ncRNA 2 MH938448 1..61
+[15:43:53] 253 ncRNA 3 MH938448 1..70
+[15:43:53] 254 ncRNA 1 MH938449 1..82
+[15:43:53] 255 ncRNA 2 MH938449 1..61
+[15:43:53] 256 ncRNA 3 MH938449 16..70
+[15:43:55] 257 ncRNA 1 MH938450 1..82
+[15:43:55] 258 ncRNA 2 MH938450 1..61
+[15:43:55] 259 ncRNA 1 MK492263 1..82
+[15:43:55] 260 ncRNA 2 MK492263 1..61
+[15:43:55] 261 ncRNA 1 MK720944 1..82
+[15:43:55] 262 ncRNA 1 MK720945 1..82
+[15:43:55] 263 ncRNA 2 MK720945 1..70
+[15:43:55] 264 ncRNA 3 MK720945 1..61
+[15:43:55] 265 ncRNA 1 MK720946 1..82
+[15:43:55] 266 ncRNA 2 MK720946 1..70
+[15:43:55] 267 ncRNA 3 MK720946 1..61
+[15:43:55] 268 ncRNA 1 MN065811 1..82
+[15:43:55] 269 ncRNA 2 MN065811 1..61
+[15:43:55] 270 ncRNA 1 MN611517 1..82
+[15:43:55] 271 ncRNA 2 MN611517 11..70
+[15:43:55] 272 ncRNA 1 MN611518 1..82
+[15:43:57] 273 ncRNA 2 MN611518 1..61
+[15:43:57] 274 ncRNA 1 MN611519 1..82
+[15:43:57] 275 ncRNA 1 MN611520 1..82
+[15:43:57] 276 ncRNA 2 MN611520 1..61
+[15:43:57] 277 ncRNA 1 MN611521 1..82
+[15:43:57] 278 ncRNA 2 MN611521 1..61
+[15:43:57] 279 ncRNA 1 MN611522 1..82
+[15:43:57] 280 ncRNA 2 MN611522 1..61
+[15:43:57] 281 ncRNA 1 MN611523 1..70
+[15:43:57] 282 ncRNA 2 MN611523 1..82
+[15:43:57] 283 ncRNA 3 MN611523 1..61
+[15:43:57] 284 ncRNA 1 MN611524 1..82
+[15:43:57] 285 ncRNA 1 MN611525 1..82
+[15:43:57] 286 ncRNA 2 MN611525 1..61
+[15:43:57] 287 ncRNA 3 MN611525 9..70
+[15:43:57] 288 ncRNA 1 NC_009657 1..70
+[15:43:57] 289 ncRNA 2 NC_009657 1..82
+[15:43:59] 290 ncRNA 3 NC_009657 1..61
+[15:43:59] 291 ncRNA 1 MH687934 1..82
+[15:43:59] 292 ncRNA 2 MH687934 1..61
+[15:43:59] 293 ncRNA 1 MH687935 1..82
+[15:43:59] 294 ncRNA 1 MH687936 1..82
+[15:43:59] 295 ncRNA 2 MH687936 1..61
+[15:43:59] 296 ncRNA 1 MH687937 1..82
+[15:43:59] 297 ncRNA 2 MH687937 1..61
+[15:43:59] 298 ncRNA 1 MH687938 1..82
+[15:43:59] 299 ncRNA 2 MH687938 1..61
+[15:43:59] 300 ncRNA 3 MH687938 1..61
+[15:43:59] 301 ncRNA 1 MH687939 1..82
+[15:43:59] 302 ncRNA 2 MH687939 1..61
+[15:43:59] 303 ncRNA 1 MH687940 1..82
+[15:43:59] 304 ncRNA 2 MH687940 1..61
+[15:43:59] 305 ncRNA 1 MH687941 1..82
+[15:44:01] 306 ncRNA 1 MH687942 1..82
+[15:44:01] 307 ncRNA 2 MH687942 1..61
+[15:44:01] 308 ncRNA 1 MH687943 1..82
+[15:44:01] 309 ncRNA 2 MH687943 1..61
+[15:44:01] 310 ncRNA 1 MH687944 1..82
+[15:44:01] 311 ncRNA 2 MH687944 1..61
+[15:44:01] 312 ncRNA 1 MH687945 1..82
+[15:44:01] 313 ncRNA 2 MH687945 1..61
+[15:44:01] 314 ncRNA 1 MH687946 1..82
+[15:44:01] 315 ncRNA 2 MH687946 1..61
+[15:44:01] 316 ncRNA 1 MH687947 1..82
+[15:44:01] 317 ncRNA 1 MH687948 1..82
+[15:44:01] 318 ncRNA 2 MH687948 1..61
+[15:44:01] 319 ncRNA 1 MH687949 1..82
+[15:44:01] 320 ncRNA 2 MH687949 1..61
+[15:44:01] 321 ncRNA 1 MH687950 1..82
+[15:44:03] 322 ncRNA 2 MH687950 1..61
+[15:44:03] 323 ncRNA 1 MH687951 1..82
+[15:44:03] 324 ncRNA 2 MH687951 1..61
+[15:44:03] 325 ncRNA 1 MH687952 1..82
+[15:44:03] 326 ncRNA 1 MH687953 1..82
+[15:44:03] 327 ncRNA 1 MH687954 1..82
+[15:44:03] 328 ncRNA 2 MH687954 1..61
+[15:44:03] 329 ncRNA 1 MH687955 1..82
+[15:44:03] 330 ncRNA 2 MH687955 1..61
+[15:44:03] 331 ncRNA 1 MH687956 1..82
+[15:44:03] 332 ncRNA 2 MH687956 1..61
+[15:44:03] 333 ncRNA 1 MH687957 1..82
+[15:44:03] 334 ncRNA 2 MH687957 1..61
+[15:44:03] 335 ncRNA 1 MH687958 1..82
+[15:44:03] 336 ncRNA 2 MH687958 1..61
+[15:44:03] 337 ncRNA 1 MH687959 1..82
+[15:44:05] 338 ncRNA 2 MH687959 1..61
+[15:44:05] 339 ncRNA 1 MH687960 1..82
+[15:44:05] 340 ncRNA 2 MH687960 1..61
+[15:44:05] 341 ncRNA 1 MH687961 1..82
+[15:44:05] 342 ncRNA 2 MH687961 1..61
+[15:44:05] 343 ncRNA 1 MH687962 1..82
+[15:44:05] 344 ncRNA 2 MH687962 1..61
+[15:44:05] 345 ncRNA 1 MH687963 1..82
+[15:44:05] 346 ncRNA 2 MH687963 1..61
+[15:44:05] 347 ncRNA 1 MH687964 1..82
+[15:44:05] 348 ncRNA 2 MH687964 1..61
+[15:44:05] 349 ncRNA 1 MH687965 1..82
+[15:44:05] 350 ncRNA 2 MH687965 1..61
+[15:44:05] 351 ncRNA 1 MH687966 1..82
+[15:44:05] 352 ncRNA 2 MH687966 1..61
+[15:44:05] 353 ncRNA 1 MH687967 1..82
+[15:44:05] 354 ncRNA 2 MH687967 1..61
+[15:44:06] 355 ncRNA 1 MG923574 1..82
+[15:44:06] 356 ncRNA 2 MG923574 1..61
+[15:44:06] 357 ncRNA 1 KJ473806 1..82
+[15:44:06] 358 ncRNA 2 KJ473806 1..70
+[15:44:06] 359 ncRNA 3 KJ473806 1..61
+[15:44:06] 360 ncRNA 1 KJ473809 1..82
+[15:44:06] 361 ncRNA 2 KJ473809 1..61
+[15:44:06] 362 ncRNA 1 KJ473810 1..82
+[15:44:06] 363 ncRNA 2 KJ473810 1..61
+[15:44:06] 364 ncRNA 1 KJ473807 1..82
+[15:44:06] 365 ncRNA 2 KJ473807 1..61
+[15:44:06] 366 ncRNA 1 KJ473808 1..82
+[15:44:06] 367 ncRNA 2 KJ473808 1..61
+[15:44:06] 368 ncRNA 1 MK211374 1..82
+[15:44:06] 369 ncRNA 2 MK211374 1..43
+[15:44:06] 370 ncRNA 1 MK211373 1..82
+[15:44:07] 371 ncRNA 2 MK211373 1..70
+[15:44:07] 372 ncRNA 3 MK211373 1..61
+[15:44:07] 373 ncRNA 1 MK211375 1..82
+[15:44:07] 374 ncRNA 2 MK211375 1..43
+[15:44:07] 375 ncRNA 1 MK211376 1..82
+[15:44:07] 376 ncRNA 2 MK211376 1..43
+[15:44:07] 377 ncRNA 1 MK211377 1..82
+[15:44:07] 378 ncRNA 2 MK211377 1..43
+[15:44:07] 379 ncRNA 1 MK211378 1..82
+[15:44:07] 380 ncRNA 2 MK211378 1..43
+[15:44:07] 381 ncRNA 1 MK211379 1..82
+[15:44:07] 382 ncRNA 2 MK211379 1..61
+[15:44:07] 383 ncRNA 1 MK211369 1..70
+[15:44:07] 384 ncRNA 2 MK211369 1..82
+[15:44:07] 385 ncRNA 3 MK211369 1..61
+[15:44:07] 386 ncRNA 1 MK211370 1..82
+[15:44:09] 387 ncRNA 2 MK211370 1..61
+[15:44:09] 388 ncRNA 1 MK211371 1..82
+[15:44:09] 389 ncRNA 2 MK211371 1..61
+[15:44:09] 390 ncRNA 1 MK211372 1..82
+[15:44:09] 391 ncRNA 2 MK211372 1..61
+[15:44:09] 392 ncRNA 1 KJ473821 1..82
+[15:44:09] 393 ncRNA 2 KJ473821 1..61
+[15:44:09] 394 ncRNA 1 MF593268 1..82
+[15:44:09] 395 ncRNA 2 MF593268 1..61
+[15:44:09] 396 ncRNA 1 KT444582 1..82
+[15:44:09] 397 ncRNA 2 KT444582 1..43
+[15:44:09] 398 ncRNA 1 KJ473812 1..82
+[15:44:09] 399 ncRNA 2 KJ473812 1..43
+[15:44:09] 400 ncRNA 1 KJ473811 1..82
+[15:44:09] 401 ncRNA 2 KJ473811 1..43
+[15:44:09] 402 ncRNA 1 KJ473813 1..82
+[15:44:10] 403 ncRNA 2 KJ473813 1..43
+[15:44:10] 404 ncRNA 1 KJ473815 1..82
+[15:44:10] 405 ncRNA 1 KJ473814 1..82
+[15:44:10] 406 ncRNA 2 KJ473814 1..43
+[15:44:10] 407 ncRNA 1 KJ473816 1..82
+[15:44:10] 408 ncRNA 1 MF094687 1..82
+[15:44:10] 409 ncRNA 2 MF094687 1..61
+[15:44:10] 410 ncRNA 3 MF094687 1..70
+[15:44:10] 411 ncRNA 1 MF094688 1..82
+[15:44:10] 412 ncRNA 2 MF094688 1..61
+[15:44:10] 413 ncRNA 3 MF094688 1..70
+[15:44:10] 414 ncRNA 1 MF094685 1..82
+[15:44:10] 415 ncRNA 2 MF094685 1..61
+[15:44:10] 416 ncRNA 3 MF094685 1..70
+[15:44:10] 417 ncRNA 1 MF094686 1..82
+[15:44:10] 418 ncRNA 2 MF094686 1..61
+[15:44:11] 419 ncRNA 3 MF094686 1..70
+[15:44:11] 420 ncRNA 1 MG693170 1..82
+[15:44:11] 421 ncRNA 2 MG693170 1..61
+[15:44:11] 422 ncRNA 1 MG693168 1..82
+[15:44:11] 423 ncRNA 1 MG693172 1..82
+[15:44:11] 424 ncRNA 1 MG693169 1..82
+[15:44:11] 425 ncRNA 1 KT253272 1..70
+[15:44:11] 426 ncRNA 2 KT253272 1..82
+[15:44:11] 427 ncRNA 3 KT253272 1..61
+[15:44:11] 428 ncRNA 1 KT253270 1..70
+[15:44:11] 429 ncRNA 2 KT253270 1..82
+[15:44:11] 430 ncRNA 3 KT253270 1..61
+[15:44:11] 431 ncRNA 1 KT253269 1..70
+[15:44:11] 432 ncRNA 2 KT253269 1..82
+[15:44:11] 433 ncRNA 3 KT253269 1..61
+[15:44:11] 434 ncRNA 1 KT253271 1..70
+[15:44:11] 435 ncRNA 2 KT253271 1..82
+[15:44:12] 436 ncRNA 3 KT253271 1..61
+[15:44:12] 437 ncRNA 1 KC869678 1..82
+[15:44:12] 438 ncRNA 2 KC869678 1..61
+[15:44:12] 439 ncRNA 1 KF294457 1..82
+[15:44:12] 440 ncRNA 2 KF294457 1..43
+[15:44:12] 441 ncRNA 1 KF569996 1..82
+[15:44:12] 442 ncRNA 2 KF569996 1..43
+[15:44:12] 443 ncRNA 1 KY352407 1..82
+[15:44:12] 444 ncRNA 2 KY352407 1..43
+[15:44:12] Found 444 ncRNAs.
+[15:44:12] Total of 0 tRNA + rRNA features
+[15:44:12] Searching for CRISPR repeats
+[15:44:13] Found 0 CRISPRs
+[15:44:13] Predicting coding sequences
+[15:44:13] Contigs total 6213512 bp, so using single mode
+[15:44:13] Running: prodigal -i prokka_new\/PROKKA_08022020\.fna -c -m -g 1 -p single -f sco -q
+[15:44:20] Found 1921 CDS
+[15:44:20] Connecting features back to sequences
+[15:44:20] Not using genus-specific database. Try --usegenus to enable it.
+[15:44:20] Annotating CDS, please be patient.
+[15:44:20] Will use 8 CPUs for similarity searching.
+[15:44:21] There are still 1921 unannotated CDS left (started with 1921)
+[15:44:21] Will use blast to search against /home/nick/Software/prokka/db/kingdom/Viruses/sprot with 8 CPUs
+[15:44:21] Running: cat prokka_new\/PROKKA_08022020\.sprot\.tmp\.43350\.faa | parallel --gnu --plain -j 8 --block 125905 --recstart '>' --pipe blastp -query - -db /home/nick/Software/prokka/db/kingdom/Viruses/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_new\/PROKKA_08022020\.sprot\.tmp\.43350\.blast 2> /dev/null
+[15:44:53] Deleting unwanted file: prokka_new/PROKKA_08022020.sprot.tmp.43350.faa
+[15:44:53] Deleting unwanted file: prokka_new/PROKKA_08022020.sprot.tmp.43350.blast
+[15:44:53] Labelling remaining 636 proteins as 'hypothetical protein'
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at EF065513 position 13254
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at EF065514 position 13220
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at EF065515 position 13239
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at EF065516 position 13239
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at HM211098 position 13239
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at HM211099 position 13220
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at HM211100 position 13239
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at HM211101 position 13220
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at KU762338 position 13428
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MG762674 position 12916
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MK492263 position 13105
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MK211379 position 13260
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MG693170 position 13238
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MG693168 position 13148
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MG693172 position 13154
+[15:44:53] Possible /pseudo 'Replicase polyprotein 1ab' at MG693169 position 13161
+[15:44:53] Found 10 unique /gene codes.
+[15:44:53] Fixed 213 duplicate /gene - M_1 M_2 M_3 M_4 M_5 M_6 M_7 M_8 M_9 M_10 M_11 M_12 M_13 M_14 M_15 M_16 M_17 M_18 M_19 M_20 M_21 M_22 M_23 M_24 M_25 M_26 M_27 M_28 M_29 M_30 M_31 M_32 M_33 M_34 M_35 M_36 M_37 M_38 M_39 M_40 M_41 M_42 M_43 M_44 M_45 M_46 M_47 M_48 M_49 M_50 M_51 M_52 M_53 M_54 M_55 M_56 M_57 M_58 M_59 M_60 M_61 M_62 M_63 M_64 M_65 M_66 M_67 M_68 M_69 M_70 M_71 M_72 M_73 M_74 M_75 M_76 M_77 M_78 M_79 M_80 M_81 M_82 M_83 M_84 M_85 M_86 M_87 M_88 M_89 M_90 M_91 M_92 M_93 M_94 M_95 M_96 M_97 M_98 M_99 M_100 M_101 M_102 M_103 M_104 M_105 M_106 M_107 M_108 M_109 M_110 M_111 M_112 M_113 M_114 M_115 M_116 M_117 M_118 M_119 M_120 M_121 M_122 M_123 M_124 M_125 M_126 M_127 M_128 M_129 M_130 M_131 M_132 M_133 M_134 M_135 M_136 M_137 M_138 M_139 M_140 M_141 M_142 M_143 M_144 M_145 M_146 M_147 M_148 M_149 M_150 M_151 M_152 M_153 M_154 M_155 M_156 M_157 M_158 M_159 M_160 M_161 M_162 M_163 M_164 M_165 M_166 M_167 M_168 M_169 M_170 M_171 M_172 M_173 M_174 M_175 M_176 M_177 M_178 M_179 M_180 M_181 M_182 M_183 M_184 M_185 M_186 M_187 M_188 M_189 M_190 M_191 M_192 M_193 M_194 M_195 M_196 M_197 M_198 M_199 M_200 M_201 M_202 M_203 M_204 M_205 M_206 M_207 M_208 M_209 M_210 M_211 M_212 M_213
+[15:44:53] Fixed 29 duplicate /gene - ORF4b_1 ORF4b_2 ORF4b_3 ORF4b_4 ORF4b_5 ORF4b_6 ORF4b_7 ORF4b_8 ORF4b_9 ORF4b_10 ORF4b_11 ORF4b_12 ORF4b_13 ORF4b_14 ORF4b_15 ORF4b_16 ORF4b_17 ORF4b_18 ORF4b_19 ORF4b_20 ORF4b_21 ORF4b_22 ORF4b_23 ORF4b_24 ORF4b_25 ORF4b_26 ORF4b_27 ORF4b_28 ORF4b_29
+[15:44:53] Fixed 229 duplicate /gene - rep_1 rep_2 rep_3 rep_4 rep_5 rep_6 rep_7 rep_8 rep_9 rep_10 rep_11 rep_12 rep_13 rep_14 rep_15 rep_16 rep_17 rep_18 rep_19 rep_20 rep_21 rep_22 rep_23 rep_24 rep_25 rep_26 rep_27 rep_28 rep_29 rep_30 rep_31 rep_32 rep_33 rep_34 rep_35 rep_36 rep_37 rep_38 rep_39 rep_40 rep_41 rep_42 rep_43 rep_44 rep_45 rep_46 rep_47 rep_48 rep_49 rep_50 rep_51 rep_52 rep_53 rep_54 rep_55 rep_56 rep_57 rep_58 rep_59 rep_60 rep_61 rep_62 rep_63 rep_64 rep_65 rep_66 rep_67 rep_68 rep_69 rep_70 rep_71 rep_72 rep_73 rep_74 rep_75 rep_76 rep_77 rep_78 rep_79 rep_80 rep_81 rep_82 rep_83 rep_84 rep_85 rep_86 rep_87 rep_88 rep_89 rep_90 rep_91 rep_92 rep_93 rep_94 rep_95 rep_96 rep_97 rep_98 rep_99 rep_100 rep_101 rep_102 rep_103 rep_104 rep_105 rep_106 rep_107 rep_108 rep_109 rep_110 rep_111 rep_112 rep_113 rep_114 rep_115 rep_116 rep_117 rep_118 rep_119 rep_120 rep_121 rep_122 rep_123 rep_124 rep_125 rep_126 rep_127 rep_128 rep_129 rep_130 rep_131 rep_132 rep_133 rep_134 rep_135 rep_136 rep_137 rep_138 rep_139 rep_140 rep_141 rep_142 rep_143 rep_144 rep_145 rep_146 rep_147 rep_148 rep_149 rep_150 rep_151 rep_152 rep_153 rep_154 rep_155 rep_156 rep_157 rep_158 rep_159 rep_160 rep_161 rep_162 rep_163 rep_164 rep_165 rep_166 rep_167 rep_168 rep_169 rep_170 rep_171 rep_172 rep_173 rep_174 rep_175 rep_176 rep_177 rep_178 rep_179 rep_180 rep_181 rep_182 rep_183 rep_184 rep_185 rep_186 rep_187 rep_188 rep_189 rep_190 rep_191 rep_192 rep_193 rep_194 rep_195 rep_196 rep_197 rep_198 rep_199 rep_200 rep_201 rep_202 rep_203 rep_204 rep_205 rep_206 rep_207 rep_208 rep_209 rep_210 rep_211 rep_212 rep_213 rep_214 rep_215 rep_216 rep_217 rep_218 rep_219 rep_220 rep_221 rep_222 rep_223 rep_224 rep_225 rep_226 rep_227 rep_228 rep_229
+[15:44:53] Fixed 197 duplicate /gene - S_1 S_2 S_3 S_4 S_5 S_6 S_7 S_8 S_9 S_10 S_11 S_12 S_13 S_14 S_15 S_16 S_17 S_18 S_19 S_20 S_21 S_22 S_23 S_24 S_25 S_26 S_27 S_28 S_29 S_30 S_31 S_32 S_33 S_34 S_35 S_36 S_37 S_38 S_39 S_40 S_41 S_42 S_43 S_44 S_45 S_46 S_47 S_48 S_49 S_50 S_51 S_52 S_53 S_54 S_55 S_56 S_57 S_58 S_59 S_60 S_61 S_62 S_63 S_64 S_65 S_66 S_67 S_68 S_69 S_70 S_71 S_72 S_73 S_74 S_75 S_76 S_77 S_78 S_79 S_80 S_81 S_82 S_83 S_84 S_85 S_86 S_87 S_88 S_89 S_90 S_91 S_92 S_93 S_94 S_95 S_96 S_97 S_98 S_99 S_100 S_101 S_102 S_103 S_104 S_105 S_106 S_107 S_108 S_109 S_110 S_111 S_112 S_113 S_114 S_115 S_116 S_117 S_118 S_119 S_120 S_121 S_122 S_123 S_124 S_125 S_126 S_127 S_128 S_129 S_130 S_131 S_132 S_133 S_134 S_135 S_136 S_137 S_138 S_139 S_140 S_141 S_142 S_143 S_144 S_145 S_146 S_147 S_148 S_149 S_150 S_151 S_152 S_153 S_154 S_155 S_156 S_157 S_158 S_159 S_160 S_161 S_162 S_163 S_164 S_165 S_166 S_167 S_168 S_169 S_170 S_171 S_172 S_173 S_174 S_175 S_176 S_177 S_178 S_179 S_180 S_181 S_182 S_183 S_184 S_185 S_186 S_187 S_188 S_189 S_190 S_191 S_192 S_193 S_194 S_195 S_196 S_197
+[15:44:53] Fixed 87 duplicate /gene - E_1 E_2 E_3 E_4 E_5 E_6 E_7 E_8 E_9 E_10 E_11 E_12 E_13 E_14 E_15 E_16 E_17 E_18 E_19 E_20 E_21 E_22 E_23 E_24 E_25 E_26 E_27 E_28 E_29 E_30 E_31 E_32 E_33 E_34 E_35 E_36 E_37 E_38 E_39 E_40 E_41 E_42 E_43 E_44 E_45 E_46 E_47 E_48 E_49 E_50 E_51 E_52 E_53 E_54 E_55 E_56 E_57 E_58 E_59 E_60 E_61 E_62 E_63 E_64 E_65 E_66 E_67 E_68 E_69 E_70 E_71 E_72 E_73 E_74 E_75 E_76 E_77 E_78 E_79 E_80 E_81 E_82 E_83 E_84 E_85 E_86 E_87
+[15:44:53] Fixed 199 duplicate /gene - N_1 N_2 N_3 N_4 N_5 N_6 N_7 N_8 N_9 N_10 N_11 N_12 N_13 N_14 N_15 N_16 N_17 N_18 N_19 N_20 N_21 N_22 N_23 N_24 N_25 N_26 N_27 N_28 N_29 N_30 N_31 N_32 N_33 N_34 N_35 N_36 N_37 N_38 N_39 N_40 N_41 N_42 N_43 N_44 N_45 N_46 N_47 N_48 N_49 N_50 N_51 N_52 N_53 N_54 N_55 N_56 N_57 N_58 N_59 N_60 N_61 N_62 N_63 N_64 N_65 N_66 N_67 N_68 N_69 N_70 N_71 N_72 N_73 N_74 N_75 N_76 N_77 N_78 N_79 N_80 N_81 N_82 N_83 N_84 N_85 N_86 N_87 N_88 N_89 N_90 N_91 N_92 N_93 N_94 N_95 N_96 N_97 N_98 N_99 N_100 N_101 N_102 N_103 N_104 N_105 N_106 N_107 N_108 N_109 N_110 N_111 N_112 N_113 N_114 N_115 N_116 N_117 N_118 N_119 N_120 N_121 N_122 N_123 N_124 N_125 N_126 N_127 N_128 N_129 N_130 N_131 N_132 N_133 N_134 N_135 N_136 N_137 N_138 N_139 N_140 N_141 N_142 N_143 N_144 N_145 N_146 N_147 N_148 N_149 N_150 N_151 N_152 N_153 N_154 N_155 N_156 N_157 N_158 N_159 N_160 N_161 N_162 N_163 N_164 N_165 N_166 N_167 N_168 N_169 N_170 N_171 N_172 N_173 N_174 N_175 N_176 N_177 N_178 N_179 N_180 N_181 N_182 N_183 N_184 N_185 N_186 N_187 N_188 N_189 N_190 N_191 N_192 N_193 N_194 N_195 N_196 N_197 N_198 N_199
+[15:44:53] Fixed 61 duplicate /gene - 7a_1 7a_2 7a_3 7a_4 7a_5 7a_6 7a_7 7a_8 7a_9 7a_10 7a_11 7a_12 7a_13 7a_14 7a_15 7a_16 7a_17 7a_18 7a_19 7a_20 7a_21 7a_22 7a_23 7a_24 7a_25 7a_26 7a_27 7a_28 7a_29 7a_30 7a_31 7a_32 7a_33 7a_34 7a_35 7a_36 7a_37 7a_38 7a_39 7a_40 7a_41 7a_42 7a_43 7a_44 7a_45 7a_46 7a_47 7a_48 7a_49 7a_50 7a_51 7a_52 7a_53 7a_54 7a_55 7a_56 7a_57 7a_58 7a_59 7a_60 7a_61
+[15:44:53] Fixed 24 duplicate /gene - ORF4a_1 ORF4a_2 ORF4a_3 ORF4a_4 ORF4a_5 ORF4a_6 ORF4a_7 ORF4a_8 ORF4a_9 ORF4a_10 ORF4a_11 ORF4a_12 ORF4a_13 ORF4a_14 ORF4a_15 ORF4a_16 ORF4a_17 ORF4a_18 ORF4a_19 ORF4a_20 ORF4a_21 ORF4a_22 ORF4a_23 ORF4a_24
+[15:44:53] Fixed 184 duplicate /gene - 1a_1 1a_2 1a_3 1a_4 1a_5 1a_6 1a_7 1a_8 1a_9 1a_10 1a_11 1a_12 1a_13 1a_14 1a_15 1a_16 1a_17 1a_18 1a_19 1a_20 1a_21 1a_22 1a_23 1a_24 1a_25 1a_26 1a_27 1a_28 1a_29 1a_30 1a_31 1a_32 1a_33 1a_34 1a_35 1a_36 1a_37 1a_38 1a_39 1a_40 1a_41 1a_42 1a_43 1a_44 1a_45 1a_46 1a_47 1a_48 1a_49 1a_50 1a_51 1a_52 1a_53 1a_54 1a_55 1a_56 1a_57 1a_58 1a_59 1a_60 1a_61 1a_62 1a_63 1a_64 1a_65 1a_66 1a_67 1a_68 1a_69 1a_70 1a_71 1a_72 1a_73 1a_74 1a_75 1a_76 1a_77 1a_78 1a_79 1a_80 1a_81 1a_82 1a_83 1a_84 1a_85 1a_86 1a_87 1a_88 1a_89 1a_90 1a_91 1a_92 1a_93 1a_94 1a_95 1a_96 1a_97 1a_98 1a_99 1a_100 1a_101 1a_102 1a_103 1a_104 1a_105 1a_106 1a_107 1a_108 1a_109 1a_110 1a_111 1a_112 1a_113 1a_114 1a_115 1a_116 1a_117 1a_118 1a_119 1a_120 1a_121 1a_122 1a_123 1a_124 1a_125 1a_126 1a_127 1a_128 1a_129 1a_130 1a_131 1a_132 1a_133 1a_134 1a_135 1a_136 1a_137 1a_138 1a_139 1a_140 1a_141 1a_142 1a_143 1a_144 1a_145 1a_146 1a_147 1a_148 1a_149 1a_150 1a_151 1a_152 1a_153 1a_154 1a_155 1a_156 1a_157 1a_158 1a_159 1a_160 1a_161 1a_162 1a_163 1a_164 1a_165 1a_166 1a_167 1a_168 1a_169 1a_170 1a_171 1a_172 1a_173 1a_174 1a_175 1a_176 1a_177 1a_178 1a_179 1a_180 1a_181 1a_182 1a_183 1a_184
+[15:44:53] Fixed 62 duplicate /gene - 3a_1 3a_2 3a_3 3a_4 3a_5 3a_6 3a_7 3a_8 3a_9 3a_10 3a_11 3a_12 3a_13 3a_14 3a_15 3a_16 3a_17 3a_18 3a_19 3a_20 3a_21 3a_22 3a_23 3a_24 3a_25 3a_26 3a_27 3a_28 3a_29 3a_30 3a_31 3a_32 3a_33 3a_34 3a_35 3a_36 3a_37 3a_38 3a_39 3a_40 3a_41 3a_42 3a_43 3a_44 3a_45 3a_46 3a_47 3a_48 3a_49 3a_50 3a_51 3a_52 3a_53 3a_54 3a_55 3a_56 3a_57 3a_58 3a_59 3a_60 3a_61 3a_62
+[15:44:53] Fixed 10 colliding /gene names.
+[15:44:53] Adding /locus_tag identifiers
+[15:44:53] Assigned 2365 locus_tags to CDS and RNA features.
+[15:44:53] Writing outputs to prokka_new/
+[15:44:56] Generating annotation statistics file
+[15:44:56] Generating Genbank and Sequin files
+[15:44:56] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_new\/PROKKA_08022020\.err -i prokka_new\/PROKKA_08022020\.fsa 2> /dev/null
+[15:44:59] Deleting unwanted file: prokka_new/errorsummary.val
+[15:44:59] Deleting unwanted file: prokka_new/PROKKA_08022020.dr
+[15:44:59] Deleting unwanted file: prokka_new/PROKKA_08022020.fixedproducts
+[15:44:59] Deleting unwanted file: prokka_new/PROKKA_08022020.ecn
+[15:44:59] Deleting unwanted file: prokka_new/PROKKA_08022020.val
+[15:44:59] Repairing broken .GBK output that tbl2asn produces...
+[15:44:59] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_new\/PROKKA_08022020\.gbf > prokka_new\/PROKKA_08022020\.gbk
+[15:44:59] Deleting unwanted file: prokka_new/PROKKA_08022020.gbf
+[15:44:59] Output files:
+[15:44:59] prokka_new/PROKKA_08022020.err
+[15:44:59] prokka_new/PROKKA_08022020.faa
+[15:44:59] prokka_new/PROKKA_08022020.ffn
+[15:44:59] prokka_new/PROKKA_08022020.fna
+[15:44:59] prokka_new/PROKKA_08022020.fsa
+[15:44:59] prokka_new/PROKKA_08022020.gbk
+[15:44:59] prokka_new/PROKKA_08022020.gff
+[15:44:59] prokka_new/PROKKA_08022020.log
+[15:44:59] prokka_new/PROKKA_08022020.sqn
+[15:44:59] prokka_new/PROKKA_08022020.tbl
+[15:44:59] prokka_new/PROKKA_08022020.tsv
+[15:44:59] prokka_new/PROKKA_08022020.txt
+[15:44:59] Annotation finished successfully.
+[15:44:59] Walltime used: 1.52 minutes
+[15:44:59] If you use this result please cite the Prokka paper:
+[15:44:59] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[15:44:59] Type 'prokka --citation' for more details.
+[15:44:59] Share and enjoy!
