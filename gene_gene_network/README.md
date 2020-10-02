@@ -1,6 +1,6 @@
 # Coronahack2020 gene-gene network analysis
 
-This pipeline takes the Prokka output (from the host-data folder) and Ensembl v100 ASM985889v3 (in the input_ref_genes folder) and generates gene-gene network analysis as .gml files, which can be opened using Graphia (https://graphia.app/).
+This pipeline takes the Prokka output (from the host-data folder) and Ensembl v100 ASM985889v3 (in the input_ref_genes folder) and generates gene-gene network analysis as .gml files.
 
 ## Usage:
 > ./generate_network.sh
