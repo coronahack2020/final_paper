@@ -13,8 +13,8 @@ COLLATED_SEQ=input_collated
 BLAST_RESULT_DIR=blast_result
 REF_GENES=input_ref_genes # the files in this folder are curated from Ensembl v100 ASM985889v3 
  
-module add roslin/blast+/2.7.1
-module add python/3.4.3
+#module add roslin/blast+/2.7.1
+#module add python/3.4.3
 
 
 mkdir -p $INDIVIDUAL_FASTA_DIR $INDIVIDUAL_FAA_DIR $INDIVIDUAL_TSV_DIR $INDIVIDUAL_GTF_DIR $ADDITIONAL_SEQ $ADDITIONAL_SEQ/blast_seq $COLLATED_SEQ $BLAST_RESULT_DIR
