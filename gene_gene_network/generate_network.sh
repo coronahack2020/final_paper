@@ -114,7 +114,6 @@ python script/blast_to_self_summarise_aa.py
 # Remove components
 # < 5
 # MCL cluster with 2.0 Granularity
-# The organised Graphia file can be found in the folder "graphia_files"
 
 
 
