@@ -101,6 +101,7 @@ blastp -db "${MERGED_FSA}" \
 
 #### Make network graph
 python script/sequence_to_sample.py
+python script/prokka_seq_summary.py
 python script/blast_to_self_summarise_nuc.py
 python script/blast_to_self_summarise_aa.py
 
