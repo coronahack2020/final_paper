@@ -1,8 +1,6 @@
 library(tidyr)
-library(ca)
 library(ggplot2)
 library(gridExtra)
-library(MCL)
 
 #working_dir="D:/git/coronahack/final_paper/codon_usage"
 #setwd(working_dir)
