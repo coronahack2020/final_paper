@@ -1,5 +1,5 @@
 # Usage:
-./generate_analysis.sh
+>./generate_analysis.sh
 
 # Requirements:
 
