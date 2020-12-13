@@ -1,7 +1,7 @@
-# Usage:
+## Usage:
 >./generate_analysis.sh
 
-# Requirements:
+## Requirements:
 
 - Please run the analysis in gene_gene_network folder before running the analysis in this folder
 - Blast+ (v2.7.1)
