@@ -1,4 +1,4 @@
-Rscript organise_tree.r
+## Usage:
 > Rscript organise_tree.r
 
 ## Requirements:
