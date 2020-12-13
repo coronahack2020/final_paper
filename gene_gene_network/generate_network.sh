@@ -1,7 +1,4 @@
-#### REQUIREMENT ####
-# This script requires blast+ (version 2.7.1) and python (version 3.4.3)
-
-# this script generate the network analysis.gml files for Graphia
+# this file deals with blast analysis with only bat, pangilon and wuhan covid19
 PROKKA_DIR=../host-data
 
 INDIVIDUAL_FASTA_DIR=input_individual_fasta
@@ -9,15 +6,14 @@ INDIVIDUAL_FAA_DIR=input_individual_faa
 INDIVIDUAL_TSV_DIR=input_individual_tsv
 INDIVIDUAL_GTF_DIR=input_individual_gtf
 ADDITIONAL_SEQ=input_additional_seq
+ADDITIONAL_SAMPLE_INFO=addition_sample_info
 COLLATED_SEQ=input_collated
 BLAST_RESULT_DIR=blast_result
 REF_GENES=input_ref_genes # the files in this folder are curated from Ensembl v100 ASM985889v3 
+MCL_DIR=mcl
+
  
-#module add roslin/blast+/2.7.1
-#module add python/3.4.3
-
-
-mkdir -p $INDIVIDUAL_FASTA_DIR $INDIVIDUAL_FAA_DIR $INDIVIDUAL_TSV_DIR $INDIVIDUAL_GTF_DIR $ADDITIONAL_SEQ $ADDITIONAL_SEQ/blast_seq $COLLATED_SEQ $BLAST_RESULT_DIR
+mkdir -p $INDIVIDUAL_FASTA_DIR $INDIVIDUAL_FAA_DIR $INDIVIDUAL_TSV_DIR $INDIVIDUAL_GTF_DIR $ADDITIONAL_SEQ $ADDITIONAL_SEQ/blast_seq $COLLATED_SEQ $BLAST_RESULT_DIR $ADDITIONAL_SAMPLE_INFO
 
 #### Organise genes identified by Prokka
 # get the sample annotation lines from the ffn files
@@ -39,6 +35,10 @@ cp $PROKKA_DIR/wuhan/wuhan_prokka/*_prokka.tsv $INDIVIDUAL_TSV_DIR/WUHAN.tsv
 cp $PROKKA_DIR/bat/bat_prokka/*.gff $INDIVIDUAL_GTF_DIR/BAT.gff
 cp $PROKKA_DIR/pangolin/pangolin_prokka/*_prokka.gff $INDIVIDUAL_GTF_DIR/PANGOLIN.gff
 cp $PROKKA_DIR/wuhan/wuhan_prokka/*_prokka.gff $INDIVIDUAL_GTF_DIR/WUHAN.gff
+cp $PROKKA_DIR/charite/prokka_out/*.gff $INDIVIDUAL_GTF_DIR/CHAIRITE.gff
+
+# charite samples need an additional conversation table
+cp $PROKKA_DIR/charite/prokka_out/*.gff $INDIVIDUAL_GTF_DIR/CHAIRITE.gff
 
 #### Add the Ensembl v100 ASM985889v3 to the folders
 cp $REF_GENES/WUHANREF.fasta $INDIVIDUAL_FASTA_DIR
@@ -101,7 +101,6 @@ blastp -db "${MERGED_FSA}" \
 
 #### Make network graph
 python script/sequence_to_sample.py
-python script/prokka_seq_summary.py
 python script/blast_to_self_summarise_nuc.py
 python script/blast_to_self_summarise_aa.py
 
@@ -115,9 +114,11 @@ python script/blast_to_self_summarise_aa.py
 # Remove components
 # < 5
 # MCL cluster with 2.0 Granularity
+# The organised Graphia file can be found in the folder "graphia_files"
 
 
-
+# clean up
+# rm -r 
 
 
 
