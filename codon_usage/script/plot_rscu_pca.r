@@ -1,6 +1,7 @@
 library(tidyr)
 library(ggplot2)
 library(gridExtra)
+library(purrr)
 
 #working_dir="D:/git/coronahack/final_paper/codon_usage"
 #setwd(working_dir)
@@ -90,9 +91,12 @@ calculate_codon_ratio_rscu <- function(y){
 	f_rscu <- f_rscu[f_rscu$codon %in% aa_table_per_codon$codon,]
 	return(f_rscu)
 }
+
+
 bad_samples = "" #c('KC881005','KC881005') # need to check
 plot_genes = c( 'more_than_half_all_species',  'ORF1ab','S','ORF3a','E','ORF6','ORF7a','ORF7b','N', 'ORF10', 'ORF8','M', 'ORF1a')
 all_genes = c('ORF1ab','S','ORF3a','E','ORF6','ORF7a','ORF7b','N', 'ORF10', 'ORF8','M', 'ORF1a')
+
 
 
 ### loop through to calcuate and plot RSCU for each gene/gene group
@@ -209,11 +213,31 @@ for (current_gene in plot_genes){
 	if( "more_than_half_all_species" %in% genome_collpase){
 		# takes just the bat (minus RaTG13 - MN996532, MG772934 and MG772933) and perform kmeans clustering
 		multiple_genes <- full_df_agg
-		bat_genomes_to_kmean_cluster <- sample_info$Genome[sample_info$dataset_name %in% "bat"]
-		bat_genomes_to_kmean_cluster <- bat_genomes_to_kmean_cluster[!(bat_genomes_to_kmean_cluster %in% c("MN996532","MG772934","MG772933"))]
+		genomes_to_kmean_cluster <- sample_info$Genome
+		#bat_genomes_to_kmean_cluster <- sample_info$Genome[sample_info$dataset_name %in% "bat"]
+		#bat_genomes_to_kmean_cluster <- bat_genomes_to_kmean_cluster[!(bat_genomes_to_kmean_cluster %in% c("MN996532","MG772934","MG772933"))]
 		# k mean cluster
 		set.seed(50) # kmeans clustering gives slightly different results/clustering each time, so I have used setseed to make sure that it generates the same result each time
-		kmeans_cluster <- kmeans(pca$x[bat_genomes_to_kmean_cluster,], centers=3)
+
+#		#kmeans_cluster <- kmeans(pca$x[bat_genomes_to_kmean_cluster,], centers=3)
+#		wss <- function(k) {
+#		  kmeans(pca$x[genomes_to_kmean_cluster,], k, nstart = 10 )$tot.withinss
+#		}
+#
+#		# Compute and plot wss for k = 1 to k = 15
+#		k.values <- 1:15
+#
+#		# extract wss for 2-15 clusters
+#		wss_values <- map_dbl(k.values, wss)
+#		pdf("elbow.pdf")
+#		plot(k.values, wss_values,
+#			   type="b", pch = 19, frame = FALSE, 
+#			   xlab="Number of clusters K",
+#			   ylab="Total within-clusters sum of squares")
+#		dev.off()
+		
+		kmeans_cluster <- kmeans(pca$x[genomes_to_kmean_cluster,], centers=3)
+		
 		kmeans_cluster <- data.frame(cluster = paste("Codon_usage_cluster", kmeans_cluster$cluster, sep="_"), Genome = names(kmeans_cluster$cluster), stringsAsFactors=FALSE)
 		write.csv(kmeans_cluster, "input/codon_usage_cluster.csv")
 		kmeans_cluster_pca_plot_df <- merge(pca_plot_df, kmeans_cluster, by="Genome", all.x=TRUE)
@@ -236,7 +260,7 @@ for (current_gene in plot_genes){
 				scale_colour_manual(values=cluster_fill_col) + 
 				xlab(paste0("PC1 (",PC1_cont, "%)")) +
 				ylab(paste0("PC2 (",PC2_cont, "%)")) +
-				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
+#				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
 				theme(legend.position = "none")
 		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.png"),width=80,height=80, unit='mm')
 #		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.pdf"))
@@ -247,7 +271,7 @@ for (current_gene in plot_genes){
 				scale_colour_manual(values=cluster_fill_col) + 
 				xlab(paste0("PC1 (",PC1_cont, "%)")) +
 				ylab(paste0("PC2 (",PC2_cont, "%)")) +
-				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
+#				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
 				theme(legend.position = "none")
 		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster_with_label.png"),width=80,height=80, unit='mm')
 	} else {
@@ -284,7 +308,7 @@ for (current_gene in plot_genes){
 				geom_text(size=3,hjust = 0, nudge_x = 0.1)+
 				xlab(paste0("PC1 (",PC1_cont, "%)")) +
 				ylab(paste0("PC2 (",PC2_cont, "%)")) +
-				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
+#				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
 				theme(legend.position = "none")
 		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.png"),width=80,height=80, unit='mm')
 #		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.pdf"))

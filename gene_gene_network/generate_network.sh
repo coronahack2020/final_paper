@@ -82,10 +82,17 @@ BLAST_OUTPUT=blast_result/all.fasta.tab
 rm ${MERGED_FSA}.* # remove existing blastdb
 makeblastdb -in $MERGED_FSA -parse_seqids -dbtype nucl
 
+# megablast - more stringent. Used for the network analysis
 blastn -db "${MERGED_FSA}" \
 -query $MERGED_FSA \
 -out $BLAST_OUTPUT \
 -outfmt '6 qseqid sseqid pident sstrand evalue qlen slen length qcovs mismatch gapopen bitscore'
+
+# less stringent 
+#blastn -task blastn -db "${MERGED_FSA}" \
+#-query $MERGED_FSA \
+#-out ${BLAST_OUTPUT/.tab/.less.stringent.tab }\
+#-outfmt '6 qseqid sseqid pident sstrand evalue qlen slen length qcovs mismatch gapopen bitscore'
 
 # using the amino acid data
 MERGED_FSA=$COLLATED_SEQ/all_aa.fsa

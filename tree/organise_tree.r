@@ -1,4 +1,6 @@
 #working_dir= "D:/git/coronahack/final_paper/tree"
+#setwd(working_dir)
+
 genome_info_dir <- "../host-data"
 
 # install packages
@@ -23,7 +25,6 @@ library(ggtree)
 library(ggplot2)
 library(tidyr)
 library(phytools)
-#setwd(working_dir)
 
 codon_usage_clusters_fp <- "../codon_usage/input/Codon_usage_cluster.csv"
 codon_usage_df <- read.csv(codon_usage_clusters_fp, stringsAsFactors=FALSE)
@@ -277,7 +278,7 @@ heatmap.colours <- c("#33a02c", #"bat" 1_1
 					"#ffffff"
 					)
 
-gheatmap(p, heatmapData_2, offset = 0, color=NULL, 
+p2 <- gheatmap(p, heatmapData_2, offset = 0, color=NULL, 
          colnames_position="top",  width=0.6,
          colnames_angle=90, colnames_offset_y = 1, 
          hjust=0, font.size=0.5)  +
@@ -286,42 +287,18 @@ gheatmap(p, heatmapData_2, offset = 0, color=NULL,
 ggsave("all_tree.png", width=450,height=300, unit='mm')
 ggsave("all_tree.pdf", width=11, height=8.5)
 
-# Draw tree (small)
-p <- ggtree(tree_small,  layout="circular") %<+% genome_metrics_df 
-p <- ggtree(tree_small) %<+% genome_metrics_df + 
-  geom_tiplab( align=TRUE, linesize=.3)
 
-#p <- ggtree(tree,  layout="circular") %<+% genome_metrics_df +
-#	geom_tippoint(aes(color=dataset_name)) 
-#	geom_tippoint(aes(color=dataset_name)) +
-#	geom_tiplab2() 
-# Add annotation
-heatmapData_2_small <- heatmapData_2_original[,colnames(heatmapData_2_original)[!(colnames(heatmapData_2_original) %in% c("Family", "subspecies_label"))]]
-
-for(i in 1:ncol(heatmapData_2_small)){
-	current_col_name=colnames(heatmapData_2_small)[i]
-	current_lane_name=plot_lane_names[i]
-	NA_val <- is.na(heatmapData_2_small[[current_col_name]])
-	space_val <- heatmapData_2_small[[current_col_name]] == ""
-	empty_val <- NA_val | space_val
-	heatmapData_2_small[[current_col_name]] <- paste(current_lane_name, heatmapData_2_small[[current_col_name]], sep='  ')
-	heatmapData_2_small[[current_col_name]][empty_val] <- ""
-	heatmapData_2_small[[current_col_name]] <- gsub("_"," ", heatmapData_2_small[[current_col_name]])
-
-}
-		cluster_fill_col <- c("#a6cee3", "#1f78b4", "#b2df8a", "#bebada", "#ffffb3")
-
-heatmap.colours <- c("#33a02c", #"bat" 1_1
+heatmap.colours2 <- c("#33a02c", #"bat" 1_1
 					"#ff7f00",	#"pangolin" 1_2
 					"#6a3d9a",	# "SARS-CoV2" 1_3
-					"#B0E2FF",	#"SARS-CoV2-reference" 1_4
+					"#a6cee3",	#"SARS-CoV2-reference" 1_4
 
 #					"#33a02c", # host species -- Manis
-					"#B0E2FF", #Rhinolophus
-					"#9370DB", #Rhinolophus ferr
-					"#104E8B", #Rhinolophus sins
+#					"#B0E2FF", #Rhinolophus
+#					"#9370DB", #Rhinolophus ferr
+#					"#104E8B", #Rhinolophus sins
 #					"#fb9a99", #Scotophilus
-					"#AAAAAA", #Other
+#					"#AAAAAA", #Other
 
 #					"#33a02c",  #"Alphacoronavirus" 2_1
 #					"#ff7f00", 	#"Betacoronavirus" 2_2
@@ -345,27 +322,35 @@ heatmap.colours <- c("#33a02c", #"bat" 1_1
 					"#b2df8a",	#"N-inframe_insertion-7Q>7QS" 6_2
                     "#ffc300",	#"ORF7a-inframe_insertion-93V>93VY" 9_1
                     "#900c3f",	#"ORF7a-inframe_insertion-93V>93VH" 9_2
-#                    "#ff5733",	#"ORF7a-inframe_insertion-93V>93VQ" 9_3
+                    "#ff5733",	#"ORF7a-inframe_insertion-93V>93VQ" 9_3
                     "#b15928", 	#"M-inframe_deletion-3DS>3D" 5_1
 					"#48C9B0",	#"ORF10-stop_gained-26Y>26*" 7_1
 					"#ffff99",	#"ORF3a-inframe_deletion-240PE>240P" 8_1
 					"#b2df8a", 	#"ORF6-inframe_deletion-30DY>30D" 6_1
-#					"#843b62", 			#"N-inframe_deletion-385RQ>385R"
+					"#843b62", 			#"N-inframe_deletion-385RQ>385R"
 					"#fb9a99", 			#"N-inframe_deletion-238GQ>239G"
 					"#e31a1c", 			#"N-inframe_insertion-6P>6PQ"
-#					"#fee08b", 			#"ORF1ab-inframe_deletion-3573KR>3574K"
-#					"#d53e4f", 			#"ORF1ab-inframe_deletion-927PD>927P" 
+					"#fee08b", 			#"ORF1ab-inframe_deletion-3573KR>3574K"
+					"#d53e4f", 			#"ORF1ab-inframe_deletion-927PD>927P" 
 					"#99d594", 			#"ORF1ab-inframe_insertion-3164R>3164RR"
 					"#3288bd", 			#"ORF1ab-inframe_insertion-3576I>3575IV"				
 					"#ffffff"
 					)
 
-gheatmap(p, heatmapData_2_small, offset = 0.7, color=NULL, 
-         colnames_position="top", width=0.3,
+heatmapData_3 <- heatmapData_2[,colnames(heatmapData_2)[!(colnames(heatmapData_2) %in% c("bathost_label"))]]
+
+p3 <- gheatmap(p, heatmapData_3, offset = 0.6, color=NULL, 
+         colnames_position="top",  width=0.2,
          colnames_angle=90, colnames_offset_y = 1, 
          hjust=0, font.size=0.5)  +
-		 scale_fill_manual(values=heatmap.colours) 
+		 scale_fill_manual(values=heatmap.colours2) 
+p3 <- viewClade(p3+geom_tiplab(), node=381)
 
-ggsave("tree_small.png", width=650,height=400, unit='mm')
-ggsave("tree_small.pdf", width=450,height=400, unit='mm')
+
+ggsave("all_tree_clade.png", width=650,height=400, unit='mm')
+ggsave("all_tree_clade.pdf", width=380,height=400, unit='mm')
+
+
+
+
 
