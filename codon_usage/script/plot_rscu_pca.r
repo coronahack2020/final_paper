@@ -49,6 +49,7 @@ aa_table <- data.frame(aa=acids,slc=slc,codon=codon,stringsAsFactors=FALSE)
 aa_table <- split(aa_table, aa_table$aa)
 aa_table_per_codon <-  do.call(rbind,lapply(aa_table, FUN=function(x)data.frame(codon=strsplit(x$codon, ", ")[[1]],aa=x$aa[1], stringsAsFactors=FALSE)))
 aa_table_per_codon <- aa_table_per_codon[!(aa_table_per_codon$codon %in% ignore_codons),]
+aa_table_per_codon <- aa_table_per_codon[order(aa_table_per_codon$codon),]
 aa_table_per_codon_max_count <- aggregate(data=aa_table_per_codon, codon~aa, length)
 colnames(aa_table_per_codon_max_count) <- c("aa","max_num_codon")
 #fill_col=c("#33a02c","#ff7f00", "#6a3d9a","#1f78b4", "#BDBDBD")
@@ -78,7 +79,6 @@ calculate_codon_ratio_rscu <- function(y){
 	f_rscu <- lapply(f_df_split, function(z){z_out <- z; z_out$rscu <- z_out$codon_count/sum(z_out$codon_count)*length(aa_table_per_codon$aa[aa_table_per_codon$aa %in% z$aa[1]])  ; return(z_out)})
 	f_rscu <- lapply(f_rscu, function(z){z_out <- z; z_out$codon_ratio <- z_out$codon_count/sum(z_out$codon_count)  ; return(z_out)})
 	f_rscu <- do.call(rbind, f_rscu)
-
 	# make sure that there is a reading for each codon (i.e. fill the missing amino acids with zero)
 	if(sum(!(aa_table_per_codon$codon %in% f_rscu$codon)) > 0){
 		missing_codon <- aa_table_per_codon[!(aa_table_per_codon$codon %in% f_rscu$codon),]
@@ -89,14 +89,12 @@ calculate_codon_ratio_rscu <- function(y){
 		missing_codon$codon_count =0
 		missing_codon$codon_ratio =0
 		missing_codon$rscu =0
-
 		missing_codon <- missing_codon[,colnames(f_rscu)]
 		f_rscu <- rbind(f_rscu, missing_codon)
 	}
 	f_rscu <- f_rscu[f_rscu$codon %in% aa_table_per_codon$codon,]
 	return(f_rscu)
 }
-
 
 bad_samples = "" #c('KC881005','KC881005') # need to check
 plot_genes = c( 'more_than_half_all_species',  'ORF1ab','S','ORF3a','E','ORF6','ORF7a','ORF7b','N', 'ORF10', 'ORF8','M', 'ORF1a')
@@ -130,6 +128,8 @@ for (current_gene in plot_genes){
 
 	#### These are done by aggregating "input/codon_usage_best_gene.csv" produced by find_best_blast_hit.py
 	raw_data <- read.csv(in_fp, stringsAsFactors=FALSE)
+	aa_table_per_codon <- aa_table_per_codon[order(aa_table_per_codon$codon),]
+
 	raw_data <- raw_data[,c("gene_sample_name", aa_table_per_codon$codon)]
 	raw_data_add <- read.csv(in_additional_fp, stringsAsFactors=FALSE)
 	raw_data_add <- raw_data_add[!(raw_data_add$gene_sample_name %in% raw_data$gene_sample_name), ]
@@ -143,7 +143,7 @@ for (current_gene in plot_genes){
 	colnames(raw_data_Genome_count) <- c("Genome", "gene_count")
 	raw_data <- merge(raw_data, raw_data_Genome_count, by="Genome")
 	raw_data <- raw_data[raw_data$gene_count == max(raw_data$gene_count),]
-	raw_data <- gather(raw_data, codon, codon_count, AAA:GTG)
+	raw_data <- gather(raw_data, codon, codon_count, AAA:TTT)
 	full_df <- merge(raw_data, aa_table_per_codon, by="codon")
 	full_df <- merge(full_df, genome_metrics_sub_df, by="Genome")
 	full_df <- full_df[!(full_df$Genome %in% bad_samples), ]
@@ -390,11 +390,16 @@ for (current_gene in plot_genes){
 
 
 # this is the rscu from multiple genes 
-multiple_genes$gene <- "multiple genes*"
+aa_table_per_codon <- aa_table_per_codon[order(aa_table_per_codon$codon),]
+
 raw_data <- read.csv(in_fp, stringsAsFactors=FALSE)
+raw_data <- raw_data[,c("gene_sample_name", aa_table_per_codon$codon)]
+raw_data_add <- read.csv(in_additional_fp, stringsAsFactors=FALSE)
+raw_data_add <- raw_data_add[!(raw_data_add$gene_sample_name %in% raw_data$gene_sample_name), ]
+raw_data <- rbind(raw_data, raw_data_add[,colnames(raw_data)])
 raw_data$gene<- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), FUN=function(x)x[1])
 raw_data$Genome <- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), FUN=function(x)paste(x[2:length(x)],collapse="_"))
-raw_data <- gather(raw_data, codon, codon_count, AAA:YTT)
+raw_data <- gather(raw_data, codon, codon_count, AAA:TTT)
 full_df <- merge(raw_data, aa_table_per_codon, by="codon")
 full_df <- merge(full_df, genome_metrics_sub_df, by="Genome")
 full_df <- full_df[!(full_df$Genome %in% bad_samples), ]
@@ -403,7 +408,6 @@ by_gene_count <- lapply(by_gene_count, function(x)split(x, x$Genome))
 by_gene_count <- lapply(by_gene_count, function(x)lapply(x, function(z)calculate_codon_ratio_rscu(z)))
 by_gene_count <- do.call(rbind,lapply(by_gene_count, function(x)do.call(rbind,x)))
 by_gene_count$gene_sample_name = NULL
-by_gene_count <- rbind(by_gene_count, multiple_genes) # add in the values for multiple genes
 by_gene_count <- merge(by_gene_count, aa_table_per_codon_max_count, by="aa")
 by_gene_count <- by_gene_count[by_gene_count$max_num_codon>1,]
 by_gene_plot_count <- aggregate(data=unique(by_gene_count[,c("Genome", "gene", "dataset_name")]), Genome~gene + dataset_name, length)
