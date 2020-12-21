@@ -9,6 +9,7 @@ library(purrr)
 #### Settings
 out_rscu_fp <- "input/rscu_per_gene.csv"
 in_fp <- "input/codon_usage_best_gene.csv" # this is produced by script/find_best_blast_hit.py
+in_additional_fp <- "input/additional_sequences/additional_codon_usage.csv" 
 input_dir="input/codon_count"
 inupt_gene_count <- "output/summary/sample_gene_count.csv"
 output_dir="output/pca"
@@ -32,8 +33,9 @@ row.names(genome_metrics_df) <- genome_metrics_df$Genome
 # There are some mislabelling. Tidy those
 genome_metrics_df$Family <- ifelse(genome_metrics_df$Family %in% c("N/A", "-N/A-"), "", genome_metrics_df$Family)
 genome_metrics_df<- genome_metrics_df[!(row.names(genome_metrics_df) %in% "    `"),] 
-
-
+genome_metrics_sub_df <- genome_metrics_df[,c("Genome","dataset_name")]
+genome_metrics_sub_df <- rbind(genome_metrics_sub_df, c("MT121216.1", "pangolin"))
+row.names(genome_metrics_sub_df)[nrow(genome_metrics_sub_df)] <- "MT121216.1"
 
 ##### generate aa tables
 acids<-c("Isoleucine","Leucine","Valine","Phenylalanine","Methionine","Cysteine","Alanine","Glycine","Proline","Threonine","Serine",
@@ -49,7 +51,8 @@ aa_table_per_codon <-  do.call(rbind,lapply(aa_table, FUN=function(x)data.frame(
 aa_table_per_codon <- aa_table_per_codon[!(aa_table_per_codon$codon %in% ignore_codons),]
 aa_table_per_codon_max_count <- aggregate(data=aa_table_per_codon, codon~aa, length)
 colnames(aa_table_per_codon_max_count) <- c("aa","max_num_codon")
-fill_col=c("#33a02c","#ff7f00", "#6a3d9a","#1f78b4", "#BDBDBD")
+#fill_col=c("#33a02c","#ff7f00", "#6a3d9a","#1f78b4", "#BDBDBD")
+fill_col=c("#33a02c","#ff7f00", "#6a3d9a","#6a3d9a", "#BDBDBD")
 fill_col2 <- rep(c("#ffffff", "#D3D3D3", "#7D7D7D", "#000000"), 64/4)
 fill_order = c("bat", "pangolin", "wuhan", "charite", "codon") 
 fill_order2 = c("BAT", "PANGOLIN", "WUHAN", "CHAIRITE", "Codon") 
@@ -75,16 +78,18 @@ calculate_codon_ratio_rscu <- function(y){
 	f_rscu <- lapply(f_df_split, function(z){z_out <- z; z_out$rscu <- z_out$codon_count/sum(z_out$codon_count)*length(aa_table_per_codon$aa[aa_table_per_codon$aa %in% z$aa[1]])  ; return(z_out)})
 	f_rscu <- lapply(f_rscu, function(z){z_out <- z; z_out$codon_ratio <- z_out$codon_count/sum(z_out$codon_count)  ; return(z_out)})
 	f_rscu <- do.call(rbind, f_rscu)
+
 	# make sure that there is a reading for each codon (i.e. fill the missing amino acids with zero)
-	missing_codon <- aa_table_per_codon[!(aa_table_per_codon$codon %in% f_rscu$codon),]
-	if(nrow(missing_codon)>0){
+	if(sum(!(aa_table_per_codon$codon %in% f_rscu$codon)) > 0){
+		missing_codon <- aa_table_per_codon[!(aa_table_per_codon$codon %in% f_rscu$codon),]
 		missing_codon$Genome=f_rscu$Genome[1]
 		missing_codon$gene_sample_name=f_rscu$gene_sample_name[1]
 		missing_codon$gene=f_rscu$gene[1]
 		missing_codon$dataset_name =f_rscu$dataset_name[1]
 		missing_codon$codon_count =0
 		missing_codon$codon_ratio =0
-		missing_codon$codon_rscu =0
+		missing_codon$rscu =0
+
 		missing_codon <- missing_codon[,colnames(f_rscu)]
 		f_rscu <- rbind(f_rscu, missing_codon)
 	}
@@ -125,6 +130,10 @@ for (current_gene in plot_genes){
 
 	#### These are done by aggregating "input/codon_usage_best_gene.csv" produced by find_best_blast_hit.py
 	raw_data <- read.csv(in_fp, stringsAsFactors=FALSE)
+	raw_data <- raw_data[,c("gene_sample_name", aa_table_per_codon$codon)]
+	raw_data_add <- read.csv(in_additional_fp, stringsAsFactors=FALSE)
+	raw_data_add <- raw_data_add[!(raw_data_add$gene_sample_name %in% raw_data$gene_sample_name), ]
+	raw_data <- rbind(raw_data, raw_data_add[,colnames(raw_data)])
 	raw_data$gene<- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), FUN=function(x)x[1])
 	raw_data$Genome <- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), FUN=function(x)paste(x[2:length(x)],collapse="_"))
 	raw_data <- raw_data[raw_data$gene %in% keep_genes,]
@@ -134,9 +143,9 @@ for (current_gene in plot_genes){
 	colnames(raw_data_Genome_count) <- c("Genome", "gene_count")
 	raw_data <- merge(raw_data, raw_data_Genome_count, by="Genome")
 	raw_data <- raw_data[raw_data$gene_count == max(raw_data$gene_count),]
-	raw_data <- gather(raw_data, codon, codon_count, AAA:YTT)
+	raw_data <- gather(raw_data, codon, codon_count, AAA:GTG)
 	full_df <- merge(raw_data, aa_table_per_codon, by="codon")
-	full_df <- merge(full_df, genome_metrics_df[,c("Genome","dataset_name")], by="Genome")
+	full_df <- merge(full_df, genome_metrics_sub_df, by="Genome")
 	full_df <- full_df[!(full_df$Genome %in% bad_samples), ]
 	# merge all the data together so is for the full genome (rather than for each gene)
 	full_df_agg <- aggregate(data=full_df, codon_count~codon+dataset_name + aa + Genome, sum)
@@ -165,8 +174,9 @@ for (current_gene in plot_genes){
 	pca_mx[is.na(pca_mx)]<-0
 	colnames(pca_mx) <- rownames(ca_input[check_zero_sd>0,])
 	rownames(pca_mx) <- colnames(ca_input)
-	
-	pca <- prcomp(pca_mx)
+#	pca_mx <- scale(t(pca_mx), center = TRUE, scale = TRUE)
+#	pca <- prcomp(t(pca_mx))
+ 	pca <- prcomp(pca_mx)
  	eigs <- pca$sdev^2
 	PC1_cont <-  format((eigs[1] / sum(eigs) *100), digits=2, nsmall=2)
 	PC2_cont <-  format((eigs[2] / sum(eigs) *100), digits=2, nsmall=2)
@@ -176,7 +186,11 @@ for (current_gene in plot_genes){
 	pca_plot_df$Row.names=NULL
 	pca_plot_df$dataset_name <- factor(pca_plot_df$dataset_name, levels=fill_order)
 	# label the three odd bat genomes
-	pca_plot_df$label <- ifelse(pca_plot_df$Genome %in%  c("MN996532","MG772934","MG772933"), pca_plot_df$Genome , "")
+	pca_plot_df$label <- ifelse(pca_plot_df$Genome %in%  c("MN996532","MG772934","MG772933", "MT084071.1", 'MT121216.1'), pca_plot_df$Genome , "")
+	pca_plot_df$label <- ifelse(pca_plot_df$label %in%  c("MN996532"), "B1" , pca_plot_df$label)
+	pca_plot_df$label <- ifelse(pca_plot_df$label %in%  c("MG772934"), "B2" , pca_plot_df$label)
+	pca_plot_df$label <- ifelse(pca_plot_df$label %in%  c("MG772933"), "B3" , pca_plot_df$label)
+	pca_plot_df$label <- ifelse(pca_plot_df$label %in%  c("MT084071.1", 'MT121216.1'), "P" , pca_plot_df$label)
 	if(genome_collpase %in% all_genes){
 		plot_title_label=genome_collpase
 	}else{
@@ -197,15 +211,17 @@ for (current_gene in plot_genes){
 							" p:", count_pangolin, "\n", 
 							" c:", count_charite, "\n", 
 							" w:", count_wuhan, "\n", sep="")
-	ggplot(pca_plot_df, aes(x=PC1, y=PC2, col = dataset_name, label=label)) + 
+	p <- ggplot(pca_plot_df, aes(x=PC1, y=PC2, col = dataset_name, label=label)) + 
 			geom_point(alpha=0.7, size = 2) +
 			theme_bw() +
-			geom_text(size=3,hjust = 0, nudge_x = 0.1)+
+			geom_text(size=5,hjust = 0, nudge_x = 0.05)+
 			scale_colour_manual(values=fill_col) + 
 			xlab(paste0("PC1 (",PC1_cont, "%)")) +
 			ylab(paste0("PC2 (",PC2_cont, "%)")) +
-			annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
 			theme(legend.position = "none")
+	p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n ", count_bat), col="#33a02c", size=6, hjust = 0)	
+	p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n\n ", count_pangolin), col="#ff7f00", size=6, hjust = 0)	
+	p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n\n\n ", count_charite + count_wuhan), col="#6a3d9a", size=6, hjust = 0)	
 	
 	ggsave(paste0(output_dir, "/", genome_collpase, ".png"),width=80,height=80, unit='mm')
 
@@ -213,7 +229,6 @@ for (current_gene in plot_genes){
 	if( "more_than_half_all_species" %in% genome_collpase){
 		# takes just the bat (minus RaTG13 - MN996532, MG772934 and MG772933) and perform kmeans clustering
 		multiple_genes <- full_df_agg
-		genomes_to_kmean_cluster <- sample_info$Genome
 		#bat_genomes_to_kmean_cluster <- sample_info$Genome[sample_info$dataset_name %in% "bat"]
 		#bat_genomes_to_kmean_cluster <- bat_genomes_to_kmean_cluster[!(bat_genomes_to_kmean_cluster %in% c("MN996532","MG772934","MG772933"))]
 		# k mean cluster
@@ -235,10 +250,31 @@ for (current_gene in plot_genes){
 #			   xlab="Number of clusters K",
 #			   ylab="Total within-clusters sum of squares")
 #		dev.off()
-		
-		kmeans_cluster <- kmeans(pca$x[genomes_to_kmean_cluster,], centers=3)
-		
+		set.seed(50)
+		kmeans_cluster <- kmeans(pca$x[,1:10], centers=3)
+
 		kmeans_cluster <- data.frame(cluster = paste("Codon_usage_cluster", kmeans_cluster$cluster, sep="_"), Genome = names(kmeans_cluster$cluster), stringsAsFactors=FALSE)
+		kmeans_cluster_pca_plot_tmp_df <- merge(pca_plot_df, kmeans_cluster, by="Genome", all.x=TRUE)
+
+		current_kmeans_cluster_split <- split(kmeans_cluster_pca_plot_tmp_df, kmeans_cluster_pca_plot_tmp_df$cluster)
+		# rename the clusters so the human cluster is always cluster 1, the bat cluster is always cluster 3
+		# count the cluster with most number of human samples
+		human_count <- which.max(do.call(c,lapply(current_kmeans_cluster_split, function(x)sum(x$Genome %in% pca_plot_df$Genome[pca_plot_df$dataset_name %in% c("wuhan","charite")]))))
+		# put the cluster with the biggest distance from human as cluster 3, and in between as cluster 2
+		avg_pc1 <- lapply(current_kmeans_cluster_split, function(x)mean(x$PC1))
+		avg_pc2 <- lapply(current_kmeans_cluster_split, function(x)mean(x$PC2))
+		all_clusters=1:3
+		# calculate distance to mean human
+		all_cluster_distance_to_human <- do.call(c, lapply(1:3, function(x)((avg_pc1[[x]] - avg_pc1[[human_count]]) ^2 + (avg_pc2[[x]] - avg_pc2[[human_count]]) ^2 )))
+		index_order <- order(all_cluster_distance_to_human) 
+		# reassign cluster ID
+		names(current_kmeans_cluster_split)[index_order[1]] <- "Codon_usage_cluster_1"
+		names(current_kmeans_cluster_split)[index_order[2]] <- "Codon_usage_cluster_2"
+		names(current_kmeans_cluster_split)[index_order[3]] <- "Codon_usage_cluster_3"
+		current_kmeans_cluster_split <- lapply(names(current_kmeans_cluster_split), function(x){out<-current_kmeans_cluster_split[[x]];out$cluster <- x; out <- out[,c("cluster", "Genome")] ; return(out)})
+		kmeans_cluster <- do.call(rbind, current_kmeans_cluster_split)
+
+		#kmeans_cluster <- data.frame(cluster = paste("Codon_usage_cluster", kmeans_cluster$cluster, sep="_"), Genome = names(kmeans_cluster$cluster), stringsAsFactors=FALSE)
 		write.csv(kmeans_cluster, "input/codon_usage_cluster.csv")
 		kmeans_cluster_pca_plot_df <- merge(pca_plot_df, kmeans_cluster, by="Genome", all.x=TRUE)
 		kmeans_cluster_pca_plot_df$cluster <- ifelse(is.na(kmeans_cluster_pca_plot_df$cluster), "NA", kmeans_cluster_pca_plot_df$cluster)
@@ -250,13 +286,13 @@ for (current_gene in plot_genes){
 		plot_count_label = paste0(plot_count_label, "cl1:",  cluster_1_genome_number, "\n")		
 		plot_count_label = paste0(plot_count_label, "cl2:",  cluster_2_genome_number, "\n")		
 		plot_count_label = paste0(plot_count_label, "cl3:",  cluster_3_genome_number)	
-		kmeans_cluster_pca_plot_df$label <- ifelse(kmeans_cluster_pca_plot_df$Genome %in%  c("KY352407"), kmeans_cluster_pca_plot_df$Genome , "")
+#		kmeans_cluster_pca_plot_df$label <- ifelse(kmeans_cluster_pca_plot_df$Genome %in%  c("KY352407"), kmeans_cluster_pca_plot_df$Genome , "")
 		# manual fill the colours
 		cluster_fill_col <- c("#1f78b4", "#ff0000","#b2df8a", "#dddbeb")
 		ggplot(kmeans_cluster_pca_plot_df, aes(x=PC1, y=PC2, col = cluster, label=label )) + 
 				geom_point(alpha=1, size = 2) +
 				theme_bw() +
-				geom_text(size=3,hjust = 0, nudge_x = 0.1)+
+				geom_text(size=5,hjust = 0, nudge_x = 0.05)+
 				scale_colour_manual(values=cluster_fill_col) + 
 				xlab(paste0("PC1 (",PC1_cont, "%)")) +
 				ylab(paste0("PC2 (",PC2_cont, "%)")) +
@@ -275,12 +311,43 @@ for (current_gene in plot_genes){
 				theme(legend.position = "none")
 		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster_with_label.png"),width=80,height=80, unit='mm')
 	} else {
-		kmeans_cluster_pca_plot_df <- merge(pca_plot_df, kmeans_cluster, by="Genome", all.x=TRUE)
+
+
+		set.seed(50)
+		current_kmeans_cluster_result <- kmeans(pca$x[,1:10], centers=3)
+		current_kmeans_cluster <- data.frame(cluster = paste("Codon_usage_cluster", current_kmeans_cluster_result$cluster, sep="_"), Genome = names(current_kmeans_cluster_result$cluster), stringsAsFactors=FALSE)
+		kmeans_cluster_pca_plot_tmp_df <- merge(pca_plot_df, current_kmeans_cluster, by="Genome", all.x=TRUE)
+
+		current_kmeans_cluster_split <- split(kmeans_cluster_pca_plot_tmp_df, kmeans_cluster_pca_plot_tmp_df$cluster)
+		# rename the clusters so the human cluster is always cluster 1, the bat cluster is always cluster 3
+		# count the cluster with most number of human samples
+		human_count <- which.max(do.call(c,lapply(current_kmeans_cluster_split, function(x)sum(x$Genome %in% pca_plot_df$Genome[pca_plot_df$dataset_name %in% c("wuhan","charite")]))))
+		# put the cluster with the biggest distance from human as cluster 3, and in between as cluster 2
+		avg_pc1 <- lapply(current_kmeans_cluster_split, function(x)mean(x$PC1))
+		avg_pc2 <- lapply(current_kmeans_cluster_split, function(x)mean(x$PC2))
+		all_clusters=1:3
+		# calculate distance to mean human
+		all_cluster_distance_to_human <- do.call(c, lapply(1:3, function(x)((avg_pc1[[x]] - avg_pc1[[human_count]]) ^2 + (avg_pc2[[x]] - avg_pc2[[human_count]]) ^2 )))
+		index_order <- order(all_cluster_distance_to_human) 
+		# reassign cluster ID
+		names(current_kmeans_cluster_split)[index_order[1]] <- "Codon_usage_cluster_1"
+		names(current_kmeans_cluster_split)[index_order[2]] <- "Codon_usage_cluster_2"
+		names(current_kmeans_cluster_split)[index_order[3]] <- "Codon_usage_cluster_3"
+		current_kmeans_cluster_split <- lapply(names(current_kmeans_cluster_split), function(x){out<-current_kmeans_cluster_split[[x]];out$cluster <- x; out <- out[,c("cluster", "Genome")] ; return(out)})
+		current_kmeans_cluster <- do.call(rbind, current_kmeans_cluster_split)
+
+		write.csv(current_kmeans_cluster, paste0("input/codon_usage_cluster", genome_collpase,".csv"))
+		kmeans_cluster_pca_plot_df <- merge(pca_plot_df, current_kmeans_cluster, by="Genome", all.x=TRUE)
+		kmeans_cluster_pca_plot_df$cluster <- ifelse(is.na(kmeans_cluster_pca_plot_df$cluster), "NA", kmeans_cluster_pca_plot_df$cluster)
+
+		kmeans_cluster_pca_plot_df <- merge(pca_plot_df, current_kmeans_cluster, by="Genome", all.x=TRUE)
 		# because not all genomes were in the original kmeans clustering, those that were not are unlabelled bat cov
 		kmeans_cluster_pca_plot_df$cluster <- ifelse(is.na(kmeans_cluster_pca_plot_df$cluster), "NA", kmeans_cluster_pca_plot_df$cluster)
-		kmeans_cluster_pca_plot_df$cluster <- ifelse(((kmeans_cluster_pca_plot_df$cluster %in% "NA") & (kmeans_cluster_pca_plot_df$dataset_name %in% "bat") & !(kmeans_cluster_pca_plot_df$Genome %in% c("MN996532","MG772934","MG772933"))), "unclassified_bat", kmeans_cluster_pca_plot_df$cluster)
+#		kmeans_cluster_pca_plot_df$cluster <- ifelse(((kmeans_cluster_pca_plot_df$cluster %in% "NA") & (kmeans_cluster_pca_plot_df$dataset_name %in% "bat") & !(kmeans_cluster_pca_plot_df$Genome %in% c("MN996532","MG772934","MG772933"))), "unclassified_bat", kmeans_cluster_pca_plot_df$cluster)
 		# because not all cluster may have members present, loop through to find out what fill colour/factor levels to use
-		cluster_color=c("#1f78b4" , "#ff0000",  "#b2df8a",  "#dddbeb", "#f7f4be" )
+
+		
+		cluster_color=c("#1f78b4" , "#ff0000",  "#ADFF2F",   "#f7f4be" )
 		cluster_label=c("Codon_usage_cluster_1" , "Codon_usage_cluster_2",  "Codon_usage_cluster_3",  "NA", "unclassified_bat" )
 		current_cluster_levels = vector()
 		current_cluster_col = vector()
@@ -291,26 +358,29 @@ for (current_gene in plot_genes){
 			}
 		}
 		kmeans_cluster_pca_plot_df$cluster <- factor(kmeans_cluster_pca_plot_df$cluster, levels = current_cluster_levels )
-		kmeans_cluster_pca_plot_df$label <- ifelse(kmeans_cluster_pca_plot_df$Genome %in%  c("KY352407"), kmeans_cluster_pca_plot_df$Genome , "")
+#		kmeans_cluster_pca_plot_df$label <- ifelse(kmeans_cluster_pca_plot_df$Genome %in%  c("KY352407"), kmeans_cluster_pca_plot_df$Genome , "")
 		# label the number of genomes in cluster 1 and 2
 		cluster_1_genome_number=length(kmeans_cluster_pca_plot_df$cluster[kmeans_cluster_pca_plot_df$cluster %in% "Codon_usage_cluster_1"])
 		cluster_2_genome_number=length(kmeans_cluster_pca_plot_df$cluster[kmeans_cluster_pca_plot_df$cluster %in% "Codon_usage_cluster_2"])
 		cluster_3_genome_number=length(kmeans_cluster_pca_plot_df$cluster[kmeans_cluster_pca_plot_df$cluster %in% "Codon_usage_cluster_3"])
-		plot_count_label = paste0("\n\n", plot_count_label) 
+		plot_count_label = paste0("\n\n", "") 
 		plot_count_label = paste0(plot_count_label, "cl1:",  cluster_1_genome_number, "\n")		
 		plot_count_label = paste0(plot_count_label, "cl2:",  cluster_2_genome_number, "\n")		
 		plot_count_label = paste0(plot_count_label, "cl3:",  cluster_3_genome_number)	
 		kmeans_cluster_pca_plot_df <- kmeans_cluster_pca_plot_df[order(kmeans_cluster_pca_plot_df$cluster),]
-		ggplot(kmeans_cluster_pca_plot_df, aes(x=PC1, y=PC2, col = cluster, label=label )) + 
+		p <- ggplot(kmeans_cluster_pca_plot_df, aes(x=PC1, y=PC2, col = cluster, label=label )) + 
 				geom_point(alpha=0.5, size = 2) +
 				theme_bw() +
 				scale_colour_manual(values=current_cluster_col) + 
-				geom_text(size=3,hjust = 0, nudge_x = 0.1)+
+				geom_text(size=5,hjust = 0, nudge_x = 0.05)+
 				xlab(paste0("PC1 (",PC1_cont, "%)")) +
 				ylab(paste0("PC2 (",PC2_cont, "%)")) +
-#				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=3.5, hjust = 0)	+
+#				annotate("text",  x=-Inf, y = Inf, label = plot_count_label, size=5, hjust = 0)	+
 				theme(legend.position = "none")
-		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.png"),width=80,height=80, unit='mm')
+		p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n ", cluster_1_genome_number), col="#1f78b4", size=6, hjust = 0)	
+		p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n\n ", cluster_2_genome_number), col="#ff0000", size=6, hjust = 0)	
+		p <- p + annotate("text",  x=-Inf, y = Inf, label = paste0("\n\n\n ", cluster_3_genome_number), col="#ADFF2F", size=6, hjust = 0)	
+				ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.png"),width=80,height=80, unit='mm')
 #		ggsave(paste0(output_dir, "/", genome_collpase, "_cluster.pdf"))
 	}
 }
@@ -326,7 +396,7 @@ raw_data$gene<- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), F
 raw_data$Genome <- sapply(strsplit(as.character(raw_data$gene_sample_name), "_"), FUN=function(x)paste(x[2:length(x)],collapse="_"))
 raw_data <- gather(raw_data, codon, codon_count, AAA:YTT)
 full_df <- merge(raw_data, aa_table_per_codon, by="codon")
-full_df <- merge(full_df, genome_metrics_df[,c("Genome","dataset_name")], by="Genome")
+full_df <- merge(full_df, genome_metrics_sub_df, by="Genome")
 full_df <- full_df[!(full_df$Genome %in% bad_samples), ]
 by_gene_count <- split(full_df, full_df$gene)
 by_gene_count <- lapply(by_gene_count, function(x)split(x, x$Genome))
@@ -383,31 +453,4 @@ ggplot(by_gene_plot, aes(x=codon, y=labelled_name, fill=codon_ratio)) + geom_til
 	ylab("") + xlab("") + geom_vline(xintercept=vline_positions, col='white', size=1)
 
 ggsave("output/codon_usage_ratio.png", width=300, height=200,units='mm')
-
-
-
-if(FALSE){
-
-	## plot codon usage by amino acid
-	#repeat grey colours
-	full_df_list <- split(full_df, full_df$Ensembl_Gene)
-	lapply(names(full_df_list), FUN=function(x)plot_codon_bias(full_df_list[[x]],x))
-	plt <- plot_codon_bias(full_df, genome_collpase)
-	aa_table_per_codon <- aa_table_per_codon[order(aa_table_per_codon$codon),]
-	tt <- ttheme_default(colhead=list(fg_params = list(parse=TRUE)),  
-						core=list(fg_params=list(fontsize=10)))
-	tbl <- tableGrob(aa_table_per_codon, rows=NULL, theme=tt)
-	g1 <- tableGrob(aa_table_per_codon[1:22,], rows=NULL, theme=tt)
-	g2 <- tableGrob(aa_table_per_codon[23:43,] , rows=NULL, theme=tt)
-	g3 <- tableGrob(aa_table_per_codon[44:64,] , rows=NULL, theme=tt)
-
-	hcombined <-gtable_combine(g1,g2,g3)
-	# Plot chart and table into one object
-	png(paste(output_dir, "/multi_genes/", genome_collpase, ".png", sep=""), width=300,height=80, units='mm', res=300)
-	grid.arrange(plt, hcombined,
-				 ncol=2,
-				 as.table=TRUE)
-	dev.off()
-
-}
 

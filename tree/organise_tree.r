@@ -26,8 +26,8 @@ library(ggplot2)
 library(tidyr)
 library(phytools)
 
-codon_usage_clusters_fp <- "../codon_usage/input/Codon_usage_cluster.csv"
-codon_usage_df <- read.csv(codon_usage_clusters_fp, stringsAsFactors=FALSE)
+#codon_usage_clusters_fp <- "../codon_usage/input/Codon_usage_cluster.csv"
+#codon_usage_df <- read.csv(codon_usage_clusters_fp, stringsAsFactors=FALSE)
 plot_lane_names = c("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O")
 plot_lane_names<- tolower(plot_lane_names)
 subspecies_fp <- "Genome_Host_Species.csv"
@@ -183,7 +183,7 @@ vep_selected <- merge(vep_selected, vep_selected_2, by="Genome", all.x=TRUE,all.
 # combine all ring annotation 
 heatmapData_2 <- merge(heatmapData, subspecies_df[,c('Label','subspecies_label','bathost_label')], by.x=0, by.y="Label", all.x=TRUE)
 heatmapData_2 <- heatmapData_2[,c("Row.names", "dataset_name", "bathost_label", "Family", "subspecies_label")]
-heatmapData_2 <- merge(heatmapData_2, codon_usage_df[,c("Genome","cluster")], by.x="Row.names", by.y="Genome", all.x=TRUE)
+#heatmapData_2 <- merge(heatmapData_2, codon_usage_df[,c("Genome","cluster")], by.x="Row.names", by.y="Genome", all.x=TRUE)
 vep_multi_var_same_pos <- c("Genome", "E-inframe_insertion-68S", "N-inframe_insertion-7Q", "ORF7a-inframe_insertion-93V")
 vep_selected <- vep_selected[,c(vep_multi_var_same_pos, colnames(vep_selected)[!(colnames(vep_selected) %in% vep_multi_var_same_pos)])]
 heatmapData_2 <- merge(heatmapData_2, vep_selected, by.x="Row.names", by.y="Genome", all.x=TRUE)
@@ -215,6 +215,7 @@ genome_metrics_df_plot$Genome2 <- genome_metrics_df_plot$Genome
 
 ggtree(tree) + geom_text2(aes(subset=!isTip, label=node), hjust=-.3) + geom_tiplab()
 ggsave("tree_node_number.png", height=1200,width=1200,units='mm') # use this to find nodes where swapping the orientation might look better aethetically 
+
 p <- ggtree(tree,  layout="circular") %<+% genome_metrics_df_plot 
 p <- ggtree(tree) %<+% genome_metrics_df_plot  
 # swap these two nodes
@@ -252,9 +253,9 @@ heatmap.colours <- c("#33a02c", #"bat" 1_1
 #					"#e31a1c", #Sarbecovirus
 #					"#AAAAAA", #Other
 					
-                    "#1f78b4",	#"codon_usage_cluster1
-                    "#ff0000",	#"codon_usage_cluster2
-                    "#b2df8a",	#"codon_usage_cluster3
+#                    "#1f78b4",	#"codon_usage_cluster1
+#                    "#ff0000",	#"codon_usage_cluster2
+#                    "#b2df8a",	#"codon_usage_cluster3
 
 					"#843b62", 	#"E-inframe_insertion-68S>68SD"  3_1
 					"#fb9a99", 	#"E-inframe_insertion-68S>68SE" 3_2
@@ -311,9 +312,9 @@ heatmap.colours2 <- c("#33a02c", #"bat" 1_1
 #					"#e31a1c", #Sarbecovirus
 #					"#AAAAAA", #Other
 					
-                    "#1f78b4",	#"codon_usage_cluster1
-                    "#ff0000",	#"codon_usage_cluster2
-                    "#b2df8a",	#"codon_usage_cluster3
+#                    "#1f78b4",	#"codon_usage_cluster1
+#                    "#ff0000",	#"codon_usage_cluster2
+#                    "#b2df8a",	#"codon_usage_cluster3
 
 					"#843b62", 	#"E-inframe_insertion-68S>68SD"  3_1
 					"#fb9a99", 	#"E-inframe_insertion-68S>68SE" 3_2
@@ -347,8 +348,8 @@ p3 <- gheatmap(p, heatmapData_3, offset = 0.6, color=NULL,
 p3 <- viewClade(p3+geom_tiplab(), node=381)
 
 
-ggsave("all_tree_clade.png", width=650,height=400, unit='mm')
-ggsave("all_tree_clade.pdf", width=380,height=400, unit='mm')
+ggsave("tree_small.png", width=650,height=400, unit='mm')
+ggsave("tree_small.pdf", width=380,height=400, unit='mm')
 
 
 
